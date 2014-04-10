@@ -120,6 +120,11 @@ h2 {
 	height: 500px;
 }
 
+.carousel-caption {
+	color: #333;
+	text-shadow: 0px 1px 1px rgba(256, 256, 256, 0.6);
+}
+
 .btn-primary {
 	color: #fff;
 	background-color: #00a865;
@@ -179,21 +184,26 @@ h2 {
 	margin-left: -4px;
 }
 
+#chart-meta p,
+#chart-description p {
+	line-height: 22px;
+}
+
 /* Pad the edges of the mobile views a bit */
-.marketing {
+.featured {
   padding-right: 15px;
   padding-left: 15px;
 }
 
 /* Center align the text within the three columns below the carousel */
-.marketing .col-lg-4 {
+.featured .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
 }
-.marketing h2 {
+.featured h2 {
   font-weight: normal;
 }
-.marketing .col-lg-4 p {
+.featured .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
 }

@@ -1,0 +1,97 @@
+From,To,Weight
+Argentina,Academia,1
+Argentina,"Civil Society",3
+Argentina,"Private Sector",2
+Australia,"Civil Society",2
+Austria,Government,1
+Belgium,"Private Sector",2
+Brazil,"Private Sector",6
+Brazil,Academia,3
+Brazil,"Civil Society",4
+Brazil,Other,4
+Bulgaria,Government,1
+Canada,"Civil Society",1
+Canada,Government,1
+China,Government,1
+China,"Private Sector",1
+Colombia,"Private Sector",1
+Congo,"Civil Society",1
+"Costa Rica","Civil Society",1
+"Cote D'Ivoire","Civil Society",1
+Denmark,Government,1
+France,"Civil Society",1
+France,Government,1
+France,Other,3
+France,"Private Sector",1
+Germany,Government,1
+Germany,"Private Sector",1
+Global,"Civil Society",9
+Global,Government,1
+Global,Other,3
+Global,"Private Sector",6
+Global,"Technical Community",6
+India,"Civil Society",4
+India,Government,1
+India,"Private Sector",2
+Iran,Government,1
+Iran,Other,1
+Italy,"Civil Society",1
+Italy,"Private Sector",1
+Japan,"Civil Society",2
+Japan,"Private Sector",1
+Japan,"Technical Community",1
+Kenya,Academia,1
+Kenya,"Civil Society",1
+Kuwait,"Civil Society",1
+Malaysia,"Civil Society",1
+Malta,"Civil Society",1
+Mauritius,"Technical Community",1
+Mexico,Government,1
+Mexico,"Technical Community",1
+"New Zealand","Civil Society",1
+"New Zealand",Other,1
+"New Zealand","Technical Community",1
+Nigeria,"Civil Society",2
+Nigeria,"Technical Community",1
+Norway,Government,1
+Poland,"Civil Society",1
+Poland,Government,1
+Portugal,Academia,1
+"Regional (Africa)",Other,1
+"Regional (Africa)","Private Sector",1
+"Regional (Central & South America and the Carribbean)","Civil Society",1
+"Regional (Central & South America and the Carribbean)","Private Sector",1
+"Regional (Central & South America and the Carribbean)","Technical Community",2
+"Regional (Europe)","Civil Society",2
+"Regional (Europe)",Government,2
+"Regional (Europe)",Other,3
+"Regional (North America)","Civil Society",2
+"Regional (South and West Asia)","Civil Society",1
+Russia,Academia,2
+Russia,Government,1
+Senegal,"Civil Society",2
+"South Korea","Civil Society",1
+"South Korea",Government,1
+Spain,"Civil Society",1
+Spain,Government,1
+Spain,"Private Sector",1
+Sudan,Academia,3
+Sudan,"Private Sector",1
+Sweden,Government,1
+Switzerland,"Civil Society",4
+Switzerland,Government,2
+"Trinidad and Tobago",Government,1
+Tunisia,"Civil Society",2
+Tunisia,Government,1
+UK,Government,1
+UK,"Private Sector",3
+Ukraine,Academia,1
+Uruguay,"Private Sector",1
+USA,Academia,9
+USA,"Civil Society",5
+USA,Government,1
+USA,Other,4
+USA,"Private Sector",11
+USA,"Technical Community",3
+Yemen,"Civil Society",2
+Zimbabwe,"Civil Society",1

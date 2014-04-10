@@ -1,0 +1,64 @@
+Location,Parent,Submissions,Principles,Roadmap,PSR
+All,NA,187,103.5,83.5,20
+Africa,All,20,12,8,4
+Congo,Africa,1,1,0,1
+"Cote D'Ivoire",Africa,1,1,0,1
+Kenya,Africa,2,1.5,0.5,1
+Mauritius,Africa,1,0.5,0.5,0
+Nigeria,Africa,3,1.5,1.5,0
+"Regional (Africa)",Africa,2,1,1,0
+Senegal,Africa,2,1,1,0
+Sudan,Africa,4,3,1,2
+Tunisia,Africa,3,1.5,1.5,0
+Zimbabwe,Africa,1,0,1,-1
+"Australia and New Zealand",All,5,3,2,1
+Australia,"Australia and New Zealand",2,1,1,0
+"New Zealand","Australia and New Zealand",3,2,1,1
+"Central & South America and the Carribbean",All,32,16,16,0
+Argentina,"Central & South America and the Carribbean",6,3,3,0
+Brazil,"Central & South America and the Carribbean",17,8,9,-1
+Colombia,"Central & South America and the Carribbean",1,0.5,0.5,0
+"Costa Rica","Central & South America and the Carribbean",2,0.5,1.5,-1
+"Regional (Central & South America and the Carribbean)","Central & South America and the Carribbean",4,3,1,2
+"Trinidad And Tobago","Central & South America and the Carribbean",1,0,1,-1
+Uruguay,"Central & South America and the Carribbean",1,1,0,1
+"East Asia",All,9,5,4,1
+China,"East Asia",2,1.5,0.5,1
+Japan,"East Asia",4,2,2,0
+Malaysia,"East Asia",1,0,1,-1
+"South Korea","East Asia",2,1.5,0.5,1
+Europe,All,45,24,21,3
+Austria,Europe,1,0.5,0.5,0
+Belgium,Europe,2,1,1,0
+Bulgaria,Europe,1,0.5,0.5,0
+Denmark,Europe,1,0.5,0.5,0
+France,Europe,6,2.5,3.5,-1
+Italy,Europe,2,1.5,0.5,1
+Germany,Europe,2,1.5,0.5,1
+Malta,Europe,1,0,1,-1
+Norway,Europe,1,0.5,0.5,0
+Poland,Europe,2,0.5,1.5,-1
+Portugal,Europe,1,0,1,-1
+"Regional (Europe)",Europe,7,4,3,1
+Russia,Europe,3,1.5,1.5,0
+Spain,Europe,3,2,1,1
+Sweden,Europe,1,1,0,1
+Switzerland,Europe,6,3,3,0
+UK,Europe,4,2.5,1.5,1
+Ukraine,Europe,1,1,0,1
+Global,All,25,17,8,9
+Commonwealth,Global,2,2,0,2
+ICANN,Global,1,0.5,0.5,0
+"Internet Society",Global,4,3,1,2
+Other,Global,18,11.5,6.5,5
+"North America",All,38,19.5,18.5,1
+Canada,"North America",2,1.5,0.5,1
+Mexico,"North America",1,0.5,0.5,0
+"Regional (North America)","North America",2,1,1,0
+USA,"North America",33,16.5,16.5,0
+"South and West Asia",All,13,7,6,1
+India,"South and West Asia",7,3,4,-1
+Iran,"South and West Asia",2,1,1,0
+Kuwait,"South and West Asia",1,0.5,0.5,0
+"Regional (South and West Asia)","South and West Asia",1,1,0,1
+Yemen,"South and West Asia",2,1.5,0.5,1
