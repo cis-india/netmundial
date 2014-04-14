@@ -1,0 +1,2802 @@
+
+Internet Governance ecosystem
+regarding
+Internationalisation of the IANA Function
+  March     
+Public Version (there is no confidential version)
+For further information  please contact 
+Jordan Carter InternetNZ jordan@internetnz net nz
+Jay Daley  nz Registry Services jay@nzrs net nz
+Keith Davidson InternetNZ keith@internetnz net nz
+Debbie Monahan Domain Name Commission dnc@dnc org nz
+  Introduction
+    This submission is from InternetNZ (Internet New Zealand Inc) 
+    Our vision is of a better world through a better Internet 
+    Our mission is to promote the Internet’s benefits and uses  and protect its
+potential 
+    We are a membership based  charitable  not-for profit and non-partisan
+organisation  working on a wide range of Internet and related
+telecommunications issues on behalf of the Internet Community in New
+Zealand – both users and the industry as a whole  We work for New
+Zealanders on sharing the gains the Internet can bring  for everyone 
+    InternetNZ is an At-Large Structure within the ICANN community and is
+responsible for the administration of the  nz top level domain 
+    InternetNZ has two wholly-owned charitable subsidiaries to whom
+management  operation and regulation of the  nz top level domain are
+delegated  These are 
+       nz Registry Services  the Registry
+      Domain Name Commission  the Regulator
+    InternetNZ has developed a set of principles for TLD administration  in line
+with which we operate the  nz TLD  https   internetnz net nz TLDPrinciples
+  Summary
+    This submission is in support of the contribution from the Internet Governance
+Project (IGP) entitled  Roadmap for globalizing IANA  Four principles
+and a proposal for reform   
+    The IGP contribution sets out four principles to guide IANA contract reform 
+which InternetNZ supports  These principles mirror the conclusions we have
+reached independently and have practised in our management of the  nz TLD 
+    The model proposed by the IGP  particularly for the establishment of a new
+body  the DNS Authority  is one that we support in principle  though further
+refinement of the model are necessary 
+    We offer qualifications and points of detail for consideration in the discussion of
+this model in the following sections of this content contribution 
+  Principle   - Completely separate root zone file modification
+from policymaking
+    InternetNZ has long argued for structural separation between the IANA
+function and ICANN   In our view the separation of the IANA registry function
+from ICANN's broader policymaking function is in the best interests of TLD
+managers and of Internet users as a whole  As we noted in our submission to
+the NTIA 
+    Experience within the  nz TLD has shown that functional separation of the registry
+from the policy development entity  with neither in a position of control over the other 
+provides significant and necessary safeguards for the customers  These include 
+      All registry decisions are directly traceable to a publicly available policy
+document  Any gap in this audit trail is a breach of the contract under
+which the registry operates and would be expected to lead to contractual
+sanctions 
+      The registry can refuse to carry out any request that does not conform to
+the publicly available policy  without any threat of action against it or any
+individual as the registry is not contracted to any policy development
+entity 
+      Both the registry and the policy development entity are fully developed
+functions  without the priorities of one limiting the investment and
+development of the other 
+    The approach set out by the IGP is in principle a viable model to achieve this
+structural separation  Further detail will of course need to be developed 
+  Principle   - Don’t internationalize political oversight  end it
+    The IANA contract is often regarded as the key element to be tackled for
+ending political oversight of the root  If the strict separation between policy
+making and operation of the IANA registry that IGP proposes were in place  it
+would be recognised by all concerned that the real issue is political oversight of
+the policy making function and not the technical body that implements that
+policy 
+    By the permanent transfer of the IANA contract to the DNSA  as proposed by
+IGP  the IANA function returns to a purely technical function which no state
+has oversight of and which requires no political oversight 
+    InternetNZ would not support the allocation of the IANA functions to another
+politically controlled body of any sort  We believe a separation of multistakeholder
+policymaking from technically focused and robust operational
+entities are the right way to conduct Internet governance 
+  Principle   - Align incentives to ensure the accuracy and
+security of root zone maintenance
+    For the proposed DNSA  as a purely technical function  the community best
+placed to manage the service is the TLD community that relies on it absolutely
+for their own operations 
+    The TLD community has an exemplary track record of collaborating on
+technical matters solely for the public good  A good example is the response to
+the Conficker worm  which saw almost all TLDs acting quickly  in unison and
+without payment to block the domain names that were being registered by this
+worm that threatened to infect a large proportion of home computers 
+  Principle   - Delink
+IANA globalization from broader ICANN
+reforms
+    The broader reforms aimed at balancing the views of governments  the private
+sector and civil society and increasing the international engagement in the policy
+around the 'root' are not problems that are going to be solved quickly  In the
+proposal from IGP these problems remains but is now rightly restricted to the
+reform of ICANN  which would set the policy for the root that DNSA would
+be required to follow 
+    The establishment of the DNSA would not in any way reduce the potential
+scope of the oversight nor does it guarantee disproportionate influence to any
+one state or other actor  All of the authority remains with the policy function 
+rooted in the ICANN community 
+  Other Matters
+    InternetNZ supports efforts being made to meet the timetable set out in the
+IGP paper  This would see the model being detailed and a demonstrable level of
+support being available by the time that the current IANA contract expires (  
+September     ) 
+    InternetNZ prefers the ending of political oversight of the root as set out in the
+model  but if as part of the transition the matter was a bottom line for some
+stakeholders  we would not be concerned if a limited term extension of the
+IANA contract between NTIA and the new DNSA was brought into being 
+  Conclusion
+    The IGP proposal rightly separates out technical function of root zone
+administration from the policy making process  which should be the focus of
+attention for governments and other stakeholders when considering the future
+of Internet governance  It also provides a sensible and broadly workable plan
+for the operation of that technical function 
+    For those reasons InternetNZ supports in principle the proposal from the
+Internet Governance Project 
+    We look forward to being part of the conversation in São Paulo as the debate
+proceeds 
+With many thanks for your consideration 
+Yours sincerely 
+InternetNZ
+
+Commonwealth Cybergovernance Model
+   Introduction
+     Recognising the central importance of the internet to Commonwealth members and
+following the Abuja Declaration of Proposed Commonwealth Cybergovernance Model of  
+October      and subsequent consultations  the Commonwealth Telecommunications
+Organisation offers this draft set of principles for consideration and adoption during the
+Commonwealth ICT Ministers Forum  The principles are intended to guide Commonwealth
+members to plan and implement practical actions in policy development  regulation and
+legislation  cross-border collaboration  capacity building  technical measures and other
+operational activities 
+   Cyberspace – the internet and more
+     We are in an era of changing economic circumstances creating both opportunity
+and uncertainty  giving rise to new trade and economic patterns together with unforeseen
+threats to peace and security  and a surge in popular demands for democracy 
+human rights and for broadened social and economic opportunities  Previously unimagined
+access to information and communication between individuals across our planet is driving
+economic and social development in the   st century  Cyberspace   provides this access 
+helping us to bridge the digital divide while influencing every aspect of our economic and
+social activities  Cyberspace is becoming our global central nervous system  Cyberspace
+continues to develop at a pace unparalleled in our history - growth is anticipated from  bn
+to  bn users by        many in developing countries  This pace of change necessitates
+urgent action in reaching consensus on Cybergovernance 
+     Its open  decentralised and distributed nature  that empowers the individual  has
+fostered innovation  collaboration and rapid development  Enjoyment of those benefits
+relies upon its safety  security and resilience  Cyberspace can also be a vehicle for crime 
+extremism and other social ills   Governments  industry  civil society and users have a
+shared responsibility  to tackle those threats to society  Necessary security measures may
+be in tension with the very features that have made Cyberspace a success and  in
+determining an equitable balance  our behaviour in Cyberspace will benefit from our
+shared Commonwealth values that govern many aspects of our lives 
+  Cyberspace encompasses the internet  mobile and fixed-line access  plus all the networked machine-to-machine
+communications and other networked communications that are beyond the World Wide Web 
+  Microsoft report  Linking Cybersecurity Policy and Performance   February     
+  ITU Regional Development Forum for the AFR Region  meeting in Accra  Ghana   October     
+  World Economic Forum report  Risk and Responsibility in a Hyperconnected World   January     
+   Applying Commonwealth values in Cyberspace
+     The Commonwealth Charter of March      reflects the values and aspirations which
+unite the Commonwealth - democracy  development  human rights and the rule of law 
+The Charter expresses the commitment of member states to the development of free and
+democratic societies and the promotion of peace and prosperity to improve the lives of all
+peoples of the Commonwealth  It also acknowledges the role of civil society in supporting
+the goals and values of the Commonwealth 
+     The principles concerning our use of Cyberspace today and the evolving nature of
+Cyberspace tomorrow should be derived from  should respect and reflect our shared
+Commonwealth values as set out in the Commonwealth Charter  Within the context of the
+Charter as a whole  we identify the key characteristics  which led to our principles  as
+exemplified in Appendix    This analysis is based on the principle that what is
+unacceptable off-line is unacceptable on-line  Priorities for practical action  in accordance
+with these principles  will depend on the prevailing circumstances in each country 
+   Commonwealth principles for the use of Cyberspace
+     As we operate in Cyberspace and work with others to shape its continuing
+development  we will use the following principles to guide our decisions  actions and
+demonstrate our progress towards meeting these principles  The principles are best
+considered collectively and not each in isolation without regard to the whole because
+frequently some are in tension with each other  We reiterate the urgency with which these
+issues need to be addressed 
+Principle    We contribute to a safe and an effective global Cyberspace
+  as a partnership between public and private sectors  civil society and users  a
+collective creation 
+  with multi-stakeholder  transparent and collaborative governance promoting
+continuous development of Cyberspace 
+  where investment in the Cyberspace is encouraged and rewarded 
+  by providing sufficient neutrality of the network as a provider of information
+services 
+  by offering stability in the provision of reliable and resilient information services 
+  by having standardisation to achieve global interoperability 
+  by enabling all to participate with equal opportunity of universal access 
+  as an open  distributed  interconnected internet 
+  by providing an environment that is safe for its users  particularly the young and
+vulnerable 
+  made available to users at an affordable price 
+Principle    Our actions in Cyberspace support broader economic and social
+development
+  by enabling innovation and sustainable development  creating greater coherence
+and synergy  through collaboration and the widespread dissemination of
+knowledge 
+  respecting cultural and linguistic diversity without the imposition of beliefs 
+  promoting cross-border delivery of services and free flow of labour in a multi-lateral
+trading system 
+  allowing free association and interaction between individuals across borders 
+  supporting and enhancing digital literacy 
+  providing everyone with information that promotes and protects their rights and is
+relevant to their interests  for example to support transparent and accountable
+government 
+  enabling and promoting multi-stakeholder partnerships 
+  facilitating pan-Commonwealth consultations and international linkages in a globally
+connected space that also serves local interests 
+Principle    We act individually and collectively to tackle cybercrime 
+  nations  organisations and society work together to foster respect for the law 
+  to develop relevant and proportionate laws to tackle Cybercrime effectively 
+  to protect our critical national and shared infrastructures 
+  meeting internationally-recognised standards and good practice to deliver security 
+  with effective government structures working collaboratively within and between
+states 
+  with governments  relevant international organisations and the private sector
+working closely to prevent and respond to incidents 
+Principle    We each exercise our rights and meet our responsibilities in
+Cyberspace
+  we defend in Cyberspace the values of human rights  freedom of expression and
+privacy as stated in our Charter of the Commonwealth 
+  individuals  organisations and nations are empowered through their access to
+knowledge 
+  users benefit from the fruits of their labours  intellectual property is protected
+accordingly 
+  users can benefit from the commercial value of their own information  accordingly 
+responsibility and liability for information lies with those who create it 
+  responsible behaviour demands users all meet minimum Cyber hygiene
+requirements 
+  Cyber crime is an umbrella term frequently used to describe two distinct  but closely related criminal activities  cyberdependent
+and cyber-enabled crimes  Use of the term Cybercrime reflects the particular difficulties arising in dealing with
+criminal acts that make use of the internet and other ICTs including those crimes that cross jurisdictions  encountering
+the juxtaposition of permissive laws and constraining laws  requiring cooperation between authorities in new ways  A
+helpful elaboration  amongst others  can be found in a      UK Home office report  Cybercrime  a review of the
+evidence  https   www gov uk government uploads system uploads attachment_data file        horr  -summary pdf 
+  we protect the vulnerable in society in their use of Cyberspace 
+  we  individually and collectively  understand the consequences of our actions and
+our responsibility to cooperate to make the shared environment safe  our obligation
+is in direct proportion to culpability and capability 
+  Practical application of these principles
+     Each Commonwealth member may find it beneficial to develop individually  a whole of
+government strategy  reflecting the many facets in making Cyberspace safe  secure 
+resilient and rewarding  that will address unique local needs of countries with their
+different regions  sectors and industries and deliver their particular economic and social
+priorities 
+     Appendix   offers a guide to sample practical actions that can be taken by
+Commonwealth members  based on these principles  Appendix   provides a list of
+organisations offering practical guidance on Cybersecurity  Appendix   and    for guidance
+only  are illustrative and new initiatives in this fast-moving topic may not be reflected 
+Appendix    Implications for cyberspace of each element of the Commonwealth
+Charter
+a  Democracy
+Our Charter says   We recognise the inalienable right of individuals to participate
+in democratic processes  in particular through free and fair elections in shaping the society
+in which they live     Used effectively  Cyberspace supports participative democracy  by
+offering multiple channels for citizen’s engagement with the democratic process 
+transparency and accountability of our governments  leading to good governance and a
+fairer society 
+b  Human Rights
+Our Charter says   We are committed to the Universal Declaration of Human Rights and
+other relevant human rights covenants and international instruments  We are committed
+to equality and respect for the protection and promotion of civil  political  economic  social
+and cultural rights  including the right to development  for all without discrimination on
+any grounds as the foundations of peaceful  just and stable societies     The operation of
+Cyberspace could and should respect  reflect and protect these rights as they are applied
+both online and offline  Widespread access to information through Cyberspace and the
+network of stakeholders it could help build  equips societies to protect Human Rights 
+while supporting individuals in their quest for dignified livelihoods 
+c  International peace  security and economic development
+Our Charter says   We firmly believe that international peace and security  sustainable
+economic growth and development and the rule of law are essential to the progress and
+prosperity of all  We are committed to an effective multilateral system based on
+inclusiveness  equity  justice and international law     Whilst Cyberspace can give rise to
+some new threats to global peace  it has a significant role to play in engendering
+international peace by promoting understanding across cultures and communities  respect
+for international law and adherence to accepted norms of behaviour  The contribution
+Cyberspace could make to economic development is far more than the already significant
+contribution it is making   The operation of an open and inclusive Cyberspace  while
+recognising legitimate economic  security  cultural and social concerns of members  will
+deliver these Charter outcomes 
+d  Tolerance  respect and understanding
+Our Charter says   We emphasise the need to promote tolerance  respect  understanding 
+moderation and religious freedom which are essential to the development of free and
+democratic societies  and recall that respect for the dignity of all human beings is critical
+to promoting peace and prosperity  We accept that diversity and understanding the
+richness of our multiple identities are fundamental to the Commonwealth’s principles and
+  Cell vs  internet  The Impact on democratisation in Africa  Dr Patience Akpan-Obong August     
+  The Internet Society    Internet and Human rights  The Challenge of Empowered Communities   Nov     
+  OECD report  The internet economy on the rise – progress since the Seoul Declaration  published     
+approach   Cyberspace provides direct person-to-person social interactions   between
+social  ethnic  religious and racial groups and thereby promotes respect for cultural and
+linguistic diversity  encouraging social development  This can help   break down barriers of
+ignorance  suspicion and prejudice  help protect the vulnerable poor  disabled and rural 
+supporting these Charter outcomes 
+e  Freedom of Expression
+Our Charter says   We are committed to peaceful  open dialogue and the free flow of
+information  including through a free and responsible media  and to enhancing democratic
+traditions and strengthening democratic processes   Cyberspace provides the means for
+unparalleled channels for the free flow of information  its evolution and operation must
+continue to deliver the means for open and responsible dialogue 
+f  Rule of Law
+Our Charter says   We believe in the rule of law as an essential protection for the people
+of the Commonwealth and as an assurance of limited and accountable government     Our
+operation and use of Cyberspace must respect the law  the law must comply with
+international norms  and the law must be capable of protecting the people and property 
+As Cyberspace develops  Members must participate in the continued development of
+norms of behaviour and laws 
+g  Good Governance
+Our Charter says   We reiterate our commitment to promote good governance through the
+rule of law  to ensure transparency and accountability and to root out  both at national
+and international levels  systemic and systematic corruption   Cyberspace can support
+good governance of our countries through transparency and accountability of
+government   and private sector activities  The governance of Cyberspace itself should in
+turn be inclusive  transparent and accountable with the active participation of
+governments  private sector and civil society 
+h  Sustainable Development
+Our Charter says   We recognise that sustainable development can help to eradicate
+poverty by pursuing inclusive growth whilst preserving and conserving natural ecosystems
+and promoting social equity  We stress the importance of sustainable economic and social
+transformation to eliminate poverty and meet the basic needs of the vast majority of the
+people of the world and reiterate that economic and social progress enhances the
+sustainability of democracy  
+   Universities and schools using internet forums in support of the UN International Year of the Youth         
+    UNESCO Programme of Action on a Culture of Peace  Action  h 
+   McKinsey report   The Lions go Digital  The Internet’s Transformative potential in Africa  Nov     
+Cyberspace is a doorway to the global economy and an opportunity for less developed
+states to participate in world markets  to develop new markets  and to commoditise their
+resources  promoting economic development   
+ We are committed to removing wide disparities and unequal living standards as guided by
+internationally agreed development goals  We are also committed to building economic
+resilience and promoting social equity  and we reiterate the value in technical assistance 
+capacity building and practical cooperation in promoting development  We are committed
+to an effective  equitable  rules-based multilateral trading system  the freest possible flow
+of multilateral trade on terms fair and equitable to all  while taking into account the special
+requirements of small states and developing countries  
+Cyberspace can help find synergies with other development work and thereby bring
+greater coherence to development initiatives  Through more universal access to
+information and to markets  Cyberspace can help remove disparities of opportunity and
+the means to bring these aspirations to fruition 
+i  Protecting the Environment
+Our Charter says   We recognise the importance of the protection and conservation of our
+natural ecosystems and affirm that sustainable management of the natural environment is
+the key to sustained human development  We recognise the importance of multilateral
+cooperation  sustained commitment and collective action     The availability of previously
+unparalleled amounts of sensory information  through Cyberspace  helps us better
+manage   our environment and can reveal to the public eye any emerging damage   
+j  Access to Health  Education  Food and Shelter
+Our Charter says   We recognise the necessity of access to affordable health care 
+education  clean drinking water  sanitation and housing for all citizens and emphasise the
+importance of promoting health and well-being in combating communicable and noncommunicable
+diseases   Access to information    reliable metrics   and delivery channels
+offered by Cyberspace form a key part of delivering these outcomes  particularly for rural
+communities 
+k  Gender Equality
+Our Charter says   We recognise that gender equality and women’s empowerment are
+essential components of human development and basic human rights  The advancement
+of women’s rights and the education of girls are critical preconditions for effective and
+sustainable development   Cyberspace can contribute significantly to promoting gender
+equality and equity  supporting Millennium      Development Goal    though this depends
+upon access to ICT for women and girls  particularly in rural areas    Its nature as an open
+   McKinsey report   The Lions go Digital  The Internet’s Transformative potential in Africa  Nov     
+    Open Data for Africa  an African Development Bank initiative         
+    Use of Big Data from near-real-time photography shows tropical mammals on the decline     December     
+   Food and Agriculture Organisation of the UN  initiatives to support the delivery of MDG  
+   UNICEF   Committing to Child survival  a promise renewed  Progress Report      
+    Gender Equality Issues in ICT  – a World Bank project
+source of information and its ability to empower individuals  make Cyberspace a platform
+to promote gender equality 
+l  Importance of Young People in the Commonwealth
+Our Charter says   We recognise the positive and active role and contributions of young
+people in promoting development  peace  democracy and in protecting and promoting
+other Commonwealth values  such as tolerance and understanding  including respect for
+other cultures     Young people  being digital natives  have embraced Cyberspace
+wholeheartedly and come up with numerous innovations that have enriched Cyberspace   
+Through education and guidance on the safe and effective use of Cyberspace  young
+people will channel this dynamism and creativity into higher purposes  fostering wider
+social understanding and triggering valuable innovation 
+m  Recognition of the Needs of Small States
+Our Charter says   We are committed to assisting small and developing states in the
+Commonwealth  including the particular needs of small island developing states    
+Cyberspace could help small island states surmount numerous challenges including paucity
+of expertise  geographic isolation and economies of scale    Cyberspace offers a gateway
+to global markets for small scale producers as much as for large scale producers  breaking
+down one of the key barriers to market entry faced by small island states 
+n  Recognition of the Needs of Vulnerable States
+Our Charter says   We are committed to collaborating to find ways to provide immediate
+help to the poorest and most vulnerable including least developed countries  and to
+develop responses to protect the people most at risk   Cyberspace could help poorest 
+most marginalised and vulnerable by providing access to information and to markets for
+economic development 
+o  The Role of Civil Society
+Our Charter says   We recognise the important role that civil society plays in our
+communities and countries as partners in promoting and supporting Commonwealth
+values and principles     Cyberspace offers the means for easier and more effective
+engagement by individuals in society  particularly the rural  the vulnerable and
+marginalised  A more active civil society can help promote our values and principles in
+today’s Cyberspace  A more active civil society can also stimulate further progress in
+support of our values and principles by engaging directly in the development and
+operation of tomorrow’s Cyberspace 
+   Facebook was launched by a    year old student
+   UNESCO-supported  Small Islands Voice  initiative and its Global Internet Forum and Internet based Youth Forum  See
+also the reports of the  Small Islands Voice  meetings in Mauritius     
+p  Cyberspace itself
+Our Charter recognises the transformational role of Information and Communication
+Technology  which underpins Cyberspace  and the need to harness its power in a positive
+way   We also recognise the importance of information and communication technologies
+as powerful instruments of development  delivering savings  efficiencies and growth in our
+economies  as well as promoting education  learning and the sharing of culture  We are
+committed to strengthening its use while enhancing its security  for the purpose of
+advancing our societies  
+
+The IEEE Standards Association (IEEE-SA)  a globally recognized standards-setting body within IEEE (www ieee org)  a large  global technical professional organization dedicated to advancing technology for the benefit of humanity and which embodies the OpenStand (open-stand org) principles for standards development  submits the following contribution in response to the request for views on  Internet governance principles  
+
+The development and evolution of technologies upon which the Internet is based exemplifies the success of a bottom up  open system of standardization  The Internet evolved from a networking community to a global collection of communities and widespread information infrastructure that has resulted in today’s e-commerce  information and knowledge sharing and community operations  The standards and the technical foundation upon which the Internet was built  and continues to evolve upon and advance  were developed within a globally open  inclusive and decentralized paradigm that allows for diversity of opinions and approaches as well as flexibility to acknowledge and address change and varying needs 
+
+The IEEE-SA believes that the principles associated with this paradigm—notably openness  transparency and inclusiveness—and the multi-stakeholder model of collaboration and consensus building can be applied to the principles for Internet governance to enable the successful progression of the Internet  including the progression and innovation of technology that serves as the foundation of the Internet 
+
+Working within a framework of open participation and diversity  this paradigm applied to policy discussions and Internet Governance practices would help ensure the continuation of the open  universal and inclusive nature of the Internet via direct  informed knowledge contributions by the global  without national borders collective of developers and users of the Internet   Via collective empowerment the paradigm establishes a worldwide network capable of ensuring principles such as 
+
+·       Direct participation meaning there are no intermediaries between a good idea and the peer group that decides the start of a best practice or policy  Everybody  from anywhere should be able to submit a proposal 
+
+·       Due process providing for a level playing field for all participants to understand the rules of engagement and the opportunity for equal participation 
+
+·       Broad consensus ensuring that decisions are made by either a majority or supermajority of participants  so no single person or entity wields undue power in the definition of a policy  
+
+·       Balance in order to provide opportunity for a multitude of stakeholders to participate in the development of policies 
+
+·       Transparency of the process and proceedings ensure that the procedures under which the policies are defined are available so that participants understand the rules of engagement and so that appropriate audit trails are available for inspection upon emergence of an output 
+
+·      Universal openness from the very beginning of any policy dialogue or consultation to ensure that appropriate notification to a global audience is given to all potential stakeholders on a global basis regarding the opportunity to attend meetings  submission of comments and other relevant forms of engagement  This combined with transparency creates the basis for a robust and trustworthy policy development process 
+
+The Internet technical community consists of individuals and organizations from around the
+world that understand the global Internet as a complex interaction of technology  standards 
+implementation  operation and application  They bring this expertise when working with
+governments  national and international organizations  educational institutions  civil society
+organizations  and private sector entities to maintain a technically viable Internet that can also
+respond to societal needs  While participants have a wide range of missions and roles to play 
+the Internet technical community shares a common culture that is grounded in a clear
+understanding of the unique technical characteristics of the Internet  These
+characteristics are essential to the Internet’s past  present  and future success as a platform
+for advancing the economic and social well-being of all of its users 
+In a remarkably short period of time  the Internet has evolved from a research effort to test the
+then-new theories of computer networking to a powerful  pervasive  and now indispensable
+tool for global communication  business innovation  government  social networking and the
+activities of daily life  Even those who were responsible for the technical choices that provided
+the foundation for that evolution have different perspectives on how much of today's Internet
+and its impact were anticipated and intentional  and how much was fortunate and
+unplanned  Regardless of how this history is interpreted  many of the early technology and
+architecture choices that created the Internet that we know today were made as integral 
+original elements of the network itself  They remain essential to the Internet as a complex 
+multi-dimensional system  In particular  the network operates with only the minimal central
+authority required for essential coordination  allowing for the autonomy and growth of
+constituent networks 
+To avoid compromising the Internet’s technical core functions and processes  the policy
+debates of Internet governance would benefit from being informed by the experience and
+insight of those who have been directly responsible for developing and operating it  The
+principles that have promoted and sustained the development of the Internet since its
+inception — the open and inclusive process for developing Internet protocols and standards 
+the impartial stewardship of Internet naming and addressing resources  and the decentralized
+cooperation and collaboration of network operators around the globe — are the Internet
+technical community's critical contribution to these debates 
+The Internet technical community is an indispensable stakeholder and contributor to the
+global Internet governance dialogue  The organizations and individuals in this community have
+had over four decades of cumulative experience in creating  improving  deploying  and
+managing the Internet in almost all countries of the world  under a wide variety of legal 
+administrative  and regulatory regimes  We are concerned that the technical viability of the
+global Internet is at risk unless the current Internet governance discussions lead to a
+consensus that preserves the essential principles that have contributed to making the Internet
+we have today 
+The impact of different governance regimes on the Internet as a robust and remarkably
+generative connectivity infrastructure may not be evident to those who are not familiar with its
+history  do not have an expert understanding of its technology  or have not had direct
+experience with its deployment and operation  As a contribution to the global Internet
+governance dialogue  the following recommendations are made by individuals and
+organizations to whom  by virtue of their involvement in the technical development and
+deployment of the Internet those potential impacts are evident 
+Recommendations
+The openness and transparency of Internet policy and technical development processes are
+intrinsic to the success of the Internet itself  which depends on a global and interoperable
+fabric of information and communications technology and the people who operate and use it 
+We recognize that the multi-stakeholder model of decision-making  articulated around the
+following principles and practices  has proven to be the most effective model of governance for
+the Internet’s technical development  and has the potential to enhance and reinforce future
+Internet evolution 
+A  Open and inclusive participation  Participation in Internet technical
+development and operation  including technical standards development and allocation
+of the Internet number resources  is open to all interested and informed parties  This
+has been key for the Internet’s success  Participation of all interested and informed
+stakeholders in governance processes is necessary to ensure that outcomes are
+accepted as legitimate and that solutions are effective 
+B  Consensus-based  The development of Internet technical standards and
+processes is done on the basis of open consensus  This allows for all views to be
+considered  and agreement to be found across a range of interests  Internet
+governance decisions should also be grounded on open  transparent  and collaborative
+work  Policy-making processes should be informed by individual and collective
+expertise and practical experience  and decisions should be arrived at by open
+consensus rather than as a result of a voting process 
+C  Permission-less innovation  The remarkable growth of the Internet  the
+fostering of innovation and its uses follows directly from the open model of Internet
+connectivity and standards development  No central authority should be established  as
+part of any future Internet governance arrangement that would constrain or regulate the
+ability of individuals or organizations to create and use new standards  applications  or
+services 
+D  Collective stewardship and empowerment  Strong notions of equity and
+fairness among participants mark the technical development of the Internet  The
+success of Internet development and operation is secured by the recognition of
+respective roles and responsibilities by Internet community members who cooperate 
+respectful of each organization’s autonomy  integrity  and processes  To ensure the
+continued security  stability  and resilience of the Internet  governance structures and
+principles must be developed in an environment of strong cooperation among all
+stakeholders  each contributing a perspective informed by their respective roles and
+responsibilities 
+E  Transparency  Internet technical standards bodies and operating entities function
+in a transparent way  They provide advance public notice of proposed activities  which
+describes the scope of work to be undertaken and the conditions for participation  The
+principle of transparency assures that all interested stakeholders can directly observe
+the work being done and have access to its results 
+F  Pragmatic and evidence-based approach  In the technical world  solutions
+are chosen and defined based on technical merit  judged according to the collective
+expertise of all participants  Processes are driven by the ability to devise practical
+solutions to concrete problems  based upon informed discussion  We observe that lack
+of clarity in emerging issues in Internet governance results in incomplete agreement
+about how to address the problem  In this spirit  Internet governance discussions and
+debates must be informed by and depend upon objective and empirical information 
+G  Voluntary adoption  Internet standards and processes are voluntarily adopted by
+network operators  equipment manufacturers  and other infrastructure participants  and
+their success is determined in the marketplace  In the realm of Internet technical policy
+development  the principle of voluntarism means that success is determined by users
+and the public at large rather than by any central authority 
+As the Internet evolves in the future  its continued security  stability  accessibility and
+usefulness will grow to be even more important to support most critical aspects of human
+activity  The above recommendations are our contribution to this effort  based upon the
+Internet technical community’s long term and intensive involvement in the technical
+development  deployment and operation of the Internet 
+
+One of the barriers to accepting free standing multistakeholder governance organizations is oversight   Accountability requires that there be oversight   But how can oversight be done in a bottom-up multistakeholder organization without inflicting external control  for example the so-called new space  upon the bottom up multistakeholder organizations 
+
+ 
+
+Often  as soon as the word ‘oversight’ is mentioned governments jump in and assert themselves as the ultimate overseers of all things related to Internet public policy   From the point of view of the multistakeholder models of international  participatory democracy  it is impossible to accept government oversight of multistakeholder organizations   If one stakeholder group is solely responsible for oversight  the group becomes a unistakeholder entity  no matter what appearance those running around at the bottom of the organization might give   Government oversight of multistakholder organizations would destroy their multistakeholder character 
+
+ 
+
+There are  however  methods by which organizations do create bottom-up oversight  Some like the IETF have multiple levels of appeal on every decision  where the decisions of working groups are can be appealed to the Internet Engineering Steering Group (IESG)  a group chosen by a multistakeholder Nominating Committee (Nomcom) and approved by the Internet Architecture Board (IAB)  itself having been chosen by the multistakeholder Nomcom and approved by the Internet Society (ISOC) Board of Trustees   The dissatisfied appellant can further appeal a decision by the IESG to the IAB   Since the IESG and the IAB have very different mandates from the community  it would be a mistake to think that the IAB rubber stamps the decisions of the IESG  anyone who has observed the relations between these groups only has to recall IETF history to know that relations have not always been warm or even cordial   
+
+ 
+
+In case the appeals process is somehow perverted  the IAB decision can be further appealed to the Board of Trustees of ISOC on process issues  a group that is chosen by a combination of nominating committees and votes in the various stakeholder groups that make up the Internet Society   Each of these appeals and results is published transparently for the entire Internet community to read  in a manner that allows comment on the IETF list   Each of these appeals can be discussed in the open plenaries held three times a year  if so desired by the community   Anyone who has ever followed the IETF list or an IETF plenary knows how vox populi can be quite persuasive in this environment  The history of the IETF shows that  on occasion  it has persuaded either the IESG or the IAB to reconsider its decisions    It should be noted that there are also methods within the IETF for recall of the members of the IESG and the IAB  A chain of transparent appeals such as this  with a strong public voice is one form of bottom-oversight that has been shown to work   A series of public and transparent appeals are  in fact  one of the tools that any organization can use to provide oversight 
+
+ 
+
+The Affirmation of Commitments between the US Department of Commerce and the Internet Corporation for Assigned Names and Numbers (AOC) establishes a new method for bottom-up oversight of a multistakeholder organization   This process is entering its  th year   I had the privilege of being part of the second Accountability and Transparency Review Team (ATRT ) that is stipulated in the process and write the following from my personal experience as a member of that group 
+
+ 
+
+As outlined in the AOC  each of the Support Organizations and Advisory Committee nominates several members to the various review teams  transparency and accountability  the security and stability of the names and number systems  competition and consumer trust  and registrant directory operations compliance with international laws and norms (aka WHOIS)   From the candidates presented by the various stakeholder groups  the Chair of the Board or the CEO  depending on the team  and the Chair of the Government Advisory Committee (GAC) pick a review team   To this group they add a few experts to balance out the mix of skills   While not everyone is happy about the selection process and it does seem to favor governmental actors  at last in terms of the ATRT  it is by and large a process accepted by the community   The groups work together for approximately a year to produce their reports   They are served by a group of professional ICANN staff and are constrained by an ICANN Board determined budget   The ATRT  report discusses how this is occasionally an impediment to the group being able to do as complete a job as might be hoped 
+
+ 
+
+These reviews run in a   year cyclical manner with the ATRT running every third year  for a year  Currently ICANN is in the second cycle of AOC reviews   Each of these reviews provides the opportunity for multiple public consultations and several public reviews of the work in progress   The final reports are published in multiple languages and opened for a final public review before the ICANN Board receives them   The Board then reviews the reports  and the comments and  with the advice of Staff  decides how it will respond to the reports   By the time the Board acts  the review teams have been disbanded  The results of Board and Staff actions are reviewed by the next review teams 
+
+ 
+
+In addition to reviewing the state of transparency and accountability in ICANN  ATRT is responsible for reviewing the way in which ICANN had responded to the previous AOC reviews and for reviewing any changes that had been made in response to the previous ATRT review  It should be noted that review team reports only recommend actions to the Board  which the Board is able to accept or not to accept   Any refusal by the Board or ICANN staff to implement the changes requested is subject to review by the next review team as the cycle repeats   That is  ATRT  will review the changes made since ATRT   just as ATRT  reviewed the changes since ATRT  
+
+ 
+
+The ATRT  report gives a very detailed description in its review of both the  state of the organization and the degree to which ICANN complied with the first cycle’s reviews   The determination was mixed  with many changes only being made as the ATRT  review was ongoing   Some progress had been made  but not as much as the first ATRT review had recommended   As ATRT  second report is still in review until    March       the Board has not had much opportunity to act on it yet  though to its credit it has started working on some of the items in anticipation 
+
+ 
+
+For a bottom-up review mechanism like the AOC to work  those responsible for the organization must take the report and the obligation to accept and implement the recommendations seriously   Whether this is the case for ICANN  remains to be seen  and will be part of the proof of whether this is a workable method   According to a blog piece by the President of ICANN  Staff has every intention of completing the necessary changes 
+
+ 
+
+There are other requirements for such a bottom-up review process to work   One of the handicaps ATRT  experienced was the need to start its review process from a blank sheet   We had to request reports from ICANN on every issue  including those that had been documented in the first ATRT report   We were also unable to build upon any of the research and data collection that had been done by the first review and in the intervening reviews as that data had not been retained and processes had not been continued  During the ATRT  review  several research efforts  for example  research on the policy development process and on measurement practices were undertaken   It is to be hoped that that the data from these will be available to ATRT  so that the team will not need to again start from a blank page and will be able to look at longitudinal trends in ICANN’s transparency and accountability   Continuity of bottom-up oversight enables a better view of an organization and thus better accountability 
+
+ 
+
+To do a complete and thorough review  a review team needs full access to organization data   This is sometimes difficult as the team needs to know what data is available in order to ask for it   In order to do an adequate review it is better to have an organization anticipate and offer the necessary information as opposed to having a gate in the process that only gives the team information when it is correctly requested and the request has been approved up the corporate and legal chain of command   ICANN has tended toward the gating methodology as opposed to an anticipatory and open method of offering data  though for the most part after a bit of pushing and pulling  the necessary information was obtained 
+
+ 
+
+ICANN is settling into the process of ongoing AOC reviews  The process needs improvement  and the ATRT  report contains recommendations for how this can be done   For a more in depth review  readers can consult the ATRT  Transparency and Accountability review   In my view the method shows promise yet to be fully delivered on 
+
+ 
+
+The strongest bottom-up oversight would be achieved by combining the methods of the IETF and ICANN   IETF offers a strong appeals mechanism and the ability to remove officers from their roles if they do not fulfill the responsibilities   ICANN has a very weak appeals mechanism  in fact an review and repair of that mechanism was recommended by both ATRT  and ATRT    ICANN processes allow for review of Board decisions  but only for process infractions  there is no means of request a review within ICANN of a decision on a substantive basis as can be done in the IETF   And while there is an Independent Review Process for Board decisions and Staff actions  it is reputed to require a deposit in the order of a million dollars and can only deliver a decision in favor of the appellant if malfeasance of some other bad faith effort can be proven   ICANN has no mechanism for removing Board members for the manner in which they fulfill their responsibilities other than not to renew their   year terms for a second or third time (ICANN Board members can serve a maximum of   consecutive years)   
+
+ 
+
+ICANN on the other hand offers an innovative set of bottom up community reviews  whereas the IETF only initiates reviews of its processes when there is an indication that the process is somehow broken using the ‘if it isn’t broken don’t fix it’ philosophy   It has  over the years initiated several working groups to review its processes when the community felt there was a problem  I had the opportunity of chairing one of its Nominating committee review working groups   The recommendations of this WG were accepted and implemented 
+
+ 
+
+Bottom-up oversight of multistakeholder organizations is possible   No method is perfect and use of several methods  the so-called belt and suspenders method  gives an organization its best chance of being accountable to its community without needing to resort to a governmental and hierarchical form of oversight   An additonal element that might be consdered as part of any bottom-up oversight mechansim is affordable access to an independent mediation borad for issues that can't be resolved in any other manner 
+
+ 
+
+Moving forward  no new spaces are required to oversee organizations such as IETF and ICANN  though both can improve their bottom-up methodologies by borrowing elements from the other   An activity that would be helpful would be for workshops to be held within the IGF context on the various methodologies of bottom-up multistakeholder oversight and review so that organizations would be able to learn from each others experiences  
+
+ 
+
+The practice of bottom-up multistakeholder review is young  but has a promising future 
+
+The Internet Society appreciates the opportunity to provide input for consideration by the
+participants in the Global Multistakeholder Meeting on the Future of Internet Governance
+( NETmundial ) 
+We understand that the meeting will seek to put forward a set of recommended principles on
+Internet governance  In this regard  the Internet Society considers openness as a core
+principle and the underlying foundation for the fulfillment  enjoyment and sustainability of the
+Internet’s social  political and economic potential 
+Openness is additionally reflected in the following principles  articulated by a set of Internet
+standard-setting organizations 
+  Cooperation among standards organizations 
+  Adherence to due process  broad consensus  transparency  balance and openness in
+standards development 
+  Commitment to technical merit  interoperability  competition  innovation and benefit to
+humanity 
+  Availability of standards to all  and
+  Voluntary adoption 
+Underlying these principles is the value openness has created for the Internet (and beyond) 
+Internet standards have to be open to be useable  Openness allows the rapid development of
+the Internet and the various applications running on it  it has resulted in unprecedented
+economic growth  social transformation  technological innovation and creativity 
+The Virtuous Circle of an Open Internet
+Openness has allowed the technical  economic  societal and political dimensions of the
+Internet to come closer together  For instance  open global standards provide a platform for
+borderless trade and an interoperable open economy  fostering innovation  innovation  in turn 
+relies on users’ ability to freely and openly create  share information and exchange ideas 
+reflecting the model of a healthy open society  finally  open multistakeholder models have
+proven key in terms of economic development and capacity building 
+In the absence of open  global standards for interoperation  fragmented and incompatible
+networks are likely  Open standards are accessible to all developers and permit the creation
+of affordable networks and services  through competition  The desire to create an open and
+efficient system of communication has driven the creation of the Internet we see today 
+Openness can also enhance individuals’ freedom  allowing people to connect and craft
+together technical and social change through a participatory and consensus-driven process 
+From its early days  the Internet has evolved by empowering users and communities 
+Final remarks
+These manifestations of openness  however  require constant commitment and re-examination
+of core values to remain relevant and effective  The NETMundial meeting could be one of the
+spaces that contribute towards this commitment 
+For more than    years  the Internet Society has been committed  to promote the open
+development  evolution  and use of the Internet for the benefit of all people throughout the
+world   
+To this end  the Internet Society considers openness a key principle  It is because of openness
+that the need to adhere to other principles including  but not limited to  transparency 
+accountability  cooperation  inclusiveness  proportionality and the rule of law and due process
+becomes even more pertinent  Openness encapsulates the essence of the Internet – from its
+technical evolution to its contribution to societies and economies 
+
+As per disseminated in the OpenStand movement (www openstand org)  the Modern
+Paradigm for Global Standards Development is shaped by adherence to the following five
+principles 
+   Cooperation  Respectful cooperation between standards organizations  whereby each
+respects the autonomy  integrity  processes  and intellectual property rules of the others 
+   Adherence to principles  Adherence to the five fundamental principles of
+standards development 
+  Due process  Decisions are made with equity and fairness among participants  No
+one party dominates or guides standards development  Standards processes are
+transparent and opportunities exist to appeal decisions  Processes for periodic
+standards review and updating are well defined 
+  Broad consensus  Processes allow for all views to be considered and addressed 
+such that agreement can be found across a range of interests 
+  Transparency  Standards organizations provide advance public notice of proposed
+standards development activities  the scope of work to be undertaken  and conditions
+for participation  Easily accessible records of decisions and the materials used in
+reaching those decisions are provided  Public comment periods are provided before
+final standards approval and adoption 
+  Balance  Standards activities are not exclusively dominated by any particular
+person  company or interest group 
+  Openness  Standards processes are open to all interested and informed parties 
+   Collective empowerment  Commitment by affirming standards organizations and
+their participants to collective empowerment by striving for standards that 
+  are chosen and defined based on technical merit  as judged by the contributed
+expertise of each participant 
+  provide global interoperability  scalability  stability  and resiliency 
+  enable global competition 
+  serve as building blocks for further innovation  and
+  contribute to the creation of global communities  benefiting humanity 
+   Availability  Standards specifications are made accessible to all for implementation and
+deployment  Affirming standards organizations have defined procedures to develop
+specifications that can be implemented under fair terms  Given market diversity  fair terms
+may vary from royalty-free to fair  reasonable  and non-discriminatory terms (FRAND) 
+   Voluntary adoption  Standards are voluntarily adopted and success is determined by
+the market 
+
+This paper offers a brief introduction to some of the Internet organizations and processes that
+shape naming and addressing  shared global services and operations  and open standards
+development in the Internet ecosystem  It builds on the Internet Society’s well-received
+graphic  The Internet Ecosystem 
+http   www internetsociety org who-makes-internet-work-internet-ecosystem 
+This paper looks at many of the key organizations and processes that shape Internet policy 
+with a focus on how any interested stakeholder can get involved in their work  It is not
+exhaustive  nor does it cover all aspects in detail  It is recommended that readers use this
+document as a starting point in their exploration of the Internet ecosystem  its players and
+policy processes  Extensive hyperlinked references are provided throughout to assist anyone
+seeking deeper understanding or involvement 
+As a discussion paper   Exploring the Internet Ecosystem  will remain a work in progress 
+Readers who wish to suggest improvements are invited to send suggestions to the Internet
+Society at isoc@isoc org 
+  This presentation of the Internet ecosystem is not the only way to look at all or part of the complex environment that
+supports the global Internet  See also the following examples 
+http   www internetsociety org sites default files is-internetresources-      -en pdf
+http   www icann org sites default files assets governance-    x    -  mar  -en png
+The Importance of Participation
+A diverse set of players has shaped the Internet and continues to contribute to its future
+success  Yet the Internet is not a static thing  Since it was established as a research network
+more than    years ago  it has evolved from a small government-run network of researchers to
+a network of networks that is the cornerstone for the global economy and an indispensable
+tool for individuals worldwide 
+These phenomenal changes pose significant challenges for policy processes and actors in the
+Internet policy field  The organizations and processes that shape Internet policy have proven
+to be resilient and adaptable in large part because they have assumed that change is a
+constant and because they recognize that the best solutions to new issues that arise stem
+from willing collaboration between informed stakeholders 
+The Internet Society encourages all stakeholders to become involved in the policy and
+standardization processes that support the ongoing evolution of the Internet and the equally
+evolving management of Internet resources 
+Within the Internet ecosystem  various organizations have responsibilities for the protocols and
+standards that enable basic end-to-end communications (such as the Internet Protocol)  the
+resources that direct these communications (such as IP addresses and the Domain Name
+System)  the provision of reliable connectivity that ensures the communications reach their
+intended destinations  thus linking end-users (such as global telecommunication  satellite and
+cable system operators  Internet Exchange Points  etc )  and the policies  frameworks and
+educational activities necessary to ensure the Internet’s openness  continuity and flexibility 
+These technologies  resources and services are all highly interdependent and require a
+significant amount of coordination  The organizations responsible for standardization 
+coordination  administration and day-to-day management in the Internet sphere include the
+IETF  ICANN  the IANA function  the RIRs  and many others that will be touched upon in this
+paper  Each organization has a specific role and provides fundamental value to the overall
+functioning of the Internet 
+These organizations have a proven  long-standing relationship with one another in
+coordinating the technical infrastructure of the Internet and have contributed to its incredible
+growth and stability  They make use of well-established mechanisms  including open  public
+meetings  mailing lists and bottom-up policy development processes that enable direct
+participation by any interested party  This way of working ensures that policies are defined by
+those who require them for their operations  It also gives the system the flexibility to respond
+and adapt to the Internet’s rapidly evolving technology and to the changing needs of the
+Internet community  It has resulted in the creation of a significant body of knowledge and
+experience in the successful administration and management of the technologies  resources
+and services that make the Internet the success it is today 
+The development  governance and coordination of the Internet result from discussions 
+debates and policy development processes in many specialized forums  Active participation by
+end users  governments  business  civil society and technical experts (whether as individuals
+or organizational representatives) is essential to make the policies  approve the procedures
+and write the standards  etc   that make the Internet the efficient and effective system it is
+today 
+The Internet Society is pleased to offer this guide to the Internet stakeholders  their policy
+processes and participation mechanisms related to naming and addressing  shared global
+services and operations and open standards development within the Internet Ecosystem  It is
+hoped that this paper helps encourage and facilitate participation in these important areas of
+Internet policy development 
+The Internet Ecosystem
+Internet ecosystem is the term used to describe the organizations and communities that have
+organically evolved to guide the operation and development of the technologies and
+infrastructure that comprise the global Internet  These organizations share common values
+and a shared commitment to the open development of the Internet 
+The term Internet ecosystem implies a Darwinian evolution focusing on the rapid and
+continued development and adoption of Internet technologies and which is characterized by
+the involvement of a broad range of actors  open  transparent  and collaborative processes 
+and the use of products and infrastructure with dispersed ownership and control 
+Organizations that comprise the Internet Ecosystem include 
+! Technical standards bodies such as the Internet Engineering Task Force (IETF)  the
+World Wide Web Consortium (W C)  and the Institute of Electrical and Electronic
+Engineers (IEEE)
+! Organizations that manage resources for global naming and addressing capabilities such
+as the Internet Corporation for Assigned Names and Numbers (ICANN)  including its
+operation of the Internet Assigned Numbers Authority (IANA) function  Regional Internet
+Registries (RIR)  and Doman Name Registries and Registrars
+! Companies that provide network infrastructure services such as Domain Name Service
+(DNS) providers  network operators  cloud and content delivery network providers  and
+Internet Exchange Points (IXPs)
+! Individuals and Organizations that use the Internet to communicate with each other and
+offer services and applications  or develop content  and
+! Organizations that provide education and build capacity for developing and using Internet
+technologies  such as multilateral organizations  educational institutions  and
+governmental agencies 
+This paper looks at each component of the Internet ecosystem in turn 
+Naming and Addressing
+Focus Areas 
+! Internet Protocol (IP) Addresses
+! Generic Top Level Domains (gTLDs)
+Internet Protocol Addresses (IP Addresses)
+Background
+Internet Protocol (IP) addresses are unique numeric identifiers that are needed by every
+device that connects to the global Internet  The numeric identifier is assigned to a device or
+end point that enables data to be accurately transported between origination and destination
+points within a network or networks  IP addresses are a shared common resource that must
+be managed carefully and consistently to ensure the continued growth and stability of the
+Internet 
+Players
+IANA
+The Internet Assigned Numbers Authority (IANA) maintains registries of unique
+codes and numbers that are used in the technical standards ( protocols ) that drive
+the Internet  IANA’s activities can be broadly grouped in to three categories 
+Domain Names
+IANA manages the Domain Name System (DNS) Root zone  the  int and  arpa
+domains  and an Internationalized Domain Names (IDN) language table registry 
+http   www iana org domains
+Number Resources
+IANA coordinates the global pool of unicast IP addresses and Autonomous System
+(AS) numbers  providing them to Regional Internet Registries 
+http   www iana org numbers 
+Protocol Assignments
+Other numbers  names and resources for Internet protocols developed by the
+Internet Engineering Task Force (IETF) are maintained in IANA-managed registries
+under the direction of the IETF  http   www iana org protocols
+The IANA function is performed by ICANN under contract with the United States
+Department of Commerce 
+ICANN
+The Internet Corporation for Assigned Names and Numbers (ICANN) has
+responsibility for unicast Internet Protocol (IP) address space allocation (through
+IANA)  and the operation and evolution of the Domain Name System  along with the
+coordination of policy development reasonably and appropriately related to these
+technical functions  http   www icann org en about
+ASO
+The ICANN Address Supporting Organization (ASO) was established by means of a
+Memorandum of Understanding (MoU) between the Numbering Resource
+Organization (NRO) and ICANN  This MoU establishes that the NRO fulfills the role 
+responsibilities  and functions of the ASO as defined within the ICANN Bylaws 
+The functions of the ASO are carried out by the ASO Address Council (ASO AC) 
+whose members are elected and appointed by their respective RIR communities  Its
+purpose is to review and development of recommendations on Internet number
+resource policy and to advise the ICANN board  http   aso icann org 
+NRO
+The NRO is composed of the   Regional Internet Registries (RIRs)  The purpose of
+the Number Resource Organization is to ensure global coherence of certain RIR
+activities  and to provide a single common interface to all the RIRs where this is
+necessary  The NRO also undertakes joint RIR activities  including technical
+projects and liaison activities  http   www nro net 
+RIR
+The five Regional Internet Registries (RIRs) are responsible  within their respective
+regions  for allocating Internet number resources such as globally unique IP
+addresses (IPv  and IPv ) and autonomous system numbers  These resources are
+required by Internet service providers and users to identify elements of the basic
+Internet infrastructure such as interfaces on routers  switches and computers   RIRs
+hold open policy forums to discuss and establish regional policies for number
+allocation 
+The African Network Information Center (AFRINIC)  http   www afrinic net
+The Asia Pacific Network Information Centre (APNIC)  http   www apnic net 
+The American Registry for Internet Numbers (ARIN)  https   www arin net 
+The Latin American and Caribbean Internet Addresses Registry (LACNIC) 
+http   www lacnic net 
+The Réseaux IP Européens Network Coordination Centre (RIPE NCC) 
+http   www ripe net 
+NIR
+A National Internet Registry (NIR) primarily allocates address space obtained from
+the relevant RIR  consistent with RIR policies  to its members or constituents  which
+are typically LIRs ISPs  A limited number of NIRs exist in the Asia and Latin
+American and Caribbean regions  
+  http   www nro net about internet-registries html
+  For a full list  http   en wikipedia org wiki National_Internet_registry
+LIR
+A Local Internet Registry (LIR) is typically an Internet Service
+Provider (ISP)  which assigns address space to users of its network services (who
+may be other ISPs  which then assign address space to their own customers)  
+ISPs
+Internet Service providers  
+IP Address Allocation Process
+The allocation of unicast Internet Protocol addresses is undertaken by IANA  in accordance
+with the IP specification laid out by IETF specifications 
+Requests for IP addresses are typically made by LIRs (usually an ISP) either to the
+appropriate Regional Internet Registry (RIR)  or  in limited cases  to the National Internet
+Registry (NIR) – if any such exist in the particular jurisdiction  (The LIRs and NIRs also receive
+their allocations from the RIR in their particular region )  
+As an RIR completes allocations from the space it has been given from IANA  the RIR will
+request a new allocation from IANA  Once IANA has determined that the request meets
+various clearly defined conditions (agreed on in global policy)  the allocation is made to the
+RIR  IANA does not make allocations directly to ISPs  LIRs and NIRs 
+For an in-depth review of the RIRs and the evolution of address allocation policy 
+http   www internetsociety org fine-balance-internet-number-resource-distribution-and-decentralisation
+Whether an ISP requests addresses from an RIR or an RIR requests a new block of
+addresses from IANA  there must be a demonstrated need for the request to be granted  The
+allocation processes outlined above are clearly defined in policy documents agreed between
+the RIRs and ICANN (as the responsible party for IANA’s operations)  These documents are
+listed below 
+Global Policy for Post Exhaustion IPv  Allocation Mechanisms by the IANA 
+https   www icann org en resources policy global-addressing allocation-ipv -post-exhaustion
+  ibid
+  http   en wikipedia org wiki Internet_service_provider
+  For more information on the operational relationships between NIRs and APNIC 
+http   www apnic net policy operational-policies-nirs text
+Internet Assigned Numbers Authority (IANA) Policy for Allocation of ASN Blocks to Regional
+Internet Registries  https   www icann org en resources policy global-addressing global-policyasn-
+blocks-  sep  -en htm
+IANA Policy for Allocation of IPv  Blocks to Regional Internet Registries 
+https   www icann org en resources policy global-addressing allocation-ipv -rirs
+Additionally  certain protocol parameter-related technical aspects of IANA’s work  including IP
+addresses  are governed by a MoU between the Internet Engineering Task force (IETF) and
+ICANN  MoU Concerning the Technical Work of the IANA  http   tools ietf org html rfc    
+IP Address Policy Processes
+Unicast IP addresses are allocated based on policies that are proposed and agreed through
+bottom-up and open consultation mechanisms  The RIRs  NIRs  ISPs and end users allocate 
+assign and use IP addresses  Two additional policy-focused entities are also involved in policy
+development for IP address distribution  the NRO and the ICANN ASO (Address Supporting
+Organization) 
+Regional IP address allocation policy development usually begins when an individual or
+organization submits an idea to an RIR  RIRs host open policy forums and mailing lists to
+discuss these ideas and establish regional policies for Internet number delegation  While the
+RIR policy development processes may differ slightly across the regions  they are based upon
+the principles of openness  transparency and deliberation  and any individual or organization
+can participate  
+Global policy proposals that affect how the RIRs receive resources from IANA also start as
+policy ideas submitted to the RIR policy forums  For a policy to be declared global  it has to be
+one that affects all five RIRs and IANA 
+Global policy proposals are discussed within each of the RIR communities  When each RIR
+community adopts the same proposal (minor word differences that don’t change the meaning
+are acceptable)  the proposal is then forwarded to the ASO  The ASO then communicates the
+proposal to the ICANN Board and  once the Board has accepted  the proposal becomes global
+policy and is formally published on the NRO and ICANN websites  
+  http   www afrinic net en community policy-development
+http   www apnic net community policy
+https   www arin net policy pdp html
+http   www lacnic net web lacnic proceso-de-desarrollo-de-politicas
+http   www ripe net ripe policies
+  For more information on the global policy process  see 
+Attachment A  Global Policy Development Process  ICANN Address Supporting Organization (ASO) MoU 
+http   aso icann org documents memorandum-of-understanding
+The policy development processes (PDPs) for both regional and global policy proposals are
+open and all interested parties and stakeholders are encouraged to participate  This is
+discussed in the following section 
+How to Participate in IP Address Allocation Policy Processes
+Interested individuals and organizations can follow and participate in IP address allocation
+policy development through the RIRs’ open meetings  policy development processes and
+forum mailing lists  ICANN’s public meetings  and through the open ASO  mailing lists 
+Government representatives are encouraged to participate directly in the RIR policy process 
+and several do  In addition  they can also be informed of recent developments in IP address
+allocation discussions through the ICANN’s Governmental Advisory Committee (GAC) via the
+NRO report  http   gac icann org 
+Additionally  government representatives can and do participate in the RIR and ICANN open
+meetings and subscribe to their open mailing lists  Some RIRs also hold specific roundtable
+meetings focused on issues of interest to governments and regulators   
+While participation in the IP address allocation policy is important  participation in the uptake
+and transition to IPv  is equally so  Most of the Internet is currently addressed via IP version  
+(IPv ) addresses  IPv  addresses are also increasingly used  but not yet to the same extent 
+IPv  is a more recent protocol  offering a much larger address pool than IPv   The deployment
+of IPv  does not mean that the whole Internet switches over to IPv  on some specified date 
+rather the deployment is a process during which the new protocol will increasingly be adopted 
+During the deployment both protocols will coexist  At some future time  IPv  is expected to be
+the dominant IP version  and IPv  use will drop off 
+This deployment of IPv  is becoming increasingly critical as the IPv  address pool is running
+out and the time to implement IPv  in networks is now  The deployment is taking place  thanks
+to a concerted effort that is growing across the Internet ecosystem  For example  with World
+IPv  Day  hosted by the Internet Society  major web companies and other industry players
+came together to enable IPv  on their main websites for    hours  The goal was to motivate
+organizations across the industry — Internet service providers  hardware makers  operating
+system vendors and web companies — to prepare their services for IPv  to ensure a
+successful transition as IPv  address space runs out  In       the World IPv  Launch took
+place  with many more Internet service providers (ISPs)  home networking equipment
+manufacturers  and Web companies around the world permanently deploying IPv  for their
+Board's Review Procedures for Global Internet Number Resource Policies  http   www icann org en news in-focus globaladdressing 
+review-procedures
+  http   aso icann org contact aso-mailing-lists 
+        RIPE meeting for governments and regulators  http   www ripe net meetings roundtable feb     
+products and services  Between World IPv  Day and the World IPv  Launch  IPv  use around
+the world doubled  and it doubled again by one year later in       These efforts demonstrate
+what can be achieved through the collective and collaborative action within the Internet
+ecosystem 
+For more information on IPv  and its importance to the future growth and continuity of the
+Internet see  http   www worldipv launch org infographic  or
+http   www internetsociety org what-we-do internet-technology-matters ipv 
+The Internet Society is expanding its efforts to catalyze the adoption of IETF standards and
+technologies  Its Deploy    Programme supports the deployment and use of key Internet
+technologies by bridging the gap between IETF standards documentation and final adoption of
+those standards by the global operations community  Deploy    provides realworld
+IPv   DNSSEC  and Routing Resiliency Security deployment information including
+detailed  technical how-to resources and educational articles  best current operational
+practices  case studies  and other in-depth information 
+http   www internetsociety org deploy    ipv  
+http   www internetsociety org deploy    dnssec 
+http   www internetsociety org deploy    routing 
+http   www internetsociety org deploy    about bcop 
+Generic Top Level Domain Names
+Background
+A generic top-level domain (gTLD) is one of a number of different types of top-level domains
+(TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain
+Name System of the Internet  These categories include  among others  generic top level
+domains (gTLD) and country code top level domains (ccTLD)  A domain name is a way of
+making an Internet Protocol address (a series of numbers and dots) more comprehensible to
+users  Typical gTLDs that we are all familiar with include  com   net   org  etc 
+Two recent developments that are touched upon in this paper that have been the product of
+extensive policy deliberation are the introduction of new gTLDs and the introduction of
+internationalized ccTLDs and internationalized gTLDs 
+Actors in the ICANN gTLD Policy Process
+GNSO
+The Generic Names Supporting Organization (GNSO) is the main policy-making
+body of ICANN for gTLDs  http   gnso icann org 
+CSG
+The GNSO’s Commercial Stakeholder Group (CSG) represents the views of small
+businesses  business organizations  Internet connectivity providers  intellectual
+property owners and intellectual property organizations  CSG is official represented
+at ICANN by the following constituencies  Commercial business users  Intellectual
+property interests  and Internet service providers 
+http   gnso icann org en about stakeholders-constituencies csg
+NCSG
+The Non-commercial Stakeholder Group (NCSG) in the GNSO is the home for civil
+society organizations  individuals and non-for-profit organizations within ICANN 
+NCSG is officially represented at ICANN by the following constituencies  a) Non-
+Commercial Users Constituency (NCUC)  and  b) the Non-for Profit Operational
+Constituency  http   gnso icann org en about stakeholders-constituencies ncsg
+gTLD Registries Stakeholder Group
+The gTLD Registries constituency represents those organizations running gTLD
+registries within the GNSO  http   gnso icann org en about stakeholdersconstituencies 
+rysg
+Registrar Stakeholder Group
+The registrar constituency represents companies that register domains for Internet
+users for a fee within the GNSO  http   gnso icann org en about stakeholdersconstituencies 
+rrsg
+Structure of gTLD Policy Process
+gTLD policy discussions are typically initiated by or within ICANN’s Generic Names Supporting
+Organization (GNSO) following input from its six  stakeholder  communities  the Commercial
+Stakeholder Group (Commercial Business Users  Intellectual Property  Internet Service
+Providers  the Non-Commercial Stakeholder Group (Non-Commercial Users  Not-for-Profit
+Operational Concerns)  Registry Stakeholder Group (those that manage the TLDs)  Registrar
+Stakeholder Group  Nominating Committee Appointees and Liaisons  Board Appointees and
+NomCom Appointees  Information on the structure of the GNSO can be found at 
+http   gnso icann org en about structures     
+Each of these stakeholder groups has its respective policy processes to allow positions to be
+submitted to the GNSO Council for review  For further details of memberships and policy
+processes it is recommended that the reader visit the relevant stakeholder group website (see
+above)  Each of these stakeholder groups elects representatives to the GNSO Council 
+The GNSO has a policy development process that is outlined in ICANN’s bylaws    The ICANN
+Board  the GNSO Council or an ICANN Advisory Committee (GAC  ALAC  SSAC  RSSAC)  
+may raise issues for consideration within the policy development process of the GNSO 
+Typically the GNSO will meet with the Advisory Committees  notably the GAC  during each
+ICANN meeting to inform and encourage discussion  Once the issue has satisfied the
+necessary requirements the policy development process (PDP) can begin 
+Once a proposal has passed through the GNSO’s PDP and has the recommendation of the
+GNSO Council it is submitted to the ICANN Board for approval 
+The New gTLD Policy
+In       agreement was reached in ICANN for the introduction of new gTLDs  The largest new
+gTLD process to date is now in its final stages and some new gTLDs have already been
+added to Root Zone file  ICANN is expected to add many more in      and  after a review of
+the process  may hold additional rounds 
+! A full review of the new gTLD process and updates  http   newgtlds icann org en 
+! Final version of the applicant guidebook  http   newgtlds icann org en applicants agb
+How to Participate in gTLD Policy Processes
+The gTLD landscape is changing and the introduction of new gTLDs and Internationalized
+Domain Names should encourage a greater number of stakeholders to participate in the
+associated policy processes 
+As an interested individual one can follow and participate in the policy discussions through
+ICANN’s public comment webpage where all the substantive pieces of work of a policy nature
+(and more) are listed and open to comment   
+   GNSO policy development process  http   www icann org en general bylaws htm#AnnexA
+   ICANN Advisory Committees overview  http   www icann org en structure 
+   http   www icann org en public-comment 
+For a more in-depth engagement  interested individuals can join the constituency representing
+their particular interest  For example  those involved in civil society organizations or not-forprofit
+organizations  or who are interested in participating as individuals could decide to join
+the non-commercial stakeholder group (NCSG)  http   gnso icann org en about stakeholdersconstituencies 
+ncsg
+Organizations have an opportunity to participate in the various ICANN supporting structures
+(through the constituencies outlined above)  This requires a greater level of engagement  but
+for those organizations that are involved in or have a material interest in the domain name
+space participation is important 
+Many representative organizations participate in the ICANN processes  It is not essential 
+therefore  to participate directly  although a decision whether to do so will of course depend
+upon the importance of ICANN deliberations to the organization in question  The International
+Chamber of Commerce in the GNSO’s CSG is an example of a representative association that
+participates in the ICANN GNSO and many other forums    Many other national  regional or
+international associations participate in ICANN processes  and these provide a useful first
+entry point for individuals and organizations that are new to the world of gTLD policy 
+And  as with IP address allocation  governments will typically participate directly in ICANN
+gTLD deliberations through the GAC  although GAC representatives are free to participate
+directly in any ICANN constituency 
+It is also essential that interested individuals and organizations monitor related policy initiatives
+or consultations in their home countries  Some national governments may issue updates or
+notices to their citizens and may also hold consultations on Internet policy matters  In these
+cases  it is important that interested parties contribute to those discussions at a national level 
+Input and comments to national governments help shape the positions that their
+representatives will take in the GAC at ICANN  For more on the ways in which individuals and
+organizations can participate in ICANN  http   www icann org en participate how-do-iparticipate 
+html
+Shared Global Services and Operations
+Focus Areas 
+! Root Servers
+! Country Code Top Level Domains (ccTLDs)
+Root Servers
+Background
+The root zone file is at the apex of the Domain Name System (DNS) database  It contains
+information only about the authoritative domain name servers for each top-level domain name  and
+is used to ensure a request for information from any client for any top-level domain is directed to
+the correct place  This database is used by almost all Internet applications as part of the process of
+translating globally unique names like internetsociety org into other identifiers  the web  e-mail and
+many other services make use of the DNS  That is to say  the DNS query for www example org
+includes the full name  however  the response from the root server only points to the nameservers
+for  org  In general terms  the root server operator does not typically log  share or analyze the type
+of request except in aggregated form  or even have access to the original source address from
+which the query is sent  While such data could be available under some circumstances  Industry
+best practices for the protection of the security and integrity of the service dictate that it be
+protected in accordance with data privacy laws 
+The root zone file is housed in hundreds of computers known as root servers  located in many
+countries in every region of the world  Root servers contain the IP addresses of all the TLD registry
+name servers  including the gTLDs such as  com and the ccTLDs such as  de (Germany)  Root
+servers  translate  names into next-level nameserver IP addresses  allowing the user’s software to
+take the next step to finding desired Internet content  They perform a critical if somewhat  backoffice 
+role in ensuring the continuity and therefore reliability of the Internet 
+Players
+IANA
+IANA is the global coordinator of the DNS root  which is the uppermost part of the
+DNS hierarchy  http   www iana org domains 
+ICANN
+In the context of root servers  ICANN is the responsible party for the operational
+management of IANA under contract with the United States Department of
+Commerce    ICANN is also the operator of the L Root 
+Root Server Operators
+The root server operator function is limited to making the data held in the root quickly  securely 
+and reliably accessible to Internet users worldwide through the DNS protocol  Root server
+operators and their organizations do not take part in editorial decisions about the content of the
+DNS root zone  except to advise IANA on strictly technical matters such as management of
+DNSSEC-related records  For a full list of the root server operators and locations 
+http   www root-servers org 
+RSSAC
+The Root Server System Advisory Committee advises the ICANN Board and
+community on the operation of the root name servers of the domain name system 
+Its Executive Committee consists of representatives from each root name server  it
+   http   www ntia doc gov ntiahome domainname iana ianacontract_       pdf
+consults other DNS experts as well in forming its advice 
+http   www icann org en groups rssac
+In addition to their work in the RSSAC  the root server operators have maintained a
+loose  informal association that predates ICANN for discussion of operational and
+security matters relating to the service they provide  http   www root-servers org 
+The Role of Root Servers and Root Server Operators
+The root zone file is housed centrally and distributed periodically to each of the other root servers
+around the world  At present  Verisign performs this function under a cooperative agreement with
+the U S government (see below)  (Verisign also operates the A-root  but separately from this
+function ) The root zone file is distributed to the root server operators using the same mechanisms
+as any other DNS zone  and then further distributed by the operators using a methodology known
+as anycast  Anycast  also widely used by DNS operators for important zones besides the root 
+makes possible a more geographically distributed and resilient Internet  and provides for more
+local access to the root servers around the world  (Anycast uses standard  well-tested features of
+DNS and internet routing protocols to enable the use of many more operational DNS servers for
+the root zone than the original     for example   f root-servers net   managed by Internet Systems
+Consortium  provides service for the root zone from dozens of locations worldwide )
+The root server operators are a group of independent and autonomous organizations that are
+responsible for the management and maintenance of the root servers  Each operator is
+responsible for the way in which its particular service is operated  This diversity is one of the
+strengths of the system  Neither the IANA nor ICANN have any executive authority over the
+operation of root name servers  By the same token  the root server operators have minimal
+involvement in setting policy  They do not control what information is in the root zone or the
+process of making changes to the root zone  They do play an important role  drawing on their
+operational experience to share data  and to provide information and advice to one another and to
+the IANA on operational matters and in policy setting  for example  during the deployment of
+DNSSEC (Domain Name Security)  This is consistent with the root server operators’ strong
+operational focus 
+To fulfill their role within ICANN  which is set out in that organization’s Bylaws  the root server
+operators participate in the Root Server System Advisory Committee (RSSAC)  The RSSAC is to
+advise the ICANN community and Board on matters relating to the operation  administration 
+security  and integrity of the Internet's root server system  The administrative work of the RSSAC is
+carried out by its Executive Committee  while a Caucus of DNS and root server system experts are
+responsible for the essential work of the RSSAC in providing that advice 
+The Internet Architecture Board provides a liaison to the RSSAC  reflecting the fact that the IETF
+has a key role in documenting the technical requirements of the DNS root servers together with the
+root server operators themselves  ICANN and the various stakeholders  The ICANN Security and
+Stability Advisory Committee (SSAC) also provide a liaison to RSSAC to promote discussion of
+issues of mutual interest  The root server operators meet regularly at IETF and ICANN meetings 
+They also participate in IETF processes  such as the DNSOP WG  which develops guidelines for
+the operation of DNS software servers and the administration of DNS zones  and contribute to the
+work on individual Internet drafts where their expertise can be useful 
+Participation in Root Server Related Policy Activities
+Anyone interested wishing to understand or participate in root server operators’ policy
+development activities should explore the opportunities available with each of the root server
+operators directly  because there are considerable differences among them  As a group  the root
+server operators operate transparently and provide information to the public via their web site 
+http   www root-servers org
+In addition  some individual operators maintain their own web sites  usually under the letter naming
+the root they operate 
+http   $letter root-servers org  e g  http   k root-servers org or http   i root-servers org
+For those who are not themselves directly involved in operating a root server  perhaps the most
+appropriate avenue for interacting with the root server operators is through the ICANN process 
+including the RSSAC  or through participation in the IETF 
+Within ICANN  the RSSAC operates in accordance with ICANN community norms of openness 
+and thus conduct open meetings and publish meeting minutes 
+Within the IETF  the root server operators interact in accordance with IETF community norms 
+including inviting open participation in the development of any Internet drafts or RFCs relevant to
+the DNS root name service protocol or the operation and administration of DNS root servers 
+Anycast and Increasing Capacity
+The root server operators are involved at the operational level in many efforts to improve Internet
+capacity throughout the world  Having one or more anycast instances of root servers nearby can
+improve the speed  reliability  and security of internet service for users  so the root server
+operators are generally willing to add anycast capacity wherever there is infrastructure to make it
+possible to operate locally  Root server operators have collaborated with ISPs  Internet exchange
+point (IXP) operators  RIRs  and some governments in order to bring improved DNS service for the
+root as part of improving capacity overall 
+Formal Policy and Documentation
+Historically  because of their operational focus and the fact that their role predates ICANN and
+most formal Internet governance debates  the root server operators have not been major
+participants in formal policy processes  In addition to the informal mechanisms discussed above 
+however  there are a few documents regarding root server operations that have served to describe
+relevant relationships 
+Verisign agreements covering the root with USG 
+http   www ntia doc gov page verisign-cooperative-agreement
+ISC  accountability framework  document with ICANN 
+http   archive icann org en froot ICANN-ISC-MRA-  dec   pdf
+An exchange of letters between the root server operators and ICANN  indicating their intention to
+coordinate and collaborate  For example  the exchange between Netnod  operator of the I-root and
+ICANN 
+http   www icann org en news correspondence lindqvist-to-twomey-  may  -en pdf
+http   www netnod se sites default files ICANN-AUTONOMICA-Iroot pdf
+Country Code Top Level Domains (ccTLDs)
+Background
+A country code top-level domain (ccTLD) is an Internet top-level domain generally used by
+a country – for example   de (Germany)   ke (Kenya) and  jp (Japan) – and designated
+according to the ISO two-letter country code standard   
+ICANN’s introduction of a fast track for internationalized ccTLDs has proven successful and
+popular  while work continues to resolve a range of technical issues   
+The Players
+IANA
+ICANN
+ccNSO
+The Country Code Names Supporting Organization (ccNSO) is the policy
+development body created for and by ccTLD managers for ccTLD issues within
+ICANN  http   ccnso icann org 
+   http   en wikipedia org wiki ISO_    - _alpha- 
+   http   www icann org en topics idn fast-track 
+ccTLD operators
+See the list from the IANA website  http   www iana org domains root db 
+Regional ccTLD associations
+There are a number of regional ccTLD organizations 
+AFTLD for Africa http   www aptld org
+APTLD for Asia Pacific http   www aptld org
+CENTR for Europe http   www centr org
+LACTLD for Latin America and the Caribbean http   www lactld org
+Structure of ccTLD Policy Processes
+Policies are set by the trustee operator (formally called  the manager ) for the day-to-day
+management of a particular country’s ccTLD and by the ccTLD community  the regional ccTLD
+associations and the ccNSO within ICANN  for policies relevant to the operation of ccTLDs
+overall 
+Requests for the delegation or redelegation of a ccTLD  as with all TLDs  are handled by the
+IANA function  Basic principles govern the delegation or redelegation of a ccTLD  for example 
+it is required that the manager be a responsible and technically competent trustee of the
+domain on behalf of the national and global Internet communities  In many cases a
+government agency acts as a trustee for the delegation of the ccTLD and may also act as the
+operator of the ccTLD 
+When a delegation or redelegation of a ccTLD is requested  the U S  Department of
+Commerce  as the Root Zone Administrator  is responsible for verifying that processing
+procedures have been followed  and authorising any related changes to the DNS root zone
+and root zone database 
+Policy that relates to the overall operation of the ccTLDs is set by the ccTLDs through ICANN 
+Any policy proposal would likely start when a proposal is brought forward to the ccNSO by an
+individual ccNSO member (a ccTLD operator) or by one of the regional ccTLD associations
+(CENTR for Europe  for example) 
+The policy development process of the ccNSO is described fully in the ICANN Bylaws 
+http   www icann org en about governance bylaws#AnnexB
+Policy changes can also be proposed by the GAC - the government advisory body to ICANN 
+Indeed the ccNSO and the GAC often cooperate within ICANN to propose policy changes  For
+example  the ccNSO and the GAC collaborated to develop policy proposals for the introduction
+of IDN (internationalized domain name) ccTLDs 
+Proposals that will affect the operation of ccTLDs globally are presented to the ICANN Board
+for review and approval  The recent introduction of  fast-track  Internationalized ccTLDs is a
+useful example of the ccNSO’s policy development process and can be found here 
+http   ccnso icann org policy cctld-idn
+For more information on the IDN ccTLDs fast track  http   www icann org en topics idn fast-track 
+How to Participate in ccTLD Policy Processes
+As an interested individual or organization participation is possible through a number of routes 
+Some ccTLD operators have their own open policy development processes  and it is possible
+to participate in those processes online or through open meetings  For example  Nominet  the
+ccTLD operator for  uk  encourages engagement in its policy development processes 
+http   nominet com policy process 
+ICANN also has open consultations  To be more involved in ICANN interested individuals can
+participate in  for example  the ALAC (At-Large Community) that represents the interests of
+individual Internet users 
+As a government representative or as an affiliated entity (registry  associated business  etc ) it
+is best to contact the appropriate ccTLD first to better understand how to engage in related
+national policy development  With some ccTLD operators it is possible to contribute to policy
+development without being a member  registrar or other associated entity  Mechanisms for
+participation will differ from ccTLD operator to ccTLD operator 
+As of       the ccNSO counts     Member ccTLD Registries 
+http   ccnso icann org about members htm
+Open Standards Development
+Focus Area 
+! Internet Society affiliated organizations and other Internet standards bodies
+Background
+The Internet is built on technical standards that allow devices  services  and applications to be
+interoperable across a wide and dispersed network of networks  By focusing on interoperability
+for passing traffic between networks  Internet standards describe the protocols without
+prescribing device characteristics  business models  or content 
+The Internet depends on several types of technical standards  developed by a range of
+organizations  These include  among others  standards and protocols developed by the
+Internet Engineering Task Force (IETF)  as well as telecommunications infrastructure
+standards developed by the International Telecommunications Union (ITU)  hardware
+standards developed by bodies such as the Institute of Electrical and Electronics Engineers
+(IEEE)  and application and software standards  such as those developed by the World Wide
+Web Consortium (W C)  A key principle for effective standards development is respectful
+cooperation between standards organizations  with each respecting the autonomy  integrity 
+processes  and intellectual property rules of the others  The leading Internet standards
+organizations have jointly agreed on the essence of the modern paradigm for standards  and
+encourage others to adopt and support these proven principles through the OpenStand
+movement 
+The Players
+ISOC
+The Internet Society (ISOC) is the organizational home of the Internet Engineering
+Task Force (IETF)  the Internet Architecture Board (IAB)  the Internet Engineering
+Steering Group (IESG)  and the Internet Research Task Force (IRTF)   — the
+standards setting and research arms of the Internet community 
+http   www internetsociety org 
+IETF
+The Internet Engineering Task Force (IETF) is a large  open and international
+standardization community comprising network designers  operators  vendors  and
+researchers concerned with the evolution of the Internet architecture and the
+smooth operation of the Internet  The IETF is responsible for developing and
+maintaining the specifications for key Internet protocols such as IP (v  and v )  as
+well as HTTP (the communication protocol for the World Wide Web) 
+http   www ietf org 
+IAB
+The IAB (Internet Architecture Board) is chartered as a committee of the IETF  Its
+responsibilities include architectural   oversight of IETF activities  Internet Standards
+Process oversight and appeal  and the appointment of the RFC Editor  The IAB is
+also responsible for the management of the IETF protocol parameter registries   
+http   www iab org 
+IESG
+The IESG (Internet Engineering Steering Group) is responsible for the technical
+management of IETF activities and the Internet standards process  It is also
+responsible for the actions associated with entry into  and movement along  the
+Internet  standards track   including final approval of specifications as Internet
+Standards  http   www ietf org iesg 
+   http   www irtf org 
+   The IAB provides oversight of  and occasional commentary on  aspects of the architecture for the protocols and
+procedures used by the Internet 
+   For more on the protocol parameter registries  http   tools ietf org html rfc    
+W C
+The W C (World Wide Web Consortium) develops interoperable technologies
+(specifications  guidelines  software  and tools) for the World Wide Web  The W C
+is an international forum for information  commerce  communication  and collective
+understanding  One of the most important outcomes of the W C is the standard
+specification of HTML and its successors  which are the publishing languages of the
+World Wide Web  http   www w  org 
+IEEE
+The IEEE (Institute of Electrical and Electronics Engineers) is an international
+organization that develops electrical and electronic technology standards  Many of
+the IEEE standards are integral to computing science and networking technologies 
+Some examples of key technologies include Ethernet  WiFi  Bluetooth  and Fiber
+optic connection standards  http   standards ieee org 
+ITU-T
+The International Telecommunications Union (ITU) is a specialized agency of the
+United Nations dealing with information and communication technology issues  The
+ITU coordinates the shared global use of the radio spectrum  promotes international
+cooperation in assigning satellite orbits  works to improve telecommunication
+infrastructure in the developing world  and produces recommendations that foster
+the interconnection of communications systems  ITU-T (the telecommunications
+standardization sector of the ITU) produces global telecommunications
+recommendations  The recommendations produced by the ITU-T are not specific to
+the Internet  but because a portion of Internet traffic is carried over
+telecommunication networks  ITU-T is a part of the greater ecosystem 
+http   www itu int ITU-T 
+Structure of Internet Standards Development
+The following offers a brief and necessarily broad-brush outline of the standardization
+processes structures of the IETF  the W C and the IEEE-SA  These organizations work to
+ensure that the standards they develop contribute to and further the stability and continuity of
+the Internet  However  these organizations have differing approaches and processes and
+differing membership structures – or none at all in the case of the IETF 
+These organizations have responsibility for different  but complementary  areas of
+standardization  For example  the IETF does not standardize transmission hardware – that is
+the responsibility of organizations like the IEEE  Nor does it standardize specialized World
+Wide Web specifications such as HTML and XML  which are the responsibility of the W C 
+The IETF does standardize all the protocol layers in between  from IP itself up to general
+applications like email and HTTP 
+Whether infrastructure  hardware or software standards  each plays an important role in
+contributing to the Internet’s success and increasing ubiquity  Ensuring that relevant standards
+organizations cooperate and actively work together to maximize effectiveness  and thereby
+avoid duplication  market confusion and resource inefficiencies  is essential in this increasingly
+converged Internet  computing and telecommunications world 
+IETF
+The Internet Engineering Task Force is a self-organized group of experts who
+contribute to the engineering and evolution of Internet technologies  It is the
+principal body engaged in the evolution of existing Internet standards and the
+development of new Internet standard specifications  The IETF is unusual in that it
+exists as a collection of gatherings  but is not as a corporation  It has no board of
+directors  no members  and no dues   
+The IETF’s mission includes the following  among others  identifying  and proposing
+solutions to pressing operational and technical problems in the Internet  specifying
+the development or usage of protocols and the near-term architecture to solve such
+technical problems for the Internet  making recommendations regarding the
+standardization of protocols and protocol usage in the Internet  providing a forum for
+the exchange of information within the Internet community between vendors  users 
+researchers  agency contractors  and network managers  The IETF meets   times
+a year in locations around the world    These face-to-face meetings are
+opportunities for engineers to share knowledge and expertise – whether long time
+participants  or newcomers 
+For an in-depth introduction to the IETF  please see  http   www ietf org tao html
+The Internet Standards developed by the open processes of the IETF and related
+organizations are published in the Request For Comments (RFC) document series 
+http   en wikipedia org wiki Request_for_Comments
+Every IETF standard is published as an RFC (a  Request for Comments)  and
+every RFC starts out as an Internet Draft (often called an  I-D )  An Internet
+Draft is the working document of the IETF  its work areas    and its Working
+Groups  Once the Internet Draft has received comments and is considered to
+have achieved sufficient agreement it is given to a work Area Director for
+presentation to the IESG  Further review of the Internet Draft by the wider
+IETF is also recommended 
+   Much of the text for this section has been excerpted from the introductory document to the IETF 
+http   www ietf org tao html
+   http   www ietf org meeting 
+   List of work areas and Working Groups  http   tools ietf org area 
+The IESG will then announce an IETF-wide Last Call  which invites comment
+from the IETF community prior to further consideration by the IESG and
+possible approval  Once the Internet Draft is approved it is published as a
+Proposed Standard by the RFC Editor 
+An important aspect of the IETF’s process is that decisions are taken on a  rough
+consensus  basis  meaning that a very large majority of those who care about
+whether an Internet Draft is approved must agree and all issues have been
+discussed and addressed  This consensus does not require that all participants
+agree although this is  of course  preferred  In general  the dominant view of the
+working group prevails   
+The full standards development process can be found here 
+http   tools ietf org html rfc      
+The IETF is focused in its activities and does not develop new activities when
+expertise is better represented elsewhere  The IETF is chiefly scoped to work on
+ protocols and practices for which secure and scalable implementations are
+expected to have wide deployment and interoperation on the Internet  or to form
+part of the infrastructure of the Internet   Adhering to this scope also allows the IETF
+to work in partnership with other standards organizations  where appropriate  on
+items of mutual interest  http   www ietf org liaison managers html
+W C
+The World Wide Web Consortium (W C) is an international consortium that
+develops Web standards and guidelines designed to ensure long-term growth for
+the Web  W C is administered via a joint agreement among its host institutions  MIT
+in the USA  the European Research Consortium in Informatics and Mathematics
+(ERCIM) in France  Keio University in Japan  and Beihang University in China 
+Sir Tim Berners-Lee  W C Director and author of WWW and HTML  established the
+W C in      to ensure compatibility and agreement among industry members in
+the adoption of new WWW standards    The W C’s mission is to lead the World
+Wide Web to its full potential by developing protocols and guidelines that ensure the
+long-term growth of the Web   
+   http   tools ietf org html rfc    
+   Portions of RFC     have been updated in subsequent RFCs  Please see http   www rfc-editor org info rfc    
+   The Internet is a vast network of networks  interconnected in many different physical ways  yet all speaking a common
+language  specified by standardized protocols  The Web is one – albeit  the most influential and well known – of many
+different applications which run over the Internet 
+   http   www w  org Consortium mission#vision
+Membership is open to all types of organizations (including commercial  educational
+and governmental entities) and individuals    Individual Web developers and other
+interested stakeholders are also invited to participate in W C Working Groups and
+Community Groups without taking out formal membership 
+At the W C  standardization work items start as a Working Draft (not dissimilar to
+the Internet Draft at the IETF) which is subject to W C and broader review 
+proceeds through a set of stages based largely on the maturity of the work in
+question  including candidate recommendation  proposed recommendation and
+finally W C Recommendation (a standard reviewed and endorsed by W C
+members and the Director) 
+For the complete W C standardization process  see 
+http   www w  org         Process-         
+A list of all W C Working Groups  http   www w  org Consortium activities
+IEEE-SA
+The Institute for Electrical and Electronics Engineering (IEEE) undertakes its
+standardization work through the IEEE Standards Association (IEEE-SA)  In
+addition to producing the     Standards for Local and Metropolitan Area Networks
+and wireless networks such as WiFi  IEEE-SA also develops the standards for 
+! Intelligent highway systems and vehicular technology
+! Distributed generation renewable energy
+! Voting Equipment Electronic Data Interchange
+! Rechargeable Batteries for PCs
+! Components Architecture for Encrypted Shared Media Organic Field Effect
+Technology  and many others  
+The IEEE-SA has many thousands of members from businesses  universities and
+governments as well as members who participate in an individual capacity    There
+are three levels of membership  individual  as well as basic and advanced corporate
+membership 
+   http   www w  org Consortium membership-faq
+   http   standards ieee org sa sa-view html
+   IEEE-SA membership  http   standards ieee org sa-mem ind_overview html
+In brief  the following is required before the publication of a new IEEE standard 
+   sponsorship (support) for the proposed standard must be secured from one
+of the technical subgroups within IEEE 
+   approval of the sponsored work item by the IEEE-SA New Standards
+Committee 
+   the creation of a Working Group to draft the standard based on the approved
+work item 
+   a ballot of the membership (and other interested parties) to approve the draft
+standard 
+   review by the IEEE-SA Standards Review Committee  and  ) approval of the
+draft by the IEEE-SA Standards Board   
+For the full standards development process 
+http   standards ieee org develop index html
+A list of the IEEE-SA Working Group areas 
+http   grouper ieee org groups index html
+How to Participate in Internet-Related Standards Development
+IETF
+The IETF is an open organization  There is no formal membership  no membership
+fee  and nothing to sign  By participating (joining a mailing list discussion or a
+meeting)  one agrees automatically to accept the IETF's rules  including rules about
+intellectual property (patents  copyrights and trademarks)   
+There are a number of ways of participating in the IETF depending on one’s level of
+interest  Because much of the detailed technical work is done online  primarily via
+email  joining the mailing lists for one or two Working Groups is a good way to get a
+feel for the work and processes  Proposals are made and discussed  issues are
+raised and  ultimately  consensus is established online 
+Another way to participate is to attend an IETF meeting  This allows for a more
+immediate feel for the IETF and also provides for an opportunity to participate in
+some introductory sessions  Following issues of interest through the mailing lists
+can be hugely beneficial prior to going to an IETF meeting   
+For more information on getting started at the IETF 
+http   www ietf org newcomers html
+   http   www talkstandards com wp-content uploads         case-study-ieee-         pdf
+   http   www ietf org newcomers html
+   http   www itu int en ITU-T publications Pages recs aspx
+The Internet Society also offers fellowships to the IETF as a part of its Next
+Generation Leadership program  http   www isoc org educpillar fellowship index php
+The Internet Society also recognizes that  although they are very technical  IETF
+working group discussions define the future of Internet-based communications
+protocols  At the same time  policy influences how these technical solutions are
+implemented and used by society at large  To encourage government policy makers
+to understand the importance of these linkages  the Internet Society has established
+the IETF Policy Program  Invited policy makers from both developing and
+developed countries are encouraged to interact closely with IETF participants in an
+environment that supports dialogue  information sharing  and problem solving  The
+goal is to build support among policy makers worldwide for the IETF’s unique model
+of standards development and to provide an opportunity for the IETF to gain a
+better understanding of Internet related policy concerns and priorities in developing
+countries 
+The topics addressed in the program include  technical aspects of the Domain
+Name System  an overview of IP routing  interconnection and traffic exchange 
+security and privacy protocols  and the open standards processes  The program
+also creates an alumni network of past participants to keep in touch and provides a
+networking platform 
+http   www internetsociety org what-we-do education-and-leadershipprogrammes 
+ietf-and-ois-programmes internet-society-fellowship- 
+W C
+Participation in the W C standardization processes occurs largely through its
+membership  but there are opportunities for non-members and the public at large to
+participate  as well as opportunities for individual experts 
+The  W C invites the public to participate in W C via discussion lists  events  blogs 
+translations  and other means described below  Participation in Community and
+Business Groups is open to all  Participation inW C Working Groups (and other
+types) is open to W C Members and other invited parties  W C groups work with
+the public through specification reviews as well as contributions of use cases  tests 
+and implementation feedback    
+http   www w  org community  or http   www w  org Consortium activities
+Non-members have opportunities to comment on draft standards and other work
+items once they have reached Working Draft status  This outlined here in section
+     http   www w  org         Process-         tr html - rec-advance
+Interested organizations should refer to the following 
+http   www w  org Consortium join
+IEEE-SA
+Participation in the IEEE-SA standardization processes is limited to its individual
+and corporate membership although it does encourage public sector organizations
+to join  Working documents are only available to members 
+Interested organizations should refer to the following 
+http   standards ieee org sa-mem index html
+OpenStand Principles for Open Standards Development
+In       five leading global Internet standards organizations announced their agreement on
+jointly developed principles establishing a modern paradigm for standards  The shared
+OpenStand principles grew from their collective experience of standardization processes that
+have made the Internet and the World Wide Web today’s premiere platforms for innovation
+and borderless commerce  The effectiveness and efficiency of these principles and the
+modern paradigm for standards are proven by their ability to foster competition and
+cooperation  support innovation and interoperability and drive market success 
+The OpenStand principles encapsulate that successful standardization model and make it
+extendable across the contemporary  global economy’s gamut of technologies and markets 
+The principles comprise a modern paradigm in which the economics of global markets—fueled
+by technological innovation—drive global deployment of standards  regardless of their formal
+status within traditional bodies of national representation 
+The OpenStand principles demand 
+   Cooperation
+Respectful cooperation between standards organizations  whereby each respects the
+autonomy  integrity  processes  and intellectual property rules of the others 
+   Adherence to Principles
+Adherence to the five fundamental principles of standards development 
+! Due Process  Decisions are made with equity and fairness among participants 
+No one party dominates or guides standards development  Standards
+processes are transparent and opportunities exist to appeal decisions 
+Processes for periodic standards review and updating are well defined 
+! Broad Consensus  Processes allow for all views to be considered and
+addressed  such that agreement can be found across a range of interests 
+! Transparency  Standards organizations provide advance public notice of
+proposed standards development activities  the scope of work to be undertaken 
+and conditions for participation  Easily accessible records of decisions and the
+materials used in reaching those decisions are provided  Public comment
+periods are provided before final standards approval and adoption 
+! Balance  Standards activities are not exclusively dominated by any particular
+person  company or interest group 
+! Openness  Standards processes are open to all interested and informed
+parties 
+   Collective Empowerment
+Commitment by affirming standards organizations and their participants to collective
+empowerment by striving for standards that 
+! are chosen and defined based on technical merit  as judged by the contributed
+expertise of each participant 
+! provide global interoperability  scalability  stability  and resiliency 
+! enable global competition 
+! serve as building blocks for further innovation  and
+! contribute to the creation of global communities  benefiting humanity 
+   Availability
+Standards specifications are made accessible to all for implementation and
+deployment  Affirming standards organizations have defined procedures to develop
+specifications that can be implemented under fair terms  Given market diversity  fair
+terms may vary from royalty-free to fair  reasonable  and non-discriminatory terms
+(FRAND) 
+   Voluntary Adoption
+Standards are voluntarily adopted and success is determined by the market  Since the
+statement was announced  hundreds of organizations  individuals and firms have
+formally endorsed or expressed their support for the OpenStand principles 
+http   open-stand org 
+
+Section    Internet Governance PrinciplesThere are a number of principles which are considered to be important for Internet governance   From those principles  we would like to submit the following principles which we believe are especially important The first is pragmatism   As expressed by the widely quoted phrase in the Internet Technical Community  We believe in rough consensus and running code  which is described in Tao of IETF  internet technical standards are developed by requiring standards which actually are able to operate  accepting the existence of multiple standards  as well as by leaving the choice and its deployment to users of such standards  This has successfully suppressed unrealistic specifications to be standardized  and is achieving development of pragmatic standards   For stakeholders affected by policies  it is important not only in technical spheres but also in policy spheres that policies to be developed are pragmatic The second is well-informed decision based on evidence   In either technical or political spheres  the issues of the Internet Governance are specialized in many cases and often require highly expertized knowledge in making judgment   Therefore  it is important that people with high expertise make considerations based on various evidences   In addition  in cases where people without expertise are involved in making a judgment  they should make judgments based on the experts’ consideration with evidence The last is verifiability of policy deliberation process  In the tradition of the Internet  anyone can verify discussions and decisions made in policy or standard development process   as materials  proposals and discussion to develop policies or standards are recorded and are made publicly available  This accommodates dynamic and timely discussions to adjust to rapid changes in technological advancement and markets  while at the same time  enables to make modifications as needed by later reviewing the discussions  including the adequacy of the discussions process   This is important for further evolution of the policy process for the Internet for the future Section    Roadmap for the Further Evolution of the Internet Governance Ecosystem
+
+The Internet Governance as a whole covers a wide range of issues  ranging from technical developments to public policies  In developing standards and policies for these issues  there are various entities responsible for a particular area of the issues  and they are engaged in working on issues which are under their responsibilities  based on their expertise While the existing entities have been handling issues in their respective areas successfully until today  it is possible to have a complex set of issues or new issues to arise as the Internet becomes increasingly sophisticated To deal with such issues effectively  and to maximize the expertize which has been built by each entity until today  there may be a need to have a new function catalyzing among each of the entities  to coordinate collaborative efforts and enable a coordinated set to multiple activities  which address complex and emerging issues   We believe it is important for each entity to pursue further efforts in its respective areas of responsibilities  and through clarifications of role of each entity  respect and make good use of expertise of other entities   In order to find new approach of addressing emerging issues which cannot be fully covered by each entity’s expertise  the catalyst function will be needed  as well as  enhancement of high-level cooperation among these entities 
+
+The Number Resource Organization (NRO)  on behalf of the five Regional Internet Registries
+(RIRs)  AFRINIC  APNIC  ARIN  LACNIC  and RIPE NCC offers this submission to the
+ NETmundial    addressing each of the two submission topics   Internet Governance
+Principles   and  Roadmap for the Further Evolution of the Internet Governance Ecosystem  
+Section    Internet Governance Principles
+  The
+ working
+definition 
+of
+Internet
+Governance  
+established
+by
+the
+Working
+Group
+on
+Internet
+Governance  
+is
+now
+well
+accepted
+and
+should
+remain
+in
+place
+for
+the
+purposes
+of
+the
+NETmundial
+meeting 
+and
+for
+the
+future 
+We
+believe
+that
+there
+is
+no
+need
+to
+revise
+this
+definition 
+ We support the existing definition of Internet Governance 
+  The
+subject
+of
+Internet
+Governance
+is
+the
+Internet
+as
+we
+know
+it
+and
+its
+core
+values 
+including
+a
+set
+of
+essential
+evolutionary
+and
+identifiable 
+technical 
+operational
+and
+organizational
+features
+which
+have
+been
+critical
+to
+its
+success 
+ The subject of Internet Governance discussions is the Internet as we know it and its core
+values 
+  Among
+these
+features
+is
+the
+ multistakeholder
+model 
+of
+governance
+and
+cooperation 
+which
+was
+also
+identified
+during
+the
+World
+Summit
+on
+the
+Information
+Society
+(WSIS)
+process 
+While
+not
+named
+as
+such 
+this
+model
+has
+been
+in
+operation
+since
+the
+earliest
+days
+of
+the
+Internet 
+in
+various
+forms
+and
+instances 
+These
+include
+open
+and
+consensus-­-
+based
+processes
+for
+standards
+and
+policy
+development 
+cooperative
+operational
+forums
+active
+at
+various
+levels
+of
+infrastructure
+and
+service 
+and
+widespread
+distribution
+of
+functions
+among
+diverse
+and
+autonomous
+cooperating
+organizations 
+ The multistakeholder model has been and continues to be fundamental to the success of
+the Internet 
+  General
+principles
+of
+Internet
+Governance
+have
+been
+discussed
+many
+times
+and
+can
+be
+approached
+in
+various
+ways 
+A
+group
+of
+Internet
+technical
+community
+organizations
+and
+individuals
+have
+agreed
+on
+a
+set
+of
+observations
+and
+recommendations 
+known
+as
+ 
+http   www netmundial br
+ 
+http   www wgig org docs WGIGREPORT pdf
+ 
+http   www wgig org About html
+ Internet
+Governance
+Observations
+and
+Recommendations
+from
+Members
+of
+the
+Internet
+Technical
+Community 
+that
+were
+submitted
+to
+NETmundial 
+In
+referring
+to
+this
+document 
+we
+stress
+the
+importance
+of
+a
+sustainable
+and
+effective
+bridge
+between
+Internet
+technical
+coordination
+and
+public
+policy
+processes 
+  An
+expert
+panel
+which
+examined
+ ICANN’s
+Role
+in
+the
+Internet
+Governance
+Ecosystem  
+has
+also
+produced
+a
+valuable
+report
+which
+articulated
+  
+Rs 
+–
+the
+principles
+of
+Reciprocity 
+Respect 
+Robustness 
+Reasonableness
+and
+Reality
+–
+which
+have
+been
+applied
+in
+a
+variety
+of
+Internet
+Governance
+processes
+such
+as
+those
+facilitated
+by
+the
+RIRs 
+the
+Internet
+Engineering
+Task
+Force
+(IETF) 
+and
+others 
+We
+support
+this
+formulation 
+but
+also
+agree
+with
+the
+Panel
+that
+we
+do
+not
+seek
+a
+ single
+constitutional
+moment 
+for
+Internet
+Governance 
+ There
+is
+no
+one
+set
+of
+Internet
+Governance
+principles 
+however
+we
+highlight
+the
+report
+of
+the
+ICANN
+Strategy
+Panel
+on
+‘ICANN´s
+Role
+in
+Internet
+Governance
+Ecosystem’ 
+and
+the
+NETmundial
+submission
+by
+members
+of
+the
+technical
+community  
+  Importantly 
+as
+identified
+by
+the
+WSIS
+process 
+Internet
+Governance
+must
+be
+advanced
+through
+suitable
+processes
+that
+respect
+and
+enhance
+the
+multistakeholder
+model 
+Such
+processes
+already
+exist
+for
+certain
+governance
+issues
+in
+various
+communities
+and
+jurisdictions 
+The
+Internet
+Governance
+Forum 
+(IGF)
+was
+established
+as
+the
+foremost
+open
+and
+inclusive 
+non-­-decision-­-making
+global
+forum
+in
+which
+Internet
+Governance
+matters
+can
+be
+discussed
+and
+advanced 
+The
+IGF
+has
+become
+the
+central
+element
+of
+the
+global
+Internet
+Governance
+environment 
+even
+while
+it
+matures
+to
+better
+meet
+evolving
+challenges 
+ The Internet Governance Forum should remain a central element of the global Internet
+Governance environment 
+  The
+NETmundial
+is
+understood
+to
+be
+a
+one-­-time
+event 
+that
+should
+address
+questions
+of
+how
+Internet
+Governance
+issues
+are
+handled
+(whether
+individually
+or
+in
+aggregates) 
+the
+applicability
+and
+quality
+of
+multistakeholder
+governance
+activities 
+and
+the
+evolution
+of
+the
+governance
+model 
+How
+Internet
+Governance
+is
+conducted
+is
+itself
+an
+Internet
+Governance
+issue 
+and
+as
+such 
+fits
+clearly
+within
+the
+mandate
+of
+the
+IGF 
+To
+create
+a
+competing
+forum
+would
+only
+cause
+confusion
+and
+fragmentation
+in
+a
+set
+of
+processes
+that
+should
+operate
+with
+maximum
+accessibility 
+inclusion
+and
+convergence 
+ NETmundial and any other initiatives should be coordinated and complementary to the
+IGF  
+ 
+http   www icann org en about planning strategic-­-engagement governance-­-ecosystem report-­-  feb  -­-en pdf
+ 
+http   www ietf org
+ 
+http   www intgovforum org
+Section    Roadmap for the Further Evolution of the Internet Governance Ecosystem
+We make the following recommendations for the future of Internet Governance  Our
+recommendations are not exhaustive  but are essential to successful Internet Governance in the
+future 
+First  on the question of ICANN and the associated IANA activities we would assert that
+governance of these functions must be undertaken consistently with accepted principles of
+Internet Governance  as outlined in the      Montevideo Statement   That statement called for
+accelerating the globalization of ICANN and the IANA functions towards an environment where
+all stakeholders  including all governments  participate on an equal footing  Aside from these
+broad principles  the details of any transition and any new arrangements should not be a primary
+focus for NETmundial 
+Secondly 
+we
+would
+like
+to
+make
+the
+following
+recommendations
+on
+the
+Internet
+Governance
+Forum
+(IGF) 
+   Internet
+Governance
+will
+remain
+important
+to
+the
+global
+community
+for
+as
+long
+as
+the
+Internet
+continues
+to
+grow
+and
+evolve 
+Therefore
+we
+propose
+a
+renewal
+of
+current
+IGF
+arrangements
+for
+a
+further
+  
+years
+after
+the
+current
+ -­-year
+cycle 
+A
+longer-­-term
+renewal
+of
+the
+IGF
+mandate
+should
+not
+preclude
+an
+evolutionary
+transition
+of
+the
+IGF
+to
+a
+more
+sustainable
+model 
+This
+will
+promote
+a
+clearer
+understanding
+of
+its
+importance 
+legitimacy
+and
+longevity 
+   The
+IGF
+must
+continue
+as
+a
+ non-­-binding 
+forum 
+and
+produce
+useful
+outputs 
+through
+appropriate
+participatory
+and
+consensus-­-based
+decision-­-making
+processes 
+These
+may
+take
+the
+form
+of
+reports
+from
+IGF
+meetings
+and
+processes 
+informational
+papers
+resulting
+from
+emerging
+working
+groups 
+and
+non-­-binding
+recommendations
+based
+on
+case
+studies
+and
+emergent
+best
+practices 
+   The
+IGF
+needs
+to
+evolve
+and
+be
+strengthened 
+Some
+evolutionary
+changes
+may
+gain
+impetus
+from
+external
+processes 
+such
+as
+NETmundial 
+They
+must
+be
+subject
+to
+review
+through
+the
+IGF
+process
+itself
+to
+ensure
+that
+multistakeholder
+legitimacy
+is
+continually
+maintained
+and
+enhanced 
+   The
+IGF’s
+Multistakeholder
+Advisory
+Group
+(MAG) 
+has
+played
+an
+important
+role
+in
+the
+IGF 
+It
+is
+essential
+that
+the
+MAG
+receive
+strong
+support
+from
+the
+IGF
+Secretariat 
+Some
+MAG
+processes
+could
+also
+improve 
+including
+transparency
+and
+predictability
+of
+selection
+of
+members 
+ 
+http   www nro net news montevideo-­-statement-­-on-­-the-­-future-­-of-­-internet-­-cooperation
+ 
+http   www intgovforum org cms magabout
+   Further
+improvement
+of
+the
+IGF
+requires
+a
+strong 
+stable
+Secretariat 
+with
+the
+human
+and
+financial
+resources
+to
+effectively
+meet
+a
+range
+of
+administrative
+tasks 
+including
+IGF
+site
+selection 
+negotiation
+with
+hosts 
+design
+of
+the
+event 
+funding
+and
+fundraising 
+reporting 
+planning
+and
+resourcing 
+   The
+IGF
+has
+benefited
+greatly
+from
+intersessional
+activities 
+including
+national
+and
+regional
+IGF
+events  
+These
+IGF-­-related
+events
+have
+proven
+to
+very
+beneficial
+in
+increasing
+the
+reach
+and
+impact
+of
+the
+overall
+IGF
+process 
+There
+is
+a
+need
+for
+ongoing
+support
+to
+inter-­-link
+them
+with
+an
+overall
+IGF
+process
+in
+a
+way
+that
+increases
+their
+value
+for
+all
+participants 
+   In
+addition
+and
+complimentary
+to
+these
+IGF
+events 
+ongoing
+multi-­-stakeholder
+discussions
+are
+occurring
+online
+in
+a
+number
+of
+forums 
+These
+discussions
+have
+tended
+to
+be
+specific
+to
+stakeholder
+communities
+rather
+than
+encompassing
+all
+stakeholders 
+We
+recommend
+that
+   net 
+be
+recognized
+as
+one
+encompassing
+multistakeholder
+forum
+for
+holding
+intersessional
+IGF
+related
+discussions
+in
+an
+open
+and
+constructive
+manner
+and
+for
+building
+consensus
+to
+be
+channeled
+through
+IGF 
+ 
+http   www intgovforum org cms igf-­-initiatives
+
+* The management of Internet Resources (IPs  ASNs  DNS  etc ) must follow a set of rules defined by all the parts involved in their utilization including network operators  users  content provider  and other organizations that need those Internet resources for their operation 
+
+ 
+
+* The problems and technical practices on the Internet that can be addressed through operational changes or network management over the IP networks must be documented and agreed by the community as Best Current Operational Practices (BCOPs or BCPs)  Changes on networking equipment should not be imposed by regulations  Lacnog  as a community aimed to discuss Internet operation issues  firmly believe on the open  cooperative and collaborative development of such documents and processes 
+
+ 
+
+* The interconnection of Networks and Internet traffic exchange among network operators should be encouraged  promoted and agreed between the interested parties  Regulations should be minimised or avoided in order to promote interconnections and intervention is only advisable when there are barriers fo such interconnections  
+
+ 
+
+* The groups and Internet governance bodies to be created should include appropriate representation from network operator groups 
+
+Internet Exchange Points
+
+ 
+
+An Internet Exchange Points (IXP) are considered critical infrastructure for the Internet and are a fundamental component for its Sustainability  Resilience and growth  IXPs are neutral network facilities that enables the interconnection of more than two independent Internet networks  for the purpose of facilitating interconnections 
+
+ 
+
+An IXP does not require the Internet traffic passing between any pair of participating Autonomous Systems to pass through any third Autonomous System  nor does it alter or otherwise interfere with such traffic  The rules and conditions for traffic exchange are agreed by its members 
+
+ 
+
+The LAC-IX Association
+
+ 
+
+The association of Internet Exchange Points for Latin America and Caribbean (LAC-IX) was formally constituted in      to increase the collaboration between traffic exchange points in the LAC region  It's been growing and supporting the establishment of additional IXPs since then  
+
+ 
+
+Contribution to Internet Principles 
+
+ 
+
+Some IXPs in the LAC region have already developed Internet Principles which are public  Among them  there are principles affecting traffic exchange  
+
+ 
+
+* The interconnection between various Internet actors  with non-discriminatory conditions that enable guaranteed access to the network and it’s contents in all the national territory  must be promoted 
+
+ 
+
+* The stability of the network  it’s security and global functionality must be actively preserved by means of adopting technical measures that are compatible with international standards  and encouraging the adoption of best practices  No one should have the ability to  turn off  the Internet totally or partially  in a territory and or a specific segment of the population  and the service providers must be able to provide their services freely 
+
+ 
+
+* The architecture of the Internet and the communications systems  must be based on open standards that enable interoperability 
+
+ 
+
+* The juridical and regulatory environments must preserve the dynamics of the Internet  as an open collaborative space for all users  and must be guaranteed to remain free of blocks  interruptions  censures  interferences and surveillance 
+
+ 
+
+* Internet governance must promote the continuous development and widespread dissemination of new technologies and models for access and use  
+
+ 
+
+* All action taken against illicit activity on the network must be aimed at those directly responsible for such activities  and not at the means of access and transport 
+
+FROM FORUM TO WORLD INTERNET GOVERNANCE ORGANISATION
+
+ 
+
+The contention concerning who governs the internet or how it should be governed has been the major focus of the top ICT organizations  The Internet Corporation for Assigned Names and Numbers (ICANN) is one of these bodies alongside ITU  US Department of Commerce  Internet Society (ISOC) etc  where technically  the US Government has been in charge of the Internet  which is no longer acceptable by some countries of the world  the internet has grown past the control of one country 
+
+ 
+
+The issues of big data  security  surveillance and sovereignty have raised concerns among nations on how and what internet governance should be 
+
+ 
+
+The Internet now has become the  storehouse    access route  for numerous entities including government  civil society  technical bodies that are keen about the affordability  accessibility  openness and privacy  and above all  security of the online citizens  This means that all entities duly categorized by countries have now become citizens of this NET-NATION 
+
+ 
+
+Therefore  in order for the Internet to escape sole control by a single government  all other countries must be equally involved in such control  First of all  addressing the issue of Cybercrime and security of the Internet  is one thing that interests everybody and every nation  I believe when nations commit to finding  lasting solutions for this singular challenge of cybercrime and cyber security  the other challenges of the Internet Governance like the technical  legal and regulatory  policy making and the rest can easily be resolved with equal multistakeholder privilege 
+
+ 
+
+For the future of the Internet to be secured  all actors in their respective roles must have a common properly structured platform   WORLD INTERNET GOVERNANCE ORGANISATION (WIGO)  a global organization with equal participation of the Government  Private sector  Civil Society  Technical Community in a multi-stakeholder consensus building  NET-NATIONS 
+
+ 
+
+Governments (globally) have to play a role in the decision-making in governing the Internet   Government should equally see the  NET  as an avenue with great advantage since a lot of benefits can be favorable to all if collectively agreed upon  Nations would be members of WIGO  replicating same at the country level 
+
+ 
+
+It is necessary to emphasis here that the Internet ecosystem should maintain the multistakeholder approach  which has so far worked  in the ‘Future of Internet Governance’  The Internet Corporation for Assigned Names and Numbers (ICANN) has so far provided a stage for multi-stakeholderism approach for governing the internet  save for the legal instrument establishing it  The future Internet Governance should therefore adopt same approach in the new organization 
+
+ 
+
+I propose that ICANN be changed to WIGO with all its functions  this will reduce the learning curve period of the new organisation  and nations would have equal say in the Future Internet Governance   
+
+ 
+
+Since internet governance is a new phenomenon  education of the Net Citizens on its real meaning is a task that must be accomplished by WIGO
+
+The Information Technology Industry Council (ITI) respectfully submits this paper for consideration by participants of the  Global Multistakeholder Meeting on the Future of Internet Governance  or NETmundial  and other interested parties  We applaud the Brazilian Government for taking this initiative to bring together stakeholders from around the world to discuss the important subject of Internet governance  ITI is the premier advocacy and policy organization for the world’s leading innovation companies   Our members pioneer cutting-edge products and services that improve people’s daily lives  and maintain investments  supply chains and operations around the world   As a result  we have an acute understanding of the impact of international policies can have on the Internet and the World Wide Web  By any measure  the Internet has been a global phenomenon  spurring growth in communications  access to information and economic opportunity unprecedented in the annals of recent human history   Much of credit for this dynamism can be attributed to the careful stewardship of a decentralized array of private sector  caretakers  such as the Internet Society (ISOC)  the Internet Engineering Task Force (IETF)  and the Internet Corporation for Assigned Names and Numbers (ICANN) 
+
+ 
+
+ These multistakeholder institutions in which anyone can participate have played an important role in building the Internet into the vibrant platform that it is today  Under the current governance model  the Internet and the World Wide Web have generated an unprecedented explosion in commerce and creativity   According to a      study by the McKinsey Global Institute  nearly eight trillion dollars of business occurs each year through e-commerce [i]  What many may not realize  however  is that both developed and developing countries are benefiting   A      report by the World Bank concluded that the growth broadband provides for developing countries was of similar magnitude as that for developed economies – about a      percent increase in GDP for each    percent increase in Internet penetration [ii] As stakeholders  we all must insist that any alternative approach to Internet governance be subject to a careful and thorough cost-benefit and public interest analysis that fully considers potential impacts on e-commerce  education  the ability to improve healthcare and accessibility of government services  as well as the unrestricted flow of information and ideas   This is of particular importance to the myriad developing countries that have been making significant investments in people and infrastructure to empower their people to tap the stream of economic and social benefits that flow from the Internet   Key Principles of Governance The Internet is transforming the world   Even so  it is important to bear in mind that  as a technology and platform  the Internet is still in its infancy   It continues to evolve and move in directions unanticipated by even the most experienced technologists   Growth and stability are not automatic  and it is not a task that can be assumed by a single entity   We recommend adherence to the following key principles of governance to help ensure the future vibrancy and resilience of the Internet 
+
+ 
+
+ 
+
+           Any governance model must promote the following 
+
+    Expanding access to broadband networks so that these benefits can reach all of the world’s citizens   The world deserves the access to knowledge  services  commerce  and communication  the accompanying benefits to economic development  education  and health care  and the informed discussion that the Internet provides 
+
+ 
+
+    Continuing the free flow of information   The Internet’s importance as a platform for commerce  for education  for information and knowledge sharing  for self-expression  and for organization and assembly  depends on the global free flow of information 
+
+ 
+
+    Allowing for the ability to innovate  to develop technical capacity  and to create and take advantage of economic opportunities   This can be achieved by promoting the current  distributed  interoperable  and interconnected nature of the Internet 
+
+ 
+
+    Assuring the continuing security  stability  and resiliency of the Internet 
+
+ 
+
+    Ensuring that individuals can exercise their human rights  both online and offline 
+
+ 
+
+    Recognition of government limitations on the collection of information on Internet users based on users’ reasonable privacy interests and the impact on trust in the Internet 
+
+ 
+
+       Any governance model should include the following characteristics 
+
+ 
+
+    All stakeholders – individual users  governments  civil society  businesses  and members of the academic and technical community – have a stake in preserving the Internet as a critical platform for communication and information exchange   Therefore  all stakeholders should be appropriately included in governance decisions   All of these stakeholders have contributed to the development of the Internet to date and  working together  have driven unprecedented growth in access to  uses of  and innovation on the Internet   They must continue to be involved in any future model of Internet governance 
+
+ 
+
+    Any policy-making associated with the Internet must promote access  transparency and accountability  and must be grounded in respect for the rule of law 
+
+ 
+
+Conclusion The phenomenal success of the Internet is due in no small part to the multistakeholder governance model that guides technology and policy decisions   A variety of organizations that include participation from businesses  civil society organizations  government representatives and technical experts have followed this de facto blueprint to manage the exponential growth of the Internet throughout the world  creating a flexible infrastructure that has successfully absorbed new technologies and demands in a seamless and cost-effective manner   This multistakeholder collaboration has produced a stable  predictable environment that has helped facilitate continuing innovation and attract investments that have spread economic benefits around the globe  benefitting developed and developing economies alike   We believe that the existing system of governance for the Internet is effective and inclusive  and for this reason  it should continue to be improved and reinforced  We welcome inquiries and feedback from all stakeholders regarding our views  and look forward to hearing and considering the views of other stakeholders on this important topic  Thank your for your consideration 
+
+The Internet Governance Working Group of the Information Technology Industry Council (ITI) respectfully submits this paper regarding our recommendations for a Roadmap for Further Evolution of the Internet Governance Ecosystem for consideration at the  Global Multistakeholder Meeting on the Future of Internet Governance  or NETmundial parties  We applaud the Brazilian Government for taking this initiative to bring together stakeholders from around the world to discuss the important subject of Internet governance  ITI is the premier advocacy and policy organization for the world’s leading innovation companies 
+
+ 
+
+Our members pioneer cutting-edge products and services that improve people’s daily lives  and maintain investments  supply chains and operations around the world   As a result  we have an acute understanding of the impact of international policies can have on the Internet and the World Wide Web  In recent years  some governments have argued that a multilateral  rather than a multistakeholder  model for Internet governance would better serve public policy objectives   The multistakeholder model approach to Internet governance and technical management has allowed the Internet to grow and flourish into the critical global platform it is today  and we believe it will continue to best serve Internet users far into the future  As we see it  there are two main challenges before us   First  we must ensure the Internet governance model continues to evolve in a manner that allows all stakeholders to have a voice in critical policy discussions 
+
+ 
+
+The Internet is expected to serve   -  % of the world’s population by        Uses of the Internet continue to grow and diversify   Second  all actors have a common interest in the security  stability and interoperability of the overall infrastructure   However  no one actor or organization has the capacity to address all of the various public policy and technical issues impacting the Internet and its users  Because Internet governance is multifaceted – spanning technical  political  and policy issues – there is no single organization that manages or has jurisdiction over all Internet governance questions  instead  the Internet’s policies and protocols have rapidly evolved through a set of diverse organizations   Together  the robust set of multistakeholder Internet institutions – ICANN  IETF  ISOC  etc  – each with different core functions and strengths  address nearly all Internet policy and technical issues   Nevertheless  there is still room for improvement  and the ICT industry welcomes the opportunity to work with all stakeholders to help create an even more robust  flexible and stable Internet 
+
+ 
+
+Areas for Improvement
+
+ 
+
+The Internet community does not lack for places to discuss key Internet policy and governance questions   Rather  a critical concern voiced by some stakeholders is that the assortment of organizations and overlapping missions is confusing and difficult to navigate without considerable time and effort   While these concerns are valid  they should not necessarily lead to the conclusion that all Internet policy discussions must take place in one body   Rather  we must find a way to take advantage of the richness of the ecosystem while making it easier to navigate  especially for new entrants  It is incumbent on participants within the current governance model to bring new stakeholders whose voices may not be effectively heard into the conversation 
+
+ 
+
+Increased outreach  capacity building and training for regulators 
+
+ 
+
+While many if not all of the technical meetings are inclusive of all participants  the majority of the meetings historically have taken place in the developed world and their processes can be difficult to grasp as a newcomer   We applaud recent efforts undertaken by the IETF and ISOC to increase the global reach of their meetings as well as offer fellowships to engineers and policymakers from the developing world   We would support similar efforts in this space in other fora as these present important opportunities to engage thought leaders globally  Increase outreach to and participation of newcomers   International organizations should make it easier for newer participants to meaningfully engage in their processes   To do this  these organizations should offer training and newcomer sessions both at their physical meetings and remotely as a means of introducing more people to the organizations and encouraging them to participate in critical Internet governance discussions 
+
+ 
+
+Improve transparency and accountability 
+
+ 
+
+Multilateral organizations whose missions touch the Internet (e g   UNESCO  OECD  UN  and ITU) should provide better transparency and accountability in their decision-making processes  and how the overall decisions impact the Internet  and appropriately include other stakeholders in those decision making processes   All Internet governance institutions should strive to make relevant governance and policy documents available to all stakeholders at no cost   Participation in board and governance meetings of Internet governance organizations should be open whenever possible   For many participants  it is difficult and often cost-prohibitive to attend meetings in person   For that reason  Internet governance institutions should strive to improve remote participation opportunities 
+
+ 
+
+Other Potential Risks to the Future of the Internet
+
+ 
+
+We would be remiss if did not also address other factors that could have a negative impact on the future of the Internet and on any nation’s ability to leverage the Internet in order to reap the benefits of the digital economy  These include national policy initiatives that could restrict information flows and require that only in-country data servers be used to process and store the bits and bytes that fuel the digital economy   We believe that such  solutions  could actually impede a country’s ability to strengthen uphold privacy protections and security  while also creating significant obstacles to expanding online commerce and digital trade  Data localization mandates could leave nations even more vulnerable to security risks   Data security is not a question of server location  but rather depends upon the mechanisms and controls in place to safeguard the data   These mandates would essentially cut off businesses and consumers from the world’s most cutting edge technology and technology solutions   It would also restrict the ability of local technology companies  technical experts and researchers to partner with entities in other countries  and thereby limit their ability to leverage the Internet to expand job opportunities and business start-ups 
+
+ 
+
+It could also harm the ability to grow its domestic technology dependent industries  such as ICT services  banking  and manufacturing   Ultimately  the adoption of such policies could embolden other countries to implement reciprocal policies  leading to a fragmented Internet with country after country walling off their digital ecosystems  Data security and privacy issues are very real and urgent  we share these concerns   However  risks to global commerce and the free flow of information are also very real and urgent   Commerce and security and privacy do not have to be mutually exclusive   With balanced and thoughtful policies  developed via increased bilateral  multilateral  and multistakeholder cooperation  nations can achieve both  and create a digital ecosystem that enables their businesses and citizens to thrive and grow in our interconnected global economy   ITI would welcome the opportunity to work with governments and other stakeholders to address these important goals 
+
+ 
+
+Conclusion
+
+ 
+
+The phenomenal success of the Internet is due in no small part to the multistakeholder governance model that guides technology and policy decisions   A variety of organizations that include participation from businesses  civil society organizations  government representatives and technical experts have followed this de facto blueprint to manage the exponential growth of the Internet throughout the world  creating a flexible infrastructure that has successfully absorbed new technologies and demands in a seamless and cost-effective manner   This multistakeholder collaboration has produced a stable  predictable environment that has helped facilitate continuing innovation and attract investments that have spread economic benefits around the globe  benefitting developed and developing economies alike   We believe that the existing system of governance for the Internet is effective and inclusive  and for this reason  it should continue to be improved and reinforced  We welcome inquiries and feedback from all stakeholders regarding our views  and look forward to hearing and considering the views of other stakeholders on this important topic 
+
+The current challenges the Internet is facing
+There is no doubt that Internet has revolutionized without precedent several aspects of human life  since becoming a facilitator of daily basis activities up to enabling the exercise of basic human and civil rights  Notwithstanding  Internet is currently facing several challenges that constitute a permanent treat and that harness its further development  Among these  we can find the several 
+Internationalization of ICANN and IANA functions  This non-lucrative  non-governmental organization for the coordination and supervision of technical parameters of Internet through a multistakeholder participation model  is currently facing the challenge of positioning itself as a real multicultural organization  lessening its linkage to California law and deepening the globalization of the IANA functions it currently performs under contract with the US Government (Department of Commerce   NTIA)  Even though several efforts have been made  as the opening of several contact offices throughout in Beijing  Brasilia and Montevideo  the cultural diversification of its employees  summed up to the very symbolic coronation of these efforts by choosing a Lebanese CEO  and the linguistic diversification of the DNS  it is evident that  de-occidentalization  and further Internationalization of the corporations and functions that coordinate Internet resources must keep on going further in order to achieve legitimation with the non-Occidentalized world  keeping in mind that the next generation of Internet users will come from non-Occidentalized countries 
+Increased governmental participation on Internet Governance  it is evident that worldwide governments are seeking to increase their participation on Internet Ecosystem  something that throws in serious questionings on the balance of power as well as on the future impossibilities of exercising fundamental rights through this medium  Since several years  the United Nations  through the International Telecommunications Union (ITU) had been pushing further with resolutions on several international forums that tend to increase the role of these institutions and their governments adhered on Internet  under the argument of reducing the digital divide  Specifically  several Governments are pushing for ITU to take the technical coordination functions currently delegated to ICANN  which formalized in the matter of multilateral treaties will pave the way for governments to control their local Internet Ecosystems through aggressive regulatory measures  ITU being and international organization its eminently State-centric and only gives voice and vote to the Governments affiliated  the rest only given the status of observatory participants  The risk this poses is to give Governments wide abilities to impose their own policies via unilateral ways and not through multistakeholder participation  even given the chance to violate fundamental Internet principles (neutrality  free flow of data  descentralized administration  free and voluntary adoption and coordination  transjurisdiccional)  On other fronts  these multilateral treaties are not only aimed to move the technical coordination abilities  but rather are focused on very specific topics such as intellectual property and Internet regulation  such as the Transpacific Partnership Agreement (TPP) being currently negotiated 
+Developing countries participation on Internet Governance  In line with reducing the digital divide  and increasing the integration of developing countries individuals to the Information Society  several regional specific strategies must be followed and endorsed by the organizations of the global Ecosystem to increase the digital inclusion of these individuals  The UN through the WSIS process  ICANN and several countries have started regional and country specific strategies aimed at this objective 
+Widespread Governmental espionage  Edward Snowdens revelations shed light on something widely known but never spoken before  no Internet user is safe from espionage on the Internet and thus security has taken widespread relevance  as the user struggles not to lose confidence on Internet 
+On Internet Governance Principles
+On a general basis  the next principles should be endorsed 
+   Wide protection of Human Rights in the digital era  Recognizing the Internet’s contribution to self-expression and information sharing  we call for Internet governance models to promote this free flow of information as recognized by the Joint Declaration on Freedom of Expression and the Internet  and the United Nations Human Rights Council  
+   Non-discriminatory and inclusive access to the Internet as stated in the Declaration of Principles  Building the Information Society  a global challenge in the new Millennium (WSIS)  
+   The right of access to information and freedom expression where no law or authority may establish censorship  restricting freedom of dissemination 
+   Promote effective competition in telecommunications and ICT services and promote anti-trust policies and regulations 
+   Strengthen the integration to the Information Society 
+   Consider telecommunications as a worldwide public service of general interest  understanding that Internet does not fall within the realm of Telecommunications regulation principles  and therefore needs a multi-stakeholder approach to its governance  while recognizing its open  distributed  interoperable  and interconnected nature  Internet is rather something entirely different  a logical mechanism of data-packet commutation based on the utilization of TCP IP protocol which uses the Telecommunications infrastructure as a physical mean disregarding the type of infrastructure involved or the physical borders between these  and that according to the ‘layers principle’  works as a superior layer mounted above an inferior telecommunications layer and therefore operates with a separate set of rules for its engagement by the several stakeholders    Joint Declaration on Freedom of Expression and the Internet   Freedom of expression applies to the Internet  as it does to all means of communication  Restrictions on freedom of expression on the Internet are only acceptable if they comply with established international standards  including that they are provided for by law  and that they are necessary to protect an interest which is recognised under international law    There should be no discrimination in the treatment of Internet data and traffic  based on the device  content  author  origin and or destination of the content  service or application 
+  United Nations Human Rights Council   Affirms that the same rights that people have offline must also be protected online  in particular freedom of expression  which is applicable regardless of frontiers and through any media of one’s choice  in accordance with articles    of the Universal Declaration of Human Rights and the International Covenant on Civil and Political Right 
+  Declaration of Principles  Building the Information Society  a global challenge in the new Millennium (WSIS)   Connectivity is a central enabling agent in building the Information Society  Universal  ubiquitous  equitable and affordable access to ICT infrastructure and services  constitutes one of the challenges of the Information Society and should be an objective of all stakeholders involved in building it  
+   Inviolability of the private communications  recognizing the necessary and proportionate principles upon which governments should design and limit their ability to collect information on Internet users based on users’ reasonable privacy interests and the impact on trust in the Internet       Multistakeholder participation on the basis of equal footing  equal voice and equal participation in recognition of each stakeholder's role and responsibility that this model of decentralized administration confers and considering that the multi-stakeholder model approach to Internet governance and technical management has allowed the Internet to grow and flourish into the critical global platform it is today  We recognize that all stakeholders should be included in governance decisions as stated in the Montevideo Statement on the Future of Internet Cooperation  and the Declaration of Principles  Building the Information Society  a global challenge in the new Millennium (WSIS)      Protecting consumers and encourage users to organize themselves for the better care of their interest 
+Roadmap for the Further Evolution of the Internet Governance Ecosystem
+The following must be followed to enhance Internet Governance landscape 
+   IGF shall be kept as the main forum where all stakeholders can participate and disseminate the good practices and lessons learned  Similar efforts at regional and national level should be a practical recommendation 
+   United Nations System through the Internet Governance Forum (IGF)  appointed by the United Nations General Assembly through the Tunis Agenda  should be continuously following and monitoring the emerging issues where a global public policy could be necessary to be adopted  and address the appropriate body to handle with each matter  and their measures that facilitate the multistakeholder involvement should be improved  In this sense  we encourage the UN to renew the IGF mandate for another    years  in addition to the permanent evolution and continuity of the Multistakeholder Advisory Group (MAG)  in recognition of the thorough  objective and inclusive representation of the wide diversity of stakeholders involved on the Internet 
+   The Internet Corporation for Assigned Names and Numbers (ICANN) should evolve to comprise a
+  Report of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression  Frank La Rue   Legislation must stipulate that State surveillance of communications must only occur under the most exceptional circumstances and exclusively under the supervision of an independent judicial authority 
+  Montevideo Statement on the Future of Internet Cooperation    (   ) identified the need for ongoing effort to address Internet Governance challenges  and agreed to catalyze community-wide efforts towards the evolution of global multistakeholder Internet cooperation  
+  Declaration of Principles  Building the Information Society  a global challenge in the new Millennium (WSIS)   Governments  as well as private sector  civil society and the United Nations and other international organizations have an important role and responsibility in the development of the Information Society and  as appropriate  in decision-making processes  Building a people-centred Information Society is a joint effort which requires cooperation and partnership among all stakeholders  
+more internationalized organization under the most suitable regime for multi-stakeholder participation  on the basis of equality  openness  bottom-up and rough consensus  on the understanding that the proper application of these within the organizational structures will avoid control by any particular stakeholder  The same should be endorsed for the internationalization of the Internet Assigned Numbers Authority (IANA) functions currently under ICANN administration by contract with the US Department of Commerce (US DoC)  on the common understanding that these characteristics should be aimed on maintaining the technical stability and resilience of the root  prevailing the notion that due to its technical complexity the technical community should continue their activities on the above supervision of IANA  disregarding to which superior organization this function is endorsed  As Internet policy discussions become more global in nature  stakeholders should continue to rely on the existing structures to develop global policies that benefit all users rather than relying on either the creation of another governance body or on multilateral means 
+   All of the stakeholders involved should increase their accountability and transparency practices in favor of the global Internet community public interest  Recognizing necessary improvements within the current governance model  we propose bringing new stakeholders whose voices may not be effectively heard into the conversation  For example  through the offer of fellowships to engineers and policymakers from the developing world to attend multi-stakeholder meetings  as well as improving transparency and accountability  calling on all involved organizations to make relevant governance and policy documents available to all stakeholders at no cost and opening governance meetings to equal participation whenever possible 
+   International organizations and governments should enhance their cooperation in order to mitigate any conduct contrary to the use of the Internet for the economic and social development  taking into account the potential for improvements in the international mechanisms of cooperation among stakeholders  In addition  considering that in some cases of Internet Governance  private mechanisms aimed at specific expertise areas and non-State forms of cooperation are currently undergoing and working properly among the stakeholders involved  we recommend that these should be recognized  endorsed  and not duplicated within other State cooperation mechanisms in order to avoid effort duplication and regulation spheres 
+   The technical community and International Organizations should continue improving their mutual cooperation for the elaboration of the standards in favor of the interoperability  security and stability of the Internet  We encourage the internet governance community to maintain and endorse the Internet Governance Principles defined by the Technical Community   as follows 
+a  Open and inclusive participation 
+b  Consensus-based 
+c  Permission-less innovation 
+d  Collective stewardship and empowerment 
+e  Transparency 
+f  Pragmatic and evidence-based approach 
+g  Voluntary adoption 
+  Internet Collaboration Group (    )  Available at  http   www internetcollaboration org ig-recommendations-itcg 
