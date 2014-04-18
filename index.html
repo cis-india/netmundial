@@ -53,9 +53,12 @@
                     <li><a href="#">Post #03</a></li>
                     <li class="divider"></li>
                     <li class="dropdown-header">Visualisations</li>
+                    <li><a href="word_heatmap.html">Comparing Appearance of Fifty Most Freuqent Words</a></li>
                     <li><a href="contributions_countries.html">Contributions by Countries of Origin</a></li>
                     <li><a href="contributions_org_type.html">Contributions by Types of Organisation</a></li>
-                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>
+                    <li><a href="map_no_contrib.html">Which Countries Have Not Contributed?</a></li>
+                    <li><a href="map_no_contrib_govt.html">Which Governments Have Not Contributed?</a></li>                    
+                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>                    
                   </ul>
                 </li>
                 <li><a href="#about">About the Study</a></li>
@@ -73,18 +76,32 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
+        <!-- Heatmap -->
         <div class="item active">
-          <img src="img/banner_contributions_countries.png" alt="Contributions by Countries" />
+          <img src="img/banner_word_heatmap.png" alt="Comparing Appearance of Fifty Most Freuqent Words">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Contributions by Countries</h1>
-              <p>This treemap chart divides up contributions submitted to Net Mundial 2014 into their countries of origin, which are clustered into regions...</p>
-              <p><a class="btn btn-lg btn-primary" href="contributions_countries.html" role="button">View &raquo;</a></p>
+              <h1>Comparing Appearance of Fifty Most Freuqent Words</h1>
+              <p>These heatmaps compare the appearance of fifty most frequently appearing words across the contributions...</p>
+              <p><a class="btn btn-lg btn-primary" href="word_heatmap.html" role="button">View &raquo;</a></p>
             </div>
           </div>
         </div>
+        <!-- Map of No Contrib - Govt -->
+        <div class="item">
+          <img src="img/banner_map_no_contrib_govt.png" alt="Which Governments Have Not Contributed to Net Mundial?" />
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Which Governments Have Not Contributed to Net Mundial?</h1>
+              <p>This map shows all the countries from which the respective governments have not submitted any contribution to Net Mundial...</p>
+              <p><a class="btn btn-lg btn-primary" href="map_no_contrib_govt.html" role="button">View &raquo;</a></p>
+            </div>
+          </div>
+        </div>
+        <!-- Sankey -->
         <div class="item">
           <img src="img/banner_contributions_org_type.png" alt="Contributions by Types of Organisation">
           <div class="container">
@@ -95,6 +112,7 @@
             </div>
           </div>
         </div>
+        <!-- Wordcloud -->
         <div class="item">
           <img src="img/banner_word_clouds_org_type.png" alt="Word Clouds by Types of Organisation">
           <div class="container">
@@ -104,7 +122,7 @@
               <p><a class="btn btn-lg btn-primary" href="word_clouds_org_type.html" role="button">View &raquo;</a></p>
             </div>
           </div>
-        </div>
+        </div>        
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
@@ -120,19 +138,19 @@
         <div class="col-lg-4">
           <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Post #1</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p>Coming soon.</p>
           <p><a class="btn btn-default" href="#" role="button">View &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Post #2</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p>Coming soon.</p>
           <p><a class="btn btn-default" href="#" role="button">View &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Post #3</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p>Coming soon.</p>
           <p><a class="btn btn-default" href="#" role="button">View &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -147,7 +165,7 @@
           <h2>Analysing Contributions to Net Mundial 2014</h2>
             <p>This set of analysis of the contributions submitted to <a href="http://netmundial.br/" target="_blank">Net Mundial 2014</a> is part of the effort by the <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, to enable productive discussions of the critical internet governance issues at the meeting and elsewhere.</p>
             <p>The Centre for Internet and Society, Bangalore, India, is a non-profit research organization that works on policy issues relating to freedom of expression, privacy, accessibility for persons with disabilities, access to knowledge and IPR reform, and openness, and engages in academic research on digital natives and digital humanities.</p>
-            <p>The analysis was done by Geetha Hariharan, Jyoti Pandey, and <a href="http://ajantriks.net/" target="_blank">Sumandro Chattapadhyay</a>, with data entry suport from Chandru X.</p>
+            <p>The analysis was done by Geetha Hariharan, Jyoti Pandey, and <a href="http://ajantriks.net/" target="_blank">Sumandro Chattapadhyay</a>, with data entry suport from Chandrasekhar.</p>
         </div>
       </div>
 

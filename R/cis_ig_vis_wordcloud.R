@@ -1,3 +1,7 @@
+# Created by Sumandro Chattapadhyay
+# http://ajantriks.net
+# Shared under Creative Commons Attribution-ShareAlike 2.5 India license
+
 # Load libraries
 library(tm)
 library(SnowballC)

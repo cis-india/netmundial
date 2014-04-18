@@ -22,131 +22,24 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <!-- Custom Styles -->
-    <link href="css/style.css" rel="stylesheet">
     <!-- Google Fonts API -->
     <link href='http://fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
-  
-    <!-- Google Chart - Treemap -->
 
-    <script type="text/javascript" src="http://www.google.com/jsapi">
-    </script>
+    <!-- Custom Styles -->
+    <link href="css/style.css" rel="stylesheet">
 
-      <script type="text/javascript">
-    
-      // Load the Visualization API and the treemap package
-      google.load('visualization', '1.0', {'packages':['treemap']});
-      
-      // Set a callback to run when the Google Visualization API is loaded
-      google.setOnLoadCallback(drawVisualization);
-      
-      function drawVisualization() {
+    <!-- Datamaps -->
 
-	// Data
+    <script src="js/datamaps/d3.v3.min.js"></script>
+    <script src="js/datamaps/topojson.v1.min.js"></script>
+    <script src="js/datamaps/datamaps.world.min.js"></script>
 
-	var data = google.visualization.arrayToDataTable([
-		['Location','Parent','Submissions','Internet Penetration','Principles','Roadmaps','Combined'],
-		['All',null,187,0,65,44,78],
-		['Africa','All',20,4,9,5,6],
-		['Australia and New Zealand','All',5,1,3,2,0],
-		['Central & South America and the Carribbean','All',31,0,9,9,13],
-		['East Asia','All',9,1,3,2,4],
-		['Europe','All',45,3,12,9,24],
-		['Global','All',25,9,15,5,5],
-		['North America','All',39,1,12,11,16],
-		['South and West Asia','All',13,1,2,1,10],
-		['Cote D Ivoire','Africa',1,1,1,0,0],
-		['Kenya','Africa',2,1,1,0,1],
-		['Mauritius','Africa',1,0,0,0,1],
-		['Nigeria','Africa',3,0,1,1,1],
-		['Regional (Africa)','Africa',2,0,0,0,2],
-		['Senegal','Africa',2,0,1,1,0],
-		['Sudan','Africa',4,2,3,1,0],
-		['Tunisia','Africa',3,0,1,1,1],
-		['Zimbabwe','Africa',1,-1,0,1,0],
-		['Australia','Australia and New Zealand',2,0,1,1,0],
-		['New Zealand','Australia and New Zealand',3,1,2,1,0],
-		['Argentina','Central & South America and the Carribbean',6,0,2,2,2],
-		['Brazil','Central & South America and the Carribbean',17,-1,4,5,8],
-		['Colombia','Central & South America and the Carribbean',1,0,0,0,1],
-		['Costa Rica','Central & South America and the Carribbean',1,-1,0,1,0],
-		['Regional (Central & South America and the Carribbean)','Central & South America and the Carribbean',4,2,2,0,2],
-		['Trinidad And Tobago','Central & South America and the Carribbean',1,-1,0,1,0],
-		['Uruguay','Central & South America and the Carribbean',1,1,1,0,0],
-		['China','East Asia',2,1,1,0,1],
-		['Japan','East Asia',4,0,1,1,2],
-		['Malaysia','East Asia',1,-1,0,1,0],
-		['South Korea','East Asia',2,1,1,0,1],
-		['Austria','Europe',1,0,0,0,1],
-		['Belgium','Europe',2,0,0,0,2],
-		['Bulgaria','Europe',1,0,0,0,1],
-		['Denmark','Europe',1,0,0,0,1],
-		['France','Europe',6,-1,1,2,3],
-		['Germany','Europe',2,1,1,0,1],
-		['Italy','Europe',2,1,1,0,1],
-		['Malta','Europe',1,-1,0,1,0],
-		['Norway','Europe',1,0,0,0,1],
-		['Poland','Europe',2,-1,0,1,1],
-		['Portugal','Europe',1,-1,0,1,0],
-		['Regional (Europe)','Europe',7,1,3,2,2],
-		['Russia','Europe',3,0,0,0,3],
-		['Spain','Europe',3,1,1,0,2],
-		['Sweden','Europe',1,1,1,0,0],
-		['Switzerland','Europe',6,0,2,2,2],
-		['UK','Europe',4,1,1,0,3],
-		['Ukraine','Europe',1,1,1,0,0],
-		['Commonwealth','Global',2,2,2,0,0],
-		['ICANN','Global',1,0,0,0,1],
-		['Internet Society','Global',4,2,3,1,0],
-		['Other','Global',18,5,9,4,5],
-		['Canada','North America',2,1,1,0,1],
-		['Mexico','North America',2,0,0,0,2],
-		['Regional (North America)','North America',2,0,1,1,0],
-		['USA','North America',33,0,10,10,13],
-		['India','South and West Asia',7,-1,0,1,6],
-		['Iran','South and West Asia',2,0,0,0,2],
-		['Kuwait','South and West Asia',1,0,0,0,1],
-		['Regional (South and West Asia)','South and West Asia',1,1,1,0,0],
-		['Yemen','South and West Asia',2,1,1,0,1]
-	]);
-
-	// Treemap
-
-	var treemap = new google.visualization.TreeMap(document.getElementById('treemap'));
-	treemap.draw(data, {
-		minColor: '#00a865',
-		midColor: '#00a865',
-		maxColor: '#00a865',
-		headerHeight: 30,
-		fontColor: '#222',
-		showScale: false,
-		generateTooltip: showFullTooltip,
-		textStyle: {
-			fontName: 'Duru Sans',
-			fontSize: '14px',
-		},
-	});
-
-	function showFullTooltip(row, size, value) {
-	  return '<div style="background:rgba(256,256,256,0.9); padding:10px; border: 2px solid #999">' +
-		'<b>' + data.getValue(row, 0) + '</b><br>' + 
-		'<br>' +
-		'Total Submissions: '  + data.getValue(row, 2) + '<br>' +
-		'<br>' +
-		'Principles: '  + data.getValue(row, 4) + '<br>' +
-		'Roadmaps: '  + data.getValue(row, 5) + '<br>' +
-		'Combined: '  + data.getValue(row, 6) + '<br>' +
-		' </div>';
-	}
-
-      }
-
-    </script>
   </head>
+
   <body>
-     
-  <!-- NAVBAR
-  ================================================== -->
+    
+<!-- NAVBAR
+================================================== -->
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -175,7 +68,7 @@
                     <li><a href="contributions_org_type.html">Contributions by Types of Organisation</a></li>
                     <li><a href="map_no_contrib.html">Which Countries Have Not Contributed?</a></li>
                     <li><a href="map_no_contrib_govt.html">Which Governments Have Not Contributed?</a></li>                    
-                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>  
+                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>
                   </ul>
                 </li>
                 <li><a href="#about">About the Study</a></li>
@@ -189,21 +82,67 @@
     ================================================== -->
 
     <div class="container">
-	<div class="content-header">Contributions by Countries of Origin</div>
+	<div class="content-header">Which Governments Have Not Contributed to Net Mundial?</div>
 
 	<!-- Chart -->
 	<div id="chart">
-          <div id="treemap" class="col-md-12 chart" style="width: 100%; height: 400px;">
-          </div>
+
+	  <!-- Map -->
+
+	  <div class="row" style="margin-left: 0px;">
+		<div class="col-md-12">
+		<div id="map" style="position: relative; width: 1000px; height: 450px; background-color: #C3DDF9; "></div>
+		  <script>
+			var choropleth = new Datamap({
+			  element: document.getElementById("map"),
+			  fills: {
+			    defaultFill: "#00a865",
+			    contributed: "#fff"
+			  },
+			  data: {
+			    ARG: { fillKey: "contributed" },
+			    AUT: { fillKey: "contributed" },
+			    BGR: { fillKey: "contributed" },
+			    CAN: { fillKey: "contributed" },
+			    CHN: { fillKey: "contributed" },
+			    CHE: { fillKey: "contributed" },
+			    DEU: { fillKey: "contributed" },
+			    DNK: { fillKey: "contributed" },
+			    ESP: { fillKey: "contributed" },
+			    FRA: { fillKey: "contributed" },
+			    GBR: { fillKey: "contributed" },
+			    IND: { fillKey: "contributed" },
+			    IRN: { fillKey: "contributed" },
+			    KOR: { fillKey: "contributed" },
+			    MEX: { fillKey: "contributed" },
+			    NOR: { fillKey: "contributed" },
+			    POL: { fillKey: "contributed" },
+			    RUS: { fillKey: "contributed" },
+			    SWE: { fillKey: "contributed" },
+			    TTO: { fillKey: "contributed" },
+			    TUN: { fillKey: "contributed" },
+			    USA: { fillKey: "contributed" },
+			  },
+	                  geographyConfig: {
+		            popupOnHover: true, //disable the popup while hovering
+		            highlightOnHover: true,
+		            highlightFillColor: 'rgba(0, 168, 101, 0.6)',
+		            highlightBorderColor: '#fff',
+		            highlightBorderWidth: 1
+		          },
+			});				
+		  </script>		
+		</div>
+      	  </div>
+
+      	  <!-- Chart Meta and Description -->
+
 	  <div class="col-md-4" id="chart-meta">
-          	<p>Created by <a href="http://ajantriks.net/" target="_blank">Sumandro</a> using <a href="https://developers.google.com/chart/" target="_blank">Google Charts</a>.<br />
-		Google <a href="https://developers.google.com/terms/">Terms of Use</a> and <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/treemap.html#Data_Policy">Data Policy</a>.<br />
-	        Download the <a href="https://github.com/ajantriks/netmundial/blob/master/data/cis_ig_vis_tree.csv" target="_blank">data</a>.</p>
+          	<p>Created by <a href="http://ajantriks.net/" target="_blank">Sumandro</a> using <a href="http://datamaps.github.io/" target="_blank">Datamaps</a>.<br />
 	  </div>
 	  <div class="col-md-8" id="chart-description">
-          	<p>This treemap chart divides up contributions submitted to Net Mundial 2014 into their countries of origin, which are also clustered into regional divisions. The size of the rectangles indicate the total number of submissions from the respective region/country.</p>
-          	<p>Right click on the regions to see the division of submissions from the countries within that region. Left click to go back.</p>
-	        <p>Certain submissions have been contributed by global organisations, such as Internet Society, ICANN and Commonwealth agencies. These submissions have been included in the 'Global' division in the above chart. Also, Russia has been included within Europe, and China has been included within East Asia.</p>
+          	<p>This map shows (in *green*) all the countries from which the respective governments have not submitted any contribution to Net Mundial. Governments of the countries appearing in *white* have contributed to the Net Mundial process.</p>
+          	<p>To see the map of all the countries from which there have been no contributions (by any kind of organisations) to Net Mundial, <a href="map_no_contrib.html">click here</a>.</p>
 	  </div>
 	</div>
       <!-- About the Study -->
