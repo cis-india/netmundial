@@ -1,5 +1,5 @@
 # Written by Sumandro Chattapadhyay
-# <http://ajantriks.net>
+# <http://ajantriks.net/>
 # Shared under Creative Commons Attribution-ShareAlike 2.5 India license
 
 # Opening and preparing data for each types of organisation

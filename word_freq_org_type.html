@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="NETmundial, internet governance">
+    <meta name="author" content="Centre for Internet and Society, Bangalore, India">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Google Fonts API -->
+    <link href='http://fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
+
+    <!-- Custom Styles -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Custom Styles for Data Table-->
+
+    <style>
+
+	.five {background-color: #41ae76; } 		/* Total.Frequency > 1000 */
+	.four {background-color: #66c2a4; }		/* 1000 > Total.Frequency > 500 */
+	.three {background-color: #99d8c9; }		/* 500 > Total.Frequency > 150 */
+	.two {background-color: #ccece6; }		/* 150 > Total.Frequency > 50 */
+	.one {background-color: #e5f5f9; }		/* 50 > Total.Frequency */
+	
+    </style>
+
+  </head>
+  <body>
+    
+<!-- NAVBAR
+================================================== -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span class="navbar-brand">Analysing Contributions to NETmundial 2014</span>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+	  <ul class="nav navbar-nav">
+		<li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Analysis <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-header">Posts</li>
+                    <li><a href="#">Post #01</a></li>
+                    <li><a href="#">Post #02</a></li>
+                    <li><a href="#">Post #03</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Visualisations</li>
+                    <li><a href="word_heatmap.html">Comparing Appearance of Fifty Most Freuqent Words</a></li>
+                    <li><a href="contributions_countries.html">Contributions by Countries of Origin</a></li>
+                    <li><a href="contributions_org_type.html">Contributions by Types of Organisation</a></li>
+                    <li><a href="word_freq_org_type.html">Fifty Most Frequent Words across Types of Organisation</a></li>
+                    <li><a href="map_no_contrib.html">Which Countries Have Not Contributed?</a></li>
+                    <li><a href="map_no_contrib_govt.html">Which Governments Have Not Contributed?</a></li>                    
+                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>
+                  </ul>
+                </li>
+                <li><a href="#about">About the Study</a></li>
+              </ul>
+            </div>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Content
+    ================================================== -->
+
+    <div class="container">
+	<div class="content-header">Fifty Most Frequent Words across Types of Organisation</div>
+
+	<!-- Chart -->
+	<div id="chart">
+
+	  <!-- Word List -->
+
+	  <div class="row" style="margin-left: 0px;">
+		<div class="col-md-12">
+		  <table class="table custom-bg-colour">
+		  <thead>
+			<tr><th>Rank</th><th>Academia</th><th>Civil Society</th><th>Government</th><th>Other</th><th>Private Sector</th><th>Technical Community</th></tr>
+		  </thead>
+		  <tbody>
+			<tr><th>1</th><td class="five">policy(ies)</td><td class="five">right(s)</td><td class="five">right(s)</td><td class="five">right(s)</td><td class="four">stakeholder(s)</td><td class="five">policy(ies)</td></tr>
+			<tr><th>2</th><td class="four">stakeholder(s)</td><td class="five">policy(ies)</td><td class="four">stakeholder(s)</td><td class="four">human</td><td class="five">policy(ies)</td><td class="four">process(es)</td></tr>
+			<tr><th>3</th><td class="three">state(s)</td><td class="four">government(s)</td><td class="four">multistakeholder</td><td class="four">icann</td><td class="four">process(es)</td><td class="three">standard(s)</td></tr>
+			<tr><th>4</th><td class="five">right(s)</td><td class="four">information</td><td class="four">development</td><td class="four">stakeholder(s)</td><td class="four">multistakeholder</td><td class="four">organization(s)</td></tr>
+			<tr><th>5</th><td class="four">government(s)</td><td class="four">process(es)</td><td class="five">policy(ies)</td><td class="four">access</td><td class="three">need(s)</td><td class="four">icann</td></tr>
+			<tr><th>6</th><td class="four">icann</td><td class="four">stakeholder(s)</td><td class="four">process(es)</td><td class="three">group(s)</td><td class="four">information</td><td class="four">development</td></tr>
+			<tr><th>7</th><td class="four">information</td><td class="four">public</td><td class="four">government(s)</td><td class="three">freedom</td><td class="three">model</td><td class="three">technical</td></tr>
+			<tr><th>8</th><td class="two">curriculum</td><td class="four">human</td><td class="four">information</td><td class="four">information</td><td class="four">development</td><td class="four">open(ness)</td></tr>
+			<tr><th>9</th><td class="three">technology(ies)</td><td class="four">multistakeholder</td><td class="four">public</td><td class="three">unesco</td><td class="four">government(s)</td><td class="three">root</td></tr>
+			<tr><th>10</th><td class="four">human</td><td class="three">state(s)</td><td class="four">human</td><td class="four">multistakeholder</td><td class="three">network(s)</td><td class="two">ietf</td></tr>
+			<tr><th>11</th><td class="four">organization(s)</td><td class="four">icann</td><td class="three">need(s)</td><td class="three">service(s)</td><td class="four">organization(s)</td><td class="four">information</td></tr>
+			<tr><th>12</th><td class="two">cyber</td><td class="four">society</td><td class="three">discussion(s)</td><td class="four">process(es)</td><td class="four">open(ness)</td><td class="two">community(ies)</td></tr>
+			<tr><th>13</th><td class="three">need(s)</td><td class="four">open(ness)</td><td class="three">security</td><td class="four">society</td><td class="four">society</td><td class="four">stakeholder(s)</td></tr>
+			<tr><th>14</th><td class="two">country(ies)</td><td class="four">access</td><td class="four">society</td><td class="four">open(ness)</td><td class="three">service(s)</td><td class="three">group(s)</td></tr>
+			<tr><th>15</th><td class="two">analysis</td><td class="four">development</td><td class="three">state(s)</td><td class="four">organization(s)</td><td class="three">technology(ies)</td><td class="four">government(s)</td></tr>
+			<tr><th>16</th><td class="three">technical</td><td class="three">group(s)</td><td class="four">open(ness)</td><td class="four">development</td><td class="four">access</td><td class="four">society</td></tr>
+			<tr><th>17</th><td class="one">brics</td><td class="three">participation</td><td class="four">icann</td><td class="three">security</td><td class="three">discussion(s)</td><td class="two">server(s)</td></tr>
+			<tr><th>18</th><td class="three">group(s)</td><td class="three">need(s)</td><td class="three">future</td><td class="four">public</td><td class="three">technical</td><td class="two">cyberspace</td></tr>
+			<tr><th>19</th><td class="four">process(es)</td><td class="four">communication(s)</td><td class="three">ecosystem(s)</td><td class="four">government(s)</td><td class="three">security</td><td class="four">multistakeholder</td></tr>
+			<tr><th>20</th><td class="four">multistakeholder</td><td class="three">technical</td><td class="three">model</td><td class="three">privacy</td><td class="three">future</td><td class="three">iana</td></tr>
+			<tr><th>21</th><td class="three">online</td><td class="three">igf</td><td class="three">economic</td><td class="two">community(ies)</td><td class="five">right(s)</td><td class="one">review</td></tr>
+			<tr><th>22</th><td class="three">trade</td><td class="three">service(s)</td><td class="two">respect</td><td class="three">national</td><td class="three">user(s)</td><td class="three">network(s)</td></tr>
+			<tr><th>23</th><td class="two">cyberspace</td><td class="two">country(ies)</td><td class="three">technical</td><td class="three">social</td><td class="two">business</td><td class="one">operator(s)</td></tr>
+			<tr><th>24</th><td class="four">open(ness)</td><td class="two">civil</td><td class="two">cyberspace</td><td class="two">expression</td><td class="two">evolution</td><td class="three">service(s)</td></tr>
+			<tr><th>25</th><td class="three">law</td><td class="four">organization(s)</td><td class="three">participation</td><td class="five">policy(ies)</td><td class="two">growth</td><td class="one">individual(s)</td></tr>
+			<tr><th>26</th><td class="three">network(s)</td><td class="three">user(s)</td><td class="two">country(ies)</td><td class="three">user(s)</td><td class="three">support</td><td class="three">user(s)</td></tr>
+			<tr><th>27</th><td class="four">development</td><td class="three">national</td><td class="three">law</td><td class="three">online</td><td class="two">netmundial</td><td class="three">participation</td></tr>
+			<tr><th>28</th><td class="one">practice(s)</td><td class="three">idea</td><td class="four">organization(s)</td><td class="one">charter</td><td class="two">mechanism(s)</td><td class="one">operation(s)</td></tr>
+			<tr><th>29</td><td class="two">cooperation</td><td class="three">privacy</td><td class="four">access</td><td class="two">everyone</td><td class="two">country(ies)</td><td class="one">participate</td></tr>
+			<tr><th>30</th><td class="three">participation</td><td class="three">system(s)</td><td class="two">evolution</td><td class="two">data</td><td class="two">community(ies)</td><td class="one">domain(s)</td></tr>
+			<tr><th>31</th><td class="three">freedom</td><td class="two">data</td><td class="three">social</td><td class="three">iana</td><td class="three">ecosystem(s)</td><td class="three">model</td></tr>
+			<tr><th>32</th><td class="two">data</td><td class="three">people</td><td class="three">user(s)</td><td class="three">need(s)</td><td class="three">economic</td><td class="three">system(s)</td></tr>
+			<tr><th>33</th><td class="one">class</td><td class="three">surveillance</td><td class="one">order</td><td class="two">protection</td><td class="three">participation</td><td class="one">decision(s)</td></tr>
+			<tr><th>34</th><td class="one">education</td><td class="three">freedom</td><td class="one">commission</td><td class="two">knowledge</td><td class="four">public</td><td class="one">member(s)</td></tr>
+			<tr><th>35</th><td class="one">research</td><td class="two">digital</td><td class="one">european</td><td class="three">standard(s)</td><td class="two">innovation(s)</td><td class="two">activity(ies)</td></tr>
+			<tr><th>36</th><td class="three">security</td><td class="three">trade</td><td class="one">fundamental</td><td class="three">technical</td><td class="four">icann</td><td class="two">address</td></tr>
+			<tr><th>37</th><td class="one">actor(s)</td><td class="two">free</td><td class="three">igf</td><td class="two">universality</td><td class="two">industry</td><td class="four">public</td></tr>
+			<tr><th>38</th><td class="three">user(s)</td><td class="three">private</td><td class="two">cooperation</td><td class="two">civil</td><td class="two">mobile</td><td class="three">security</td></tr>
+			<tr><th>39</th><td class="one">document(s)</td><td class="three">root</td><td class="two">developing</td><td class="one">coalition</td><td class="four">human</td><td class="three">ecosystem(s)</td></tr>
+			<tr><th>40</th><td class="three">privacy</td><td class="three">security</td><td class="one">forum</td><td class="three">ecosystem(s)</td><td class="three">national</td><td class="one">board</td></tr>
+			<tr><th>41</th><td class="two">content</td><td class="three">standard(s)</td><td class="three">freedom</td><td class="three">participation</td><td class="three">people</td><td class="three">economic</td></tr>
+			<tr><th>42</th><td class="one">seminar</td><td class="three">future</td><td class="two">protection</td><td class="one">cultural</td><td class="three">online</td><td class="four">access</td></tr>
+			<tr><th>43</th><td class="four">society</td><td class="three">social</td><td class="three">online</td><td class="one">irp</td><td class="two">opportunity</td><td class="three">future</td></tr>
+			<tr><th>44</th><td class="one">framework</td><td class="three">model</td><td class="two">free</td><td class="three">model</td><td class="three">social</td><td class="five">right(s)</td></tr>
+			<tr><th>45</th><td class="one">learning</td><td class="three">iana</td><td class="three">people</td><td class="three">economic</td><td class="three">standard(s)</td><td class="one">ipv</td></tr>
+			<tr><th>46</th><td class="four">public</td><td class="two">political</td><td class="three">system(s)</td><td class="two">content</td><td class="two">data</td><td class="two">cooperation</td></tr>
+			<tr><th>47</th><td class="two">developing</td><td class="three">support</td><td class="one">democratic</td><td class="two">media</td><td class="one">transparent</td><td class="one">oversight</td></tr>
+			<tr><th>48</th><td class="three">private</td><td class="two">content</td><td class="two">innovation(s)</td><td class="one">spectrum</td><td class="one">brazil</td><td class="one">transparency</td></tr>
+			<tr><th>49</th><td class="two">activity(ies)</td><td class="three">law</td><td class="three">national</td><td class="two">address</td><td class="two">developing</td><td class="one">developed</td></tr>
+			<tr><th>50</th><td class="two">media</td><td class="three">economic</td><td class="three">private</td><td class="two">netmundial</td><td class="one">infrastructure</td><td class="one">cctld</td></tr>
+			</tbody>
+		  </table>
+		</div>
+      	  </div>
+
+      	  <!-- Chart Meta and Description -->
+
+	  <div class="col-md-4" id="chart-meta">
+          	<p>Created by <a href="http://ajantriks.net/" target="_blank">Sumandro</a>.<br />
+		Colours by <a href="http://colorbrewer2.org/" target="_blank">ColorBrewer</a>.<br />
+	        Download the <a href="https://github.com/ajantriks/netmundial/blob/master/data/cis_ig_vis_word_list_org_types.csv" target="_blank">data</a>.</p>
+	  </div>
+	  <div class="col-md-8" id="chart-description">
+          	<p>This table shows the fifty most frequent words from contributions by each types of organisation. While the words are arranged in terms of their appearance rank (within contributions by the respective type of organisation), the background colours indicate how frequently the same word appears among all the contributions taken together. Darker green background represents higher frequency of appearance of the word (among all the contributions), and vice versa.</p>
+          	<p>Hence, if word has high-ranked for organisation of type Z and also has a lighter green background colour, that means that the word has been commonly used by organisations of type Z but has its overall usage (that is, by all types of organisation) has not been frequent.</p>
+          	<p>Conversely, a lower-ranking word with darker green background indicates at less frequent usage of the word by the corresponding organisation type, while it being frequently mentioned by all types of organisation combined.</p>
+          	<p>Common English words and obvious words -- like, 'Internet' and 'governance' -- have been omitted while generating the table.</p>
+	  </div>
+	</div>
+      <!-- About the Study -->
+	<div class="about">
+          <a id="about"></a>
+          <div class="col-md-4">
+	    <a href="http://cis-india.org/"><img src="img/cis_logo.png" alt="The Centre for Internet and Society, Bangalore, India"></a>
+          </div>
+          <div class="col-md-8">
+            <h2>Analysing Contributions to NETmundial 2014</h2>
+            <p>This set of analysis of the contributions submitted to <a href="http://netmundial.br/" target="_blank">NETmundial 2014</a> is part of the effort by the <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, to enable productive discussions of the critical internet governance issues at the meeting and elsewhere.</p>
+            <p>The Centre for Internet and Society, Bangalore, India, is a non-profit research organization that works on policy issues relating to freedom of expression, privacy, accessibility for persons with disabilities, access to knowledge and IPR reform, and openness, and engages in academic research on digital natives and digital humanities.</p>
+            <p>The analysis was done by Geetha Hariharan, Jyoti Pandey, and <a href="http://ajantriks.net/" target="_blank">Sumandro Chattapadhyay</a>, with data entry suport from Chandrasekhar.</p>
+          </div>
+	</div>
+
+      <!-- Footer -->
+	<footer>
+	  <div class="col-md-4">
+            <p>Built on <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> by <a href="http://ajantriks.net/" target="_blank">Sumandro</a>.</p>
+	  </div>
+          <div class="col-md-8">
+	    <p class="footer">All code, content and data is co-owned by the author(s) and <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, and shared under Creative Commons <a href="http://creativecommons.org/licenses/by-sa/2.5/in/" target="_blank">Attribution-ShareAlike 2.5 India</a> license.</p>
+	  </div>
+	</footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
+  </body>
+</html>

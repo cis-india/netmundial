@@ -45,6 +45,11 @@ h3 {
 	font-weight: normal;
 }
 
+.table > thead > tr > th {
+	vertical-align: bottom;
+	border-bottom: 0px solid #DDD;
+}
+
 /* Navigation
 -------------------------------------------------- */
 
