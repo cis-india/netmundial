@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="NETmundial, internet governance">
+    <meta name="author" content="Centre for Internet and Society, Bangalore, India">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
+
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <!-- Datamaps -->
+    <script src="../js/datamaps/d3.v3.min.js"></script>
+    <script src="../js/datamaps/topojson.v1.min.js"></script>
+    <script src="../js/datamaps/datamaps.world.min.js"></script>
+  </head>
+  <body>
+	<!-- Map -->
+	<div id="map" style="position: relative; width: 1000px; height: 450px; background-color: #C3DDF9; "></div>
+		<script>
+			var choropleth = new Datamap({
+			  element: document.getElementById("map"),
+			  fills: {
+			    defaultFill: "#00a865",
+			    contributed: "#fff"
+			  },
+			  data: {
+			    ARG: { fillKey: "contributed" },
+			    AUT: { fillKey: "contributed" },
+			    BGR: { fillKey: "contributed" },
+			    CAN: { fillKey: "contributed" },
+			    CHN: { fillKey: "contributed" },
+			    CHE: { fillKey: "contributed" },
+			    DEU: { fillKey: "contributed" },
+			    DNK: { fillKey: "contributed" },
+			    ESP: { fillKey: "contributed" },
+			    FRA: { fillKey: "contributed" },
+			    GBR: { fillKey: "contributed" },
+			    IND: { fillKey: "contributed" },
+			    IRN: { fillKey: "contributed" },
+			    KOR: { fillKey: "contributed" },
+			    MEX: { fillKey: "contributed" },
+			    NOR: { fillKey: "contributed" },
+			    POL: { fillKey: "contributed" },
+			    RUS: { fillKey: "contributed" },
+			    SWE: { fillKey: "contributed" },
+			    TTO: { fillKey: "contributed" },
+			    TUN: { fillKey: "contributed" },
+			    USA: { fillKey: "contributed" },
+			  },
+	                  geographyConfig: {
+		            popupOnHover: true, //disable the popup while hovering
+		            highlightOnHover: true,
+		            highlightFillColor: 'rgba(0, 168, 101, 0.6)',
+		            highlightBorderColor: '#fff',
+		            highlightBorderWidth: 1
+		          },
+			});				
+		</script>		
+	</div>
+  </body>
+</html>
