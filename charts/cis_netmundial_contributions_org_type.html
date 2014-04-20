@@ -10,9 +10,6 @@
 
     <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
@@ -607,106 +604,14 @@ callbacks.shift()();
 }, 100);
 }
  
-// jsFooter
-</script>
+	// jsFooter
+	</script>
  
-<!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartSankeyID302a590936fe"></script>
-  
-<!-- NAVBAR
-================================================== -->
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <span class="navbar-brand">Analysing Contributions to NETmundial 2014</span>
-        </div>
-        <div class="navbar-collapse collapse navbar-right">
-	  <ul class="nav navbar-nav">
-		<li><a href="index.html">Home</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Analysis <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li class="dropdown-header">Posts</li>
-                    <li><a href="#">Post #01</a></li>
-                    <li><a href="#">Post #02</a></li>
-                    <li><a href="#">Post #03</a></li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Visualisations</li>
-                    <li><a href="word_heatmap.html">Comparing Appearance of Fifty Most Freuqent Words</a></li>
-                    <li><a href="contributions_countries.html">Contributions by Countries of Origin</a></li>
-                    <li><a href="contributions_org_type.html">Contributions by Types of Organisation</a></li>
-                    <li><a href="word_freq_org_type.html">Fifty Most Frequent Words across Types of Organisation</a></li>
-                    <li><a href="map_no_contrib.html">Which Countries Have Not Contributed?</a></li>
-                    <li><a href="map_no_contrib_govt.html">Which Governments Have Not Contributed?</a></li>                    
-                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li> 
-                  </ul>
-                </li>
-                <li><a href="#about">About the Study</a></li>
-              </ul>
-            </div>
-        </div><!--/.navbar-collapse -->
-      </div>
-    </div>
+	<!-- jsChart -->  
+	<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartSankeyID302a590936fe"></script>
 
-    <!-- Content
-    ================================================== -->
+	<!-- Chart -->  
+	<div class="chart" id="SankeyID302a590936fe" style="width: 100%; height: 800px; margin-left: 2px;"></div>
 
-    <div class="container">
-	<div class="content-header">Contributions by Types of Organisation</div>
-
-	<!-- Chart -->
-	<div id="chart">
-	  <div class="col-md-12 chart" id="SankeyID302a590936fe" style="width: 100%; height: 800px; margin-left: 2px; ">
-	  </div>
-	  <div class="col-md-4" id="chart-meta">
-          	<p>Created by <a href="http://ajantriks.net/" target="_blank">Sumandro</a> using <a href="https://developers.google.com/chart/" target="_blank">Google Charts</a>.<br />
-		Google <a href="https://developers.google.com/terms/" target="_blank">Terms of Use</a> and <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/treemap.html#Data_Policy" target="_blank">Data Policy</a>.<br />
-	        Download the <a href="https://github.com/ajantriks/netmundial/blob/master/data/cis_ig_vis_sankey.csv" target="_blank">data</a>.</p>
-	  </div>
-	  <div class="col-md-8" id="chart-description">
-          	<p>This Sankey diagram shows all the countries/regions from where contributions have come in on the left side, and all the various types of organisations on the right side. Use the mouse cursor to hover over a country to see what proportion of the submissions from that country has come from which type of organisation, or hover over an organisation type to see what proportion of submission from such organisations have come in from which countries.</p>
-		<p>The height of the blue bars next to the country/region names and organisation types indicate at the respective proportions among all the contributions.</p>
-		<p>Certain submissions have been contributed by global organisations, such as Internet Society, ICANN and Commonwealth agencies. These submissions have been included in the 'Global' division in the above chart.</p>
-	  </div>
-	</div>
-      <!-- About the Study -->
-	<div class="about">
-          <a id="about"></a>
-          <div class="col-md-4">
-	    <a href="http://cis-india.org/"><img src="img/cis_logo.png" alt="The Centre for Internet and Society, Bangalore, India"></a>
-          </div>
-          <div class="col-md-8">
-            <h2>Analysing Contributions to NETmundial 2014</h2>
-            <p>This set of analysis of the contributions submitted to <a href="http://netmundial.br/" target="_blank">NETmundial 2014</a> is part of the effort by the <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, to enable productive discussions of the critical internet governance issues at the meeting and elsewhere.</p>
-            <p>The Centre for Internet and Society, Bangalore, India, is a non-profit research organization that works on policy issues relating to freedom of expression, privacy, accessibility for persons with disabilities, access to knowledge and IPR reform, and openness, and engages in academic research on digital natives and digital humanities.</p>
-            <p>The analysis was done by Geetha Hariharan, Jyoti Pandey, and <a href="http://ajantriks.net/" target="_blank">Sumandro Chattapadhyay</a>, with data entry suport from Chandrasekhar.</p>
-          </div>
-	</div>
-
-      <!-- Footer -->
-	<footer>
-	  <div class="col-md-4">
-            <p>Built on <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> by <a href="http://ajantriks.net/" target="_blank">Sumandro</a>.</p>
-	  </div>
-          <div class="col-md-8">
-	    <p class="footer">All code, content and data is co-owned by the author(s) and <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, and shared under Creative Commons <a href="http://creativecommons.org/licenses/by-sa/2.5/in/" target="_blank">Attribution-ShareAlike 2.5 India</a> license.</p>
-	  </div>
-	</footer>
-
-    </div><!-- /.container -->
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/docs.min.js"></script>
   </body>
 </html>
