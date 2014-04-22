@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="NETmundial, internet governance">
+    <meta name="author" content="Centre for Internet and Society, Bangalore, India">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom Styles -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Google Fonts API -->
+    <link href='http://fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
+  
+    <!-- Google Chart - Treemap -->
+
+    <script type="text/javascript" src="http://www.google.com/jsapi">
+    </script>
+
+      <script type="text/javascript">
+    
+      // Load the Visualization API and the treemap package
+      google.load('visualization', '1.0', {'packages':['treemap']});
+      
+      // Set a callback to run when the Google Visualization API is loaded
+      google.setOnLoadCallback(drawVisualization);
+      
+      function drawVisualization() {
+
+	// Data
+
+	var data = google.visualization.arrayToDataTable([
+		['Location','Parent','Submissions','Color','Topic','Total Submissions','Sector','Position'],
+		['Topics',null,187,1,'Topics',187,'all types of','about the topics mentioned below.'],
+		['Multistakeholder Model Reform','Topics',187,1,'Multistakeholder Model Reform',187,'all types of','about reform of the multistakeholder model.'],
+		['Reform Needed','Multistakeholder Model Reform',137,1,'Multistakeholder Model Reform',187,'all types of','in favour of reforming the multistakeholder model.'],
+		['Reform Not Needed','Multistakeholder Model Reform',50,1,'Multistakeholder Model Reform',187,'all types of','against reform of the multistakeholder model.'],
+		['Academia (Reform Needed)','Reform Needed',12,1,'Multistakeholder Model Reform',20,'academic','in favour of reforming the multistakeholder model.'],
+		['Academia (Reform Not Needed)','Reform Not Needed',8,1,'Multistakeholder Model Reform',20,'academic','against reform of the multistakeholder model.'],
+		['Civil Society (Reform Needed)','Reform Needed',46,1,'Multistakeholder Model Reform',59,'civil society','in favour of reforming the multistakeholder model.'],
+		['Civil Society (Reform Not Needed)','Reform Not Needed',13,1,'Multistakeholder Model Reform',59,'civil society','against reform of the multistakeholder model.'],
+		['Government (Reform Needed)','Reform Needed',25,1,'Multistakeholder Model Reform',28,'government','in favour of reforming the multistakeholder model.'],
+		['Government (Reform Not Needed)','Reform Not Needed',3,1,'Multistakeholder Model Reform',28,'government','against reform of the multistakeholder model.'],
+		['Other (Reform Needed)','Reform Needed',14,1,'Multistakeholder Model Reform',21,'other','in favour of reforming the multistakeholder model.'],
+		['Other (Reform Not Needed)','Reform Not Needed',7,1,'Multistakeholder Model Reform',21,'other','against reform of the multistakeholder model.'],
+		['Private Sector (Reform Needed)','Reform Needed',26,1,'Multistakeholder Model Reform',43,'private sector','in favour of reforming the multistakeholder model.'],
+		['Private Sector (Reform Not Needed)','Reform Not Needed',17,1,'Multistakeholder Model Reform',43,'private sector','against reform of the multistakeholder model.'],
+		['Technical Community (Reform Needed)','Reform Needed',14,1,'Multistakeholder Model Reform',16,'technical community','in favour of reforming the multistakeholder model.'],
+		['Technical Community (Reform Not Needed)','Reform Not Needed',2,1,'Multistakeholder Model Reform',16,'technical community','against reform of the multistakeholder model.'],
+		['Evolution of IGF','Topics',187,1,'Evolution of Internet Governance Forum',187,'all types of','about evolution of the Internet Governance Forum.'],
+		['Evolution Needed','Evolution of IGF',49,1,'Evolution of Internet Governance Forum',187,'all types of','in favour of evolution of the Internet Governance Forum.'],
+		['Evolution Not Needed','Evolution of IGF',138,1,'Evolution of Internet Governance Forum',187,'all types of','against evolution of the Internet Governance Forum.'],
+		['Academia (Evolution Needed)','Evolution Needed',5,1,'Evolution of Internet Governance Forum',20,'academic','in favour of evolution of the Internet Governance Forum.'],
+		['Academia (Evolution Not Needed)','Evolution Not Needed',15,1,'Evolution of Internet Governance Forum',20,'academic','against evolution of the Internet Governance Forum.'],
+		['Civil Society (Evolution Needed)','Evolution Needed',15,1,'Evolution of Internet Governance Forum',59,'civil society','in favour of evolution of the Internet Governance Forum.'],
+		['Civil Society (Evolution Not Needed)','Evolution Not Needed',44,1,'Evolution of Internet Governance Forum',59,'civil society','against evolution of the Internet Governance Forum.'],
+		['Government (Evolution Needed)','Evolution Needed',12,1,'Evolution of Internet Governance Forum',28,'government','in favour of evolution of the Internet Governance Forum.'],
+		['Government (Evolution Not Needed)','Evolution Not Needed',16,1,'Evolution of Internet Governance Forum',28,'government','against evolution of the Internet Governance Forum.'],
+		['Other (Evolution Needed)','Evolution Needed',6,1,'Evolution of Internet Governance Forum',21,'other','in favour of evolution of the Internet Governance Forum.'],
+		['Other (Evolution Not Needed)','Evolution Not Needed',15,1,'Evolution of Internet Governance Forum',21,'other','against evolution of the Internet Governance Forum.'],
+		['Private Sector (Evolution Needed)','Evolution Needed',8,1,'Evolution of Internet Governance Forum',43,'private sector','in favour of evolution of the Internet Governance Forum.'],
+		['Private Sector (Evolution Not Needed)','Evolution Not Needed',35,1,'Evolution of Internet Governance Forum',43,'private sector','against evolution of the Internet Governance Forum.'],
+		['Technical Community (Evolution Needed)','Evolution Needed',3,1,'Evolution of Internet Governance Forum',16,'technical community','in favour of evolution of the Internet Governance Forum.'],
+		['Technical Community (Evolution Not Needed)','Evolution Not Needed',13,1,'Evolution of Internet Governance Forum',16,'technical community','against evolution of the Internet Governance Forum.'],
+		['Differentiated Roles of Stakeholders','Topics',187,1,'Differentiated Roles of Stakeholders',187,'all types of','about differentiated roles of stakeholders.'],
+		['Yes to Differentiated Roles','Differentiated Roles of Stakeholders',126,1,'Differentiated Roles of Stakeholders',187,'all types of','in favour of differentiated roles of stakeholders.'],
+		['No to Differentiated Roles','Differentiated Roles of Stakeholders',58,1,'Differentiated Roles of Stakeholders',187,'all types of','against differentiated roles of stakeholders.'],
+		['Roles are Not Specified','Differentiated Roles of Stakeholders',3,1,'Differentiated Roles of Stakeholders',187,'all types of','not specifically about differentiated roles of stakeholders.'],
+		['Academia (Yes to Differentiated Roles)','Yes to Differentiated Roles',9,1,'Differentiated Roles of Stakeholders',20,'academic','in favour of differentiated roles of stakeholders.'],
+		['Academia (No to Differentiated Roles)','No to Differentiated Roles',8,1,'Differentiated Roles of Stakeholders','20','academic','against differentiated roles of stakeholders.'],
+		['Academia (Roles are Not Specified)','Roles are Not Specified',3,1,'Differentiated Roles of Stakeholders','20','academic','not specifically about differentiated roles of stakeholders.'],
+		['Civil Society (Yes to Differentiated Roles)','Yes to Differentiated Roles',44,1,'Differentiated Roles of Stakeholders',59,'civil society','in favour of differentiated roles of stakeholders.'],
+		['Civil Society (No to Differentiated Roles)','No to Differentiated Roles',15,1,'Differentiated Roles of Stakeholders',59,'civil society','against differentiated roles of stakeholders.'],
+		['Civil Society (Roles are Not Specified)','Roles are Not Specified',0,1,'Differentiated Roles of Stakeholders',59,'civil society','not specifically about differentiated roles of stakeholders.'],
+		['Government (Yes to Differentiated Roles)','Yes to Differentiated Roles',19,1,'Differentiated Roles of Stakeholders',28,'government','in favour of differentiated roles of stakeholders.'],
+		['Government (No to Differentiated Roles)','No to Differentiated Roles',9,1,'Differentiated Roles of Stakeholders',28,'government','against differentiated roles of stakeholders.'],
+		['Government (Roles are Not Specified)','Roles are Not Specified',0,1,'Differentiated Roles of Stakeholders',28,'government','not specifically about differentiated roles of stakeholders.'],
+		['Other (Yes to Differentiated Roles)','Yes to Differentiated Roles',14,1,'Differentiated Roles of Stakeholders',21,'other','in favour of differentiated roles of stakeholders.'],
+		['Other (No to Differentiated Roles)','No to Differentiated Roles',7,1,'Differentiated Roles of Stakeholders',21,'other','against differentiated roles of stakeholders.'],
+		['Other (Roles are Not Specified)','Roles are Not Specified',0,1,'Differentiated Roles of Stakeholders',21,'other','not specifically about differentiated roles of stakeholders.'],
+		['Private Sector (Yes to Differentiated Roles)','Yes to Differentiated Roles',31,1,'Differentiated Roles of Stakeholders',43,'private sector','in favour of differentiated roles of stakeholders.'],
+		['Private Sector (No to Differentiated Roles)','No to Differentiated Roles',12,1,'Differentiated Roles of Stakeholders',43,'private sector','against differentiated roles of stakeholders.'],
+		['Private Sector (Roles are Not Specified)','Roles are Not Specified',0,1,'Differentiated Roles of Stakeholders',43,'private sector','not specifically about differentiated roles of stakeholders.'],
+		['Technical Community (Yes to Differentiated Roles)','Yes to Differentiated Roles',9,1,'Differentiated Roles of Stakeholders',16,'technical community','in favour of differentiated roles of stakeholders.'],
+		['Technical Community (No to Differentiated Roles)','No to Differentiated Roles',7,1,'Differentiated Roles of Stakeholders',16,'technical community','against differentiated roles of stakeholders.'],
+		['Technical Community (Roles are Not Specified)','Roles are Not Specified',0,1,'Differentiated Roles of Stakeholders',16,'technical community','not specifically about differentiated roles of stakeholders.'],
+		['Adoption of Equal Footing','Topics',187,1,'Adoption of Equal Footing',187,'all types of','about adoption of equal footing.'],
+		['Yes to Equal Footing','Adoption of Equal Footing',75,1,'Adoption of Equal Footing',187,'all types of','in favour of the adoption of equal footing.'],
+		['No to Equal Footing','Adoption of Equal Footing',112,1,'Adoption of Equal Footing',187,'all types of','against the adoption of equal footing.'],
+		['Academia (Yes to Equal Footing)','Yes to Equal Footing',2,1,'Adoption of Equal Footing',20,'academic','in favour of the adoption of equal footing.'],
+		['Academia (No to Equal Footing)','No to Equal Footing',18,1,'Adoption of Equal Footing','20','academic','against the adoption of equal footing.'],
+		['Civil Society (Yes to Equal Footing)','Yes to Equal Footing',29,1,'Adoption of Equal Footing',59,'civil society','in favour of the adoption of equal footing.'],
+		['Civil Society (No to Equal Footing)','No to Equal Footing',30,1,'Adoption of Equal Footing',59,'civil society','against the adoption of equal footing.'],
+		['Government (Yes to Equal Footing)','Yes to Equal Footing',12,1,'Adoption of Equal Footing',28,'government','in favour of the adoption of equal footing.'],
+		['Government (No to Equal Footing)','No to Equal Footing',16,1,'Adoption of Equal Footing',28,'government','against the adoption of equal footing.'],
+		['Other (Yes to Equal Footing)','Yes to Equal Footing',7,1,'Adoption of Equal Footing',21,'other','in favour of the adoption of equal footing.'],
+		['Other (No to Equal Footing)','No to Equal Footing',14,1,'Adoption of Equal Footing',21,'other','against the adoption of equal footing.'],
+		['Private Sector (Yes to Equal Footing)','Yes to Equal Footing',18,1,'Adoption of Equal Footing',43,'private sector','in favour of the adoption of equal footing.'],
+		['Private Sector (No to Equal Footing)','No to Equal Footing',25,1,'Adoption of Equal Footing',43,'private sector','against the adoption of equal footing.'],
+		['Technical Community (Yes to Equal Footing)','Yes to Equal Footing',7,1,'Adoption of Equal Footing',16,'technical community','in favour of the adoption of equal footing.'],
+		['Technical Community (No to Equal Footing)','No to Equal Footing',9,1,'Adoption of Equal Footing',16,'technical community','against the adoption of equal footing.']
+	]);
+
+	// Treemap
+
+	var treemap = new google.visualization.TreeMap(document.getElementById('treemap'));
+	treemap.draw(data, {
+		minColor: '#00a865',
+		midColor: '#00a865',
+		maxColor: '#00a865',
+		headerHeight: 30,
+		fontColor: '#222',
+		showScale: false,
+		generateTooltip: showFullTooltip,
+		textStyle: {
+			fontName: 'Duru Sans',
+			fontSize: '14px',
+		},
+	});
+	function showFullTooltip(row, size, value) {
+	  return '<div style="background:rgba(256,256,256,0.9); padding:10px; border: 2px solid #999">' +
+		'<b>' + data.getValue(row, 4) + '</b><br>' + 
+		'<br>' +
+		'<b>' + data.getValue(row, 2) + '</b> of the total of <b>' + data.getValue(row, 5) + '</b> contributions <br> by <b>' + data.getValue(row, 6) + '</b> organisations <br> talk ' + data.getValue(row, 7) + '<br>' + 
+		' </div>';
+	}
+      }
+
+    </script>
+  </head>
+  <body>
+     
+  <!-- NAVBAR
+  ================================================== -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span class="navbar-brand">Analysing Contributions to NETmundial 2014</span>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+	  <ul class="nav navbar-nav">
+		<li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Analysis <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-header">Posts</li>
+                    <li><a href="#">Post #01</a></li>
+                    <li><a href="#">Post #02</a></li>
+                    <li><a href="#">Post #03</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Visualisations</li>
+                    <li><a href="word_heatmap.html">Comparing Appearance of Fifty Most Frequent Words</a></li>
+                    <li><a href="contributions_countries.html">Contributions by Countries of Origin</a></li>
+                    <li><a href="contributions_org_type.html">Contributions by Types of Organisation</a></li>
+                    <li><a href="word_freq_org_type.html">Fifty Most Frequent Words across Types of Organisation</a></li>
+                    <li><a href="map_no_contrib.html">Which Countries Have Not Contributed?</a></li>
+                    <li><a href="map_no_contrib_govt.html">Which Governments Have Not Contributed?</a></li>                    
+                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>  
+                  </ul>
+                </li>
+                <li><a href="#about">About the Study</a></li>
+              </ul>
+            </div>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Content
+    ================================================== -->
+
+    <div class="container">
+	<div class="content-header">What Do the Contributions Say about the Roadmap?</div>
+
+	<!-- Chart -->
+	<div id="chart">
+          <div id="treemap" class="col-md-12 chart" style="width: 100%; height: 400px;">
+          </div>
+	  <div class="col-md-4" id="chart-meta">
+          	<p>Created by <a href="http://ajantriks.net/" target="_blank">Sumandro</a> using <a href="https://developers.google.com/chart/" target="_blank">Google Charts</a>.<br />
+		Google <a href="https://developers.google.com/terms/" target="_blank">Terms of Use</a> and <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/treemap.html#Data_Policy" target="_blank">Data Policy</a>.<br />
+	        Download the <a href="https://github.com/ajantriks/netmundial/blob/master/data/cis_ig_vis_tree.csv" target="_blank">data</a>.</p>
+	  </div>
+	  <div class="col-md-8" id="chart-description">
+          	<p>This treemap chart divides up contributions submitted to NETmundial 2014 into their countries of origin, which are also clustered into regional divisions. The size of the rectangles indicate the total number of submissions from the respective region/country.</p>
+          	<p>Right click on the regions to see the division of submissions from the countries within that region. Left click to go back.</p>
+	        <p>Certain submissions have been contributed by global organisations, such as Internet Society, ICANN and Commonwealth agencies. These submissions have been included in the 'Global' division in the above chart. Also, Russia has been included within Europe, and China has been included within East Asia.</p>
+	  </div>
+	</div>
+      <!-- About the Study -->
+	<div class="about">
+          <a id="about"></a>
+          <div class="col-md-4">
+	    <a href="http://cis-india.org/"><img src="img/cis_logo.png" alt="The Centre for Internet and Society, Bangalore, India"></a>
+          </div>
+          <div class="col-md-8">
+            <h2>Analysing Contributions to NETmundial 2014</h2>
+            <p>This set of analysis of the contributions submitted to <a href="http://netmundial.br/" target="_blank">NETmundial 2014</a> is part of the effort by the <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, to enable productive discussions of the critical internet governance issues at the meeting and elsewhere.</p>
+            <p>The Centre for Internet and Society, Bangalore, India, is a non-profit research organization that works on policy issues relating to freedom of expression, privacy, accessibility for persons with disabilities, access to knowledge and IPR reform, and openness, and engages in academic research on digital natives and digital humanities.</p>
+            <p>The analysis was done by Geetha Hariharan, Jyoti Pandey, and <a href="http://ajantriks.net/" target="_blank">Sumandro Chattapadhyay</a>, with data entry suport from Chandrasekhar.</p>
+          </div>
+	</div>
+
+      <!-- Footer -->
+	<footer>
+	  <div class="col-md-4">
+            <p>Built on <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> by <a href="http://ajantriks.net/" target="_blank">Sumandro</a>.</p>
+	  </div>
+          <div class="col-md-8">
+	    <p class="footer">All code, content and data is co-owned by the author(s) and <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, and shared under Creative Commons <a href="http://creativecommons.org/licenses/by-sa/2.5/in/" target="_blank">Attribution-ShareAlike 2.5 India</a> license.</p>
+	  </div>
+	</footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
+  </body>
+</html>
