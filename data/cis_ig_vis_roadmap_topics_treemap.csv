@@ -1,88 +1,13 @@
-Location,Parent,Submissions,"Total Submissions"
-Topics,null,187,187
-"Reforming the Multistakeholder Model",Topics,187,187
-"Reform Needed","Reforming the Multistakeholder Model",137,187
-"Reform Not Needed","Reforming the Multistakeholder Model",50,187
-"Academia (Reform Needed)","Reform Needed",12,20
-"Academia (Reform Not Needed)","Reform Not Needed",8,20
-"Civil Society (Reform Needed)","Reform Needed",46,59
-"Civil Society (Reform Not Needed)","Reform Not Needed",13,59
-"Government (Reform Needed)","Reform Needed",25,28
-"Government (Reform Not Needed)","Reform Not Needed",3,28
-"Other (Reform Needed)","Reform Needed",14,21
-"Other (Reform Not Needed)","Reform Not Needed",7,21
-"Private Sector (Reform Needed)","Reform Needed",26,43
-"Private Sector (Reform Not Needed)","Reform Not Needed",17,43
-"Technical Community (Reform Needed)","Reform Needed",14,16
-"Technical Community (Reform Not Needed)","Reform Not Needed",2,16
-"Evolution of IGF",Topics,49,187
-"Academia (Evolution of IGF)","Evolution of IGF",5,20
-"Civil Society (Evolution of IGF)","Evolution of IGF",15,59
-"Government (Evolution of IGF)","Evolution of IGF",12,28
-"Other (Evolution of IGF)","Evolution of IGF",6,21
-"Private Sector (Evolution of IGF)","Evolution of IGF",8,43
-"Technical Community (Evolution of IGF)","Evolution of IGF",3,16
-"Adoption of Multilateralism",Topics,144,187
-"Academia (Adoption of Multilateralism)","Adoption of Multilateralism",15,20
-"Civil Society (Adoption of Multilateralism)","Adoption of Multilateralism",48,59
-"Government (Adoption of Multilateralism)","Adoption of Multilateralism",26,28
-"Other (Adoption of Multilateralism)","Adoption of Multilateralism",17,21
-"Private Sector (Adoption of Multilateralism)","Adoption of Multilateralism",31,43
-"Technical Community (Adoption of Multilateralism)","Adoption of Multilateralism",7,16
-"Differentiated Roles of Stakeholders",Topics,187,187
-"Yes to Differentiated Roles","Differentiated Roles of Stakeholders",126,187
-"No to Differentiated Roles","Differentiated Roles of Stakeholders",58,187
-"Roles are Not Specified","Differentiated Roles of Stakeholders",3,187
-"Academia (Yes to Differentiated Roles)","Yes to Differentiated Roles",9,20
-"Academia (No to Differentiated Roles)","No to Differentiated Roles",8,20
-"Academia (Roles are Not Specified)","Roles are Not Specified",3,20
-"Civil Society (Yes to Differentiated Roles)","Yes to Differentiated Roles",44,59
-"Civil Society (No to Differentiated Roles)","No to Differentiated Roles",15,59
-"Civil Society (Roles are Not Specified)","Roles are Not Specified",0,59
-"Government (Yes to Differentiated Roles)","Yes to Differentiated Roles",19,28
-"Government (No to Differentiated Roles)","No to Differentiated Roles",9,28
-"Government (Roles are Not Specified)","Roles are Not Specified",0,28
-"Other (Yes to Differentiated Roles)","Yes to Differentiated Roles",14,21
-"Other (No to Differentiated Roles)","No to Differentiated Roles",7,21
-"Other (Roles are Not Specified)","Roles are Not Specified",0,21
-"Private Sector (Yes to Differentiated Roles)","Yes to Differentiated Roles",31,43
-"Private Sector (No to Differentiated Roles)","No to Differentiated Roles",12,43
-"Private Sector (Roles are Not Specified)","Roles are Not Specified",0,43
-"Technical Community (Yes to Differentiated Roles)","Yes to Differentiated Roles",9,16
-"Technical Community (No to Differentiated Roles)","No to Differentiated Roles",7,16
-"Technical Community (Roles are Not Specified)","Roles are Not Specified",0,16
-"Adoption of Equal Footing",Topics,75,187
-"Academia (Adoption of Equal Footing)","Adoption of Equal Footing",2,20
-"Civil Society (Adoption of Equal Footing)","Adoption of Equal Footing",29,59
-"Government (Yes to Equal Footing)","Adoption of Equal Footing",12,28
-"Other (Yes to Equal Footing)","Adoption of Equal Footing",7,21
-"Private Sector (Yes to Equal Footing)","Adoption of Equal Footing",18,43
-"Technical Community (Yes to Equal Footing)","Adoption of Equal Footing",7,16
-"Mention of *Democracy*",Topics,82,187
-"Academia (Mentions *Democracy*)","Mention of *Democracy*",4,20
-"Civil Society (Mentions *Democracy*)","Mention of *Democracy*",28,59
-"Government (Mentions *Democracy*)","Mention of *Democracy*",18,28
-"Other (Mentions *Democracy*)","Mention of *Democracy*",7,21
-"Private Sector (Mentions *Democracy*)","Mention of *Democracy*",14,43
-"Technical Community (Mentions *Democracy*)","Mention of *Democracy*",11,16
-"Mention of *Net Neutrality*",Topics,45,187
-"Academia (Mentions *Net Neutrality*)","Mention of *Net Neutrality*",7,20
-"Civil Society (Mentions *Net Neutrality*)","Mention of *Net Neutrality*",17,59
-"Government (Mentions *Net Neutrality*)","Mention of *Net Neutrality*",5,28
-"Other (Mentions *Net Neutrality*)","Mention of *Net Neutrality*",3,21
-"Private Sector (Mentions *Net Neutrality*)","Mention of *Net Neutrality*",8,43
-"Technical Community (Mentions *Net Neutrality*)","Mention of *Net Neutrality*",5,16
-"Mention of *Enhanced Cooperation*",Topics,81,187
-"Academia (Mentions *Enhanced Cooperation*)","Mention of *Enhanced Cooperation*",11,20
-"Civil Society (Mentions *Enhanced Cooperation*)","Mention of *Enhanced Cooperation*",22,59
-"Government (Mentions *Enhanced Cooperation*)","Mention of *Enhanced Cooperation*",14,28
-"Other (Mentions *Enhanced Cooperation*)","Mention of *Enhanced Cooperation*",6,21
-"Private Sector (Mentions *Enhanced Cooperation*)","Mention of *Enhanced Cooperation*",20,43
-"Technical Community (Mentions *Enhanced Cooperation*)","Mention of *Enhanced Cooperation*",8,16
-"Mention of *Online Human Rights*",Topics,110,187
-"Academia (Mentions *Online Human Rights*)","Mention of *Online Human Rights*",9,20
-"Civil Society (Mentions *Online Human Rights*)","Mention of *Online Human Rights*",44,59
-"Government (Mentions *Online Human Rights*)","Mention of *Online Human Rights*",24,28
-"Other (Mentions *Online Human Rights*)","Mention of *Online Human Rights*",11,21
-"Private Sector (Mentions *Online Human Rights*)","Mention of *Online Human Rights*",19,43
-"Technical Community (Mentions *Online Human Rights*)","Mention of *Online Human Rights*",3,16
+Sector,Academia,Civil Society,Government,Other,Private Sector,Technical Community
+Reform the Multistakeholder Model,12,46,25,14,26,14
+Do Not Reform the Multistakeholder Model,8,13,3,7,17,2
+Evolution of Internet Governance Forum,5,15,12,6,8,3
+Adoption of Multilateralism,15,48,26,17,31,7
+Differentiated Roles for Stakeholders,9,44,19,14,31,9
+No to Veto Power,20,59,28,21,43,16
+Discusses Democracy,4,28,18,7,14,11
+Discusses Net Neutrality,7,17,5,3,8,5
+Discusses Equal Footing,2,29,12,7,18,7
+Discusses Enhanced Cooperation,11,22,14,6,20,8
+Discusses Bottom-up Processes,5,25,5,6,16,10
+Discusses Online Human Rights,9,44,24,11,19,3
