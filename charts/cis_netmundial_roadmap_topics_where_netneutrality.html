@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="NETmundial, internet governance">
+    <meta name="author" content="Centre for Internet and Society, Bangalore, India">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
+
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style>
+
+	body {
+		margin: 0px;
+	}
+
+    </style>
+
+    <!-- Datamaps -->
+
+    <script src="../js/datamaps/d3.v3.min.js"></script>
+    <script src="../js/datamaps/topojson.v1.min.js"></script>
+    <script src="../js/datamaps/datamaps.world.min.js"></script>
+  </head>
+  <body>
+	<div id="map" style="position: relative; width: 1000px; height: 450px; background-color: #C3DDF9; padding: 0px; "></div>
+		<script>
+			var choropleth = new Datamap({
+			  element: document.getElementById("map"),
+			  fills: {
+			    defaultFill: "#fff",
+			    netNeutrality: "#00a865",
+			    noMention: "#999"
+			  },
+			  data: {
+			    ARG: { fillKey: "netNeutrality" },
+			    AUS: { fillKey: "noMention" },
+			    AUT: { fillKey: "noMention" },
+			    BEL: { fillKey: "noMention" },
+			    BRA: { fillKey: "netNeutrality" },
+			    BGR: { fillKey: "noMention" },
+			    CAN: { fillKey: "netNeutrality" },
+			    CHN: { fillKey: "noMention" },
+			    COD: { fillKey: "noMention" },
+			    COL: { fillKey: "noMention" },
+			    CHE: { fillKey: "netNeutrality" },
+			    CIV: { fillKey: "netNeutrality" },
+			    CRI: { fillKey: "noMention" },
+			    DEU: { fillKey: "noMention" },
+			    DNK: { fillKey: "noMention" },
+			    ESP: { fillKey: "netNeutrality" },
+			    FRA: { fillKey: "noMention" },
+			    GBR: { fillKey: "noMention" },
+			    IND: { fillKey: "netNeutrality" },
+			    IRN: { fillKey: "netNeutrality" },
+			    ITA: { fillKey: "netNeutrality" },
+			    JPN: { fillKey: "noMention" },
+			    KEN: { fillKey: "netNeutrality" },
+			    KOR: { fillKey: "netNeutrality" },
+			    KWT: { fillKey: "netNeutrality" },
+			    MEX: { fillKey: "netNeutrality" },
+			    MLT: { fillKey: "noMention" },
+			    MUS: { fillKey: "noMention" },
+			    MYS: { fillKey: "netNeutrality" },
+			    NGA: { fillKey: "noMention" },
+			    NOR: { fillKey: "noMention" },
+			    NZL: { fillKey: "noMention" },
+			    POL: { fillKey: "netNeutrality" },
+			    PRT: { fillKey: "netNeutrality" },
+			    RUS: { fillKey: "netNeutrality" },
+			    SDN: { fillKey: "netNeutrality" },
+			    SEN: { fillKey: "noMention" },
+			    SWE: { fillKey: "noMention" },
+			    TTO: { fillKey: "noMention" },
+			    TUN: { fillKey: "noMention" },
+			    UKR: { fillKey: "noMention" },
+			    URY: { fillKey: "netNeutrality" },
+			    USA: { fillKey: "netNeutrality" },
+			    YEM: { fillKey: "noMention" },
+			    ZWE: { fillKey: "noMention" },		    
+			  },
+	                  geographyConfig: {
+		            popupOnHover: true, //disable the popup while hovering
+		            highlightOnHover: true,
+		            highlightFillColor: 'rgba(0, 168, 101, 0.6)',
+		            highlightBorderColor: '#fff',
+		            highlightBorderWidth: 1
+		          },
+			});				
+		</script>		
+	</div>
+  </body>
+</html>

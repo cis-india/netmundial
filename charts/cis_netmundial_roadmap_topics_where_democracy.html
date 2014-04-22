@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="NETmundial, internet governance">
+    <meta name="author" content="Centre for Internet and Society, Bangalore, India">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
+
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style>
+
+	body {
+		margin: 0px;
+	}
+
+    </style>
+
+    <!-- Datamaps -->
+
+    <script src="../js/datamaps/d3.v3.min.js"></script>
+    <script src="../js/datamaps/topojson.v1.min.js"></script>
+    <script src="../js/datamaps/datamaps.world.min.js"></script>
+  </head>
+  <body>
+	<div id="map" style="position: relative; width: 1000px; height: 450px; background-color: #C3DDF9; padding: 0px; "></div>
+		<script>
+			var choropleth = new Datamap({
+			  element: document.getElementById("map"),
+			  fills: {
+			    defaultFill: "#fff",
+			    democracy: "#00a865",
+			    noMention: "#999"
+			  },
+			  data: {
+			    ARG: { fillKey: "democracy" },
+			    AUS: { fillKey: "noMention" },
+			    AUT: { fillKey: "democracy" },
+			    BEL: { fillKey: "democracy" },
+			    BRA: { fillKey: "democracy" },
+			    BGR: { fillKey: "democracy" },
+			    CAN: { fillKey: "democracy" },
+			    CHN: { fillKey: "democracy" },
+			    CHE: { fillKey: "democracy" },
+			    CIV: { fillKey: "democracy" },
+			    COL: { fillKey: "noMention" },
+			    COD: { fillKey: "noMention" },
+			    CRI: { fillKey: "noMention" },
+			    DEU: { fillKey: "democracy" },
+			    DNK: { fillKey: "noMention" },
+			    ESP: { fillKey: "democracy" },
+			    FRA: { fillKey: "democracy" },
+			    GBR: { fillKey: "democracy" },
+			    IND: { fillKey: "democracy" },
+			    IRN: { fillKey: "democracy" },
+			    ITA: { fillKey: "democracy" },
+			    JPN: { fillKey: "noMention" },
+			    KEN: { fillKey: "democracy" },
+			    KOR: { fillKey: "democracy" },
+			    KWT: { fillKey: "democracy" },
+			    MEX: { fillKey: "noMention" },
+			    MLT: { fillKey: "noMention" },
+			    MUS: { fillKey: "noMention" },
+			    MYS: { fillKey: "democracy" },
+			    NGA: { fillKey: "democracy" },
+			    NOR: { fillKey: "democracy" },
+			    NZL: { fillKey: "noMention" },
+			    POL: { fillKey: "democracy" },
+			    PRT: { fillKey: "noMention" },
+			    RUS: { fillKey: "noMention" },
+			    SEN: { fillKey: "noMention" },
+			    SDN: { fillKey: "democracy" },
+			    SWE: { fillKey: "democracy" },
+			    KOR: { fillKey: "noMention" },
+			    TTO: { fillKey: "noMention" },
+			    TUN: { fillKey: "democracy" },
+			    UKR: { fillKey: "noMention" },
+			    URY: { fillKey: "democracy" },
+			    USA: { fillKey: "democracy" },
+			    YEM: { fillKey: "democracy" },
+			    ZWE: { fillKey: "noMention" },			    
+			  },
+	                  geographyConfig: {
+		            popupOnHover: true, //disable the popup while hovering
+		            highlightOnHover: true,
+		            highlightFillColor: 'rgba(0, 168, 101, 0.6)',
+		            highlightBorderColor: '#fff',
+		            highlightBorderWidth: 1
+		          },
+			});				
+		</script>		
+	</div>
+  </body>
+</html>

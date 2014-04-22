@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="NETmundial, internet governance">
+    <meta name="author" content="Centre for Internet and Society, Bangalore, India">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Google Fonts API -->
+    <link href='http://fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
+
+    <!-- Custom Styles -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Select2 -->
+ 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <link href="js/select2-3.4.5/select2.css" rel="stylesheet"/>
+    <script src="js/select2-3.4.5/select2.js"></script>
+
+  </head>
+
+  <body>
+    
+<!-- NAVBAR
+================================================== -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span class="navbar-brand">Analysing Contributions to NETmundial 2014</span>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+	  <ul class="nav navbar-nav">
+		<li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Analysis <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-header">Posts</li>
+                    <li><a href="#">Post #01</a></li>
+                    <li><a href="#">Post #02</a></li>
+                    <li><a href="#">Post #03</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Visualisations</li>
+                    <li><a href="word_heatmap.html">Comparing Appearance of Fifty Most Frequent Words</a></li>
+                    <li><a href="contributions_countries.html">Contributions by Countries of Origin</a></li>
+                    <li><a href="contributions_org_type.html">Contributions by Types of Organisation</a></li>
+                    <li><a href="word_freq_org_type.html">Fifty Most Frequent Words across Types of Organisation</a></li>
+                    <li><a href="map_no_contrib.html">Which Countries Have Not Contributed?</a></li>
+                    <li><a href="map_no_contrib_govt.html">Which Governments Have Not Contributed?</a></li>                    
+                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>
+                  </ul>
+                </li>
+                <li><a href="#about">About the Study</a></li>
+              </ul>
+            </div>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Content
+    ================================================== -->
+
+    <div class="container">
+	<div class="content-header">Where Are the Roadmap Suggestions Coming from?</div>
+
+	<!-- Chart -->
+	<div id="chart">
+
+	  <!-- Selector and Instruction -->
+
+	  <div class="col-md-4" id="chart-selector">
+	    <select id="terms" style="width:200px">
+		<option value="democracy">Democracy</option>
+		<option value="equalfooting">Equal Footing</option>
+		<option value="netneutrality">Net Neutrality</option>
+	    </select>
+	  </div>
+	  <div class="col-md-8" id="chart-instruction">
+          	<p>Choose a roadmap-related term on the left to see the map of contributions that mention it, shown in terms of their country of origin.</p>
+          	<p>Contributions from countries in green have mentioned the term, those from countries in gray have not mentioned it, and no contributions have been submitted from countries in white.</p>
+          	<p>&nbsp;</p>
+	  </div>
+
+	  <!-- Map -->
+
+	  <div class="row" style="margin-left: 0px;">
+		<div class="col-md-12">
+		  <div style="width: 100%; ">
+			<iframe id="map" src="charts/cis_netmundial_roadmap_topics_where_democracy.html" width="1010px" height="470px" padding-left="0px" frameborder="0">
+			</iframe>
+		  </div>
+		</div>
+      	  </div>
+
+      	  <!-- Chart Meta and Description -->
+
+	  <div class="col-md-4" id="chart-meta">
+          	<p>Created by <a href="http://ajantriks.net/" target="_blank">Sumandro</a> using <a href="http://datamaps.github.io/" target="_blank">Datamaps</a>.<br />
+          	Data extracted and organised by Jyoti.<br />
+          	Download the <a href="" target="_blank">data</a>.</p>
+	  </div>
+	  <div class="col-md-8" id="chart-description">
+          	<p>&nbsp;</p>
+		<p>&nbsp;</p>
+	  </div>
+	</div>
+      <!-- About the Study -->
+	<div class="about">
+          <a id="about"></a>
+          <div class="col-md-4">
+	    <a href="http://cis-india.org/"><img src="img/cis_logo.png" alt="The Centre for Internet and Society, Bangalore, India"></a>
+          </div>
+          <div class="col-md-8">
+            <h2>Analysing Contributions to NETmundial 2014</h2>
+            <p>This set of analysis of the contributions submitted to <a href="http://netmundial.br/" target="_blank">NETmundial 2014</a> is part of the effort by the <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, to enable productive discussions of the critical internet governance issues at the meeting and elsewhere.</p>
+            <p>The Centre for Internet and Society, Bangalore, India, is a non-profit research organization that works on policy issues relating to freedom of expression, privacy, accessibility for persons with disabilities, access to knowledge and IPR reform, and openness, and engages in academic research on digital natives and digital humanities.</p>
+            <p>The analysis was done by Geetha Hariharan, Jyoti Pandey, and <a href="http://ajantriks.net/" target="_blank">Sumandro Chattapadhyay</a>, with data entry suport from Chandrasekhar.</p>
+          </div>
+	</div>
+
+      <!-- Footer -->
+	<footer>
+	  <div class="col-md-4">
+            <p>Built on <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> by <a href="http://ajantriks.net/" target="_blank">Sumandro</a>.</p>
+	  </div>
+          <div class="col-md-8">
+	    <p class="footer">All code, content and data is co-owned by the author(s) and <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, and shared under Creative Commons <a href="http://creativecommons.org/licenses/by-sa/2.5/in/" target="_blank">Attribution-ShareAlike 2.5 India</a> license.</p>
+	  </div>
+	</footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <script src="js/bootstrap.min.js"></script>
+<!--
+    <script src="js/docs.min.js"></script>
+-->    
+    <script>
+	$(document).ready(function() { $("#terms").select2(); });
+	$('#terms').on('change', function(e) {loadMap(e.val);});
+	function loadMap(term) {
+		if (term=='democracy')
+			{
+				$('#map').attr('src', 'charts/cis_netmundial_roadmap_topics_where_democracy.html');
+	 		}
+		else {	
+			$('#map').attr('src', 'charts/cis_netmundial_roadmap_topics_where_'+term+'.html');
+	 	};
+	 }
+    </script>        
+  </body>
+</html>
