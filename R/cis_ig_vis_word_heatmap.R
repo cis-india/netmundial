@@ -5,27 +5,27 @@
 # Opening and preparing data for each types of organisation
 # Note: To see how these files were generated, go to: <https://github.com/ajantriks/netmundial/blob/master/R/cis_ig_vis_wordcloud.R>
 
-ac <- read.csv("data/cis_ig_vis_word_cloud_academia_freq.csv")
+ac <- read.csv("data/cis_ig_vis_word_cloud_academia_freq_edited.csv")
 ac$sector <- 1
 View(ac)
 
-cs <- read.csv("data/cis_ig_vis_word_cloud_civil_society_freq.csv")
+cs <- read.csv("data/cis_ig_vis_word_cloud_civil_society_freq_edited.csv")
 cs$sector <- 2
 View(cs)
 
-go <- read.csv("data/cis_ig_vis_word_cloud_government_freq.csv")
+go <- read.csv("data/cis_ig_vis_word_cloud_government_freq_edited.csv")
 go$sector <- 3
 View(go)
 
-ot <- read.csv("data/cis_ig_vis_word_cloud_other_freq.csv")
+ot <- read.csv("data/cis_ig_vis_word_cloud_other_freq_edited.csv")
 ot$sector <- 4
 View(ot)
 
-ps <- read.csv("data/cis_ig_vis_word_cloud_private_sector_freq.csv")
+ps <- read.csv("data/cis_ig_vis_word_cloud_private_sector_freq_edited.csv")
 ps$sector <- 5
 View(ps)
 
-tc <- read.csv("data/cis_ig_vis_word_cloud_technical_community_freq.csv")
+tc <- read.csv("data/cis_ig_vis_word_cloud_technical_community_freq_edited.csv")
 tc$sector <- 6
 View(tc)
 
