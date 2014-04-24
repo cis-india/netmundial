@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="NETmundial, internet governance">
+    <meta name="author" content="Centre for Internet and Society, Bangalore, India">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Analysing Contributions to NETmundial 2014 | Centre for Internet and Society, Bangalore, India</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom Styles -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Google Fonts API -->
+    <link href='http://fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
+    <style>
+	.content-header {
+		padding-bottom: 0px;
+	}
+    </style>
+    <!-- Google Chart - Scatter Plot -->
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+
+        var data = new google.visualization.DataTable();
+	data.addColumn('number', 'Serial Number');
+	data.addColumn('number', 'Academia');
+	data.addColumn({type:'string', role:'tooltip'});
+	data.addColumn('number', 'Civil Society');
+	data.addColumn({type:'string', role:'tooltip'});
+	data.addColumn('number', 'Government');
+	data.addColumn({type:'string', role:'tooltip'});	
+	data.addColumn('number', 'Other');
+	data.addColumn({type:'string', role:'tooltip'});	
+	data.addColumn('number', 'Private Sector');
+	data.addColumn({type:'string', role:'tooltip'});	
+	data.addColumn('number', 'Technical Community');
+	data.addColumn({type:'string', role:'tooltip'});		
+	data.addRows([
+	  [1,0,"Institute Of International Relations, Ukraine",null,"",null,"",null,"",null,"",null,""],
+	  [2,null,"",null,"",2,"Federal Foreign Office, Commissioner For International Cyber Policy, Germany",null,"",null,"",null,""],
+	  [3,null,"",0,"Association For Proper Internet Governance, Switzeland",null,"",null,"",null,"",null,""],
+	  [4,null,"",3,"ISOC, Yemen",null,"",null,"",null,"",null,""],
+	  [5,0,"Universidad Nacional De San Luis, Argentina",null,"",null,"",null,"",null,"",null,""],
+	  [6,null,"",null,"",10,"Government of USA",null,"",null,"",null,""],
+	  [7,0,"George Washington University, USA",null,"",null,"",null,"",null,"",null,""],
+	  [8,null,"",1,"Association For Proper Internet Governance, Switzeland",null,"",null,"",null,"",null,""],
+	  [9,null,"",null,"",0,"Government of People's Republic Of China",null,"",null,"",null,""],
+	  [10,null,"",0,"Paradigm Initiative, Nigeria",null,"",null,"",null,"",null,""],
+	  [11,null,"",10,"Global Knowledge Partnership Foundation, NPOC, Europe",null,"",null,"",null,"",null,""],
+	  [12,null,"",null,"",8,"Department For Culture, Media And Sport, United Kingdom Government",null,"",null,"",null,""],
+	  [13,null,"",7,"Noncommercial Stakeholders Group, ICANN, North America",null,"",null,"",null,"",null,""],
+	  [14,0,"University Of Gezira, Wad Medani, Sudan",null,"",null,"",null,"",null,"",null,""],
+	  [15,null,"",3,"Association For Proper Internet Governance, Switzeland",null,"",null,"",null,"",null,""],
+	  [16,null,"",5,"Zimbabwe Human Rights Forum, Zimbabwe",null,"",null,"",null,"",null,""],
+	  [17,null,"",null,"",null,"",null,"",0,"Beta Advanced Projects, Sudan",null,""],
+	  [18,null,"",null,"",5,"Government of Sweden",null,"",null,"",null,""],
+	  [19,null,"",5,"Noncommercial Stakeholders Group, ICANN, North America",null,"",null,"",null,"",null,""],
+	  [20,null,"",null,"",null,"",null,"",0,"Alvarez & Marsal (Information Security Forum Agent For Brazil)",null,""],
+	  [21,6,"St. Thomas University, USA, and University Of Łódź, Poland",null,"",null,"",null,"",null,"",null,""],
+	  [22,null,"",5,"Individial Submission On Behalf Of And In Consultation With Stakeholders From All Multistakeholder Constituencies, Australia",null,"",null,"",null,"",null,""],
+	  [23,null,"",null,"",null,"",null,"",6,"Internet Governance Coalition, Americas",null,""],
+	  [24,null,"",3,"Best Bits, Global",null,"",null,"",null,"",null,""],
+	  [25,null,"",8,"Best Bits, Global",null,"",null,"",null,"",null,""],
+	  [26,null,"",5,"Article 19 and Best Bits, Global",null,"",null,"",null,"",null,""],
+	  [27,null,"",1,"Just Net Coalition, Global",null,"",null,"",null,"",null,""],
+	  [28,3,"University Of Gezira, Wad Medani, Sudan",null,"",null,"",null,"",null,"",null,""],
+	  [29,null,"",9,"ISOC Costa Rica Chapter",null,"",null,"",null,"",null,""],
+	  [30,null,"",8,"ISOC, Yemen",null,"",null,"",null,"",null,""],
+	  [31,null,"",null,"",4,"Internet Governance Forum (IGF) Secretariat, Geneva, Switzerland",null,"",null,"",null,""],
+	  [32,null,"",9,"Avri Doria, Independent Researcher, USA",null,"",null,"",null,"",null,""],
+	  [33,null,"",0,"Centre For Community Informatics Research, Development And Training, Canada",null,"",null,"",null,"",null,""],
+	  [34,null,"",null,"",null,"",null,"",0,"Identidad Robada, Argentina",null,""],
+	  [35,null,"",null,"",null,"",null,"",0,"China Institutes Of Contemporary International Relations - Institutes of Information and Development of Society",null,""],
+	  [36,null,"",2,"Action De Sensibilisation Sur Les Ntic - Ecosoc Ngo, Democratic Republic of Congo",null,"",null,"",null,"",null,""],
+	  [37,0,"Federal University Of Ceará – Ufc, Sao Paulo, Brazil",null,"",null,"",null,"",null,"",null,""],
+	  [38,null,"",20,"Jeremy Malcolm, Personal Submission, Malaysia",null,"",null,"",null,"",null,""],
+	  [39,null,"",null,"",null,"",null,"",2,"Aficta - Africa ICT Alliance",null,""],
+	  [40,0,"University Of Gezira, Wad Medani, Sudan",null,"",null,"",null,"",null,"",null,""],
+	  [41,null,"",0,"Eurolinc, France",null,"",null,"",null,"",null,""],
+	  [42,null,"",null,"",null,"",null,"",null,"",1,"Internetnz, New Zealand"],
+	  [43,null,"",3,"Hivos, MENA",null,"",null,"",null,"",null,""],
+	  [44,null,"",null,"",null,"",null,"",2,"Techuk, UK",null,""],
+	  [45,null,"",null,"",1,"State Duma Of The Russian Federation (Parliament Of The Russian Federation)",null,"",null,"",null,""],
+	  [46,null,"",null,"",4,"Norwegian Post And Telecommunications Authority, Government of Norway",null,"",null,"",null,""],
+	  [47,null,"",null,"",2,"Ministry Of External Affairs, Government of India",null,"",null,"",null,""],
+	  [48,null,"",null,"",null,"",null,"",15,"Telecom Italia Group",null,""],
+	  [49,null,"",null,"",null,"",null,"",2,"Brazil – U.S. Business Council, U.S. Section",null,""],
+	  [50,null,"",null,"",null,"",null,"",9,"GSMA, Global",null,""],
+	  [51,null,"",null,"",null,"",null,"",1,"Telefonica, S.A., Spain",null,""],
+	  [52,null,"",null,"",3,"Austrian Federal Ministry For Transport, Innovation And Technology",null,"",null,"",null,""],
+	  [53,null,"",null,"",null,"",null,"",1,"Executive Director - Argentina Internet Association (Cabase), Argentina",null,""],
+	  [54,null,"",9,"Citizens' Coalition For Economic Justice , Cybercommons (Korea), Korean Progressive Network Jinbonet, Opennet (Korea), Network Neutrality User Forum, South Korea",null,"",null,"",null,"",null,""],
+	  [55,null,"",null,"",null,"",null,"",6,"Google Inc., USA",null,""],
+	  [56,null,"",null,"",null,"",null,"",1,"ETNO [European Telecommunications Network Operators' Association], Belgium",null,""],
+	  [57,null,"",null,"",2,"Ministry Of Transport, Information Technology And Communications, Information Technology And Electronic Governance Directorate, Government of Bulgaria",null,"",null,"",null,""],
+	  [58,null,"",null,"",null,"",9,"UNESCO, France",null,"",null,""],
+	  [59,null,"",0,"International Centre For Free And Open Source Software, India",null,"",null,"",null,"",null,""],
+	  [60,null,"",null,"",null,"",2,"Avri Doria, Independent Researcher, USA",null,"",null,""],
+	  [61,null,"",null,"",13,"Ministry of Foreign Affairs, Government of France",null,"",null,"",null,""],
+	  [62,null,"",null,"",null,"",15,"UNESCO, France",null,"",null,""],
+	  [63,null,"",null,"",null,"",null,"",5,"Nominet, UK",null,""],
+	  [64,null,"",null,"",null,"",null,"",4,"AHCIET, Latin America",null,""],
+	  [65,null,"",null,"",2,"Director/Head, Operations Department, Commonwealth Telecommunications Organisation",null,"",null,"",null,""],
+	  [66,null,"",null,"",null,"",2,"Internet Rights And Principles Coalition (UN IGF) / Goldsmiths (University Of London, UK), New Zealand",null,"",null,""],
+	  [67,null,"",null,"",null,"",null,"",2,"U.S. Chamber Of Commerce",null,""],
+	  [68,null,"",2,"The Spanish Internet Governance Forum, Spain",null,"",null,"",null,"",null,""],
+	  [69,null,"",1,"Just Net Coalition, Global",null,"",null,"",null,"",null,""],
+	  [70,null,"",null,"",6,"Ministry Of Industry, Energy And Tourism, Government of Spain",null,"",null,"",null,""],
+	  [71,null,"",null,"",null,"",null,"",1,"European Association Of Internet Services Providers, Belgium",null,""],
+	  [72,null,"",0,"World Press Freedom Committee, France / USA",null,"",null,"",null,"",null,""],
+	  [73,3,"The Mercatus Center At George Mason University, USA",null,"",null,"",null,"",null,"",null,""],
+	  [74,null,"",null,"",null,"",4,"African ICT / IG Stakeholders, Africa",null,"",null,""],
+	  [75,0,"The Mercatus Center At George Mason University, USA",null,"",null,"",null,"",null,"",null,""],
+	  [76,null,"",45,"Executive Director, Communications And Society Program, The Aspen Institute, USA",null,"",null,"",null,"",null,""],
+	  [77,null,"",null,"",2,"Danish Business Authority, Government of Denmark",null,"",null,"",null,""],
+	  [78,3,"Institut For Communication Research, Brazil and Germany",null,"",null,"",null,"",null,"",null,""],
+	  [79,null,"",null,"",11,"European Commission",null,"",null,"",null,""],
+	  [80,null,"",null,"",11,"European Commission",null,"",null,"",null,""],
+	  [81,null,"",0,"W3C Brazil",null,"",null,"",null,"",null,""],
+	  [82,null,"",null,"",null,"",17,"CGI.BR - Brazilian Internet Steering Committee",null,"",null,""],
+	  [83,null,"",null,"",null,"",null,"",14,"ICC Basis, France",null,""],
+	  [84,null,"",0,"Jonction, Senegal",null,"",null,"",null,"",null,""],
+	  [85,null,"",null,"",null,"",6,"OECD, Global",null,"",null,""],
+	  [86,null,"",null,"",null,"",null,"",3,"Verizon Communications, Global with HQ in USA",null,""],
+	  [87,null,"",null,"",7,"Swiss Federal Office Of Communication (Ofcom)",null,"",null,"",null,""],
+	  [88,null,"",null,"",null,"",null,"",7,"Telecommunications Industry Association, USA",null,""],
+	  [89,null,"",null,"",null,"",4,"The Internet Association, USA",null,"",null,""],
+	  [90,null,"",0,"Internet Governance Caucus, Cote D'Ivoire",null,"",null,"",null,"",null,""],
+	  [91,null,"",2,"Our Rights (Or), Nigeria",null,"",null,"",null,"",null,""],
+	  [92,null,"",null,"",1,"Ministry of Foreign Affairs, Government of Argentina",null,"",null,"",null,""],
+	  [93,null,"",null,"",null,"",null,"",null,"",2,"Commonwealth Telecommunications Organisation"],
+	  [94,null,"",null,"",2,"Ministry of Foreign Affairs, Government of Argentina",null,"",null,"",null,""],
+	  [95,null,"",2,"Diplo Foundation, Malta",null,"",null,"",null,"",null,""],
+	  [96,null,"",null,"",3,"Ministry Of Science And Technology, Government of Trinidad and Tobago",null,"",null,"",null,""],
+	  [97,null,"",null,"",null,"",null,"",5,"Orange Group, Global",null,""],
+	  [98,5,"Avri Doria, Independent Researcher, USA",null,"",null,"",null,"",null,"",null,""],
+	  [99,null,"",null,"",null,"",null,"",5,"World Information Technology And Services Alliance (WITSA), Global",null,""],
+	  [100,null,"",null,"",null,"",null,"",6,"Microsoft Corporation, USA",null,""],
+	  [101,null,"",null,"",null,"",2,"Panel On Global Internet Cooperation And Governance Mechanisms, Global",null,"",null,""],
+	  [102,null,"",null,"",null,"",null,"",2,"Mozilla, USA",null,""],
+	  [103,null,"",null,"",null,"",null,"",5,"Cisco Systems, USA",null,""],
+	  [104,null,"",null,"",null,"",null,"",5,"Internet Infrastructure Coalition, USA",null,""],
+	  [105,null,"",null,"",null,"",null,"",5,"Intel, USA",null,""],
+	  [106,null,"",3,"Kuwait Information Technology Society, Kuwait",null,"",null,"",null,"",null,""],
+	  [107,null,"",3,"Centro De Estudos Da Mídia Alternativa Barão De Itararé, Brazil",null,"",null,"",null,"",null,""],
+	  [108,null,"",null,"",null,"",null,"",null,"",1,"IEEE Standards Association, Global"],
+	  [109,1,"International Geo Crítica And Association Of Professors Of The Rio De Janeiro State University, Brazil",null,"",null,"",null,"",null,"",null,""],
+	  [110,null,"",null,"",3,"Ministry of Foreign Affairs, Government of Argentina",null,"",null,"",null,""],
+	  [111,null,"",null,"",9,"Secretaría De Comunicaciones Y Transportes, Government of Mexico",null,"",null,"",null,""],
+	  [112,null,"",4,"Eastwest Institute, USA",null,"",null,"",null,"",null,""],
+	  [113,null,"",0,"Internet Society Of Australia, Australia / Asia Pacific",null,"",null,"",null,"",null,""],
+	  [114,null,"",null,"",null,"",null,"",3,"Japan Internet Service Providers Association",null,""],
+	  [115,null,"",null,"",null,"",null,"",4,"Facebook, UK",null,""],
+	  [116,null,"",null,"",null,"",null,"",5,"Deutsche Telekom AG, Germany / Europe",null,""],
+	  [117,null,"",4,"Institute For InfoSocinomics, Tama University, Japan",null,"",null,"",null,"",null,""],
+	  [118,null,"",1,"Free And Open Source Software Foundation, Poland",null,"",null,"",null,"",null,""],
+	  [119,0,"CIPIT, Kenya",null,"",null,"",null,"",null,"",null,""],
+	  [120,null,"",null,"",null,"",null,"",null,"",1,"Internet Society (ISOC), Global"],
+	  [121,null,"",null,"",15,"Cyber Space National Center, Islamic Republic Of Iran",null,"",null,"",null,""],
+	  [122,null,"",null,"",null,"",null,"",null,"",13,"Avri Doria, Independent Researcher, USA"],
+	  [123,null,"",null,"",null,"",null,"",null,"",2,"Internet Society (ISOC), Global"],
+	  [124,null,"",null,"",null,"",null,"",null,"",0,"Internet Society (ISOC), Global"],
+	  [125,null,"",4,"The Society for Knowledge Commons, India and Brazil",null,"",null,"",null,"",null,""],
+	  [126,6,"PIR Center, Russia",null,"",null,"",null,"",null,"",null,""],
+	  [127,6,"PIR Center, Russia",null,"",null,"",null,"",null,"",null,""],
+	  [128,null,"",null,"",null,"",null,"",null,"",0,"Internet Society (ISOC), Global"],
+	  [129,null,"",null,"",null,"",null,"",9,"COAI, India",null,""],
+	  [130,null,"",null,"",null,"",null,"",0,"Associação Brasileira De Empresas De Tecnologia Da Informação E Comunicação, Brazil",null,""],
+	  [131,null,"",null,"",7,"Department of Foreign Affairs, Trade And Development, Government of Canada",null,"",null,"",null,""],
+	  [132,null,"",null,"",null,"",null,"",7,"Computer & Communications Industry Association (CCIA), US, EU, Geneva",null,""],
+	  [133,null,"",null,"",null,"",null,"",5,"Domain Name Association, Global",null,""],
+	  [134,null,"",null,"",null,"",14,"Facilitators of The Internet & Jurisdiction Project, France (In their Personal Capacity)",null,"",null,""],
+	  [135,null,"",6,"Group of Individuals and Civil Society Organizations from Latin America",null,"",null,"",null,"",null,""],
+	  [136,null,"",null,"",12,"Ministry of Administration and Digitization, Government of Poland",null,"",null,"",null,""],
+	  [137,null,"",null,"",null,"",null,"",null,"",0,"Japan Network Information Center (JPNIC)"],
+	  [138,null,"",0,"ISOC Sn / Cacsup Sn, Senegal",null,"",null,"",null,"",null,""],
+	  [139,null,"",null,"",3,"Ministry of Science, ICT and Future Planning (MSIP), Republic of Korea",null,"",null,"",null,""],
+	  [140,null,"",null,"",null,"",null,"",1,"Data Security Council of India (DSCI), India",null,""],
+	  [141,null,"",0,"Association For Progressive Communications, Global",null,"",null,"",null,"",null,""],
+	  [142,null,"",null,"",null,"",0,"Société Européenne De L'Internet, France",null,"",null,""],
+	  [143,null,"",null,"",null,"",null,"",null,"",8,"The NRO (For AFRINIC, APNIC, ARIN, LACNIC, RIPE-NCC), Mauritius"],
+	  [144,0,"University of North Carolina, Greensboro, USA",null,"",null,"",null,"",null,"",null,""],
+	  [145,null,"",null,"",null,"",null,"",3,"Ers Consultores, Urugua",null,""],
+	  [146,null,"",null,"",null,"",9,"CGI.Br - Brazilian Internet Steering Committee",null,"",null,""],
+	  [147,0,"University of North Carolina, Greensboro, USA",null,"",null,"",null,"",null,"",null,""],
+	  [148,null,"",null,"",null,"",15,"Persian IGF, Iran",null,"",null,""],
+	  [149,null,"",null,"",null,"",0,"CGI.Br - Brazilian Internet Steering Committee",null,"",null,""],
+	  [150,null,"",2,"Kenya ICT Action Network",null,"",null,"",null,"",null,""],
+	  [151,null,"",2,"ISOC Tunisia",null,"",null,"",null,"",null,""],
+	  [152,null,"",4,"ISOC Tunisia",null,"",null,"",null,"",null,""],
+	  [153,null,"",1,"The Society for Knowledge Commons, India and Brazil",null,"",null,"",null,"",null,""],
+	  [154,null,"",null,"",null,"",null,"",9,"Abranet - Associacao Brasileira De Internet, Brazil",null,""],
+	  [155,null,"",null,"",null,"",1,"CGI.Br - Brazilian Internet Steering Committee",null,"",null,""],
+	  [156,null,"",2,"Association For Progressive Communications (APC), Global with Executive Director's Office In South Africa",null,"",null,"",null,"",null,""],
+	  [157,null,"",null,"",null,"",1,"Connecting.NYC Inc., USA",null,"",null,""],
+	  [158,null,"",0,"Articulação De Organizações Da Sociedade Civil Brasileira, Brazil",null,"",null,"",null,"",null,""],
+	  [159,null,"",8,"Articulação De Organizações Da Sociedade Civil Brasileira, Brazil",null,"",null,"",null,"",null,""],
+	  [160,null,"",0,"Stefania Milan and Antonella Giulia Pizzaleo, Italy",null,"",null,"",null,"",null,""],
+	  [161,null,"",null,"",null,"",null,"",7,"Sinditelebrasil, Brazil",null,""],
+	  [162,null,"",19,"Association For Progressive Communications (APC), Global with Executive Director's Office In South Africa",null,"",null,"",null,"",null,""],
+	  [163,null,"",null,"",null,"",null,"",null,"",0,"LACNOG, Latin America and the Caribbean"],
+	  [164,null,"",null,"",null,"",null,"",null,"",0,"LAC-IX (The IXP Association for Latin America and the Caribbean)"],
+	  [165,null,"",null,"",null,"",1,"Coordinator for Internet Governance, Council of Europe",null,"",null,""],
+	  [166,null,"",null,"",null,"",0,"EBU - European Broadcasting Union (Member Of WBU), Europe, Middle East and North Africa",0,"Europe, Middle East And North Africa",null,""],
+	  [167,null,"",null,"",null,"",null,"",0,"Axur, Brazil",null,""],
+	  [168,0,"Massachusetts Institute of Technology, USA",null,"",null,"",null,"",null,"",null,""],
+	  [169,null,"",null,"",null,"",null,"",1,"ITIBR - Instituto De Tecnologia, Brasil",null,""],
+	  [170,null,"",4,"Institute for InfoSocinomics, Tama University, Japan",null,"",null,"",null,"",null,""],
+	  [171,null,"",2,"Collab CPR, USA",null,"",null,"",null,"",null,""],
+	  [172,null,"",null,"",null,"",null,"",0,"37 Entertainment and Cultural Organizations from around the World, Africa, Asia-Pacific, Canada, Carribean, Central America, Europe, Mexico, South America, USA",null,""],
+	  [173,null,"",9,"Center for Democracy and Technology, USA",null,"",null,"",null,"",null,""],
+	  [174,null,"",null,"",null,"",null,"",null,"",6,"Nigeria Internet Registration Association"],
+	  [175,null,"",4,"Intlnet, France",null,"",null,"",null,"",null,""],
+	  [176,18,"Luis Magalhães, University Of Lisbon, Portugal",null,"",null,"",null,"",null,"",null,""],
+	  [177,null,"",null,"",null,"",2,"ICANN Cross-Community Working on Internet Governance, Global",null,"",null,""],
+	  [178,null,"",null,"",null,"",null,"",0,".Co Internet S.A.S., Colombia",null,""],
+	  [179,null,"",null,"",null,"",null,"",null,"",6,"Information Technology Industry Council, USA"],
+	  [180,null,"",null,"",null,"",null,"",null,"",7,"Internet Governance Working Group / ITI, USA"],
+	  [181,null,"",4,"IT for Change, india",null,"",null,"",null,"",null,""],
+	  [182,null,"",null,"",null,"",1,"Seth Johnson, Independent Coordinator, Internet Distinction, USA",null,"",null,""],
+	  [183,null,"",null,"",null,"",null,"",null,"",10,"NIC México"],
+	  [184,0,"Massachusetts Institute of Technology, USA",null,"",null,"",null,"",null,"",null,""],
+	  [185,null,"",2,"Association For Progressive Communications, New Zealand",null,"",null,"",null,"",null,""],
+	  [186,null,"",0,"Global Geneva, Switzerland",null,"",null,"",null,"",null,""],
+	  [187,null,"",null,"",5,"Ministry of Higher Education and Communication Technologies, Government of Tunisia",null,"",null,"",null,""]
+        ]);
+
+        var options = {
+          chartArea: {width: 900, height: 350, },
+          title: '',
+          hAxis: {title: 'Serial Number of Contribution', titleTextStyle: {color: "#666", fontName: "Duru Sans", fontSize: 12, italic: "False", }},
+          vAxis: {title: 'Appearance of *Multistakeholder*', logScale: "true", titleTextStyle: {color: "#666", fontName: "Duru Sans", fontSize: 12, italic: "False", }},
+	  legend: {position: 'bottom', textStyle: {color: "#333", fontName: "Duru Sans", fontSize: 14, }},
+	  tooltip: {textStyle: {color: "#333", fontName: "Duru Sans", fontSize: "10px", }},
+        };
+
+	var chart = new google.visualization.ScatterChart(document.getElementById('scatterplot'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+     
+  <!-- NAVBAR
+  ================================================== -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span class="navbar-brand">Analysing Contributions to NETmundial 2014</span>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+	  <ul class="nav navbar-nav">
+		<li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Visualisations <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+		    <li class="dropdown-header">Contributions</li>
+                    <li><a href="contributions_countries.html">Contributions by Countries of Origin</a></li>
+                    <li><a href="contributions_org_type.html">Contributions by Types of Organisation</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Who Contributed?</li>
+                    <li><a href="map_no_contrib.html">Which Countries have Not Contributed?</a></li>
+                    <li><a href="map_no_contrib_govt.html">Which Governments have Not Contributed?</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Word Analysis</li>
+                    <li><a href="word_heatmap.html">Comparing Appearance of Fifty Most Frequent Words</a></li>
+                    <li><a href="word_freq_org_type.html">Fifty Most Frequent Words across Types of Organisation</a></li>
+                    <li><a href="word_clouds_org_type.html">Word Clouds by Types of Organisation</a></li>                      
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Internet Governance Roadmap</li>
+                    <li><a href="roadmap_topics.html">What do the Contributions Say about the Roadmap?</a></li>
+                    <li><a href="roadmap_topics_where.html">Where are the Roadmap Suggestions Coming from?</a></li>
+                    <li><a href="track_multistakeholder.html">Tracking *Multistakeholder* across Contributions</a></li>
+                  </ul>
+                </li>
+                <li><a href="#about">About the Study</a></li>
+              </ul>
+            </div>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Content
+    ================================================== -->
+
+    <div class="container">
+	<div class="content-header">Tracking *Multistakeholder* across Contributions</div>
+
+	<!-- Chart -->
+	<div id="chart">
+          <div id="scatterplot" class="col-md-12 chart" style="width: 100%; height: 500px;">
+          </div>
+	  <div class="col-md-4" id="chart-meta">
+          	<p>Created by <a href="http://ajantriks.net/" target="_blank">Sumandro</a> using <a href="https://developers.google.com/chart/" target="_blank">Google Charts</a>.<br />
+		Google <a href="https://developers.google.com/terms/" target="_blank">Terms of Use</a> and <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/treemap.html#Data_Policy" target="_blank">Data Policy</a>.<br />
+	        Data compiled by <a href="http://ajantriks.net/" target="_blank">Sumandro</a> and Jyoti.<br />
+	        Download the <a href="https://github.com/ajantriks/netmundial/blob/master/data/cis_ig_vis_track_multistakeholder.csv" target="_blank">data</a>.</p>
+	  </div>
+	  <div class="col-md-8" id="chart-description">
+          	<p>This scatter plot shows the number of times the word *multistakeholder* (including *multi-stakeholder* and *multistakeholderism*) appears across contributions submitted to NETmundial.</p>
+          	<p>X axis (horizontal) gives the serial number of contributions and Y axis (vertical) gives the number of times the word appears on a contribution.</p>
+		<p>Click on the types of organisation below the chart to highlight the corresponding organisations on the chart.</p>
+	  </div>
+	</div>
+      <!-- About the Study -->
+	<div class="about">
+          <a id="about"></a>
+          <div class="col-md-4">
+	    <a href="http://cis-india.org/"><img src="img/cis_logo.png" alt="The Centre for Internet and Society, Bangalore, India"></a>
+          </div>
+          <div class="col-md-8">
+            <h2>Analysing Contributions to NETmundial 2014</h2>
+            <p>This set of analysis of the contributions submitted to <a href="http://netmundial.br/" target="_blank">NETmundial 2014</a> is part of the effort by the <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, to enable productive discussions of the critical internet governance issues at the meeting and elsewhere.</p>
+            <p>The Centre for Internet and Society, Bangalore, India, is a non-profit research organization that works on policy issues relating to freedom of expression, privacy, accessibility for persons with disabilities, access to knowledge and IPR reform, and openness, and engages in academic research on digital natives and digital humanities.</p>
+            <p>The visualisations are done by <a href="http://ajantriks.net/" target="_blank">Sumandro Chattapadhyay</a>, based on data compilation and analysis by Jyoti Panday, and with data entry suport from Chandrasekhar.</p>
+          </div>
+	</div>
+
+      <!-- Footer -->
+	<footer>
+	  <div class="col-md-4">
+            <p>Built on <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> by <a href="http://ajantriks.net/" target="_blank">Sumandro</a>.</p>
+	  </div>
+          <div class="col-md-8">
+	    <p class="footer">All code, content and data is co-owned by the author(s) and <a href="http://cis-india.org/" target="_blank">Centre for Internet and Society</a>, Bangalore, India, and shared under Creative Commons <a href="http://creativecommons.org/licenses/by-sa/2.5/in/" target="_blank">Attribution-ShareAlike 2.5 India</a> license.</p>
+	  </div>
+	</footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
+  </body>
+</html>
