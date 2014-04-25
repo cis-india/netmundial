@@ -1,0 +1,639 @@
+Internet Rights & Principles
+Coalition
+the charter of human rights and principles for the internet
+© 2013 – 2nd Edition
+Internet Rights and Principles Dynamic Coalition
+UN Internet Governance Forum
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+Compiled and edited by Marianne Franklin,
+with Robert Bodle and Dixie Hawtin
+Design by Zeena Feldman
+Introduction 1
+How to Get Involved 3
+How the IRP Charter 4
+Came About
+10 Rights & Principles 6
+for the Internet
+Charter of Human Rights 8
+& Principles for the Internet
+(Version 1.1)
+Appendices 28
+Table of Contents
+Internet Rights & Principles
+Coalition
+1
+The Internet Rights & Principles Dynamic Coalition is an international network of individuals and organizations working to uphold human rights in the online environment and across the spectrum of internet policy-making domains. It is based at the UN Internet Governance Forum, an open “multistakeholder” forum for government, business, and civil society groups to come together to discuss mutual points of concern that fall under the rubric of internet governance (http://www.intgovforum.org/cms).
+Since 2008, the IRP Coalition has been active in promoting rights-based principles for internet governance, at the global IGF as well as in regional meetings and related events. Individuals and organizations in the IRP Coalition come from all walks of life. It has participants from the Global South and Global North—grassroots groups, international NGOs, researchers, activists, lawyers, businesses, internet and mobile phone service providers, technical communities, government representatives, and intergovernmental organizations.
+The main work of the Internet Rights and Principles Coalition (IRP Coalition) to date has been to translate existing human rights to the internet environment to build awareness, understanding and a shared platform for mobilisation around rights and principles for the internet.
+Our flagship document, the Charter of Human Rights and Principles for the Internet (http://internetrightsandprinciples.org/wpcharter) covers the whole gambit of human rights drawing on the Universal Declaration of Human Rights and other covenants that make up the International Bill of Human Rights at the United Nations (http://www.ohchr.org/EN/Issues/Pages/WhatareHumanRights.aspx). It is the outcome of work from many people and organisations over the years and is growing in stature as others start to apply its 23 clauses to specific situations. In 2011, the coalition launched the Ten Punchy Principles (http://internetrightsandprinciples.org/site/campaign), a distillation of ten key values and principles underlying the Charter. This booklet contains both these documents. At the UNESCO First WSIS +10 Review Meeting in early 2013 (https://www.unesco-ci.org/cmscore/events/51-rights-based-principles-and-internet-taking-stock-and-moving-forward), the IRP Coalition set out on the second phase of the IRP Charter, “Charter 2.0”.
+Introduction
+”
+The aim of the Charter 2.0 project is twofold:
+1
+To raise more awareness about the Charter in light of increasing public concern at the national and international levels about the protection and enjoyment of human rights online as well as offline.
+2
+To open up participation and input as we look to upgrade parts of the current Charter in order to underscore that the human rights and principles contained in this charter will provide a coherent and necessary framework for developing internet governance principles at the IGF and beyond.
+2
+What is the purpose of Charter of Human Rights & Principles for the Internet?
+The goal of the IRP Charter is to provide a recognizable framework anchored in international human rights for upholding and advancing human rights for the online environment. This goal breaks down into three main objectives: To provide
+1
+a reference point for dialogue and cooperation between different stakeholder priorities for the internet’s design, access, and use around the world.
+2
+an authoritative document that can frame policy decisions and emerging rights-based norms for the local, national, and global dimensions of internet governance.
+3
+a policy-making and advocacy tool for governments, businesses, and civil society groups committed to developing rights-based principles for the internet.
+Who is the Charter of Human Rights & Principles for the Internet Addressing?
+Human rights govern the relationship between the State and the individual, so human rights obligations bind states. The Charter is based on existing human rights and so in practice most of its provisions will only be binding on the State. However there is a growing recognition that the private sector does have obligations under human rights law, as authoritatively outlined in the UN “Protect, Respect and Remedy” Framework.
+What do we mean by Human Rights & Principles?
+Human rights are international human rights as defined by international law. We have translated these directly to the internet with provisions such as freedom from blocking and filtering. These can be identified by the use of language such as “everyone has a right to...” and “everyone has a freedom to...”. By “Principles” we are talking about those internet policy principles or implementation principles that describe features of the system which are required to support human rights, these can be identified by the use of language such as “shall” and “must”.
+3
+Get Involved
+The IRP Coalition is based in the Internet Governance Forum. It is open to anyone who wants to contribute to the work. You can find out more about the IRP Coalition at www.internetrightsandprinciples.org or through the Internet Governance Forum website at http://www.intgovforum.org/cms/dynamiccoalitions/72-ibr.
+To get more directly involved you are welcome to:
+ÎÎ
+Join the IRP Mailing list, http://lists.internetrightsandprinciples.org/cgi-bin/mailman/listinfo/irp.
+ÎÎ
+Join the IRP Facebook Group, www.facebook.com/internetrightsandprinciples
+ÎÎ
+Follow the IRP Coalition on Twitter, @netrights
+ÎÎ
+Contact the IRP Coalition Co-Chairs, or Steering Committee members
+ÎÎ
+Attend any of the Internet Governance meetings in your area, or take part by Remote Participation. Information about these events is available on the IGF website (http://www.intgovforum.org/cms/igf-initiatives), the IRP Coalition website (www.internetrightsandprinciples.org), and those of organizations who are part of the coalition.
+”
+“
+Visit us online for more information
+internetrightsandprinciples.org
+4
+How the IRP Charter Came About
+5
+The idea of translating human rights for governance of the internet emerged during the second phase of the World Summit on the Information Society and was widely endorsed at the Tunis Summit in 2005. Two coalitions formed at this time to undertake this task. The Internet Bill of Rights Dynamic Coalition set out to develop a Charter of Human Rights, and the Framework of Principles for the Internet Dynamic Coalition that set out to focus on internet governance principles.
+By the third Internet Governance Forum meeting in 2008, held in Hyderabad (India), a consensus had formed that these two projects, developing human rights and principles for the internet, are intimately related: certain principles must be upheld in order to sustain an online environment which supports human rights. In early 2009 these two coalitions merged to form the Internet Rights and Principles (IRP) Dynamic Coalition in order to combine their forces and resources within the “multistakeholder participatory model” that drives the IGF. The outcome of this online and offline “collabowriting” exercise, open to all members of the new coalition, was the Charter of Human Rights and Principles for the Internet. During 2009 and 2010 early drafts of the charter were refined, and vetted by a group of Human Rights experts to ensure that the charter was compatible with international human rights standards. Coalition members discussed and contributed to this drafting process at all stages. The final draft of the current version (Version 1.1) was opened for wider consultation within the IGF and by external commentators a few months after the first full draft (Version 1.0) was released at the 2010 IGF meeting in Vilnius, Lithuania. At this meeting a working party formed to condense the longer and legally complex charter into a more accessible format for outreach, education, and advocacy. The outcome was the aptly titled “Ten Punchy Principles” which were launched online and on the ground in 2011. A “translatothon” saw the Ten Principles take shape in 21 different languages with new translations being added all the time (http://internetrightsandprinciples.org/site/campaign).
+The IRP Charter is a living document. In the fast-changing environment of increasing awareness that online we have rights too, the charter has been a formative contribution to the emerging area of internet governance principles. It has been a source of inspiration for rights-based initiatives from civil society, governments, and businesses committed to ensuring that the online environment is also a place where human rights are sustained and protected. The 2011 report of the UN Special Rapporteur on Freedom of Expression, Frank La Rue, and the 2012 landmark decision by the UN Human Rights Council on human rights and the internet have both affirmed the value of the Charter. The Charter 2.0 phase looks to consolidate and promote this work to a wider public.
+“
+”
+6
+10 Internet Rights & Principles
+“
+7
+1
+UNIVERSALITY AND EQUALITY: All humans are born free and equal in dignity and rights, which must be respected, protected and fulfilled in the online environment.
+2
+RIGHTS AND SOCIAL JUSTICE: The Internet is a space for the promotion, protection and fulfilment of human rights and the advancement of social justice. Everyone has the duty to respect the human rights of all others in the online environment.
+3
+ACCESSIBILITY: Everyone has an equal right to access and use a secure and open Internet.
+4
+EXPRESSION AND ASSOCIATION: Everyone has the right to seek, receive, and impart information freely on the Internet without censorship or other interference. Everyone also has the right to associate freely through and on the Internet, for social, political, cultural or other purposes.
+5
+PRIVACY AND DATA PROTECTION: Everyone has the right to privacy online. This includes freedom from surveillance, the right to use encryption, and the right to online anonymity. Everyone also has the right to data protection, including control over personal data collection, retention, processing, disposal and disclosure.
+6
+LIFE, LIBERTY AND SECURITY: The rights to life, liberty, and security must be respected, protected and fulfilled online. These rights must not be infringed upon, or used to infringe other rights, in the online environment.
+7
+DIVERSITY: Cultural and linguistic diversity on the Internet must be promoted, and technical and policy innovation should be encouraged to facilitate plurality of expression.
+8
+NETWORK EQUALITY: Everyone shall have universal and open access to the Internet’s content, free from discriminatory prioritisation, filtering or traffic control on commercial, political or other grounds.
+9
+STANDARDS AND REGULATION: The Internet’s architecture, communication systems, and document and data formats shall be based on open standards that ensure complete interoperability, inclusion and equal opportunity for all.
+10
+GOVERNANCE: Human rights and social justice must form the legal and normative foundations upon which the Internet operates and is governed. This shall happen in a transparent and multilateral manner, based on principles of openness, inclusive participation and accountability.
+The 10 Internet Rights & Principles
+are available for download in 22 languages at
+http://internetrightsandprinciples.org/site/campaign
+The Internet offers unprecedented opportunities for the realisation of human rights, and plays an increasingly important role in our everyday lives. It is therefore essential that all actors, both public and private, respect and protect human rights on the Internet. Steps must also be taken to ensure that the Internet operates and evolves in ways that fulfil human rights to the greatest extent possible. To help realise this vision of a rights-based Internet environment, the 10 Rights and Principles are:
+8
+The Charter of Human Rights and Principles for the Internet
+9
+This Charter of Human Rights and Principles for the Internet has been developed by the Dynamic Coalition on Internet Rights and Principles and draws inspiration from the Association for Progressive Communications’ Internet Rights Charter and other pertinent documents.
+The Charter builds on the WSIS Declaration of Principles of Geneva and the Tunis Agenda for the Information Society, which both recognize that Information Communication Technologies (ICTs) present tremendous opportunities to enable individuals, communities and peoples to achieve their full potential in promoting their sustainable development and improving their quality of life. Like the WSIS Declaration, this Charter aims at building a people-centered information society, which respects and upholds fundamental human rights that are enshrined in the Universal Declaration of Human Rights (UDHR).
+This Charter interprets and explains universal human rights standards in a new context – the Internet. The Charter re-emphasizes that human rights apply online as they do offline: human rights standards, as defined in international law, are non-negotiable. The Charter also identifies internet policy principles which are necessary to fulfill human rights in the Internet age – to support and expand the capacity of the Internet as a medium for civil, political, economic, social and cultural development.
+Under International law, states are legally obliged to respect, protect and fulfill the human rights of their citizens. Governments have the primary responsibility for realizing human rights within their jurisdictions. The duty to protect requires governments to protect against human rights violations committed by other actors, including businesses. States are also obliged to take appropriate steps to investigate, punish and redress human rights abuses which take place within their territory and/or jurisdiction.
+However, other actors also have responsibilities under the International human rights regime. The Universal Declaration of Human Rights calls on “every individual and every organ of society” to promote and respect human rights. While these responsibilities do not equate to legal obligations (unless they have been enacted as such under national legislation) they do form part of prevailing social norms which companies and other private organizations should respect.
+Thus while the primary responsibilities under the Charter remain with governments, the Charter also provides guidance to governments about how they must ensure that private companies are respecting human rights, and guidelines to companies about how they should behave so as to respect human rights in the Internet environment.
+”
+“
+PREAMBLE 12
+1 RIGHT TO ACCESS TO THE INTERNET 13
+a) Quality of service
+b) Freedom of choice of system and software use
+c) Ensuring digital inclusion
+d) Net neutrality and net equality
+2 RIGHT TO NON-DISCRIMINATION IN INTERNET ACCESS, USE & GOVERNANCE 14
+a) Equality of access
+b) Marginalized groups
+c) Gender equality
+3 RIGHT TO LIBERTY & SECURITY ON THE INTERNET 15
+a) Protection against all forms of crime
+b) Security of the Internet
+4 RIGHT TO DEVELOPMENT THROUGH THE INTERNET 15
+a) Poverty reduction and human development
+b) Environmental sustainability
+5 FREEDOM OF EXPRESSION & INFORMATION ON THE INTERNET 16
+a) Freedom of online protest
+b) Freedom from censorship
+c) Right to information
+d) Freedom of the media
+e) Freedom from hate speech
+6 FREEDOM OF RELIGION & BELIEF ON THE INTERNET 17
+7 FREEDOM OF ONLINE ASSEMBLY & ASSOCIATION 17
+a) Participation in assembly and association on the Internet
+8 RIGHT TO PRIVACY ON THE INTERNET 18
+a) National legislation on privacy
+b) Privacy policies and settings
+c) Standards of confidentiality and integrity of IT-systems
+d) Protection of the virtual personality
+e) Right to anonymity and to use encryption
+f) Freedom from surveillance
+g) Freedom from defamation
+9 RIGHT TO DIGITAL DATA PROTECTION 19
+a) Protection of personal data
+b) Obligations of data collectors
+c) Minimum standards on use of personal data
+d) Monitoring by independent data protection authorities
+10 RIGHT TO EDUCATION ON & ABOUT THE INTERNET 20
+a) Education through the Internet
+b) Education about the Internet and human rights
+Contents IRP Chapter version 1.1
+11 RIGHT TO CULTURE & ACCESS TO KNOWLEDGE ON THE INTERNET 20
+a) Right to participate in the cultural life of the community
+b) Diversity of languages and cultures
+c) Right to use one’s own language
+d) Freedom from restrictions of access to knowledge by licensing and copyright
+e) Knowledge commons and the public domain
+f) Free/open source software and open standards
+12 RIGHTS OF CHILDREN & THE INTERNET 22
+a) Right to benefit from the Internet
+b) Freedom from exploitation and child abuse imagery
+c) Right to have views heard
+d) Best interests of the child
+13 RIGHTS OF PEOPLE WITH DISABILITIES & THE INTERNET 23
+a) Accessibility to the Internet
+b) Availability and affordability of the Internet
+14 RIGHT TO WORK & THE INTERNET 24
+a) Respect for workers’ rights
+b) Internet at the workplace
+c) Work on and through the Internet
+15 RIGHT TO ONLINE PARTICIPATION IN PUBLIC AFFAIRS 24
+a) Right to equal access to electronic services
+b) Right to participate in electronic government
+16 RIGHTS TO CONSUMER PROTECTION ON THE INTERNET 25
+17 RIGHTS TO HEALTH AND SOCIAL SERVICES ON THE INTERNET 25
+a) Access to health-related content online
+18 RIGHT TO LEGAL REMEDY & FAIR TRIAL FOR ACTIONS INVOLVING THE INTERNET 25
+a) Right to a legal remedy
+b) Right to a fair trial
+c) Right to due process
+19 RIGHT TO APPROPRIATE SOCIAL & INTERNATIONAL ORDER FOR THE INTERNET 26
+a) Governance of the Internet for human rights
+b) Multilingualism and pluralism on the Internet
+c) Effective participation in Internet governance
+20 DUTIES AND RESPONSIBILITIES ON THE INTERNET 26
+a) Respect for the rights of others
+b) Responsibility of power holders
+21 GENERAL CLAUSES 27
+a) Interdependence of all rights in the Charter
+b) Limitations on rights in the Charter
+c) Non-exhaustive nature of the Charter
+d) Interpretation of rights and freedoms of the Charter
+Contents IRP Chapter version 1.1
+12
+“Whereas the Internet is a place where people communicate, meet and congregate and a basic utility for people, communities, organizations and institutions to accomplish all sorts of activities in all areas of human and society endeavor;
+Whereas affordable and knowledgeable access to the Internet has become a fundamental need to fully realize all human rights and fundamental freedoms, democracy, development and social justice;
+Whereas the governance of the Internet, from its infrastructure and protocols to its applications and usages, have direct consequences on the realization of all human rights and fundamental freedoms, democracy, development and social justice;
+Whereas the full and universal enjoyment of all human rights and fundamental freedoms requires the effective realization of these rights also on the Internet;
+Whereas the global nature of the Internet is a precious asset to increase and sustain a better mutual knowledge, understanding and acceptance of different peoples in a global word, beyond the significance of local and regional particularities and various historical and cultural backgrounds;
+Whereas the universal, indivisible, interdependent and interrelated nature of human rights outweighs the specificities of any political, economic and cultural system;
+Whereas the Internet has historically been a publicly as well as privately ordered space, the realization and upholding of all human rights in the digital environment require that states as well as all other society actors fulfill their responsibilities in their respective capacities;
+Whereas a common understanding of how universal human rights and freedoms apply in the digital environment is necessary for the full realization of this pledge;
+We bring this Charter of Human Rights & Principles for the Internet as a common standard of achievement for all stakeholders in the Internet environment. Every individual and every organ of society shall act to promote respect for these rights and freedoms and, by local and global measures, to secure their universal and effective recognition and observance.
+List of Acronyms & Abbreviations
+UDHR
+Universal Declaration of Human Rights
+ICCPR
+International Covenant on Civil & Political Rights
+ICESCR
+International Covenant on Economic, Social & Cultural Rights
+CRC
+Convention on the Rights of the Child
+CRPD
+Convention on the Rights of Persons with Disabilities
+Preamble
+13
+1 Right to Access to the Internet
+Everyone has the right to access to, and make use of, the Internet. This right underpins all other rights in this Charter.
+Access to and use of the Internet is increasingly indispensible for the full enjoyment of human rights including the right to freedom of expression, the right to education, the right to freedom of peaceful assembly and association, the right to take part in the government of a country, the right to work, and the right to rest and leisure. The right to access to, and make use of, the Internet derives from its integral relationship to all of these human rights.
+The right to access to, and make use of, the Internet shall be ensured for all and it shall not be subject to any restrictions except those which are provided by law, are necessary in a democratic society to protect national security, public order, public health or morals or the rights and freedoms of others, and are consistent with the other rights recognized in the present Charter.
+The right to access to, and make use of, the Internet includes:
+a) Quality of service
+The quality of service to which people are entitled access shall evolve in line with advancing technological possibilities.
+b) Freedom of choice of system and software use
+Access includes freedom of choice of system, application and software use. To facilitate this and to maintain interconnectivity and innovation, communication infrastructures and protocols should be interoperable, and standards should be open.
+Everyone should be able to innovate in content, applications, and services without having to undergo centralized authorization and validation procedures
+c) Ensuring digital inclusion
+Digital inclusion requires that all people have access to, and effective use of, the range of digital media, communication platforms and devices for information management and processing.
+To this end active support shall be available for self-managed and other community-based facilities and services. Public Internet access points shall be made available, such as at telecentres, libraries, community centers, clinics and schools. Access to the Internet via mobile media must also be supported.
+d) Net neutrality and net equality
+The Internet is a global commons. Its architecture must be protected and promoted for it to be a vehicle for free, open, equal and non-discriminating exchange of information, communication and culture. There should be no special privileges for, or obstacles against, any party or content on economic, social, cultural, or political grounds. This does not preclude positive discrimination to promote equity and diversity on and through the Internet.
+”
+14
+2 Right to Non-Discrimination in Internet Access, Use and Governance
+As enshrined in Article 2 of the UDHR: everyone is entitled to all rights and freedoms without distinction of any kind, "such as ethnicity, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status".
+Nothing in the present Charter may be interpreted as preventing affirmative action designed at ensuring substantive equality for marginalized peoples or groups.
+On the Internet, the right to non-discrimination in the enjoyment of all rights includes:
+a) Equality of access
+Certain groups in society systematically have more limited or restricted Internet access and the means and opportunities for effective use than others. This can amount to de-facto discrimination in terms of their ability to enjoy the human rights that the Internet supports. Thus efforts to increase access and effective use must recognize and address these inequalities.
+b) Marginalized groups
+The specific needs of all people in using the Internet must be addressed as part of their entitlement to dignity, to participate in social and cultural life, and to respect for their human rights. Special attention must be paid to the needs of marginalized groups including the elderly, young people, ethnic and linguistic minorities, and indigenous peoples, persons with disabilities and all sexuality and gender identities.
+All hardware, code, applications and content should be designed using universal design principles so that they are usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. This includes the need for multiple languages and scripts to be supported.
+c) Gender equality
+Women and men have an equal right to learn about, define, access, use and shape the Internet.
+There must be full participation of women in all areas related to the development of the Internet to ensure gender equality.
+15
+3 Right to Liberty and Security on the Internet
+As enshrined in Article 3 of the UDHR: "everyone has the right to life, liberty and security of person".
+All security measures must be consistent with international human rights law and standards. This means that security measures will be illegal where they restrict another human right (for example the right to privacy or the right to freedom of expression) except for in exceptional circumstances. All restrictions must be precise and narrowly defined. All restrictions must be the minimum necessary to meet a genuine need which is recognized as legal under International law, and proportionate to that need. Restrictions must also meet additional criteria which is specific to each right. No restrictions outside of these strict limits are permitted.
+On the Internet, the right to life, liberty and security includes:
+a) Protection against all forms of crime
+Everyone shall be protected against all forms of crime committed on or using the Internet including harassment, cyber-stalking, people trafficking and misuse of one’s digital identity and data.
+b) Security of the Internet
+Everyone has the right to enjoy secure connections to and on the Internet. This includes protection from services and protocols that threaten the technical functioning of the Internet, such as viruses, malware and phishing.
+4 Right to Development through the Internet
+All UDHR human rights require economic, social, cultural and political development in order to be fully realized, as recognized in the UN Declaration on the Right to Development, 1986.
+The Internet has a vital role to play in helping to achieve the full realization of human rights, in particular in eradicating poverty, hunger, and diseases and promoting gender equality and empowerment of women.
+The right to development includes the full enjoyment of all rights related to the Internet and set out in this Charter.
+On the Internet, the right to development includes:
+a) Poverty reduction and human development
+Information and communication technologies shall be designed, developed and implemented to contribute to sustainable human development and empowerment.
+b) Environmental sustainability
+The Internet must be used in a sustainable way. This relates to the disposal of e-waste and to the use of the Internet for the protection of the environment.
+16
+5 Freedom of Expression and Information on the Internet
+As enshrined in Article 19 of the UDHR: “everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers”.
+As laid out in the ICCPR, the right to freedom of expression may be subject to certain restrictions, but these shall only be such as are provided by law and are necessary for respect of the rights or reputations of others; or for the protection of national security or of public order, or of public health or morals. No restrictions to the right to freedom of opinion are permissible.
+Freedom of expression is essential in any society for the enjoyment of other human rights and social goods including democracy and human development.
+On the Internet, the right to freedom of expression and information includes:
+a) Freedom of online protest
+Everyone has the right to use the Internet to organize and engage in online and offline protest.
+b) Freedom from censorship
+Everyone has the right to use the Internet without censorship in any form. This includes freedom from any measures designed to intimidate Internet users or close down expression online, including: freedom from cyber attacks and freedom from harassment online.
+Freedom from censorship online also includes freedom from blocking and filtering. Blocking and filtering systems which aim to prevent access to content and are not end-user controlled are a form of prior censorship and cannot be justified.
+Internet intermediaries must never be pressured by states or other parties to remove, hide or block content, or disclose information about Internet users.
+c) Right to information
+Everyone has the right to seek, receive and impart information and ideas through the Internet.
+Everybody has the right of access to make effective use of government information, which must be released in a timely and accessible manner, according national and international law.
+d) Freedom of the media
+The freedom and pluralism of the media shall be respected.
+e) Freedom from hate speech
+The beliefs and opinions of others must be respected, online as well as offline. As laid out in Article 20 of the ICCPR, “any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence shall be prohibited by law”.
+Certain very specific limitations to the right to freedom of expression may be undertaken on the grounds that they cause serious injury to the human rights of others. However, this must not be used to protect abstract or subjective notions or concepts, or institutions, but rather to protect individuals and groups of people.
+Restrictions under this article must meet the standards for all restrictions of the right to freedom of expression as defined above.
+17
+6 Freedom of Religion and Belief on the Internet
+As enshrined in Article 18 of the UDHR: “everyone has the right to freedom of thought, conscience and religion”. This right includes freedom, either alone or in community with others and in public or private, to manifest his or her religion or belief in teaching, practice, worship and observance. This right also includes freedom from religion. This right must not be used to illegally limit any other human rights.
+7 Freedom of Online Assembly and Association
+As enshrined in Article 20 of the UDHR: “everyone has the right to freedom of peaceful assembly and association. No one may be compelled to belong to an association”.
+On the Internet, the right to freedom of assembly and association includes:
+a) Participation in assembly and association on the Internet
+Everyone has the right to form, join, meet or visit the website or network of an assembly, group or association for any reason.
+Access to assemblies and associations using ICTs must not be blocked or filtered.
+NOTES
+18
+8 Right to Privacy on the Internet
+As enshrined in Article 12 of the UDHR: “no one shall be subjected to arbitrary or unlawful interference with their privacy, family, home or correspondence. Everyone has the right to the protection of the law against such interference or attacks”.
+On the Internet the right to privacy includes:
+a) National legislation on privacy
+States must establish, implement and enforce comprehensive legal frameworks to protect the privacy and personal data of citizens. These must be in line with international human rights and consumer protection standards, and must include protection from privacy violations by the state and by private companies.
+b) Privacy policies and settings
+Privacy policy and settings of all services must be easy to find, and the management of privacy settings must be comprehensive and optimised for usability.
+c) Standards of confidentiality and integrity of IT-systems
+The right to privacy must be protected by standards of confidentiality and integrity of IT-Systems, providing protection against others accessing IT-Systems without consent.
+d) Protection of the virtual personality
+Everyone has a right to a virtual personality: The virtual personality of the human person, [i.e. the personal identification in information systems] is inviolable.
+Digital signatures, user names, passwords, PIN and TAN codes must not be used or changed by others without the consent of the owner.
+The virtual personality of human persons must be respected. However, the right to a virtual personality must not be misused to the detriment of others.
+e) Right to anonymity and to use encryption
+Every individual has the right to communicate anonymously on the Internet.
+Everyone has the right to use encryption technology to ensure secure, private and anonymous communication.
+f) Freedom from surveillance
+Everyone has the freedom to communicate without arbitrary surveillance or interception (including behavioural tracking, profiling, and cyber-stalking), or the threat of surveillance or interception.
+Any agreement regarding access to online services that includes acceptance of surveillance shall clearly state the nature of the surveillance.
+g) Freedom from defamation
+No one shall be subjected to unlawful attacks on their honour and reputation on the Internet. Everyone has the right to the protection of the law against such interference or attacks. However protection of reputation must not be used as an excuse to limit the right to Freedom of Expression beyond the narrow limits of permitted restrictions.
+19
+9 Right to Digital Data Protection
+As enshrined in Art 12 of the UDHR everyone has the right to privacy. An important aspect of this right is that everyone has the right to protection of personal data concerning him or her.
+On the Internet, the right to protection of personal data includes:
+a) Protection of Personal data
+Fair information practices should be enacted into national law to place obligations on companies and governments who collect and process personal data, and give rights to those individuals whose personal data is collected.
+b) Obligations of data collectors
+The collection, use, disclosure and retention of personal data must all meet transparent privacy-protecting standards.
+Everyone has the right to exercise control over the personal data collected about them and its usage. Whoever requires personal data from persons, shall request the individual’s informed consent regarding the content, purposes, storage location, duration and mechanisms for access, retrieval and correction of their personal data.
+Everyone has a right to access, retrieve and delete the personal data collected about them.
+c) Minimum standards on use of personal data
+When personal information is required, only the minimum data necessary must be collected and for the minimum period of time for which this is required.
+Data must be deleted when it is no longer necessary for the purposes for which it was collected.
+Data collectors have an obligation to seek active consent and to notify people when their information has been forwarded to third parties, abused, lost, or stolen.
+Appropriate security measures shall be taken for the protection of personal data stored in automated data files against accidental or unauthorised destruction or accidental loss as well as against unauthorised access, alteration or dissemination.
+d) Monitoring by independent data protection authorities
+Data protection should be monitored by independent data protection authorities, which work transparently and without commercial advantage or political influence.
+20
+10 Right to Education on and about the Internet
+As enshrined in article 26 of the UDHR: “everyone has the right to education”. Everyone has the right to be educated about the Internet and to use the Internet for education.
+On the Internet the right to education includes:
+a) Education through the Internet
+Virtual learning environments and other sorts of multimedia, learning and teaching platforms shall take into account local and regional variations in terms of language, pedagogy and knowledge-traditions.
+Publications, research, text books, course materials and other kinds of learning materials shall be published as Open Educational Resources with the right to freely use, copy, reuse, adapt, translate and redistribute them.
+Free or low-cost training opportunities, methodologies and materials related to using the Internet for social development shall be promoted.
+b) Education about the Internet and human rights
+Everyone shall be educated about the Internet
+Education on the Internet shall include raising awareness and respect for human rights (online and offline).
+Digital literacy shall be a key component of education. Knowledge and skills enable people to use and shape the Internet to meet their needs.
+11 Right to Culture and Access to Knowledge on the Internet
+As enshrined in Article 27 of the UDHR: “everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits”.
+Also enshrined in Article 27 of the UDHR: “everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production” of which he or she is author.
+Intellectual property is a social product and has a social function. Thus, intellectual property protection must balance the rights of creators with the public interest. Copyright regimes must not disproportionately restrict the capacity of the Internet to support public access to knowledge and culture.
+On the Internet the right to freely participate in culture includes:
+a) Right to participate in the cultural life of the community
+Everyone has the right to use the Internet to access knowledge, information and research. Everyone has the freedom to access and share information of public value without being subject to harassment or limitations.
+Everyone has the right to make use of the knowledge and instruments of the past to enhance the personal and collective knowledge of the future.
+21
+11 Right to Culture and Access to Knowledge on the Internet (continued)
+b) Diversity of languages and cultures
+The public service value of the Internet shall be protected, including access to quality and diverse information as well as different cultural content.
+The Internet shall represent a diversity of cultures and languages in terms of appearance and functionality.
+Cultural and linguistic diversity on the Internet must be realized in all forms (e.g. text, images and sound).
+Technological evolution and innovation to promote diversity on the Internet shall be promoted.
+Indigenous knowledge shall be protected and promoted online.
+c) Right to use one’s own language
+All individuals and communities have the right to use their own language to create, disseminate, and share information and knowledge through the Internet.
+Special attention shall be given to promoting access for minority languages. This includes promotion of the technology and content required to access and use domain names, software, services and content in minority languages and scripts.
+d) Freedom from restrictions of access to knowledge by licensing and copyright
+Creators have the right to be remunerated and acknowledged for their work and innovations. However, this must be achieved in ways which do not restrict further innovation or access to public and educational knowledge and resources.
+Licensing and copyright of content must permit knowledge to be created, shared, used and built upon. Permissive licensing models shall be used.
+Internationally accepted ‘fair use’ exceptions and limitations to copyright must be used, including making copies for personal and classroom use, format conversion, library lending, review, critique, satire, research and sampling. Techniques which prevent ‘fair use’ exceptions must be prohibited.
+e) Knowledge commons and the public domain
+Publicly funded research and intellectual and cultural work must be made available freely to the general public, where possible.
+f) Free/open source software and open standards
+Open standards and open formats must be made available.
+Free/libre and Open Source Software (FOSS) must be used, promoted and implemented in public and educational institutions and services.
+When a free solution or open standards do not exist, the development of the needed software shall be promoted.
+22
+12 Rights of Children and the Internet
+Children are entitled to all of the rights in the present Charter. Furthermore, as enshrined in Article 25 of the UDHR: childhood is “entitled to special care and assistance”. As enshrined in Article 5 of the CRC young people are entitled to respect for their “evolving capacities”.
+In terms of the Internet this means that children must both be given the freedom to use the Internet, and also protected from the dangers associated with the Internet. The balance between these priorities shall depend on the young person’s capabilities. The State must respect the rights and responsibilities of parents and the extended family to provide guidance for the child which is appropriate to her or his evolving capacities.
+On the internet the right to special care and assistance and respect for evolving capacities of children includes:
+a) Right to benefit from the Internet
+Children should be able to benefit from the Internet according to their age. Children must have opportunities to use the Internet to exercise their civil, political, economic, cultural and social rights. These include rights to health, education, privacy, access to information, freedom of expression and freedom of association.
+b) Freedom from exploitation and child abuse imagery
+Children have a right to grow up and develop in a safe environment that is free from sexual or other kinds of exploitation. Steps must therefore be taken to prevent the use of the Internet to violate the rights of children, including through trafficking and child abuse imagery. However, such measures must be narrowly targeted and proportionate. The effect of measures taken on the free flow of information online must be given due consideration.
+c) Right to have views heard
+Children who are capable of forming their own views have the right to express them in all Internet policy matters that affect them, and their views shall be given due weight according to their age and maturity.
+d) Best interests of the child
+As enshrined in Article 3 of the CRC: “in all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration”.
+“
+”
+23
+13 Rights of People with Disabilities and the Internet
+People with disabilities are entitled to all of the rights in the present Charter. As enshrined in Article 4 of the United Nations Convention on the Rights of Persons with Disabilities (CRPD), “States Parties undertake to ensure and promote the full realisation of all human rights and fundamental freedoms for all persons with disabilities without discrimination of any kind on the basis of disability”.
+The Internet is important in enabling persons with disabilities to fully enjoy all human rights and fundamental freedoms. Special measures must be taken to ensure that the Internet is accessible, available and affordable.
+On the Internet, the rights of people with disabilities include:
+a) Accessibility to the Internet
+Persons with disabilities have a right to access, on an equal basis with others, to the Internet.
+Such access must be promoted through: the development, promulgation and monitoring of minimum standards and guidelines for accessibility; the provision of training on accessibility issues facing persons with disabilities; and the promotion of other appropriate forms of assistance to people with disabilities to ensure their access to information.
+b) Availability and affordability of the Internet
+Steps must be taken to ensure the availability and effective use of the Internet by people with disabilities.
+Research and development must be undertaken to promote the availability of Information and Communications Technologies in a format suitable for persons with disabilities. Priority should be given to developing technologies at an affordable cost.
+Persons with disabilities have the right to accessible information about assistive technologies, as well as other forms of assistance, support, services and facilities.
+Visit us online for more information and to get involved
+internetrightsandprinciples.org
+24
+14 Right to Work and the Internet
+As enshrined in Article 23 of the UDHR: “everyone has the right to work”.
+On the Internet, the right to work includes:
+a) Respect for workers’ rights
+Everyone has the right to use the Internet to form trade unions, including the right to promote one’s own interests and gather in freely elected organs of representation.
+b) Internet at the workplace
+Workers and employees shall have Internet access at their work place, where available.
+Any restrictions on Internet use in the work place shall be explicitly stated in staff or organizational policies.
+The terms and conditions for surveillance of the Internet use of employees must be clearly stated in work place policies and comply with the right to data protection.
+c) Work on and through the Internet
+All people shall have the right to seek employment and to work through or by means of the Internet.
+15 Right to Online Participation in Public Affairs
+As enshrined in Article 21 of the UDHR: “everyone has the right to take part in the government of his [or her] country, directly or through freely chosen representatives”.
+On the Internet the right to take part in the government of one’s country includes:
+a) Right to equal access to electronic services
+Article 21 of the UDHR also states that “everyone has the right of equal access to public service in the country”. Everyone has the right to equal access to electronic services in his country.
+b) Right to participate in electronic government
+Where electronic government is available, everyone must have the right to participate.
+25
+16 Rights to Consumer Protection on the Internet
+Everyone must respect, protect and fulfill principles of consumer protection on the Internet.
+E-Commerce must be regulated to ensure that consumers receive the same level of protection as they enjoy in non-electronic transactions.
+17 Right to Health and Social Services on the Internet
+As enshrined in Article 25 of the UDHR: “Everyone has the right to a standard of living adequate for the health and well-being of himself [or herself] and of his [or her] family, and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his [or her] control”.
+On the Internet the right to a standard of living adequate for health includes:
+a) Access to health-related content online
+Everyone shall have access to health-related and social services on the Internet.
+18 Right to Legal Remedy and Fair Trial for actions involving the Internet
+a) Right to a legal remedy
+As enshrined in Article 8 of the UDHR: “everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him [or her] by the constitution or by law”.
+b) Right to a fair trial
+As enshrined in Article 10 of the UDHR: “everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his [or her] rights and obligations and of any criminal charge against him [or her]”.
+Criminal trials must follow fair trial standards as defined by the UDHR (Articles 9–11) and the ICCPR (Articles 9 and 14–16) as well as other pertinent documents.
+It is increasingly common for the right to a fair trial and to an effective remedy to be violated in the Internet environment, for example with Internet intermediary companies being asked to make judgements about whether content is illegal and encouraged to remove content without a court order. It is therefore necessary to reiterate that procedural rights must be respected, protected and fulfilled on the Internet as they are offline.
+c) Right to due process
+Everyone has the right to due process in relation to any legal claims or possible violations of the law regarding the Internet.
+26
+19 Right to Appropriate Social and International Order for the Internet
+As enshrined in Article 28 of the UDHR: “Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized”.
+On the Internet the right to an appropriate social and international order includes:
+a) Governance of the Internet for human rights
+The Internet and the communications system must be governed in such a way as to ensure that it upholds and expands human rights to the fullest extent possible.
+Internet governance must be driven by principles of openness, inclusiveness and accountability and exercised in transparent and multilateral manner.
+b) Multilingualism and pluralism on the Internet
+The Internet as a social and international order shall enshrine principles of multilingualism, pluralism, and heterogeneous forms of cultural life in both form and substance.
+c) Effective participation in Internet governance
+Everyone has the right to participate in the governance of the Internet.
+The interests of all those affected by a policy or decision shall be represented in the governance processes, which shall enable all to participate in its development.
+Full and effective participation of all, in particular disadvantaged groups in global, regional and national decision-making must be ensured.
+20 Duties and Responsibilities on the Internet
+As enshrined in Article 29 of the UDHR: “Everyone has duties to the community in which alone the free and full development of his personality is possible”.
+On the Internet the duties of everyone to the community include:
+a) Respect for the rights of others
+Everybody has the duty and responsibility to respect the rights of all individuals in the online environment.
+b) Responsibility of power holders
+Power holders must exercise their power responsibly, refrain from violating human rights and respect, protect and fulfill them to the fullest extent possible.
+27
+21 General Clauses
+a) Interdependence of all rights in the Charter
+All rights contained in this Charter are interdependent and mutually reinforcing.
+b) Limitations on rights in the Charter
+Any measures which limit the rights contained in this Charter will be illegal except for in exceptional circumstances. All restrictions must be precise and narrowly defined. All restrictions must be the minimum necessary to meet a genuine need which is recognized as legal under International law, and proportionate to that need. Restrictions must also meet additional criteria, which is specific to each right. No restrictions outside of these strict limits are permitted.
+c) Non-exhaustive nature of the Charter
+The fact that certain rights and principles have not been included in this Charter or have not been developed in detail does not preclude the existence of such rights and principles.
+d) Interpretation of rights and freedoms of the Charter
+Nothing in this Charter may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.
+NOTES
+28
+Appendix 1
+IRP Coalition Chairs & Steering Committee
+Co-Chairs
+Marianne Franklin (2012–2014), Academic/Civil Society, New Zealand
+Matthias Kettemann (2011–2013), Academic, Austria
+Steering Committee
+Jaco Aizenman, Technical, Costa Rica
+Allon Bar, Academic/Civil Society, Netherlands
+Robert Bodle, Academic, USA
+Norbert Bollow, Technical/Civil Society, Switzerland
+Carlos Affonso Pereira de Souza, Academic, Brazil
+Michael Gurstein, Civil Society, Canada
+Dixie Hawtin, Civil Society, UK
+Shaila Rao Mistry, Private Sector, USA
+Parminder Jeet Singh, Civil Society, India
+Viktor Szabados, Civil Society, Hungary
+Tapani Tarvainen, Technical, Finland
+Former (Co-)Chairs
+Max Senges (2008–2009), Private Sector, Germany
+Lisa Horner (2009–2010), Civil Society, UK
+Dixe Hawtin (2010–2012), Civil Society, UK
+Matthias Kettemann (2011–2013), Academic, Austria
+IRP Charter (Version 1.1) Editor
+Dixie Hawtin, Civil Society, UK
+IRP Charter (Version 1.1) Expert Group
+Wolfgang Benedek, Academic, Austria
+Rikke Frank Jørgensen, Academic, Denmark
+Meryem Marzouki, Academic/Civil Society, France
+Andrew Rens Academic/Civil Society, South Africa
+Roberto Saba, Academic, Argentina
+Wang Sixin Academic, China
+10 Rights & Principles Working Group
+Shaila Rao Mistry, Private Sector, India/USA
+Brett Solomon, Civil Society, USA
+Karmen Turk, Academic, Estonia
+Dixie Hawtin, Civil Society, UK
+IRP Coalition Website and Social Media Manager
+Minda Moreira, Civil Society, Portugal
+29
+ÎÎ
+2010-2011: Coalition Chair leads briefing sessions on the IRP Charter project as part of regional consultations with the UN Special Rapporteur on Freedom of Speech, Frank La Rue; North and Latin America (Buenos Aires), Southeast and East Asia (Bangkok), Middle East and North Africa (Cairo), Sub-Saharan Africa (Johannesburg), and South Asia (Delhi).
+ÎÎ
+9 May 2010: Internal Coalition meeting on the IRP Charter, La Maison des Associations, Geneva.
+ÎÎ
+1 February 2011: The IRP Coalition mobilizes around Freedom of Expression concerns during the uprisings of that year with a petition urging the Egyptian government to end violations of rights to freedom of expression and general assembly.
+ÎÎ
+19 April 2011: IRP Coalition consultation on the IRP Charter with Council of Europe Representatives, Agora building, Strasbourg. Four members of IRP Charter Expert Group join the Council of Europe Committee of Experts on Existing Rights for Internet Users, http://www.coe.int/t/dghl/standardsetting/media/MSI-DUI/Draft%20Annotated%20Agenda%20Final%20English.asp#TopOfPage.
+ÎÎ
+The Coalition has been a formative partner and contributor to European Dialogues on Internet Governance as well as the WSIS +10 Consultations that began in 2013.
+ÎÎ
+EuroDIG Meeting 2011 – Belgrade / Serbia, 30-31 May, 2011.
+ÎÎ
+Workshop 8: Internet rights: What role can human rights play in Internet policy? http://www.eurodig.org/eurodig-2011/programme/workshops/ws8-multilingualism.
+ÎÎ
+EuroDIG Meeting 2013 – Lisbon, Portugal, 20-21 June 2013
+ÎÎ
+Workshop 4: Towards a Human Internet? Rules, Rights, and Responsibilities for Our Online Future, http://www.eurodig.org/eurodig-2013/programme/workshops/workshop-4.
+ÎÎ
+Flash Panel 7: Human rights and Internet surveillance: standards, principles and lines of action, http://www.eurodig.org/flash-7-2013.
+ÎÎ
+UNESCO, First WSIS+10 Review Event: IRP Coalition Report from Session 51, http://internetrightsandprinciples.org/site/unesco-wsis-10-report-from-the-irp-coalition-session-51.
+ÎÎ
+7-8 November 2013, Belgrade (Serbia): IRP Coalition members take part in the Council of Europe Conference of Ministers responsible for Media and Information Society, http://www.coe.int/t/dghl/standardsetting/media/belgrade2013/default_EN.asp, and opening of the Draft Guide on Existing Rights for Internet Users for consultation, http://www.coe.int/t/informationsociety.
+Appendix 2
+IRP Coalition Initiatives, Collaborations & Statements
+Since its inception in 2008 and as the IRP Charter took shape in 2009-2011 the Coalition has been active in a range of internet governance venues alongside the annual IGF Internet Governance Forum meetings in 2009 (Sharm El Sheikh), 2010 (Vilnius), 2011 (Nairobi), 2012 (Baku), and 2013 (Bali). Reports from these meetings are available from the IGF website at http://www.intgovforum.org/cms/dynamiccoalitions/72-ibr.
+Main IRP Coalition initiatives and consultations
+in these years include:
+30
+Appendix 3
+IRP Coalition Documents, Resources & Selected Research Literature
+IRP Coalition Documents and Resources
+IRP Coalition, Charter of Human Rights and Principles for the Internet, Version 1.1 (“Beta Version”), 11 February 2011; http://internetrightsandprinciples.org/wpcharter.
+IRP Coalition, Ten Internet Rights and Principles, 29 March 2011, http://internetrightsandprinciples.org/site/campaign.
+IRP Statement for the Vilnius IGF Open Consultations, February 2010, http://www.intgovforum.org/cms/2010/3_IRP%20Statement%20Open%20Consultations-Final%20Feb2010.doc.
+IRP Coalition, “Human Rights at the 2010 Regional IGFs: A Global Report”, September 2010.
+IRP Coalition, Update Report 2010, 20 March 2010, http://www.intgovforum.org/cms/2010/1_IRP%20DC%20page%20copy%20March%202010.doc.
+Petition to the Egyptian Government, 1 February 2011, http://internetrightsandprinciples.org/site.
+IRP Coalition Meetings at the Internet Governance Forum
+Bali IGF, 22-25 October 2013, http://www.intgovforum.org/cms/igf-2013-draft-schedule.
+Workshop 99: Charting the Charter: Internet Rights and Principles Online, http://www.intgovforum.org/cms/wks2013/workshop_2013_status_list_view.php?xpsltipq_je=99.
+Workshop 276: Rights Issues for Disadvantaged Groups, http://www.intgovforum.org/cms/wks2013/workshop_2013_status_list_view.php?xpsltipq_je=276.
+IRP Coalition Meeting, Towards the IRP Charter 2.0: Human Rights & Principles for the Internet in Practice, http://www.intgovforum.org/cms/wks2013/dynamic_coalition_list_view.php?Dynamic_Coalition_Id=66.
+Report from the Baku IGF, 2012, http://wsms1.intgovforum.org/2012/Meetings/internet-rights-and-principles-coalition.
+Report from the Nairobi IGF, 2011, http://www.intgovforum.org/cms/component/chronocontact/?chronoformname=Workshops2011View&wspid=967#report.
+Report from the Vilnius IGF, 2010, http://www.intgovforum.org/cms/2010/3_IRP%20Statement%20Open%20Consultations-Final%20Feb2010.doc.
+Report from the Sharm el Sheikh IGF, 2009; http://www.intgovforum.org/cms/2010/4_IRP%20Meeting%20Sharm%20Dec09.doc.
+Report from the Hyderabad IGF, 2008, http://www.intgovforum.org/cms/2010/5_Human%20Rights%20workshop%20and%20dynamic%20coalition%20meeting%20report%20Hyderabad%20Dec08.doc.
+31
+Al-Radhi Alaadin, Abadpour Arash, Btayneh Fahd, Petrossians Fred Andon, Dammak Rafik, and Omran Mohamed, 2013, The Quest for an Open Internet in the Middle East and Northern Africa, Humanist Institute for Cooperation with Developing Countries (Hivos), http://igmena.org/2013/05/the-quest-for-an-open-internet-in-the-middle-east-and-northern-africa.
+Association of Progressive Communications, 2006, APC Internet Rights Charter, November 2006, http://www.apc.org/en/node/5677.
+Association of Progressive Communications, 2012, Going Visible: Women’s Rights On The Internet, APC-Women’s Rights Programme Report to Addressing Inequalities: The Heart of the Post-2015 Development Agenda and the Future We Want for All, Global Thematic Consultation, UN Women/Unicef, October 2012, http://www.worldwewant2015.org/file/287493/download/311684.
+Benedek, Wolfgang, 2012, Discussion paper mapping-out issues regarding a Compendium of Rights of Internet Users, Council of Europe: Committee of Experts on Rights of Internet Users (MSI-DUI), MSI-DUI (2012)03, July 25, 2012, http://www.coe.int/t/dghl/standardsetting/media/MSI-DUI/MSI-DUI%282012%2903E_Discussion%20Paper%20%28W%20%20Benedek%29.asp#TopOfPage.
+BBC News, 2010, “Internet access is ‘a fundamental right’”, 8 March 2010, http://news.bbc.co.uk/2/hi/technology/8548190.stm.
+Center for Law and Democracy, 2011, Commentary on the Charter of Human Rights and Principles for the Internet, version 2, October 2011, http://www.law-democracy.org/wp-content/uploads/2011/10/Charter-Commentary.pdf (accessed February 18, 2013).
+Center for Law and Democracy, 2012, A Truly World-Wide Web: Assessing the Internet from the Perspective of Human Rights, April 2012, http://www.law-democracy.org/wp-content/uploads/2010/07/final-Internet.pdf.
+CGI.br (Brazilian Internet Steering Committee), 2009, Resolution CGI.Br/RES/2009/003/P—Principles for the Governance and Use of the Internet, CGI.br—Regulations, http://www.cgi.br/english/regulations/resolution2009-003.htm.
+Council of Europe, 2013, Draft Guide on Existing Rights for Internet Users, 22 October 2013, http://www.coe.int/t/informationsociety.
+Council of Europe—Committee of Ministers, 2012a, “Extract from Committee of Ministers’ document CM (2012)911,” Council of Europe: Media—Freedom of Information and Expression, http://www.coe.int/t/dghl/standardsetting/media/MSI-DUI/MSI-DUI_ToR%20EN%20%28final%29.asp#P1_58 (accessed February 15, 2013).
+Council of Europe—Committee of Ministers, 2012b, Internet Governance: Council of Europe Strategy 2012–2015, CM Documents, CM(2011)175 final, March 15, 2012, https://wcd.coe.int/ViewDoc.jsp?Ref=CM%282011%29175&Ver=final&Language=lanEnglish&Site=CM&BackColorInternet=C3C3C3&BackColorIntranet=EDB021&BackColorLogged=F5D383 (accessed January 2, 2013).
+Franklin, M. I., 2013, Digital Dilemmas: Power, Resistance, and the Internet, New York/Oxford: Oxford University Press.
+Gurstein, Mike, 2013, “Civil Society and the Emerging Internet Cold War: Non–Alignment and the Public Interest,” Blog: Gurstein’s Community Informatics, February 11, 2013, http://gurstein.wordpress.com/2013/02/11/civil-society-and-the-emerging-internet-cold-war-non-alignment-and-the-public-interest.
+Relevant Research Literature and Commentaries
+32
+Gurumurthy, Anita, 2013, “What went wrong?” Anita Gurumurthy’s statement at the closing ceremony of WSIS plus 10 review, Gender IT.org, http://www.genderit.org/sites/default/upload/wsis__10_closing_statement_by_anita_g.pdf.
+Hawtin, Dixie, 2011a, “Internet Charters and Principles: Trends and Insights” in Global Information Society Watch 2011, South Africa: APC and Hivos: 51–54.
+Hawtin, Dixie, 2011b, “Making the Internet work for Human Rights: The Internet Rights and Principles Coalition”, Global Voices Advocacy: Defending Free Speech Online, 13 October 2011, http://advocacy.globalvoicesonline.org/2011/10/13/the-internet-rights-and-principles-coalition.
+International Service for Human Rights (ISHR), 2011, “Special Rapporteur on Freedom of Expression Discusses Internet Access with General Assembly,” November 11, 2011, http://www.ishr.ch/ga-66th-session-2011/1198-special-rapporteur-on-freedom-of-expression-slams-use-of-sophisticated-tactics-to-censor-internet-co.
+ITU/WSIS, 2005b, Tunis Agenda for the Information Society, WSIS-05/TUNIS/DOC/6 (Rev. 1)-E, November 18, 2005, http://www.itu.int/wsis/docs2/tunis/off/6rev1.html.
+Jørgensen, Rikke F (ed.), 2006, Human Rights in the Global Information Society, Cambridge, MA: MIT Press.
+Jørgensen, Rikke F, 2013, Framing the Net: The Internet and Human Rights, Cheltenham UK/Northampton USA: Edward Elgar Publishing.
+La Rue, Frank, 2011, Report of the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression. Human Rights Council: UN General Assembly, A/HRC/17/27, May 16, 2011, http://ap.ohchr.org/documents/alldocs.aspx?doc_id=18600.
+MacBride, Sean, (ed.), 1980, Many Voices, One World: Towards a new, more just and more efficient world information and communication order, report by the International Commission for the Study of Communication Problems, UNESCO.
+Marzouki, Meryem, 2009, Privacy Issues with EU Law Enforcement Cooperation Developments, European Digital Rights statement at the Public Voice Conference: Global Privacy Standards in a Global World, November 3, 2009, Madrid, Spain, http://www.edri.org/files/Presentation_Meryem_EDRi_civil_society.pdf.
+Mendel, Toby, Andrew Puddephatt, Ben Wagner, Dixie Hawtin, and Natalia Torres, 2012, Global Survey on Internet Privacy and Freedom of Expression, UNESCO Series on Internet Freedom, Paris: UNESCO.
+Miriri, Duncan, 2011, “Europe plans charter to safeguard Internet users,” Reuters, 27 September 2011, http://www.reuters.com/article/2011/09/27/us-internet-governance-europe-idUSTRE78Q3RP20110927.
+Musiani, Francesca, 2009, “The Internet Bill of Rights: A Way to Reconcile Natural Freedoms and Regulatory Needs?” SCRIPTed–A Journal of Law, Technology and Society, vol. 6, issue 2, August, http://www2.law.ed.ac.uk/ahrc/script-ed/issue6-2.asp.
+Public Voice Coalition, 2009, The Madrid Privacy Declaration: Global Privacy Standards for a Global World, 3 November, http://thepublicvoice.org/madrid-declaration.
+Senges, Max and Horner, Lisa, 2009, “Values, Principles and Rights in Internet Governance”, Paper for the Freedom of Expression Project, August 2009, http://www.freedomofexpression.org.uk/resources/values+principles+and+rights+in+internet+governance.
+Relevant Research Literature and Commentaries
+33
+Singh, Parminder Jeet, 2012c, A Development Agenda in Internet Governance, paper delivered to the Geneva South Centre, IT For Change, http://www.itforchange.net/ITfC_South_Centre_2012.
+UN General Assembly, 2000, Millennium Development Goals, http://www.un.org/millenniumgoals (accessed 12 December 2012).
+UN General Assembly, 1948, Universal Declaration of Human Rights, http://www.un.org/en/documents/udhr.
+UNESCO 2013a, “WSIS + 10: Towards Inclusive Knowledge Societies for Peace and Sustainable Development,” 1st WSIS Review meeting, 25–27 February 2013, http://www.unesco.org/new/en/communication–and–information/flagship–project–activities/unesco–and–wsis/wsis–10–review–meeting.
+UNESCO 2013b, Final Recommendations—First WSIS + 10 Review Event: Towards Knowledge Societies for Peace and Sustainable Development, http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/wsis/WSIS_10_Event/wsis10_recommendations_en.pdf.
+United Nations Human Rights Council, 2012, Resolution A/HRC/RES/20/8: Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including the right to development, UN General Assembly: OHCHR, http://ap.ohchr.org/documents/E/HRC/d_res_dec/A_HRC_20_L13.doc.
+WSIS Civil Society Caucus, 2003, Shaping Information Societies for Human Needs. Civil Society Declaration Unanimously Adopted by the WSIS Civil Society Plenary on December 8, 2003, http://www.itu.int/wsis/docs/geneva/civil-society-declaration.pdf.
+WSIS Civil Society Caucus, 2005, Civil Society Declaration: Much More Could have been Achieved, Document WSIS-05/TUNIS/CONTR/13-E, December 2005 18, http://www.itu.int/wsis/docs2/tunis/contributions/co13.doc.
+Relevant Research Literature and Commentaries
+34
+Internet Rights & Principles Coalition
+Visit us online for more information and to get involved
+internetrightsandprinciples.org
+
+6
+10 Internet Rights & Principles
+“
+7
+1
+UNIVERSALITY AND EQUALITY: All humans are born free and equal in dignity and rights, which must be respected, protected and fulfilled in the online environment.
+2
+RIGHTS AND SOCIAL JUSTICE: The Internet is a space for the promotion, protection and fulfilment of human rights and the advancement of social justice. Everyone has the duty to respect the human rights of all others in the online environment.
+3
+ACCESSIBILITY: Everyone has an equal right to access and use a secure and open Internet.
+4
+EXPRESSION AND ASSOCIATION: Everyone has the right to seek, receive, and impart information freely on the Internet without censorship or other interference. Everyone also has the right to associate freely through and on the Internet, for social, political, cultural or other purposes.
+5
+PRIVACY AND DATA PROTECTION: Everyone has the right to privacy online. This includes freedom from surveillance, the right to use encryption, and the right to online anonymity. Everyone also has the right to data protection, including control over personal data collection, retention, processing, disposal and disclosure.
+6
+LIFE, LIBERTY AND SECURITY: The rights to life, liberty, and security must be respected, protected and fulfilled online. These rights must not be infringed upon, or used to infringe other rights, in the online environment.
+7
+DIVERSITY: Cultural and linguistic diversity on the Internet must be promoted, and technical and policy innovation should be encouraged to facilitate plurality of expression.
+8
+NETWORK EQUALITY: Everyone shall have universal and open access to the Internet’s content, free from discriminatory prioritisation, filtering or traffic control on commercial, political or other grounds.
+9
+STANDARDS AND REGULATION: The Internet’s architecture, communication systems, and document and data formats shall be based on open standards that ensure complete interoperability, inclusion and equal opportunity for all.
+10
+GOVERNANCE: Human rights and social justice must form the legal and normative foundations upon which the Internet operates and is governed. This shall happen in a transparent and multilateral manner, based on principles of openness, inclusive participation and accountability.
+The 10 Internet Rights & Principles
+are available for download in 22 languages at
+http://internetrightsandprinciples.org/site/campaign
+The Internet offers unprecedented opportunities for the realisation of human rights, and plays an increasingly important role in our everyday lives. It is therefore essential that all actors, both public and private, respect and protect human rights on the Internet. Steps must also be taken to ensure that the Internet operates and evolves in ways that fulfil human rights to the greatest extent possible. To help realise this vision of a rights-based Internet environment, the 10 Rights and Principles are:

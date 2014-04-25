@@ -1,0 +1,83 @@
+Sustaining Principles for Internet Policy and Governance
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: David A. Gross
+Region: Americas
+Organization: Internet Governance Coalition
+Sector: Private Sector
+Keywords: Internet governance multistakeholder
+Abstract
+The Internet Governance Coalition extends our sincere appreciation to Brazil for hosting
+the ?Global Multistakeholder Meeting on the Future of Internet Governance,? to be held in
+So Paulo. The Meeting is taking place at a time when the topic of Internet governance is
+an issue of great interest around the world. The many major conferences and work efforts
+scheduled this year exemplify the accelerated pace of Internet governance discussions
+and make 2014 a particularly important year in the ongoing evolution of the Internet.
+Indeed, there are a host of institutions, each with different core functions and strengths,
+that address issues related to Internet governance. We believe that preserving and
+advancing open and consultative decision-making is essential to ensuring that global
+citizens are able to take advantage of this transformative platform both now and in the
+future. As such, we respectfully submit seven principles which we believe are essential to
+Internet governance.
+Document
+The Internet Governance Coalition (the “Coalition”) extends our sincere appreciation to
+Brazil for hosting the “Global Multistakeholder Meeting on the Future of Internet
+Governance,” to be held in São Paulo. The Meeting is taking place at a time when the
+topic of Internet governance is an issue of great interest around the world. The many
+major conferences and work efforts scheduled this year exemplify the accelerated pace of
+Internet governance discussions and make 2014 a particularly important year in the
+ongoing evolution of the Internet. Indeed, there are a host of institutions, each with
+different core functions and strengths, that address issues related to Internet governance.
+The Coalition represents leading international Internet and telecom companies, including:
+Amazon, AT&T, Inc., Cisco Systems, Inc., Comcast NBCUniversal, Google Inc., Juniper
+Networks Inc., Microsoft Corporation, Telefónica, S.A., The Walt Disney Company, Time
+Warner Cable Inc., Twenty-First Century Fox Inc., and Verizon Communications Inc. We
+believe a thriving Internet depends on a governance structure that is open, transparent,
+and representative of all stakeholders. The multistakeholder model approach to Internet
+governance has allowed for the creation of decentralized structures that have resulted in
+historic economic, social, and political development. This decentralized structure of the
+Internet has enabled individuals to access information and services, to connect and to
+communicate, and to share ideas and knowledge globally. By offering new possibilities for
+entrepreneurial creativity, the Internet has become a powerful engine for technological
+innovation, economic growth, and the preservation and promotion of cultural diversity. We
+believe this model, strengthened as necessary, will continue to best serve these shared
+goals and Internet users far into the future.
+These concepts are rooted in the 2005 Tunis Agenda for the Information Society that
+provided the foundational principles for Internet governance, which affirmed the
+multistakeholder, transparent, and democratic governance of the Internet, while at the
+same time recognizing the sovereignty of governments and rule of law. It is precisely
+because of this multistakeholder governance model that the Internet has grown into the
+transformative platform it is today. To say nothing of the broader social benefits from the
+Internet, its economic contributions have been astonishing. According to McKinsey Global
+Institute, the Internet accounts for 21 percent of GDP growth in the last five years in
+developed countries, and in 30 surveyed developing countries.
+We believe that preserving and advancing open and consultative decision-making is
+essential to ensuring that global citizens are able to take advantage of this transformative
+platform both now and in the future. As such, we support the following principles which we
+believe are essential to Internet governance:
+· Policies must ensure a safe, secure, open, interoperable, and sustainable Internet.
+· Policies must stimulate sustainable investment in and deployment of Internet
+networks and the industries and services that create demand for those networks.
+· Policies must support opening and maintaining international markets in a way that
+allows for the seamless flow of digital services, applications, products, and information.
+· Policies must foster innovation across Internet networks, services, and other
+sectors in the Internet ecosystem, including ensuring the protection of intellectual property.
+· Policies must support increased transparency and openness in intergovernmental
+organizations and multistakeholder mechanisms, to ensure that all stakeholders can
+participate meaningfully in key Internet policy discussions. The quality of Internet
+governance decisions increases when diverse stakeholders choose to actively and
+consistently participate.
+· Policies must support capacity building and implementation of best practices in
+relation to network security.
+· Policies must support the rule of law which governments have primary responsibility
+for advancing.
+The Coalition looks forward to working with all stakeholders to prepare for a successful
+Meeting in Brazil, and welcomes this opportunity for dialogue on these important issues.
+International consensus on Internet policies is unlikely to be realized at only one meeting.
+These debates will continue at future meetings, including the 2014 Internet Governance
+Forum, WSIS Review, and ITU Plenipotentiary, that, together with the “The Global
+Multistakeholder Meeting,” promise to make significant contributions to the ongoing global
+dialogue on Internet governance.
+The Coalition again extends its appreciation to the host country of Brazil and to CGI.br
+and /1net for their extraordinary and constructive work in organizing the Meeting.
+Respectfully Submitted,
+INTERNET GOVERNANCE COALITION

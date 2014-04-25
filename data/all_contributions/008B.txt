@@ -1,0 +1,146 @@
+Document
+
+Roadmaps for further evolution of Internet governance
+ 
+Over the years, there have been numerous proposed roadmaps for further evolution of Internet governance.  Some of those proposed roadmaps remain perfectly valid today and they will no doubt be presented again to the Net Mundial meeting.
+ 
+This paper presents some of the proposals that have received less recent attention, but which still warrant consideration.  This paper is structured into four sections:
+ 
+1. The Internet Ad Hoc Group proposals
+2. The Role of the US government
+3. Modularization of ICANN’s functions
+4. Relation to Existing Intergovernmental Organizations
+ 
+1. The Internet Ad Hoc Group proposals
+ 
+The first discussions on how to evolve Internet governance took place in the mid-1990s.  ISOC and others sponsored discussions in a fully multi-stakeholder, open, bottom up group, known as IAHC.  That group recommended the creation of a Memorandum of Understanding (MoU) that would be open for signature by anybody (individual, state, private company, non-profit organization, etc.) who adhered to its basic principles.  The MoU provided for the creation of a legal structure, in the form of a non-profit Swiss association, and mechanisms whereby the signatories of the MoU could make decisions and recommendations.  The MoU received considerable support and was signed by a certain number of organizations.  But the United States rejected the concept of that MoU and issued its Green Paper and White Paper, resulting in the creation of ICANN.
+ 
+In retrospect, it appears that it would have been better to accept the framework for evolution provided for in the IAHC MoU.  Much, if not all, of that IAHC framework remains valid today and could form the basis for a future framework.
+ 
+A short history of IAHC is available at:
+http://en.wikipedia.org/wiki/IAHC
+ 
+The MoU can be found at:
+http://web.archive.org/web/19971211190034/http://www.gtld-mou.org/
+ 
+2. The role of the US government
+ 
+In its 5 June 1997 Statement of Policy on the Management of Domain Names and Addresses (commonly referred to as “the White Paper”), the US government stated that it would phase out its oversight of the Internet domain names and addresses no later than 30 September 2000.
+ 
+The arguments in favor of such a phase-out remain valid today.  Thus, any future framework for the evolution of Internet governance must start by reaffirming that there should be no special oversight role by a single government.  Any required governmental oversight must be exercised collegially and consensually by all governments who wish to participate in such oversight.
+ 
+3. Modularization of ICANN’s function
+ 
+This approach is based on the assumption that it would be difficult to adapt ICANN so that it can be all things to all people.  Instead, it is proposed to apply the well-known engineering technique of decomposing a difficult problem into smaller modules that can be addressed more easily than the full problem.
+ 
+The approach assumes that the DNS would remain a "natural monopoly" as it is today.  The approach would have to be modified significantly if other models for the DNS were adopted.
+ 
+3.1 Root Server Operations and Content of the Root Zone File
+ 
+Some governments have expressed concern over the fact that the root server operations are currently supervised by only one government, that of the USA, and that that same government, through its Department of Commerce, has final approval (or veto) power over any changes to the content of the root zone file.
+ 
+Since the Internet is being increasingly used for e-government, and is becoming a critical national infrastructure in many countries, many governments feel that, while the leadership of the private sector for technical and operational issues must continue, some oversight role must be granted to governments other than that of the USA.
+ 
+As noted above, at ICANN's creation it was thought that the US government might relinquish its oversight role to ICANN, who would, it was thought, be able to represent the world-wide public interest.  However, some may not wish to relinquish entirely to a private company what could be considered the residual public policy oversight role for ensuring a stable and reliable DNS, which implies stable, reliable, and secure root server operations, and-separately but in relation to operations-fast and consistent implementation of changes to the root zone file in accordance with agreed procedures.
+ 
+3.1.1 Root Server Operations
+ 
+Root server operations are currently considered satisfactory, so there are no issues requiring urgent resolution.  The issue is rather that there might be calls to ensure the long-term international supervision of root server operations.
+ 
+Root server operations are highly technical and require specialized skills and knowledge.  While these are widely available in some countries, they are relatively rare in other countries. 
+ 
+Thus, some countries (in particular the USA) can be expected to contribute more to root server operations than other countries.  As a consequence, arrangements should be envisaged that would recognize the relative contributions of countries that contribute to root server operations.
+ 
+There are several well-known models for such arrangements, in particular Intelsat and Inmarsat.  These bodies have evolved from ad-hoc treaty organizations dealing with, respectively, satellites for telephony and satellites for maritime communications, into mixed public-private bodies.  Since the Intelsat and Inmarsat experiences are widely viewed as successful, we propose to use them as models for a possible future root server operations.
+ 
+Thus, the proposal is to create a new inter-governmental treaty organization, called INROOTS in this paper, which would have the following characteristics:
+ 
+members would be governments and private sector entities who can contribute resources to root server operations;
+there would be a two-tier structure, with technical and operational matters handled by the private sector bodies, and governments providing a supervisory function;
+voting would be weighted by contributions (technical and financial);
+civil society would provide input through the governments and directly to INROOTS through agreed procedures based on those of existing inter-governmental organizations.
+ 
+INROOTS would outsource root server operations, including operation of the authoritative root server.  Presumably the operations would be outsourced to the same parties that today successfully operate the root server system, including ICANN.
+ 
+3.1.2 Content of the Root Zone File
+ 
+INROOTS would certify specific bodies who would have authority to request changes to entries in the authoritative root zone file.  We will use the terminology Trustworthy Operator (TWO) for an entity that carries out operational tasks and Policy Decision Forum (PDF) for an entity that carries out policy-making functions.  INROOTS would be both a TWO and a PDF, where the PDF would relate to root server operational issues (load balancing, security, reliability, etc.). 
+ 
+INROOTS would accept change requests to the root zone file only from specific TWOs, who would be formally recognized by INROOTS as being authoritative for certain areas.  Each TWO would operate in accordance with policies developed by a specified PDF for that TWO.
+ 
+Specifically, there is a recognized operator for each top-level domain (TLD) (for example, Versign for ".com", AFNIC for ".fr", etc.).  These operators would be recognized by INROOTS as the TWO for the TLD which they operate, and INROOTS would implement their instructions with respect to the entries in the root file master for the concerned TLD.  The PDF for each TLD would be recognized as outlined below.  The PDF for each TLD would approve the policies implemented by each TLD when it acts as a TWO.
+ 
+Civil society should be represented in the several PDFs.
+ 
+3.1.3 Issues related to gTLDs
+ 
+Issues related to gTLD policies should be separated from issues related to ccTLD policies.
+ 
+Taking into account the historical situation, and the current commercial realities, it should be recognized that the gTLDs ".com", ".edu", ".gov", ".mil", ".net", ".org" fall under the primary responsibility of the USA.
+ 
+Thus, the US Government (presumably through its Department of Commerce) should designate the TWO and PDF for these domain names.  That would be presumably IANA as TWO and ICANN as PDF.  Specifically DoC would inform INROOTS of its choices in this area.
+ 
+The gTLD ".int" is reserved for international treaty organizations.  Thus, it seems appropriate that the ITU should be the PDF for this gTLD, and indeed Recommendation ITU-T E.910 was adopted by consensus.  The ITU’s TSB should be the TWO, where the term TWO is used in this context to refer to administrative control, not actual operations; actual operations could be performed by other organizations. The actual operation of the ".int" domain should be performed by an organization that operates other domains.  For example, the operator of ".org" could operate ".int", or ICANN could do it.
+ 
+Issues related to other gTLDs and issues related to the creation of future gTLDs are not addressed in this document.
+ 
+3.1.4 Issues related to ccTLDs
+ 
+Different countries have different policies with respect to Internet in general and their local ccTLD operations in particular.  Furthermore, policies can be expected to evolve as the nature of Internet usage evolves in any given country.
+ 
+And indeed the current governance arrangements for ccTLDs recognize the diversity of views by explicitly allowing specific PDFs for individual ccTLDs and recognizing a TWO for each ccTLD.
+ 
+However, all the TWOs must directly interact with IANA, and the process by which they interact with IANA is decided by ICANN.  This situation is considered satisfactory by many countries, but some countries may prefer to have the option to rely on an alternative top-level TWO and PDF that are not private companies.
+ 
+Thus, it is proposed that countries would have the choice of informing INROOTS whether the TWO for their ccTLD would be IANA or ITU-T TSB.  In the case of IANA, the PDF would be ICANN.  In the case of TSB, the PDF would be ITU-T (bodies that represent civil society could join the ITU-T and contribute as Sector Members with exemption from payment of membership fees).  It should be noted that TSB could undertake this TWO function only after approval of an ITU-T Recommendation specifying how TSB should carry out these tasks.  If ccTLD policies were to be developed within the context of the ITU-T, it could be expected that many matters would be considered national matters, not subject to discussion within ITU-T.  For example, issues related to consumer protection, competition policies, data privacy, etc. would typically be considered national matters.
+ 
+3.1.5 Issues related to IP addresses
+ 
+The RIRs currently perform IP address allocation in accordance with policies developed by the RIRs themselves.  Although there is general satisfaction with the RIRs' performance, some questions have been raised with respect to a perceived regional imbalance of IPv4 address allocation, and with respect to future policies for IPv6 address allocation.
+ 
+It is proposed that the RIRs, in cooperation with the IAB and IETF and in liaison with ITU-T should be recognized as the PDF for IP address issues, and that the RIRs should designate one or more entities as the TWO for the top-level assignment of IP address blocks to the RIRs (obvious choices would be the RIRs themselves, IANA, and/or TSB).  It is proposed that the RIRs be recognized as the PDF and TWO for the allocation of addresses within their respective regions.
+ 
+3.1.6 Summary table
+ 
+The above proposals can be summarized in the table attached to this article.
+ 
+3.1.7 Conclusions
+ 
+By adopting a modular approach, and by allowing more than one entity to add value to the functions currently performed by ICANN under the supervision of the US government, a number of issues can be addressed simultaneously, in particular calls for continued private sector leadership, a recognition of the need to recognize the importance of informed technical advice, and calls for governments around the world for ways in which their role as representatives of the public interest can be recognized.
+ 
+4. Relation to Existing Intergovernmental Organizations
+ 
+It is not disputed that many aspects of Internet governance are discussed and even decided in existing intergovernmental agencies, such as WIPO, WTO, OECD, Council of Europe (COE), to name just a few.  Matters related to the physical infrastructure that constitutes the lower layers of the Internet (including the very important issue of use of radio spectrum) are discussed in ITU.
+ 
+This role of existing intergovernmental organizations is widely, albeit not universally, accepted.  What appears to create controversy are suggestions that there should be greater involvement of intergovernmental organizations, in particular for what concerns management of Internet domain names and addresses.
+ 
+Much of the controversy is related to the fact that any such increased involvement of intergovernmental organizations would likely result in a lessening of the current asymmetric role exercised by the US government.
+ 
+Be that as it may, it would appear useful to consider such proposals when developing a framework for the future evolution of Internet governance.  One such proposal was submitted to the US Department of Commerce in response for a request for comments.  It proposed that the oversight role of the US government should be replaced by a weaker oversight by ITU, and that a Memorandum of Understanding be signed between ICANN and the ITU, see:
+http://www.ntia.doc.gov/legacy/ntiahome/domainname/dnstransition/comments/dnstrans_comment0081.htm 
+ 
+That proposal can be summarized as follow.
+ 
+Administration of the Internet Domain Name System (DNS) comprises two types of activities: agreeing policies for the assignment of certain resources, and administering a database or other record of the assignments made.  We will refer to these two different activities as the Policy Function (PF) and the Administration Function (AF).
+ 
+The resources in question are entries in the source (or master) root file (RF), IP addresses (IP), and protocol parameters (PP).
+ 
+In addition, administration of the DNS comprises developing policies related to operation of root servers (RS) and administration of those policies (that is, ensuring that the actual operations are carried out in accordance with the agreed policies).
+ 
+And it comprises developing policies related to the operation of gTLDs and ccTLDs and administration of those policies.
+ 
+In the figures that follow, NRO refers to Numbering Resource Organization, which comprises the Regional Internet Registries (RIRs).
+ 
+Figures A.1 and A.2 (attached to this article) represent the present relations amongst various bodies.
+ 
+As shown in figures A.1 and A.2, the US government has a direct supervisory role with respect to various bodies.  In some cases, a government supervisory role is not needed (in particular for the administration function), in other cases (in particular the policy function), it can be exercised by an intergovernmental body, and the ITU could be asked to create a specialized group that could carry out that function, in agreement with ICANN, the agreement to be formalized in a Memorandum of Understanding between ICANN and ITU.
+ 
+Figure B.1 (attached to this article) shows the proposed alternative to the current situation.
+ 
+Such an arrangement could be used to correct the strange anomaly of ICANN’s Government Advisory Committee, which gives non-binding advice to ICANN and whose representative to the ICANN Board does not have voting rights.
+ 
+Indeed, it is generally (albeit not universally) accepted that, as called for in the Tunis Agenda, governments have responsibility for public policy issues.  Since some decisions made by ICANN do have public policy implications, it appears strange to relegate governments to a subsidiary role within ICANN.
+ 
+Further, it is unusual (to say the least) for governments to constitute a sub-committee of the board of a private company, which is what ICANN is.
+ 
+A Memorandum of Understanding between ITU and ICANN could foresee that the GAC would become a group within ITU, thus gaining in legitimacy and accountability.

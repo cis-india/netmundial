@@ -1,0 +1,39 @@
+Proposed Internet Governance Principles
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Richard Hill
+Region: Switzerland
+Organization: Association for Proper Internet Governance
+Sector: Civil Society
+Keywords: human rights, privacy, agreed frameworks
+
+Abstract
+
+We propose principles that, in our view, are consistent with the statement made by Brazilian President Dilma Rousseff at the United Nations.
+Document
+
+When she addressed the United Nations General Assembly on 24 September 2013, Dilma Rousseff, President of Brazil, reminded us that “In the absence of the right to privacy, there can be no true freedom of expression and opinion, and therefore no effective democracy”.
+ 
+Referring to mass surveillance of Internet communications, she stated: “We face a situation of grave violation of human rights and of civil liberties; of invasion and capture of confidential information concerning corporate activities, and especially of disrespect to national sovereignty.”
+ 
+In order to address this, and other issues of Internet governance, she stated:
+ 
+“We need to create multilateral mechanisms for the worldwide network that are capable of ensuring principles such as:
+1 - Freedom of expression, privacy of the individual and respect for human rights.
+2 - Open, multilateral and democratic governance, carried out with transparency by stimulating collective creativity and the participation of society, Governments and the private sector.
+3 - Universality that ensures the social and human development and the construction of inclusive and non-discriminatory societies.
+4 - Cultural diversity, without the imposition of beliefs, customs and values.
+5 - Neutrality of the network, guided only by technical and ethical criteria, rendering it inadmissible to restrict it for political, commercial, religious or any other purposes.”
+ 
+These statements are consistent with our understanding of what the Internet is and of why some aspects of the current Internet governance arrangements have been criticized.  Our understanding is presented in the papers available at:
+http://www.apig.ch/news 
+ 
+In line with President Rousseff’s statement, and in line with our understanding of what improvements need to be made to ensure that it continues to develop as a single, unfragmented, global platform that enables anyone-to-anyone communications, we propose the following principles for Internet governance:
+ 
+Recognize that the Internet is an international public network that can only continue to thrive in a multilaterally agreed formal international framework that ensures accountability and transparency.  Such a framework must ensure the right, means and opportunity to use the Internet to access, share, and contribute to the development of the full intellectual heritage of mankind, without undue costs or hindrances or losses of privacy.  And it must ensure that all the world’s people, whether they currently use the Internet or not, are able to influence its governance.
+Recognize the need for international agreement to cooperate on security mattersand to avoid unilateral assertions of national laws and to avoid extra-territorial actions. In this context, states shall individually and collectively endeavour to ensure the security and robustness of international telecommunication networks in a manner that respects and upholds their human rights obligations.  Any restrictions on human rights, including the right to privacy, must be necessary and proportionate, as called for by civil society organizations.
+Recognize that technical specifications must be consistent with public policy.  This is critical because legal rights of individuals, including their right to privacy, are impacted by technical specifications.
+Identify the main difficulties that the digital economy poses for the application of existing international tax rules and develop detailed options to address these difficulties.
+Take steps to reduce the cost for developing country users to connect to the Internet, in particular as outlined in the relevant ITU-T Recommendations.
+Recognize that access to infrastructure is an essential component of the information society.  Access must be available at a price that is affordable for users with respect to their disposable income.
+Recognize that market solutions will not always result in the rollout of sufficient infrastructure, for example in low-density areas. In some economies, government intervention of some form may be required for some portions of the infrastructure.  In this context, regulations promoting equal access to infrastructure (sometimes referred to as “net neutrality”) may be appropriate.
+Agree a formal framework that provides for all governments to participate, on an equal footing, in the governance and supervision of the ICANN and IANA functions, and that provides for effective supervision and accountability of these functions in accordance with paragraphs 29, 35, 36, 61 and 69 of the Tunis Agenda.

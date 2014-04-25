@@ -1,0 +1,51 @@
+Document
+
+SUSTAINING PRINCIPLES FOR INTERNET POLICY AND GOVERNANCE
+
+Submitted by Cisco Systems
+
+This paper is submitted on behalf of Cisco Systems, Inc (‘Cisco’). Cisco is the worldwide leader in networking equipment and our hardware, software and solutions provide the foundation of the Internet.
+
+ 
+
+As a company, we have long supported an open and innovative Internet with governance principles that are open, transparent and representative of all stakeholders.
+
+ 
+
+The extraordinary success of the Internet is not an accident. It is precisely the open and competitive nature of the Internet, alongside the decentralized and multi-stakeholder mechanisms associated with its governance, that have been instrumental in enabling this platform to grow and become the most powerful catalyst for growth and innovation.
+
+ 
+
+We believe this decentralized structure and multi-stakeholder governance, strengthened as necessary, will continue to enable economies and societies to reap the rewards of an accessible, ubiquitous, fast and affordable Internet.
+
+ 
+
+In light of the forthcoming ‘Global Multi-stakeholder Meeting on the Future of Internet Governance’ to be held in São Paulo in April, we would like to restate our support for the global multi-stakeholder, market-based and decentralized nature of Internet governance. We believe the following principles are essential to Internet governance:
+
+·      The Internet is for everyone, for the betterment of everyone. 
+
+·Policies must support transparency and openness in intergovernmental organizations and multi-stakeholder mechanisms, to ensure that all stakeholders can participate meaningfully in key Internet policy discussions. The quality of Internet governance decisions increases when more and diverse stakeholders choose to actively and consistently participate.
+
+·Policies must ensure a safe, secure, open, interoperable, and sustainable Internet.
+
+·      A safe and secure Internet will enhance confidence and trust in the Internet and policies should support implementation of best practices in relation to network security.
+
+·      Individuals and organizations should be able to trust the Internet infrastructure to connect one another in a manner in which the privacy of communications is respected.
+
+ 
+
+·      Policies must support opening and maintaining international markets in a way that allows for the free flow of data, digital services, applications, products, and information, both within and across national borders.
+
+ 
+
+·      The technical means by which the Internet is operated and information exchanged, should be managed by technical experts.
+
+·Policies must stimulate sustainable investment in and deployment of networks ?and the industries and services that create demand for those networks.
+
+·Policies must support capacity building and broaden inclusion by those who are not yet participants in the broader Internet and Internet governance process, in particular from developing countries.
+
+Cisco looks forward to working with all stakeholders to prepare for a successful meeting in Brazil, and to be part of the ongoing global dialogue on Internet governance.
+
+Respectfully submitted, ?Cisco Systems
+
+For additional information on this submission or media enquiries, please contact Robert Pepper at robert.pepper@cisco.com or       +1 202 354 2950

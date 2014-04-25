@@ -1,0 +1,110 @@
+Contribution to NETmundial
+São Paulo, 23, 24 - April 2014
+Registries (TLDs),
+entreprises of cognition
+in the 21st century
+
+1. Shocking regional disparities
+Communication networks are intended to improve trade and living conditions for humans on
+the entire planet. The Internet globalization can help provide unprecedented opportunities for
+development and welfare but only if we preserve and promote cultural diversity, freedom
+and human rights.
+In this spirit, it is legitimate to compare, in each country, the investments in new TLDs to the
+demographic weight of the country. This provides, for each country, a commitment rate in
+the ICANN policy of new TLDs. Review of applications show that :
+- The number of projected TLDs in South America (24) and Africa (17) are very low, while
+the two continents are growing fast in the area of information and communication
+technologies. Without a drastic rebalancing to their advantage, given the role of time in the
+networks economy, these two continents are doomed to be consumers of dominant firms for
+yet a decade at least.
+- The analysis of the numbers of projects in North America (915) and Europe (671) reveals
+that actually almost half of the so called European projects are managed by companies from
+the United States. This brings down the number of truly European projects to 352, that is to
+say, almost as Asia-Pacific (303). The USA therefore total more than 1200 applications on
+1930, that is nearly 2/3 of the investments in TLDs projects. Added to this are the technical
+backend services for which 11 U.S. companies cover 3/4 of the bids for TLDs.
+The final distribution after selection between competitors for the same TLDs cannot
+significantly reduce the domination of the US companies. This excessive domination is
+dangerous because it can only generate withdrawals from the so called "One Net" and sow
+animosity. It carries monoculture instead of diversity. Finally, it exposes the majority of the
+users in the world to data collection and espionage in a questionable legal framework (USA
+Patriot Act, FISA Amendments Act of 2008 etc.)
+2. Tax evasion on a large scale
+All the TLDs projects of U.S. companies in Europe are located in areas well known as "tax
+havens": European micro-States (152) and the British Caribbean Islands (167).
+European areas of low taxation, well known to allow sophisticated tax evading organizations,
+as the Netherlands, Ireland and Switzerland, have attracted a higher proportion of
+European projects that other European states having average or strong tax levels.
+In the United States, a large proportion of projects are established in the State of Delaware, at
+the expense of the population of the United States.
+This systematic tax avoidance is possible because of legal facility offered to establish a
+business in a country but to choose another country as the place for tax.
+
+The above table is attached as a file named TLD_Mundo.pdf
+3. Issues of global public interest
+Practices of tax evasion on a large scale will remain possible as long as there will remain at
+least ONE complacent micro-state and that it will be lawful to separate place of business and
+
+fiscal establishment. It is much easy for registries as they don't require significant physical
+installations.
+More importantly perhaps is the moral factor, the psychological one. The naming operators
+are readily hostile to states, anti-parliamentary and deeply suspicious of the political class.
+Fiscal forcing solutions could be ineffective.
+Public officials as well as private entrepreneurs cannot ignore the risks facing the planet and
+human populations. The Naming and Internet ecosystem cannot evolve in a bubble,
+sheltered from global risks and ignoring them: global warming, environmental degradation
+critical inevitable migration, growth of cities, overcrowding with lacking education and
+health, explosive growth of inequalities etc.
+4. Apparently conflicting approaches may converge
+Respecting the different sensitivities, it seems possible to make converge within the
+ecosystem of naming, conventional approaches to public policy with liberal
+philanthropic initiatives. Designating common goals can enable very heterogeneous entities
+to work in the same direction.
+In economic terms, the tax evasion practices distort competition since many 'normal'
+companies, usually small and medium enterprises, do not seek to evade taxes and contribute
+to the collective efforts of their compatriots.
+In line with the Public Interest Commitments (PIC) introduced by ICANN in the management
+of applications for new TLDs, it could be introduced a policy of social and environmental
+responsibility. Each registry residing in an area where the tax is lower than the global
+average would face an alternative :
+- Either to withdraw its declaration of tax residence and return to its real country of
+establishment,
+- Either to exercise its social and environmental responsibility by a financial contribution to
+projects of global public interest, without going through a national taxation.
+5. A Sustainable Responsible Business Committee (SRBC)
+The rules for calculating minimum contributions could be determined annually by an
+independent commission called for example Sustainable Responsible Business Committee
+(SRBC). .
+Companies would be free to contribute beyond the amount calculated by the SRBC. And
+other businesses already taxed in their respective countries could also participate, if they wish,
+on a purely voluntary basis. A global hall of fame of the contributors would be published
+and maintained. Attendance on this list could become for companies a communication
+argument and this could create a virtuous circle.
+The global average used as a reference could be the average tax within countries hosting
+registries, weighted by the number of registries.
+6. Make actors of the ecosystem become entrepreneurs of cognition in the 21st century
+
+Financial contributions collected by the SRBC would be allocated to priority projects. Their
+list would be established and maintained by the SRBC. Companies could affect their
+contributions to projects of their choice among three categories:
+- Rebalancing the global distribution of TLDs,
+- Basic training in computing for young children worldwide,
+- Visualization of data on major global issues.
+So companies of the naming ecosystem could play a full role of cognition companies in the
+21st century.
+References :
+Governance of Top Level Domains (TLDs): a failed revolution?
+Dominique Lacroix, in Proceedings,
+1st International Conference on Internet Science,
+Brussels, April 9-11, 2013, pages 133 à 141
+L’ICANN obligée d’inventer une alchimie des noms de domaines,
+ICANN is obliged to invent an alchemy for domain names
+Dominique Lacroix, Le Monde.fr, 23 avril 2013
+http://reseaux.blog.lemonde.fr/2013/04/23/icann-alchimie-noms-domaines/
+Ranger la Terre
+Le nommage des domaines est-il l’expression d’une stratégie des USA de domination des
+réseaux ?
+Tidying the Earth
+Is Internet naming a piece of the American dominance cyberstrategy?
+in Proceedings of the Symposium "Networks and e-strategy" organized by Olivier Kempf in
+Paris in May 2013, to be published by Editions Economica

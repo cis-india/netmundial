@@ -1,0 +1,410 @@
+UNESCO comprehensive study on Internet-related issues:
+draft concept paper proposed by the Secretariat for
+consultations
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Indrajit Banerjee
+Region: France
+Organization: UNESCO
+Sector: Other
+Keywords: access, freedom of expression, privacy, ethics, multistakeholder
+Doc Attached: Click here to see the doc 1
+Abstract
+This draft paper, proposed by UNESCO?s Secretariat, outlines the concept for a
+comprehensive study led by UNESCO on Internet-related issues. Its framework is
+informed by the draft concept of Internet Universality, which summarizes UNESCO?s
+positions on the Internet. The study was mandated by UNESCO 195 Member States in
+November 2013 at the Organization?s General Conference. It will cover the fields of
+Access to information and knowledge, Freedom of expression, Privacy, and Ethical
+dimensions of the information society, and will also explore possible options for future
+actions. The study will be elaborated through an inclusive multi-stakeholder process that
+includes governments, the private sector, civil society, international organizations and the
+technical community. We invite the participants of NETmundial to consider the draft
+concept paper in their deliberations, and to take an active part in the consultative process
+over the next year as part of the follow-up to the Meeting.
+Document
+UNESCO comprehensive study on Internet-related issues: draft concept paper
+proposed by the Secretariat for consultations
+Content contribution:
+Contents:
+1. Introduction
+2. Context
+3. Background to the Study
+4. UNESCO’s previous work of relevance
+5. Process
+6. Overview of the Comprehensive Study
+7. Fields of Study
+7.1 Access
+7.2 Freedom of Expression
+7.3 Privacy
+7.4 Ethics
+8. Conclusion
+Appendices
+Questionnaire for the Comprehensive study (draft)
+Terms of Reference
+1. Introduction
+By Resolution 52 of the 37th General Conference in 2013, UNESCO is mandated to
+conduct a comprehensive and consultative study on Internet-related issues, the results of
+which should inform the Organization’s reporting to the 38th Conference in 2015. This
+resolution emerged after debate by Member States following the tabling of a Discussion
+Paper at the 192nd General Conference, as per mandate of the 192nd Executive Board.[1]
+The Study will be intersectoral in nature, drawing on Communication-Information, and
+Social and Human Sciences amongst other parts of UNESCO. The ability of the UNESCO
+Secretariat to undertake the large-scale consultation as required for this Study was shown
+in the February 2013 first review event of the World Summit on the Information Society
+(WSIS).
+2. Context
+As indicated in the Discussion Paper prepared for UNESCO’s 37th General Conference,
+the digital revolution is impacting on all spheres of public and private life. More and more
+personal and public information is collected, stored, processed and shared via the
+Internet. All this brings with it unparalleled opportunities as well as challenges.
+Cyberspace is especially complex and sensitive, because of its transnational and
+multidimensional character. This calls for a holistic approach to address the broad range
+of issues relating to its use. UNESCO as a universal organization with a mandate relevant
+to many cyber issues can foster trust and dialogue, and build consensus at the global,
+regional and national levels. An inclusive multi-stakeholder process as mandated in 37
+C/Resolution 52 can, through UNESCO, provide a platform for all actors to examine
+complexities and propose well-informed options.
+3. Background to the Study
+A draft resolution tabled at UNESCO’s 37th General Conference in November 2013
+prompted debate which indicated that besides reported instances of government
+monitoring of the Internet, many other issues on the Internet emerged for discussion,
+including privacy more broadly, as well as freedom of expression, access and ethics.
+There was general acceptance that UNESCO was an appropriate forum to facilitate and
+have a leadership role in these issues. The result was a consensus in the form of 37
+C/Resolution 52, which affirmed the applicability of human rights in cyberspace and
+mandated the Study which is the subject of this Concept Paper.
+4. UNESCO’s previous work of relevance to the Study
+From the mid-1990s, UNESCO organized a series of international expert meetings that
+led to the adoption by the General Conference of UNESCO in 2003 of the
+“Recommendation concerning the Promotion and Use of Multilingualism and Universal
+Access to Cyberspace”. UNESCO’s concept of Knowledge Societies – based on freedom
+of expression, universal access to knowledge, quality education for all, and respect to
+cultural and linguistic diversity – has been positively received by all stakeholders. The
+World Report on Knowledge Societies, addressing all these issues, was published in
+2005. In addition to the above, at the 36th General Conference in 2011, Member States
+examined a document “Reflection and Analysis by UNESCO on the Internet”. Further,
+UNESCO’s Intergovernmental Information for All Programme developed the “IFAP Code
+of Ethics for the Information Society”. Member States took note of this and invited the
+Organization to suggest possible ways of addressing the ethical dimensions of the
+information society. Subsequent consultations with Member States and other
+stakeholders led to the document “UNESCO and the ethical dimensions of the information
+society” which was endorsed by the Executive Board at its 190th session in 2012.[2]
+Since 2003, UNESCO has been a significant actor in the World Summit on the
+Information Society (WSIS), and has worked systematically on the six Action Lines it is
+mandated to lead.[3] Most recently, the 37th General Conference in 2013 endorsed the
+Final Statement of the UNESCO-organized, first WSIS+10 Review Event, held at
+Headquarters in February 2013.
+The documents produced in these processes, along with information gained from
+consultations with stakeholders as elaborated below, are important input materials for the
+Study.
+5. Process
+As per C 37/Resolution 52, the modality of this Study is consultative, incorporating “an
+inclusive multi-stakeholder process which includes governments, private sector, civil
+society, international organizations and the technical community.” As such, consultation
+will involve meetings with UNESCO Member States, and thematic debates at the
+governing councils of the Information for All Programme and the International Programme
+for the Development of Communication. Another forum for consultation is UNESCO’s
+World Commission for the Ethics of Science, Technology and Knowledge (COMEST).
+Because the issues continue to be debated autonomously in other UN fora, the Study will
+therefore monitor further developments there. Relevant here are meetings in 2014 of the
+ITU, the Human Rights Council, and the UN General Assembly. Amongst other structures
+suited to consultation, are the United Nations Group on the Information Society (UNGIS),
+the Internet Governance Forum and the WSIS Fora, the Broadband Commission for
+Digital Development, and a range of new initiatives. Consultation will also be done
+through UNESCO participation in various international conferences and fora. In addition,
+the various declarations and statements by various stakeholders around the world will be
+analysed in order to inform the research.
+The primary method of data collection is a qualitative research questionnaire, covering the
+four fields of the Study (Access, Freedom of Expression, Privacy, Ethics).The questions
+therein are informed by UNESCO’s specific mandate and interests, particularly in terms of
+the principles of human rights, openness, accessibility and multi-stakeholderism (as
+elaborated in section 6 below). The responses will show the range of analyses and
+options on the issues at hand.
+The above illustrates UNESCO’s complementary and collaborative approach to others
+working on Internet-related issues. More detail on the research process is given in
+separate documents.
+6. Overview of the Comprehensive Study
+As affirmed in the Discussion Paper prepared for UNESCO’s 37th General Conference,
+the Organization’s approach to the Internet must be framed within its mandate. From
+those documents already adopted by UNESCO governing bodies, four principles are
+especially important in guiding the approach of the Organization to the Internet. They
+point to the importance of an Internet for UNESCO that is rights-based, open, accessible
+and multi-stakeholder participative (summarized in the acronym R.O.A.M.). As befits
+UNESCO as a universal organization, these principles are also the underpinnings for the
+universality of the Internet, which in turn is a sine qua non for reaching Knowledge
+Societies.[4] The stronger the correspondence of the Internet to these four principles, the
+greater the universality and therefore its potential to contribute to building Knowledge
+Societies.
+UNESCO’s cross-sectoral character is fundamental for the universality of the Internet, and
+the R.O.A.M principles encompass the Organization’s work to advance universality in
+education, social inclusion, multi-lingualism in cyberspace, access to information and
+knowledge, ethical thinking and press freedom, amongst others. Also relevant for
+universality is Broadband Commission for Digital Development which links Internet to
+accelerated progress towards the Millennium Development Goals.
+The universality framework underpins how UNESCO scopes the required fields of
+research (Section 7 below) and informs the draft questions (see Appendix).
+7. Fields of Study: Access, Freedom of Expression, Privacy and Ethics.
+7.1 Access to information and knowledge
+Access to information and knowledge is a basic requirement for building inclusive
+knowledge societies with strong foundations for lasting peace and sustainable
+development. There has been a significant increase in access, but the digital divide
+continues to exclude large numbers of people, particularly women and girls, and
+especially in Africa and LDCs. Considered in terms of the framework outlined in section 6
+above, the Study frames Access issues as follows:
+Rights: Relevant from the UNESCO point of view is that access to information, as a
+precondition for knowledge, is linked to Universal Declaration of Human Rights Article 19
+which affirms that the right to freedom of expression “includes the freedom to seek and
+receive information and ideas through any media and regardless of frontiers”. This applies
+online and offline.
+Openness: For UNESCO, it is important that the Internet’s ability to provide open access
+is fostered. The UNESCO OER platform already provides access to more than 150
+knowledge resources developed by the Organization and its partners.
+Accessibility: UNESCO’s approach is that access to information alone is not a sufficient
+requirement for the creation of Knowledge Societies. Access to knowledge entails
+learning in formal and informal education settings. It also entails fostering the
+competencies of Media and Information Literacy (MIL) so as to empower users to make
+full use of access to the Internet. Enhancing the quality and linguistic diversity of content,
+developing sustainable digital heritage, encouraging local content online, and promoting
+special services for marginalized groups are also central to UNESCO’s interests in
+accessibility. The Organization’s support for journalism education also contributes to the
+provision of quality information accessible in cyberspace.
+Multi-stakeholder participation: Access to the Internet has grown over the decades as a
+result of activities by numerous stakeholders. No single actor can ensure responsibility for
+deepening the ubiquity of affordable high-speed Internet access across devices,
+platforms, services, languages, content and user capacities. UNESCO’s embrace of
+relations with National Commissions, civil society and other actors highlights its intrinsic
+character of enabling broad access to the Organization, including through UNESCO
+online Knowledge Communities.
+7.2 Freedom of Expression
+UNESCO’s constitutional mandate to promote the “free exchange of ideas and
+knowledge” is reinforced by the Universal Declaration of Human Rights which affirms that
+“everyone has the right to freedom of opinion and expression”. This right has also been
+protected in the International Convention on Civil and Political Rights (ICCPR), and further
+elaborated in relation to internet and mobile-based information dissemination systems by
+the UN Human Rights Committee (July 2011), in its General Comment No. 34 on Article
+19 of the ICCPR.[5] Assessed in terms of universality principles for the Internet, the
+following can be stated.
+Rights: For UNESCO, the right to freedom of expression applies, as do other rights, to
+cyberspace, and all persons should be safe to use this right. Accordingly, as the UN
+Human Rights Committee Comment states, any limitation of freedom of expression online
+should be the exception rather than norm. Further, the international standard requires that
+any restrictions must be provided by law, may only be imposed for legitimate grounds as
+set out in the UDHR, and must also conform to tests of necessity and proportionality.
+Restriction that exceeds these standards in any one locality has a direct global
+significance for users on the Internet elsewhere. UNESCO works worldwide to promote
+freedom of expression online and offline.
+Openness: Freedom of expression online is linked to the principle of openness,
+particularly in regard to the international standards that advocate transparency in relation
+to restrictions on the right to expression. Open opportunities to share ideas and
+information on the Internet are integral to UNESCO’s positions on freedom of expression
+and inter-cultural dialogue.
+Accessibility: For UNESCO, freedom of expression online is also a question of how
+people use their access to express themselves on the Internet. Media and Information
+Literacy is relevant to this question, particularly in regard to expression dealing with hatred
+and gender issues.
+Multi-stakeholder participation: UNESCO sees freedom of expression as a matter in which
+each individual has a stake. The Organization has long promoted self-regulation as the
+optimum mechanism for promoting ethical and professional journalism; in regard to
+cyberspace it is also evident that online media accountability entails self-regulatory
+systems and ethical principles which in turn need participative involvement to secure
+legitimacy and be effective.
+7.3 Privacy
+The general right to privacy is related to many distinct issues, such as anonymity and
+dignity. On the Internet, there are additional related issues, ranging from consumer data
+protection and intellectual property to data-mining, and cyber-security. Privacy relates
+particularly to the collection, storage, use and circulation of personal data.
+Rights: UNESCO follows the UDHR that human rights are indivisible, recognizing thereby
+that particular actions concerning the right to privacy can impact on other rights, such as
+the right to freedom of expression, and vice versa. As noted in 37 C/Resolution 52,
+“privacy is essential to protect journalistic sources, which enable a society to benefit from
+investigative journalism, to strengthen good governance and the rule of law, and that such
+privacy should not be subject to arbitrary or unlawful interference”. At the same time, as
+noted in the Discussion Paper prepared for the 37th General Conference, privacy may
+also not be used to shield violations of individual rights or to block the media from
+exposing these. Public interest must enter any calculation of balancing rights, and Article
+29 of the Universal Declaration of Human Rights sets out this test for the purpose and
+method required in regard to balancing: “In the exercise of his rights and freedoms,
+everyone shall be subject only to such limitations as are determined by law solely for the
+purpose of securing due recognition and respect for the rights and freedoms of others and
+of meeting the just requirements of morality, public order and the general welfare in a
+democratic society.”
+Openness: Privacy articulates directly with transparency concerning the collection,
+storage and analysis of personal data. It also relates to open source technology, which
+enables scrutiny of privacy protection in the relevant software. UNESCO stands for an
+appropriate balance and sufficient safeguards to ensure the public and individual interests
+in the interface between privacy and openness.
+Accessibility: Fundamental to users taking advantage of access to the Internet is whether
+they can trust that their rights will be respected. Without confidence, users may begin to
+limit their involvement, and the universality of the Internet will be diminished. At the same
+time, users should themselves respect privacy on the Internet, and UNESCO’s work in
+Media and Information Literacy has a role to play here.
+Multi-stakeholder participation: Given the complex ecology of the Internet, balancing
+privacy with other rights in public interest lends itself to multi-stakeholder participation,
+especially in regard to norms, issues of regulation and self-regulation.
+7.4 Ethics
+From UNESCO’s perspective, the Internet should help advance respect for and realization
+of human rights. Possible discrepancies between this vision and real-world situations
+raise issues for ethical consideration. “Ethics”, in this context, can be understood as the
+simultaneous affirmation of human rights, peace, equity, and justice, as well as a field of
+inquiry and style of interrogation in and of itself. Alongside work conducted on the ethics
+of science and technology, issues of social transformation relating to the uses and effects
+of digital technologies have also been considered at an exploratory level within
+UNESCO’s Management of Social Transformations (MOST) programme. From the point
+of view of universality principles, the following applies:
+Rights: UNESCO places the debate on Internet within an ethical discourse that integrates
+human rights into its general perspective, thus highlighting that the usage of technology is
+not “value-free”. Hence, the central concern remains how to develop the Internet in the
+service of human rights, greater equity, and justice, by encouraging ethical sensitivity in
+regard to use of the Internet. This entails promoting an engagement with the Internet that
+is thoughtful, informed and which advances peace and the realization of each person’s full
+potential. It is a matter of actors using human rights for these objectives, of ethical selfregulatory
+systems such as UNESCO promotes in the case of journalists, and of Media
+and Information Literacy.
+Openness: ICTs are sometimes viewed as being neutral and, on this basis, value
+judgments may only be made in relation to the intent, use and the outcomes. Another
+perspective argues that ICTs are embedded, whether explicitly or implicitly in their design,
+with assumptions, expectations, values and biases along with the viewpoints of their
+designers and the societies in which they are created. Technologies embody particular
+choices with distinct consequences that may explicitly or otherwise favour certain
+behaviors or inhibit the ability of some segments of society to benefit from them. Ethical
+consideration is needed in regard to the extent to which the Internet enables transparent
+and open technology standards and opportunities, and the principle of openness in turn
+can facilitate users developing greater ethical awareness of ICTs.
+Accessibility: ICTs are “resources” whose ethical usage and distribution create the
+conditions for a greater well-being. They are also the building blocks of UNESCO’s vision
+of inclusive Knowledge Societies. In such societies, ICTs are seen, in fact, as ceasing to
+be simple “affordances,” but functioning as the grounds for shared global life. This is why
+Internet accessibility issues such as gender, language, knowledge, culture and identity
+are profoundly ethical. In addition, ethics are relevant within the perspective that perceives
+ICTs as factors in drastic changes in the context of social interactions, such as removing
+important social cues with potential impact that may be socially inappropriate. Media and
+Information Literacy which includes ethical reasoning can empower Internet users to
+engage with these issues.
+Multi-stakeholder participation: The different perspectives and assumptions about
+technology and its relation to society highlight the need for increased awareness as well
+as critical international, with particular attention to participation of developing countries
+and sensitivity to their needs, and interdisciplinary consideration on the ethical dimensions
+of the information society at all levels – by users, network operators, content producers,
+designers of ICT, and policy-makers.
+8. Conclusion
+In the process of implementing this Study, UNESCO will be demonstrating its vitality and
+relevance to key debates concerning the Internet. If extra-budgetary funds can be
+secured, the Study could be strongly aided by an expert group and by a conference at
+UNESCO early in 2015 to discuss a draft synthesis of findings. Progress will be reported
+to the 196th Executive Board in April 2015. The final outcomes of the process will, as
+required, be presented within the report to the 38th General Conference in November
+2015, within the framework of UNESCO’s follow-up to the World Summit on the
+Information Society.
+Based on the Organization’s consensus-building track record about Internet issues, and
+the extensive consultation that is envisaged for the Study, UNESCO is well placed to
+foster a common purpose amongst stakeholders about how the Internet can help us
+achieve the vision of Knowledge Societies.
+Appendices:
+Questionnaire for the Comprehensive Study (draft)
+Questions related to the field of Access to information and knowledge:
+What can be done to reinforce the right of access to information online? What
+mechanisms can develop policies and common standards for open-licensed educational
+resources and scientific repositories, and for the long-term preservation of digital
+heritage? How can greater progress be made as regards inclusive strategies for women
+and girls as well as marginalized and disabled people? How can accessibility be facilitated
+through increases in locally produced and relevant content in different languages? What
+is can be done to institutionalize MIL effectively in national educational systems?
+Questions related to the field of Freedom of Expression:
+How can diverse legislation that impacts on the Internet include checks and balances to
+protect freedom of expression in line with international standards? Is there a need for
+specific protections for freedom of expression for the Internet? How can limitations on the
+Internet be transparent and aligned with international standards? How can Media and
+Information Literacy empower users in understanding international standards as applied
+to freedom of expression on the Internet? What are the optimum systems for selfregulation
+in cyberspace?
+Questions related to the field of Privacy:
+What principles should ensure respect for the right to privacy? What are the gender
+dimensions of the right to privacy online? How can transparency around associated
+issues be promoted? How can trust be built, and what kinds of arrangements can help to
+balance privacy with other rights?
+Questions related to the field of Ethics:
+How can ethical principles based on international human rights advance accessibility,
+openness, and multi-stakeholder participation on the Internet? What ethical frameworks or
+processes could serve to inform the actions of stakeholders and to assess the outcomes
+of new social uses and applications of information and knowledge? What is the link
+between ethical and gender dimensions of the Internet? How can ethical sensitivity inform
+law and regulation about the Internet?
+Questions related to options:
+What should be the role of UNESCO within the wider UN system in regard to the distinct
+issues of online Access to information and knowledge, Freedom of Expression, Privacy
+and Ethical dimensions of the information society?
+What should be the role of UNESCO in relation to stakeholders outside the UN system
+such as individual governments, Internet companies, civil society and individual users, in
+regard to the distinct issues of online Access to information and knowledge, Freedom of
+Expression, Privacy and Ethical dimensions of the information society.
+Terms of Reference
+Following Resolution 52 adopted by the General Conference at its 37th session,
+UNESCO shall prepare a comprehensive study of the Internet-related issues within the
+mandate of UNESCO, (hereinafter called "the Study"). The following terms of reference
+set out how the Resolution will be fulfilled.
+Scope: The Study, as per 37 C/Resolution 52, shall cover the four fields of Access to
+information and knowledge, Freedom of expression, Privacy, and Ethical dimensions of
+the information society. It shall also explore possible options for future actions.
+Process: The four fields under consideration (access, freedom of expression, privacy and
+ethics) shall be elaborated, as per 37 C/Resolution 52, through an inclusive multistakeholder
+process which includes governments, the private sector, civil society,
+international organizations and the technical community.
+This processshallengageallMember Statesand benefitfrom UNESCO's
+accumulatedknowledgeandpastexperiencesinthoseissuesandinvolveMember States
+information meetings and thematic debates at the intergovernmental councils of the
+Information for All Programme and the International Programme for the Development of
+Communication, as well as other relevant fora.
+Based on UNESCO positions regarding the Internet, a set of questions shall be drafted,
+relating to each research field (Access, Freedom of Expression, Privacy, Ethics), and
+possible future options for action.
+The questions will be put to multi-stakeholder actors, both through a written questionnaire,
+including an online version, and through interventions at key events. Stakeholders can be
+expected to address all or part of the questions, as relevant to their area of work and
+interest in responding.
+Debates at external fora that are relevant to the four fields of research will also be
+monitored.
+Existing international frameworks and normative guidelines produced by other stakeholder
+groups will be analysed in order to inform the Study.
+The data arising from all the above will be the basis of a zero draft of the Study. This draft
+will involve external expertise, if extrabudgetary funding can be sourced for this purpose.
+Extrabudgetary funding permitting, the zero draft report will be put forward for consultation
+at a multi stakeholder conference to be held at UNESCO in January 2015, and modelled
+in part on the successful WSIS+10 Review Event held in February 2013.
+Budget: The Study will harmonise with UNESCO’s Regular Programme and existing
+activities and events, and existing capacity of the Secretariat. However, additional support
+will be needed to sufficiently assess the data, prepare a zero draft analysis, convene a
+consultative conference, and to finalise the Study. As per 37 C/Resolution 52, “Member
+States are invited
+tofullyengageinthisprocessandtomakeeveryeffort,includingthroughextrabudgetary
+contributions, forfinancingadditionalmeetingsorotheractivities.” These contributions would
+support:
+Hiring international experts to draft the Study based on the results of the consultative
+process; (Estimated budget: $70 000)
+Convening an international event at UNESCO in February 2015
+to discuss a draft of the Study and its recommendations.(Estimated budget: $350 000)
+Reporting: As per Resolution 37 C/52, a progress report will be presented to the 196th
+Executive Board. The finalised study will inform the report to the 38th General Conference
+on UNESCO’s follow-up to the World Summit on the Information Society.
+[1] Discussion Paper. Internet Related Issues: Including Access to Information and
+Knowledge, Freedom of Expression, Privacy and Ethical Dimensions of the Information
+Society, produced on mandate of UNESCO Executive Board 192 EX/Decision 40.
+[2] UNESCO has also examined dimensions of online rights in two publications –
+“Freedom of Connection – Freedom of Expression: The Changing Legal and Regulatory
+Ecology Shaping the Internet” (2011) and a “Global Survey on Internet Privacy and
+Freedom of Expression” (2012).
+[3] These Action Lines are: “Access to information and knowledge” (C3), “E-learning”
+(C7), “E-science” (C7), “Cultural diversity and identity, linguistic diversity and local content
+” (C8), “Media” (C9) and “Ethical dimensions of the Information Society” (C10).
+[4] Since February 2013, UNESCO has undertaken extensive consultations on using
+“Internet universality” as an overarching term to designate the principles within the
+Organization’s agreed positions on the Internet. Commencing during the 2013 Review
+Event of the World Summit on the Information Society, the consultations have continued
+through 10 other international events, as well as internally with all sectors of the
+Organization. Summarizing four principles which are extant in accepted UNESCO texts on
+the Internet, the notion of “Internet universality” provides a vision of a universalized
+Internet aligned with UNESCO’s mandate and values. It highlights the kind of Internet
+needed to achieve Knowledge Societies in which information and knowledge are not
+simply issues of technological availability, but are integrally bound up with the human
+aspects of development. See: www.unesco.org/internet-universality
+[5] http://www2.ohchr.org/english/bodies/hrc/comments.htm

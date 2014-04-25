@@ -1,0 +1,110 @@
+Evolution of the Internet governance ecosystem and the
+future of the Internet
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Matthew Shears
+Region: USA
+Organization: Center for Democracy & Technology
+Sector: Civil Society
+Keywords: Roadmap, Internet, multistakeholder, IGF, ICANN, surveillance
+Doc Attached: Click here to see the doc 1
+Abstract
+CDT welcomes the NETmundial meeting on Internet governance and looks forward to
+exploring practical and credible proposals for evolving the Internet govenance ecosystem
+in ways that further the Internet's global reach, openness, distributed governance and
+unique capacity to empower the exercise of human rights.
+Document
+The Center for Democracy & Technology (CDT) is pleased to submit the following
+comments to the NETmundial Global Multistakeholder Meeting on the Future of Internet
+Governance. This submission responds to issue # 2 on the Roadmap for the Further
+Evolution of the Internet Governance Ecosystem.
+CDT welcomes the decision by the Brazilian government to host the upcoming
+NETmundial meeting. The meeting should be a useful opportunity to review some of the
+persistent and sometimes problematic issues central to the future of the Internet
+governance and related public policy discussions. The meeting seeks to encourage and
+explore ways in which the Internet governance ecosystem might change, which, if done
+so for the right reasons, could bring about appropriate and constructive evolution.
+As we all engage in this process CDT urges a measured and reflective approach.The
+Internet has become an enabler of the success of nations, has empowered persons
+around the globe in ways unimagined and continues to encourage and facilitate endless
+innovation and creativity. It is, as the NETmundial website suggests, a “global platform for
+social, economic and human development and a catalyzer to exercise human rights.”
+Therefore, changes to the Internet and its governance must sustain and enhance the
+benefits of this medium.
+The successful evolution of the Internet as a global network has depended on a flexible,
+decentralized, bottom-up and issue-driven set of interrelated governance processes that
+are open to participation by all stakeholders. CDT believes that change should not occur
+solely for sake of change, or as a response to pressures of a particular stakeholder group
+(or some subset thereof). Changes should not be driven by agendas that seek to diminish
+the evolving roles and responsibilities of non-governmental stakeholders. CDT believes
+that proposals to unduly increase the role of governments in Internet governance will only
+exacerbate governance challenges rather than lessen them.
+A case in point is the past year’s on-going revelations about the scope of surveillance
+activity by the US, the UK, and other governments. CDT opposes and seeks substantive
+changes to the mass surveillance regimes of states but does not believe that issues of
+Internet governance and surveillance should be conflated. While some try to point to
+mass surveillance as an example of the supposed failure of the current Internet
+governance ecosystem, the revelations have, in fact, exposed exactly the opposite: the
+processes that led to the development of these surveillance practices demonstrate the
+danger of governments retreating from open and participatory policy development
+processes.
+The NETmundial website suggests that responses to furthering the evolution of the
+Internet governance ecosystem should seek to “ensure the stability, resilience and
+efficiency and also comply with principles of equitable multi-stakeholder participation,
+accountability, transparency and predictability.” CDT completely agrees, and suggests
+that any proposed change, evolution or addition to the existing Internet governance
+ecosystem must be the result of agreed processes that should include, at a minimum:
+? multi-stakeholder consultations
+? open, inclusive and transparent processes
+? identification of real (not perceived) and practical needs that are substantiated
+through credible research and analysis
+? constructive and proportionate solutions
+? multi-stakeholder endorsement, and
+? implementation that is accountable, transparent and subject to review.
+CDT notes that implementation of any proposed changes to the governance system
+should not necessarily require a legislative acts or similar hard law approaches. Nor
+should implementation necessitate international treaties or intergovernmental structures.
+A diversity of mechanisms exists and we have no doubt that the Internet’s evolution will
+bring about further innovation in governance processes and mechanisms.
+Any proposed change or solution should also be understood and agreed by all
+stakeholders as credibly enhancing the Internet through furthering
+? resilience
+? interoperability
+? reliability
+? global reach and scalability
+? openness
+? decentralization
+? accessibility
+? end-user control, and
+? distributed and inclusive (multi-stakeholder) governance.
+These criteria are essential to the future evolution of the Internet and its continued
+success and are recognized as such in the following Internet principles and policy
+documents, among others:
+? The CGI.br Principles for the Governance and the Use of the Internet on Universality
+(number 3), Innovation (5), and functionality, security and stability (8)
+? The OECD Principles for Internet Policy Making on Promoting the open, distributed
+and Interconnected nature of the Internet
+? The Council of Europe Declaration on Internet Governance Principles on the
+Universality of the Internet, the Integrity of the Internet and Architectural Principles.
+Whether we are talking about strengthening the Internet Governance Forum, globalizing
+ICANN, bringing other stakeholders into the London Process or improving or establishing
+other fora and/or mechanisms, proposals for change must be credible, practical and have
+as their intent the continued openness, vibrancy and reach of the Internet.
+Finally, the globalization of ICANN and the IANA function will no doubt be the focus of
+much attention at the NETmundial meeting. As the globalization of ICANN continues
+(through opening offices and increasing its presence internationally) it is essential that
+there be fuller discussion of feasible proposals/roadmaps for the future of the IANA
+function (and its oversight). Any proposals for change in the core functions or role of
+ICANN should be subject to robust evaluative processes and be required to meet key
+criteria such as those outlined above; they should not be imposed from above or by one
+stakeholder grouping (whether internal or external). Change must preserve and improve
+upon ICANN’s open and transparent processes; multi-stakeholder bodies derive their
+legitimacy and credibility in part from their transparent processes and ability to reach
+consensus. And, it goes without saying that any proposed change to core operational
+elements of the management and functioning of the Internet must be assessed with the
+greatest of care and considerable caution.
+CDT encourages the NETmundial meeting to find constructive, innovative and multistakeholder
+ways of furthering the evolution of the Internet governance ecosystem that
+are based upon a common understanding among all stakeholders of the imperative of
+enhancing the Internet’s resiliency, global reach, openness, distributed governance and
+unique capacity to empower the exercise of human rights.

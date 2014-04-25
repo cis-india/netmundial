@@ -1,0 +1,59 @@
+Arab Internet Governance Community Proposal on Global
+Internet Principles
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Hanane Boujemi
+Region: MENA
+Organization: Hivos
+Sector: Civil Society
+Keywords: balanced, multistakeholderism, bottom up, human rights
+Abstract
+Members of the Arab IGF community and representatives of Internet Governance
+stakeholders in the Arab region would like to present a list of global Internet Governance
+principles aimed at guaranteeing people around the world the full educational, economic,
+social, cultural, developmental, and transformational benefits of an open, secure, stable
+and multilingual Internet, maintaining unrestricted access to all resources and capabilities
+of this global network, while securing privacy, freedom of expression, the availability and
+free flow of information and net neutrality.
+Document
+The Internet plays an important role in fostering knowledge, education, innovation and
+business. It is a revolutionary tool which has had, and will continue to have, major
+impacts on humanity, and has drastically transformed every aspect of our being. For the
+Internet to continue growing as a global tool beneficial to the public interest, global
+principles of Internet Governance need to be discussed, agreed upon and adopted by all
+stakeholders of the Internet community.
+Such agreement on Internet Governance principles should take into consideration the
+following:
+1. Governance of the Internet should be based on a multi-stakeholder model with wide,
+balanced and global representation of all stakeholder groups. More efforts should be
+deployed to ensure wider engagement of stakeholders from developing countries to
+achieve a globally balanced multi-stakeholder model for Internet Governance.
+2. While Internet public policies implementation is the main responsibility of governments,
+the necessary mechanisms should be adopted to encourage a bottom up and community
+driven approach in designing those policies to best serve the public interest.
+3. Respecting international laws, rights, and freedoms are the responsibility of every
+Internet stakeholder. The internet must guarantee Human Rights and freedoms as
+ordained in the Universal Declaration of Human Rights and the international Covenant on
+Civil and Political Rights and any other pertinent legal document.
+4. Users' Rights online are central and should be improved materialization of those rights
+offline. Current legislation applied on the Internet which hinders any aspect of the basic
+human rights as stipulated in international instruments should be reviewed and adapted to
+guarantee that Internet rights are identical to offline rights.
+5. Open, inclusive, neutral and unrestricted access to the Internet is central to democratic
+and socio-economic development. Data protection, privacy, security and freedom of
+expression are basic to the development of the Internet.
+6. The rule of law, open, equal, unhindered, affordable access, and multilingualism are
+basic requirements for every Internet user to be empowered to reap the full benefit of
+internet resources. Any adopted governance mechanisms should be based on worldwide
+best practices to avoid Internet censorship.
+7. While the general security and the protection of the users and their rights are global
+multi-stakeholder responsibility lead by governments, the day-to-day technical
+management of the Internet is the responsibility of the private sector and the technical
+community. None of these responsibilities (i.e., neither security and the protection of the
+citizens nor technical management) should undermine the general principles of Internet
+neutrality, transparency and Inclusiveness of all stakeholders in the decision making
+process.
+8. State sovereignty stipulated by international treaties and users privacy should be
+respected and protected from external surveillance operations.
+9. The Internet is a global public good. Critical Internet resources, including root servers,
+names and numbers, need to be managed globally, through a model that is fair,
+transparent and accountable to the international Internet community.

@@ -1,0 +1,137 @@
+Content Contribution to NetMundial on the Roadmap for the
+Futher Evolution of the IG Ecosystem regarding the
+Internationalisation of the IANA Function
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Jordan Carter
+Region: New Zealand
+Organization: InternetNZ
+Sector: Technical community
+Keywords: ICANN, IANA, New Zealand, ccTLD, DNS Authority
+Doc Attached: Click here to see the doc 1
+Abstract
+InternetNZ's contribution is in support of the contribution from the Internet Governance
+Project (IGP) entitled "Roadmap for globalizing IANA: Four principles and a proposal for
+reform". The IGP contribution sets out four principles to guide IANA contract reform, which
+InternetNZ supports. These principles mirror the conclusions we have reached
+independently and have practised in our management of the .nz ccTLD. The model
+proposed by the IGP, particularly for the establishment of a new body, the DNS Authority,
+is one that we support in principle, though further refinement of the model is necessary.
+The contribution offers qualifications and points of detail for consideration in the
+discussion of this model.
+Document
+Internet New Zealand (Inc)
+Content Contribution to NetMundial
+on the
+Roadmap for the Further Evolution of the Internet Governance ecosystem
+regarding
+Internationalisation of the IANA Function
+7 March 2014 Public Version (there is no confidential version)
+For further information, please contact:
+Jordan Carter <jordan@internetnz.net.nz> InternetNZ
+Jay Daley <jay@nzrs.net.nz> .nz Registry Services
+Keith Davidson <keith@internetnz.net.nz> InternetNZ
+Debbie Monahan <dnc@dnc.org.nz> Domain Name Commission
+1 - Introduction
+1.1 This submission is from InternetNZ (Internet New Zealand Inc).
+1.2 Our vision is of a better world through a better Internet.
+1.3 Our mission is to promote the Internet’s benefits and uses, and protect its potential.
+1.4 We are a membership based, charitable, not-for profit and non-partisan organisation,
+working on a wide range of Internet and related telecommunications issues on behalf of
+the Internet Community in New Zealand – both users and the industry as a whole. We
+work for New Zealanders on sharing the gains the Internet can bring, for everyone.
+1.5 InternetNZ is an At-Large Structure within the ICANN community and is responsible
+for the administration of the .nz top level domain.
+1.6 InternetNZ has two wholly-owned charitable subsidiaries to whom management,
+operation and regulation of the .nz top level domain are delegated. These are:
+1.6.1 .nz Registry Services, the Registry
+1.6.2 Domain Name Commission, the Regulator
+1.7 InternetNZ has developed a set of principles for TLD administration, in line with which
+we operate the .nz TLD: https://internetnz.net.nz/TLDPrinciples
+2 - Summary
+2.1 This contribution is in support of the contribution from the Internet Governance Project
+(IGP) entitled "Roadmap for globalizing IANA: Four principles and a proposal for
+reform"[1].
+2.2 The IGP contribution sets out four principles to guide IANA contract reform, which
+InternetNZ supports. These principles mirror the conclusions we have reached
+independently and have practised in our management of the .nz TLD.
+2.3 The model proposed by the IGP, particularly for the establishment of a new body, the
+DNS Authority, is one that we support in principle, though further refinement of the model
+is necessary.
+2.4 We offer qualifications and points of detail for consideration in the discussion of this
+model in the following sections of this content contribution.
+3 - Principle 1 - Completely separate root zone file modification from
+policymaking
+3.1 InternetNZ has long argued for structural separation between the IANA function and
+ICANN[2]. In our view the separation of the IANA registry function from ICANN's broader
+policymaking function is in the best interests of TLD managers and of Internet users as a
+whole. As we noted in our submission to the NTIA:
+3.2 Experience within the .nz TLD has shown that functional separation of the registry
+from the policy development entity, with neither in a position of control over the other,
+provides significant and necessary safeguards for the customers. These include:
+3.2.1 All registry decisions are directly traceable to a publicly available policy document.
+Any gap in this audit trail is a breach of the contract under which the registry operates and
+would be expected to lead to contractual sanctions.
+3.2.2 The registry can refuse to carry out any request that does not conform to the publicly
+available policy, without any threat of action against it or any individual as the registry is
+not contracted to any policy development entity.
+3.2.3 Both the registry and the policy development entity are fully developed functions,
+without the priorities of one limiting the investment and development of the other.
+3.3 The approach set out by the IGP is in principle a viable model to achieve this
+structural separation. Further detail will of course need to be developed.
+4 - Principle 2 - Don’t internationalize political oversight: end it
+4.1 The IANA contract is often regarded as the key element to be tackled for ending
+political oversight of the root. If the strict separation between policy making and operation
+of the IANA registry that IGP proposes were in place, it would be recognised by all
+concerned that the real issue is political oversight of the policy making function and not
+the technical body that implements that policy.
+4.2 By the permanent transfer of the IANA contract to the DNSA, as proposed by IGP, the
+IANA function returns to a purely technical function which no state has oversight of and
+which requires no political oversight.
+4.3 InternetNZ would not support the allocation of the IANA functions to another politically
+controlled body of any sort. We believe a separation of multi-stakeholder policymaking
+from technically focused and robust operational entities are the right way to conduct
+Internet governance.
+5 - Principle 3 - Align incentives to ensure the accuracy and security of
+root zone maintenance
+5.1 For the proposed DNSA, as a purely technical function, the community best placed to
+manage the service is the TLD community that relies on it absolutely for their own
+operations.
+5.2 The TLD community has an exemplary track record of collaborating on technical
+matters solely for the public good. A good example is the response to the Conficker
+worm, which saw almost all TLDs acting quickly, in unison and without payment to block
+the domain names that were being registered by this worm that threatened to infect a
+large proportion of home computers.
+6 - Principle 4 - Delink
+IANA globalization from broader ICANN reforms
+6.1 The broader reforms aimed at balancing the views of governments, the private sector
+and civil society and increasing the international engagement in the policy around the
+'root' are not problems that are going to be solved quickly. In the proposal from IGP these
+problems remains but is now rightly restricted to the reform of ICANN, which would set the
+policy for the root that DNSA would be required to follow.
+6.2 The establishment of the DNSA would not in any way reduce the potential scope of
+the oversight nor does it guarantee disproportionate influence to any one state or other
+actor. All of the authority remains with the policy function, rooted in the ICANN community.
+7 - Other Matters
+7.1 InternetNZ supports efforts being made to meet the timetable set out in the IGP paper.
+This would see the model being detailed and a demonstrable level of support being
+available by the time that the current IANA contract expires (30 September 2015).
+7.2 InternetNZ prefers the ending of political oversight of the root as set out in the model,
+but if as part of the transition the matter was a bottom line for some stakeholders, we
+would not be concerned if a limited term extension of the IANA contract between NTIA
+and the new DNSA was brought into being.
+8 - Conclusion
+8.1 The IGP proposal rightly separates out technical function of root zone administration
+from the policy making process, which should be the focus of attention for governments
+and other stakeholders when considering the future of Internet governance. It also
+provides a sensible and broadly workable plan for the operation of that technical function.
+8.2 For those reasons InternetNZ supports in principle the proposal from the Internet
+Governance Project.
+8.3 We look forward to being part of the conversation in São Paulo as the debate
+proceeds.
+With many thanks for your consideration,
+Yours sincerely,
+InternetNZ
+[1] http://www.internetgovernance.org/pdf/ICANNreformglobalizingIANAfinal.pdf
+[2]
+https://internetnz.net.nz/system/files/submissions/submission_to_the_ntia_on_the_iana_functions_noi.pdf

@@ -1,0 +1,149 @@
+The IRPC Charter of Human Rights and Principles for the
+Internet
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Marianne FRANKLIN
+Region: New Zealand
+Organization: Internet Rights and Principles Coalition (UN IGF) /
+Goldsmiths (University of London, UK)
+Sector: Other
+Keywords: Human Rights, Internet Governance Principles, Universal
+Declaration of Human Rights, WSIS, IGF
+Doc Attached: Click here to see the doc 1
+Doc Attached: Click here to see the doc 2
+Abstract
+With this submission the Internet Rights and Principles Coalition
+(www.internetrightsandprinciples.org) presents the Charter of Human Rights and
+Principles for the Internet (IRPC Charter) as a formative contribution to the development
+of Internet Governance Principles. Included in this submission is the IRPC Ten Internet
+Rights and Principles. These distil the IRPC Charter?s 21 clauses into 10 broad principles
+without supplanting the substantive content, and aim of the Charter to ensure that Internet
+Governance is based on ?policy principles or implementation principles that ? are
+required to support human rights?. The IRPC Charter was released in early 2011 and
+since then has been widely acknowledged as one of the most successful examples of the
+multistakeholder model in the Internet Governance context. It is an historical achievement
+that should be considered in full for this process of developing Internet Governance
+Principles.
+Document
+A Charter of Human Rights and Principles for the Internet
+submitted by the Internet Rights and Principles Coalition (UN Internet Governance Forum)
+With this submission we present in its entirety the Charter of Human Rights and Principles
+for the Internet (IRPC Charter - Figure 1) as a formative contribution to the development
+of Internet Governance Principles. Included in this submission is the IRPC “Ten Internet
+Rights and Principles” (IRPC Ten Principles - Figure 2) which distil the Charter’s 21
+clauses into 10 broad principles without supplanting the substantive content and aims of
+the Charter to ensure that Internet Governance principles are those “policy principles or
+implementation principles that … are required to support human rights” (IRPC Charter
+Booklet, page 7). The IRPC 10 Principles are on page 7 of the IRPC Charter Booklet and
+at http://internetrightsandprinciples.org/site/wpcontent/
+uploads/2014/03/IRP_booklet_6March2014_10principles.pdf
+. They are also available online in 22 languages at
+http://internetrightsandprinciples.org/site/campaign.
+The IRPC Charter is widely acknowledged as one of the most successful examples of the
+multistakeholder model in the Internet Governance context. Its grounding in international
+human rights law, the input from members of all stakeholder groups from all over the
+world, together with the role of human rights experts in the drafting process means that
+the Charter is an authoritative and relevant Internet-specific human rights framework for
+identifying universal Internet governance principles. The full Charter and the Ten
+Principles (which are derived from the Charter) are available in booklet form at
+http://internetrightsandprinciples.org/site/wp-content/uploads/2014/02/IRP_booklet_2nd-
+Edition14Nov2013.pdf.
+The driving force behind the IRPC Charter is the Internet Rights and Principles Coalition
+(IRPC) of the UN IGF. This coalition formed at the 2008 IGF meeting in Hyderabad
+(www.internetrightsandprinciples.org) and started work as one of the IGF dynamic
+coalitions in 2009 at the Sharm el Sheikh IGF
+(http://www.intgovforum.org/cms/dynamiccoalitions/72-ibr). The various stages in the
+Charter’s drafting, consultations, and release in 2010-2011 made full use of collaborative
+tools and multistakeholder working practices established in the IGF. It drew inspiration
+and wisdom from the Marco Civil process and precursor initiatives from Civil Society
+during the WSIS thanks to the input of IRPC participants engaged in these likeminded
+undertakings. The IRPC Charter is a highly regarded example of multistakeholder best
+practice within the remit of the WSIS Tunis Agenda and the IGF. Through this process the
+IRPC has been able to forge bridges between technical, private, and public stakeholders
+concerned with the Internet’s design, access, and use. The Charter underscores the need
+to take human rights into account, from the point of view of individual rights as well as
+throughout the Internet’s architecture and the processes of Internet governance that
+concern this meeting.
+Basing this Charter on the Universal Declaration of Human Right
+s (UDHR) and addressing what the UDHR Articles mean for the online environment was a
+productive way to engage stakeholders from all sectors in the drafting and consultation
+phases. The international legal grounding of the text was ensured through the work of a
+group of human rights experts who finalised this version (Version 1.1) in early 2011. The
+current version of the IRPC Charter and accompanying Ten Principles were published in
+this booklet form (the IRPC Charter Booklet) for the 2013 IGF meeting in Bali. Since then
+the booklet has been translated into Arabic and disseminated within human rights and
+media networks in the MENA region. This translation underpins a campaign around the
+IRPC Ten Principles, in English and Arabic, launched to raise awareness about the
+importance of recognizing Internet rights (http://igmena.org/click-rights). At this time of
+submission we are pleased to note that the IRPC Charter has also been translated into
+Spanish (http://internetrightsandprinciples.org/site/wp-content/uploads/2014/01/Carta-
+DDHH-Internet-Espa%C3%B1ol-Final.pdf) with translations into other languages -
+including German, Serbo-Croatian, Bangla, and Italian - underway.
+The IRPC Charter as an authoritative framing of human rights and principles for the
+Internet has received major recognition from intergovernmental organizations.
+The UN Special Rapporteur on Freedom of Expression, Mr Frank La Rue
+recognized the fundamental premise of this undertaking in his 2011 report
+to the UNHRC
+(http://www2.ohchr.org/english/bodies/hrcouncil/docs/17session/A.HRC.17.27_en.pdfURL).
+Regional consultations on the Charter took place alongside the regional
+consultations for the Special Rapporteurs report. In the following year 47
+member states of the United Nations Human Rights Council passed a
+landmark Resolution A/HRC/20/L.13 that upholds the “promotion,
+protection, and enjoyment of human rights on the Internet” (2012).
+The Council of Europe also began work developing a Guide on Rights for
+Internet Users - which is currently reaching its final stages - based on the
+IPRC Charter working model and involving many of the same human
+rights experts[1].
+The Charter has also played a critical role in pushing human rights issues
+to the top of the agenda at the global, regional and national Internet
+Governance Forums. It is used as a resource document of Internet rights
+within all stakeholder groups.
+To illustrate the relationship between human rights and principles and Internet
+Governance processes, we would like to highlight two Clauses:
+Clause 19 of the IRPC Charter recalls Article 28 of the UDHR and calls an appropriate
+social and international order for the Internet. The article calls for governance of the
+Internet that “upholds and expands human rights to the fullest extent possible … (through)
+principles of multilingualism, pluralism, and heterogeneous forms of cultural life in both
+form and substance... (in which) all those affected by a policy or decision shall be
+represented in the governance processes, …in particular disadvantaged groups in global,
+regional and national decision-making”.
+Clause 20 recalls Article 29 of the UDHR and highlights that in the online environment
+rights come with duties. In the case of the Internet these duties include “the duty and
+responsibility to respect the rights of all individuals in the online environment” and the
+responsibility of power holders to “exercise their power responsibly, refrain from violating
+human rights and respect, protect and fulfill them to the fullest extent possible”.
+Furthermore the IRPC Charter demonstrates that the full range of UDHR rights are
+impacted by the Internet and so a necessary element of any set of Internet Governance
+principles. For instance, along with those rights that are currently in the public eye since
+the Snowden revelations, privacy and freedom of expression (Clauses 8 and 5), the
+Charter highlights some of the less-considered rights such as rights of children and young
+people, cultural diversity, gender equality, development, and disability.
+The IRPC Charter is a historical achievement that should be considered in full in the Net
+Mundial process towards developing Internet Governance principles. To conclude, we
+would like to emphasize the following key points:
+1) The Charter derives its relevance to agreements on Internet Governance principles by
+taking internationally recognized human rights and translating them for the online
+environment and corollary digital contexts in which we live, work, and govern.
+2) The Charter’s 21 clauses inform all undertakings to formulate universal Internet
+Governance principles that respect individual human rights as well as inform such
+principles for Internet Governance as a process that enables and protects human rights at
+all levels of Internet design, access, and use.
+3) In this respect the Charter is the most comprehensive delineation of the respective
+areas of human rights and principles for Internet Governance that exists to date.
+4) As such it is a document that can provide clear guidance and directions regarding
+decisions about Internet Governance by states; the role of private actors in innovation and
+development of critical internet resources; the role of the technical community in humancentred
+Internet design; and the legal, social, and cultural dimensions of an open,
+equitable, and accessible Internet for all.
+5) As it is governments who make law and who uphold human rights on behalf of citizens,
+we put the IRPC Charter forward as an instrument and framework for the work ahead on
+refining existing human rights laws and covenants for the online environment.
+6) We furthermore urge all parties who have a role in the future of the Internet along with
+governments – business, academia, and civil society organizations - to take all the
+clauses in the IRPC Charter into their specific domains and apply them within their
+spheres of influence.
+With many thanks,
+The Internet Rights and Principles Coalition
+[1]
+The formative role of the IPRC Charter is explained on the Council of Europe website
+here:
+http://www.coe.int/t/informationsociety/Rights%20of%20Internet%20Users/Draft%20Council%20of%20Europe

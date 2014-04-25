@@ -1,0 +1,89 @@
+Norwegian contribution to the So Paulo meeting
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Norwegian government
+Region: Norway, Europe
+Organization: Norwegian Post and Telecommunications Authority
+Sector: Government
+Keywords: universal rights, human rights
+Doc Attached: Click here to see the doc 1
+Abstract
+Norway welcomes this opportunity to provide our input in this discussion on the future of
+internet governance. The internet is a driving force for global economic growth,
+innovation, efficient communication and open dialogue. Internet has opened up for new
+ways to interact between governments and its citizens, for new ways to run businesses
+and for new ways to develop democracy and for individuals to exercise their universal
+rights. Herein lie the core values ? and the challenges ? of the internet.
+Document
+Internet Governance principles
+1. Many important principles for Internet Governance have been developed within
+different organizations, with different perspectives. The Council of Europe Declaration by
+the Committee of Ministers on Internet Governance principles has a human rights
+perspective, the OECD Council Recommendation on Principles for Internet Policy Making
+has an economic perspective, the Brazilian Internet Steering Committee CGI.br has also
+developed principles for the Governance and use of the Internet. All the mentioned
+principles, other Internet Governance principles not mentioned and previous discussions
+on principles, including the newly published Communication from the European
+Commission and the UN Human Rights council are among the organizations that have
+provided principles that can contribute to guidance and perspectives in the development
+of global Internet Governance principles.
+2. Global Internet Governance principles should take into account universal principles that
+will apply regardless of conditions and events. Further, Global Internet Governance
+principles should be applicable regardless of the technological, social and cultural
+developments that lie ahead of us. For the Internet Governance principles to be truly
+global, they must be supported by all relevant stakeholders. Flexibility and good will from
+all stakeholders will be required in order to achieve such a global consensus.
+3. Against this background, Norway proposes that the global Internet Governance
+principles should be directed at the following:
+a. Promoting an open, free, global, robust, secure and resilient Internet.
+b. Respecting universal human rights and fundamental freedoms.
+c. Complying with international law and legislation as implemented in the off-line world,
+including the right to privacy.
+d. Sustaining the flexibility inherent in the multi-stakeholder model for developing policy,
+with a view to ensuring that all relevant stakeholders are included and can participate and
+contribute.
+e. Enhancing democratic values such as accountability, non-discrimination, transparency,
+representativeness and openness.
+f. Respecting and addressing public interests for the benefit of all internet users.
+A roadmap for the further evolution of the Internet Governance Ecosystem
+1. The Internet Governance Ecosystem consists of many different organizations and
+stakeholders. Internet Governance is addressed at several international arenas and at
+various levels. One important arena for dialogue is the Internet Governance Forum (IGF).
+Regional initiatives such as the Latin America and Caribbean Internet Governance Forum
+(LACIGF), the European Dialogue on Internet Governance (EuroDig) and other regional
+and national initiatives listed on the IGF website are also useful arenas, among others.
+2. For the further evolution of the Internet Governance ecosystem the implementation of
+agreed global principles will be essential. These global principles should form the basis of
+the practical implementation for processes, rules and procedures in the existing multistakeholder
+organizations and other organization that have a role in the Internet
+Governance ecosystem.
+3. The multi-stakeholder model can continue to be developed. This could include more
+accountability, respect and sensitivity for the different public policies in multi-stakeholder
+organizations. Participation of all stakeholders should also be ensured and greater
+transparency should be introduced.
+4. In certain areas there is an information overflow and a remedy for this to enable
+stakeholders to be properly informed, should be promoted. The recommendations from
+CSTD WG on improvements to the IGF should be utilized to strengthen IGF as an arena
+for further dialogue, sharing of best practices and better cooperation. We are also looking
+forward to the outcome of the CSTD WG on enhanced cooperation. The initiative from the
+European Commission, the Global Internet Policy Observatory (GIPO), can be useful to
+help all stakeholders keeping track of Internet Governance activities and help
+stakeholders to identify the important issues.
+5. Capacity building in order to enable everybody to utilize the full potential the internet
+has for economic growth and development, will be crucial and should be promoted in a
+Roadmap. Capacity building should not be an issue for states alone. We should find the
+best ways and the best mechanisms for efficient capacity building by drawing on the
+resources and the competence from a number of stakeholders.
+6. The recommendations proposed in the report from Affirmation of Commitment review
+teams should be addressed to improve the accountability and transparency of ICANN and
+to improve further processes and stakeholder participation in ICANN.
+7. Further globalization of ICANN and the IANA-function has been called for and steps
+have already been taken in this regard. Norway welcomes and supports such a process
+whilst acknowledging that due consideration must be given to the security and stability of
+the DNS.
+8. ICANN’s Governmental Advisory Committee (GAC) provides an important channel in
+which governments can raise their public policy concerns to the attention of ICANN. We
+believe that an efficient GAC benefits us all. ICANN’s role is a technical one and not a
+political one. It should remain that way also in the future regardless of how the IANA
+function will be managed. Thus, ICANN should not be used as an arena for political
+debates, nor should the IANA function be politicized in any way.

@@ -1,0 +1,290 @@
+Contribution from the Islamic Republic of Iran to The Global
+Multiskaeholder Meeting for the Future of the Internet, 23-24
+April 2014 Sao Paolo, Brazil
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Kavouss Arasteh
+Region: Islamic Republic of Iran
+Organization: Cyber Space National Center
+Sector: Government
+Keywords: Iran, ?????, Internet governance principals and roadmap
+Doc Attached: Click here to see the doc 1
+Abstract
+The Government of the Islamic Republic of Iran submits the attached contribution to the
+Global Multistakeholder meeting on the Future of Internet Governance scheduled to be
+held on 23-24 April 2014 in Sao Polo Brazil.This contribution contains two parts:- Part 1-
+Background information providing a summary of what has happened since 1998 the date
+on which ICANN (Internet Corporation for Assigned Names and Numbers) was
+established till the date on which the contribution is submitted.- Part 2- Principles and
+Roadmap.
+Document
+Set of Principles, Objectives and Roadmap
+1.Expected Actions at Sao Paolo meeting
+It is obvious that the two days meeting in Sao Paolo would not be expected to take any
+action, discuss or engage in creating solutions for specific topics such as security, privacy,
+surveillance, etc. but produce universal Internet principles and an institutional framework
+for multistakeholder Internet governance. The framework will include a roadmap to evolve
+and globalize current institutions, and new mechanisms to address the emerging internet
+governance topics and agree on a final declaration aimed to be concrete/practical, linked
+to Internet governance initiatives, and include next steps (agreed roadmap).
+There are many discussions on-going with respect to next steps (the future of Internet
+Governance). One key question is the role of governments in Internet governance
+arrangements. A complaint often heard by governments is that they are confused and in
+fact they don’t know their way around in the distributed Internet ecosystem and they think
+that nobody is dealing with public policy issues such as spam or cybersecurity or network
+security. To address this, there have been calls for building a new framework for evolved
+Internet Governance arrangements.
+The key point is that there is a need for something new, be it an institution or mechanism;
+and to thoroughly review all possible options.
+The options range from continued evolution (largely along the trajectories we see today -
+WSIS/Tunis Agenda, Enhanced Cooperation, and re vitalized/strengthened IGF, current
+institutions, increased outreach-) to an entirely new framework/institution/clearing
+house/help-line(s).
+Various Internet Governance processes and events will be taking place this year, some in
+parallel streams; these events are expected to shape Internet policy in a substantial way.
+Apart from the Global Multistakeholder Meeting on the Future of Internet Governance,
+which are being take place in São Paulo, Brazil, on 23-24 April, other events include
+meetings organized by ICANN, the ITU, UN bodies (UNGA, UN Human Rights Council),
+the World Economic Forum, and of course, the 9th Internet Governance Forum in Istanbul
+in September 2014
+Details of these events are summarized below for easy reference
+§Brazil’s Global Multistakeholder Meeting on the Future of Internet Governance, taking
+place 23-24 April in São Paolo, has a two-fold direct focus: IG principles, and a roadmap
+for the further evolution of the IG ecosystem.
+§The 1Net initiative, resulting from the Montevideo statement by the I* set of organizations
+(ISOC, ICANN, IAB/IETF, IANA and the 5 RIRs and W3C), is an (online) discussion
+platform connecting various constituencies throughout the year(s). 1Net aims to contribute
+to major IG forums (starting with the Brazil meeting) with ‘actionable collaborative
+solutions’ on, most likely, topics related to the Montevideo statement: Internet operations
+and ICANN/IANA functions, surveillance, global IG multistakeholder cooperation and
+equal participation of all (including governments), dangers of fragmentation, and IPv6
+deployment.
+§ICANN’s High Level Panel on Global Internet Cooperation and Governance
+Mechanisms, which is expected to deliver a report by the summer of 2014, seems to
+focus on the ‘desirable properties’ of the future IG process: ecosystem legitimacy,
+effective and inclusive consensus-based system, ensuring global participation including
+from the developing world, and the co-existence of various governance mechanisms
+(national and multilateral).
+§CIGI and ChathamHouse’s ‘Global Commission on Internet Governance’, as it seems
+from the address by its head, Swedish foreign minister Carl Bildt, and news coverage,
+should have a two-year mandate and primarily focus on state censorship, privacy, and
+surveillance, through online discussions and several meetings.
+§The Geneva Internet Platform (GIP) will focus mainly on Geneva-based IG activities. It
+aims to assist diplomatic missions based in Geneva, international organizations, and other
+players in covering IG issues. The main focus will be in addressing the cross-cutting
+aspect of IG beyond policy silos. The GIP will include both online activities such as
+capacity building programmes and diplomatic webinar briefings, and in situ sessions,
+briefings, and conferences like the one planned in Geneva on 19-20 June 2014, which will
+focus on the results of the São Paolo conference.
+§The EU Global Internet Policy Observatory will be an online communication and
+database platform for knowledge and experience sharing across stakeholders worldwide.
+The GIPO should monitor IG policies, provide links across various initiatives, briefings,
+and reports on policy trends and processes.
+At the basis, the UN’s Internet Governance Forum, whose 9th global meeting will take
+place 2-5 September 2014 in Istanbul, Turkey, thematically covers the widest possible
+range of IG topics; the agenda of the annual event is shaped by the Multistakeholder
+Advisory Group (MAG) based on public input and will likely reflect the top trends raised in
+other forums as well. While it is a non-decision-making forum, the recent UN CSTD
+recommendations on the IGF improvements suggest moving towards more tangible
+outputs that can serve as ‘messages’ or non-binding policy recommendations – possibly
+akin to the IETF’s 'Request for Comment' (RFC) documents on technological standards.
+The CSTD Working Group on Enhanced Cooperation discussing the role of governments
+in the IG process, regular ICANN meetings, the global Freedom Online conference, the
+ITU World Telecommunication Development Conferences (WTDC) and its Plenipotentiary
+Conference, etc. On top of this, of course, the WSIS+10 Overview process, culminating
+with the WSIS+10 events in 2015 - all feeding into a global millennium development goals
+(MDG) review.
+There should therefore maintain some coherence and harmonization in the activities
+currently being carried out in many for a as outlined above otherwise overlapping and
+duplication of works would undermine the objectives and roadmap to be established in
+Brazil’s meeting
+Root Zones Immunity
+The root zone has been one of the most controversial issues in the internet governance
+debate. Since the first days of the World Summit of Information Society back in 2002, the
+theoretical possibility of removing other countries’ domain names - by deleting the
+country’s domain name from the Internet - has inspired many countries to criticize the
+USA’s key role in the management of the root zone database. An overwhelming majority
+of countries argue that the root zone in an Internet as a global infrastructure should be
+managed by an international organization which is not under the control or jurisdiction of
+any single country. This argument is often framed as a question of sovereign equality, and
+fairness in international relations dealing with Internet One option could be making the
+server and root database inviolable, in particular from any national jurisdiction. This
+possibility opens the question of where the root server will be located to ensure immunity
+from any national jurisdiction.
+One could also consider assigning root zone file immunity as part of a re-structured
+ICANN+ arrangement (making the new /re-structured ICANN an international organization
+which is the main these of the Brazil’s meeting.
+Internet Governance architecture
+The hottest issue is how to achieve the right balance between Internet functionality (run
+by private sector and non-government actors) and the need for legitimacy (high
+involvement of governments). The new Internet ecosystem, as it is sometimes labelled,
+will be at the top of the agenda of the São Paulo meeting and undoubtedly other meetings
+during 2014.
+Human rights issues will be another hot issue due to its relevance for the Internet
+business model, the discussion will be framed between two sets of human rights: freedom
+of expression and privacy/data protection. Both of them directly affect the Internet
+industry’s revenues; the more data that is shared on the Internet, the higher the revenue.
+Data protection and cloud regulation.
+Some trends of data protection are the extent to which individuals can ‘trade’ their data
+(e.g. a more explicit arrangement between the Internet industry and users about ‘buying’
+private data and the tendency of countries and regions to retain as much data as possible
+on servers located within their territories.
+Cybersecurity
+Cybersecurity has been a constant focus of digital politics. This includes discussions on
+achieving a balance with human rights issues (e.g. cybersecurity and the protection of
+privacy).
+Intellectual Property Rights
+Intellectual Property Rights is another area which stayed in the ‘policy shade’ in 2013. It is
+a structural issue of digital politics which is likely to re-emerge in 2014.
+The above issues are among the hot points in further development of the new mechanism
+to be addressed in Brazil meeting, the principle of which to be included in the list of topics
+under “Principles”
+2.Basic/ Fundamental Principles
+2.1.Internet Governance should continue through a Multi Stakeholder Approach and An
+appropriate Model within that Approach should be studied, discussed and agreed upon;
+2.2.Active Role of Governments in the Internet Governance, but not in an advisory
+capacity, needs to be recognized and duly taken into account;
+2.3.Policy making aspect of Governance should be clearly separated from day -tooperation
+of the Internet;
+2.4.The issue of accountability should be recognized and properly defined with a view that
+policy making aspects and policy implementation aspects be clearly separated from each
+other to the extent that the policy implementing entity(ies) be accountable to policy making
+entities;
+2.5.International nature of the governance in which all stakeholder participate ,according
+to their role and responsibilities must be recognized so as no single government (s)
+retains any legacy or dominate that governance;
+2.6.Freedom, privacy and human rights must be considered and recognized;
+Other Principles including but not limited to the following should be carefully studied,
+examined, discussed and agreed upon. These are:
+2.7.Functionality, security and stability;
+2.8.The stability, security and overall functionality of the network must be actively
+preserved through the adoption of technical measures that are consistent with
+international standards and encourage the adoption of best practices;
+2.9.Universality: Internet access must be universal so that it becomes a tool for human
+and social development, thereby contributing to the formation of an inclusive and
+nondiscriminatory society, for the benefit of all;
+2.10.Legal and regulatory environments: The legal and regulatory environments must
+preserve the dynamics of the Internet as a space for collaboration;
+2.11.Diversity: Cultural diversity must be respected and preserved and its expression
+must be stimulated;
+2.12.Standardization and interoperability: The Internet must be based on open standards
+that facilitate interoperability and enable all to participate in its development;
+3.Other Principles /Issues and questions
+3.1.How International immunity for the root zone should be ensured?
+3.2.Who will have the right to amend the root database?
+3.3.How to achieve the new root zone arrangement?
+3.4.Clearly define new/ restructured ICANNs role, if it is agreed to exist, in the
+Multistakeholder Internet Governance Model and the manner in which it should function,
+including its core Management Team and their role and their election, taking into account
+the equitable geographical representation;
+3.5.Review the existing ICANN supporting Organizations and examine the need for their
+functioning within the new / restructured ICANN, if any;
+3.6.Define the role of Governments in the Internet Governance ecosystem?
+3.7.What structure would enable wider Internet Governance participation to become true -
+independent “organization” versus “corporation?”
+3.8.Define the meaning and application of equal footing;
+3.9.Remove single government role;
+3.10.Discuss the future of IANA, if it should continue to exist as it is or become
+responsible to the US Government only;
+3.11.Examine Affirmation of commitments to expand to other governments or totally break
+it;
+3.12.Clearly defined role of Governments and their modality of their participation;
+3.13.Discuss the need for Governmental Advisory Committee (GAC);
+3.14.Ensure that Internet Governance process is not dominated by large commercial
+players;
+3.15.Improve policy processes that are predictable;
+3.16.Establish an accountability entity to which the policy implementing entity be held
+accountable;
+3.17.How to integrate and oversee the bodies responsible for technical and operational
+functioning of the Internet, including global standards setting?
+3.18.What framework to be considered and agreed upon for tackling the hard political,
+technical, operational and social problems facing the Internet?
+4.Objectives
+Following possible objectives are outlined below for consideration by the meeting:
+4.1.Agreement on the need to Internationalized the Internet Governance;
+4.2.Agreement on the need that such Internationalized Governance to be performed with
+the “Multistakeholder Approach” to be used for Internet Governance;
+4.3.Agreement on a “Multistakeholder Model” within the Multistakeholder Approach
+mentioned above;
+4.4.Agreement on the entities (constituencies of the “Multistakeholder Model”) to
+participate and jointly collaborate within the “Multistakeholder Model” mentioned above
+with equal footing;
+4.5.Agreement on the criteria to be used in implementing the equal footing referred to in
+above;
+4.6.Agreement on the distinction between “Policy Making” and “Policy Implementing”
+entities;
+4.7.Agreement on the constituencies of “Policy Making” entity;
+4.8.Agreement on the Role of Government in decision making Process;
+4.9.Agreement on the constituencies of “Policy Implementing” entity;
+4.10.Agreement on the need to make the “Policy Implementing” entity to be
+accountable to “Policy Making” entity;
+4.11.Agreement on the scope and nature of accountably;
+4.12.Agreement on the Role and Legacy authority with a view to reconsider the U.S.
+Government holds undue legacy influence and control over ICANN and the domain name
+system in relation with:
+4.12.1.“Policy Implementing” entity and its constituency/ constituencies, including
+review and possible restructuring of the ICANN and its management, election and role of
+the Directors , review and decide on Supporting Organization, review the need or
+otherwise to maintain or disband the activities of IANA, review the need or otherwise of
+CAG;
+4.12.2.“Root Zone Servers and associated database immunity, their locations and
+agreement on the entity which has the right to amend the database;
+4.13.Agreement on the Global Legal Framework to be used in the Internet Governance;
+4.14.Agreement on the need to Ensure DNS Immunity, the entity and location in which
+such immunity to be ensured;
+4.15.Agreement on the relevant issues associated with Principles referred to in
+mentioned above;
+4.16.Agreement on the relevant issues associated with Other Principles referred to in
+above paragraphs;
+4.17.Agreement on the need to establish a clear roadmap to achieve the objectives of
+Internationalized Internet Governance;
+4.18.Agreement on the need to prepare and agree on a possible outcome in form of a
+Report, a Declaration for submission to the WSIS+10 Review in 2015;
+4.19.Agreement on the need to harmonize the activities with other existing entities dealing
+with Internet Governance with a view to avoid overlapping and duplication of efforts;
+4.20.Agreement on how to integrate and oversee the bodies responsible for technical
+and operational aspects;
+4.21.Agreement on the fact that there is a difference between the “evolution” and the
+“use” of the Internet which need also a different approach. The “evolution” is generally
+refers more to the technical Internet infrastructure and , the “use” is refers more to the
+public policy issues such as access, development, capacity building, and freedom of
+expression, intellectual property, privacy, security, cultural diversity, multilingualism and
+others;
+4.22.Agreement on the fact that there are two separate functions: the “forum function”
+and the “oversight function”;
+4.23.Agreement on other issues;
+5.Roadmap
+5.1.The conference/ Meeting needs to established and agreed on a very clear and well
+defined roadmap on how to achieve the objectives determined by the meeting in
+respecting and implementing the above-mentioned principles;
+5.2.It is obvious that the issue of globalization of Internet Governance using an
+appropriate “Multistakehiolder Model” within a “Multistakehiolder Approach”having so
+many stakeholders players with different status and respective roles and missions
+coupled with a an appropriate policy making entities and associated structure and
+composition in a transparent, democratic, inclusive manner each playing their respective
+role with equal footing as well as deciding on an appropriate Policy Implementing entity
+together with its relevant the required restructuring of the existing entity and its
+constituency in respecting several principles for their implementation and putting into
+operation is a quite complex task;
+5.3.Two possible short/medium term and long term deadline could be discussed:
+5.3.1.The short/medium term deadline needs to be seen within the WSIS+10 review
+outcomes to be endorsed by the United Nations General Assembly in 2015 .Between
+Brazil’s Global multistakeholder meeting in April 2014 and the UNGA in 2015, there are
+other events that directly and/or indirectly address the Internet Governance issues such
+as WSIS+10 High Level review Meeting in June /July 2014, ITU Plenipotentiary
+Conference in Busan Republic of Korea in 2014 and UN General Assembly in 2015;
+5.3.2.Long term deadline would be an issue to be discussed and agreed upon;
+5.4.For the short/medium term period at least two additional meetings apart from the
+Brazil’s meeting may be considered. One toward the end of 2014, after the ITU
+Plenipotentiary Conference ending Early November 2014 and another one before the UN
+General Assembly in 2015 with a view that the outcome of the third meeting (in form of
+Declaration, Report, Summary of Discussion or Recommendation) be contributed to the
+latter UN meeting;
+5.5.For the long term period between one to two additional meetings apart from the
+mentioned under short term/medium term meeting may be considered. One after the
+United Nations General Assembly in 2015 (March-April 2016) and the second one, if
+necessary, toward the end of 2016. The long term (last) meeting should provide an
+agreed resolution of the matter;
+5.6.Whether or not the end results are submitted to the United Nation General Assembly
+in 2017, is a matter to be further discussed and decided upon by the long term meeting;
+For the full text of contribution, please download the attached PDF files.

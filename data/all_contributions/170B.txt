@@ -1,0 +1,19 @@
+Document
+
+1.  We support the spirit of the Montevideo Statement on the Future of Internet Cooperation, where it recommends: 
+
+The need for ongoing efforts to address Internet Governance challenges, and to catalyze community-wide efforts towards the evolution of global multi-stakeholder Internet cooperation.
+
+The need to accelerate the globalization of ICANN and IANA functions, towards an environment in which all stakeholders, including all governments and other under represented actors participate on an equal footing.
+
+2. We call for further outreach activities by Internet governance institutions and their relevant community members after the NetMundial Meeting to foster dialogue among wider stakeholders at regional, national and local levels. The results of these dialogues shall be brought to the global debate.
+
+3. We ask all stakeholder who are already involved in Internet Governance policy dialogue - government, private sector and the technical community in particular - to take more proactive measures to recognize and support the participation from the marginalized groups/stakeholders including those from developing parts of the world as well as from broader members of the civil society.
+
+4. Strengthening financial support for their participation to global dialogue such as IGF, ICANN or W3C is one essential measure to be seriously pursued. Financial resources to support IGF operation and its Secretariat should be seriously enhanced.
+
+5. The operating institutions managing the critical Internet resources such as domain names and IP addresses registries and registrars and their umbrella institutions (ICANN, RIRs), as well as providers of public communication infrastructure and services who receive fee and make revenues out of these activities should make additional effort to share these burdens. Global TLD registries (both existing .com, .org, .net and new gTLDs) in particular, should provide further financial contributions in an open and transparent manner. Financial support from national registries should also be provided to enhance the multistakeholder participation at both local and global levels since their revenue source essentially come from all stakeholders and users of the Internet.
+
+ 
+
+6. In order to reach global consensus on new oversight and policy development framework on ICANN/IANA functions, we suggest to set up Working Groups consist of all stakeholders with geographic, gender and other diversity considerations to come up with possible alternatives to be considered at the coming IGF 2015 process

@@ -1,0 +1,104 @@
+Document
+
+ Internet Governance today
+
+ 
+
+The Internet today concerns and affects everybody, everywhere, connected or not! How the Internet is operated and governed is a topic as significant as the environment, human rights and peace. Today’s Internet Governance has to struggle with three basic characteristics:
+
+ 
+1. Public commons versus private ownership
+
+ 
+
+The character of the Internet as a shared human commons is unique. On the one hand it is a shared environment; on the other hand it is based on a physical infrastructure and has limited resources that have owners with their specific investments and interests.
+
+ 
+2. Sovereignty versus the geography of cyberspace
+
+ 
+
+The Internet Ecosystem, by its very nature, does not care too much about physical boundaries. This is the fundamental reason why countries, whose authority is based on territory and the concept of sovereignty, struggle to find their place in a digital world. The uncontrolled free flow of data, together with the ongoing speed of innovation, seems to be irreconcilable with the concepts of national territory and sovereign rights.
+
+ 
+3. New forms of sovereignty and governance
+
+ 
+
+Similar to nation states, many of those organizations and individuals involved in the Internet Ecosystem and its governance, commonly known as the stakeholders, claim “sole-sovereignty” or self-proclaimed sovereignty over specific issues, roles and functions. The stability and security of the DNS, telecommunication standards, security and human rights, to name just some, are well defined “subject-territories” in the Internet Ecosystem.
+
+ 
+
+Cyberspace today requires a new understanding of sovereignty. Sovereignty in the context of Internet Governance is fundamentally different from the traditional understanding of sovereignty as it is not based on geographical territories and treaties but on the ability of a stakeholder or a group of stakeholders in Cyberspace to have specific expertise and/or infrastructure that is relevant to the Internet Ecosystem and to have the capacity to manage the decision-making and implementation processes in a timely and effective way.
+
+ 
+Bridging the Sovereignty Gaps: Knowledge and Awareness Building and a New Understanding of Multi-Stakeholderism
+
+ 
+
+Nobody should interfere in the specific sovereignty and governance of nation states. Equally it is the sole role, responsibility and privilege of all Internet Ecosystem stakeholders to exercise their sovereignty. These gaps can be bridged and turned into a constructive force when all those exercising sovereignty in Cyberspace recognize that their own legitimacy, development and sustainability is dependent on:
+
+ 
+
+    the availability of suitable instruments for internal and external awareness-building, knowledge exchange and processing.
+    the establishment of a new understanding of multi-stakeholderism that is based on inter-sovereignty collaboration and joint implementation.
+
+ 
+
+The need for Knowledge Exchange and Awareness Building
+
+ 
+
+The uncomfortable fact remains true that Cyberspace today resembles a country where 1% of the population governs 99% of the population and 98% of these don’t even know that the 1% exist! This represents a real legitimacy problem for all current IG processes and sovereignty claims. Real development and sustainability can only happen if it is based on knowledge that is available to everybody in appropriate forms, and not just to a self-elected elite. Different sovereignties have their own governance structures and there are attempts to create joint governance structures, but they can only be legitimate and successful if they put the awareness building and empowerment of their citizens and that of the citizens in other spheres, at the center of their thinking and doing. All governance structures for Cyberspace should be citizen-centric.
+
+ 
+
+It also has to be recognized, that neither nation states, nor the Internet ecosystem stakeholders, are limitless in their abilities to build Awareness and exchange Knowledge, even if they have a strong desire and need. Their abilities are limited by, and directly proportionate to, the availability and nature of the instruments they have available. Therefore, the immediate goal has to be to create suitable instruments and tools.
+
+ 
+
+Another look at the multi-stakeholder model
+
+ 
+
+Multi stakeholderism has been the central concept for IG until today. Despite the many problems and frustrations, the stability and security of the DNS throughout the years and the quality of service it provides, are reason enough to described it as a success.
+
+ 
+
+The multi-stakeholder model under strain
+
+ 
+
+With the crowing impact and complexity of Cyberspace, the sovereignty gaps between stakeholders have become more obvious and are increasingly causing contention. A closer look at these conflicts reveals that the real problem is based in the confrontation of 2 different fundamental sovereignties: a) the sovereignty that is inherit in the decision making processes, and b) the sovereignty that is inherit in the processes of implementation.
+
+ 
+
+A multi-stakeholder process that is following the best principles of inclusion, transparency and applied knowledge, will usually come up with good decisions, but these decisions might look rather questionable when seen out of the perspective of implementation.
+
+ 
+
+One example that stands for many is security in Cyberspace. Security can and has to be legislated but it also has to be implemented. The best security legislation is useless when it is overridden on the implementation level for whatever reason. In many cases reality shows that those who are legislators distrust those who are implementers, and vice versa. The reason for this distrust is that they both feel that the needs and sovereignty they represent are not been taken into account adequately. As a result, Cyberspace is not only divided in itself, its existence threatened, by clashing understandings of sovereignties.
+
+ 
+
+A new understanding of multi-stakeholderism
+
+ 
+
+The only way to overcome the legislation/implementation sovereignty problem, is to create and implement a new understanding of multi-stakeholderism that is based on bringing together the decision making and implementation processes.
+
+ 
+
+To bring them together requires:
+
+ 
+
+    the understanding and respect of the stakeholders of their respective roles,
+
+    the understanding of their inter dependency
+
+    the instruments of joint implementation
+
+ 
+
+Multi-stakeholderism in IG today needs to express itself in tangible practical forms of working together and joint implementation. It simply makes sense, business sense, development sense, common sense and so on, as it is taking the concept of creating win/win situations seriously. The successful execution of someone elses sovereignty becomes vital for my own interest. The gain that specific IG stakeholders will experience is ultimately the reason why they will accept and participate in joint implementations, as it is in their own interest. New multi-stakeholderim in Internet Governance is a key factor for economic development. The real reformation in IG will come from no longer perceiving sovereignties as competing entities but as implementation partners that are vital to ensure my own specific needs and interests.

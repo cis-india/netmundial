@@ -1,0 +1,118 @@
+German Government Proposal on Global Internet Principles
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Dirk Brengelmann
+Region: Germany
+Organization: Federal Foreign Office, Commissioner for International 
+Cyber Policy
+Sector: Government
+Keywords: Openness, Freedom, Privacy, Global Nature
+Abstract
+The German government wants to take the opportunity to propose a list of Global Internet 
+Principles regarding the governance of the internet, to be global in reach and supported 
+by all the relevant stakeholders, i.e. governments, civil society, technical community and 
+private sector.We consider these Principles as an overarching term, given the fact that a 
+global citizen can only enjoy freedom, security and well-being if the governance of the 
+internet is in line with the interest of the people.
+Document
+German Government “Food for thought” Proposal Global Internet Principles
+ As set out in the goals for this International Multistakeholder meeting on Internet 
+Governance in Sao Paulo, Brazil, on 23/24 of April 2014, the German government wants 
+to take the opportunity to propose a list of Global Internet Principles and properties 
+regarding the management and governance of the internet, to be global in reach and 
+supported by all the relevant stakeholders, i.e. governments, civil society, technical 
+community and private sector. There is already a broad range of international documents 
+available that suggest norms, principles and/or guidelines for the management of the 
+internet. However, these are either only supported by some stakeholders or limited in their 
+regional reach.
+ 
+This Sao Paulo meeting offers a rare opportunity to build upon existing documents, 
+consolidated positions, and shared norms and beliefs and have them agreed by a wider 
+range of stakeholders. We consider these Global Internet Principles as an overarching 
+term, given the fact that a global citizen can only enjoy freedom, security and well-being if 
+the governance and use of the internet are in line with the interest of the people. Such a 
+common wide-ranging document may serve as a global reference point to establish 
+political consensus on what is allowed, accepted, and wanted with regard to the use of the 
+internet.
+ 
+Overall, it is important to clarify that the same rights that people have offline must also be 
+protected online. To this end, it is crucial that the internet retains its open, free and global 
+nature.
+ 
+Democratically elected governments, as the representative of the people, possess public 
+authority including internet-related public policy issues and are supposed to be the main 
+source for legitimacy and democratic legitimation. Hence they have to respect and protect 
+human rights, ensure that the rule of law is respected and that relevant national legislation 
+complies with their obligations under international law. Moreover, they need to ensure that 
+the appropriate basic conditions both in terms of cyber-security and technical provisions 
+are in place. Civil society serves, and should continue to do so, as a facilitator and notably 
+as a source of empowerment and credibility, especially at community level. The private 
+sector and particularly the technical community significantly influence and encourage the 
+development, distribution and accessibility of the internet, and should continue to do so. In 
+order to fully live up to the potentials for economic growth, innovation, freedom of 
+expression, access to information and ideas and democratic participation in a knowledge 
+society, all stakeholders involved need to work together. 
+The following list of principles finds its inspiration, among others, in the UN GA resolution 
+on the right to privacy in the digital age (2013), the UN Human Rights Council resolution 
+“The promotion, protection and enjoyment of human rights on the Internet” (2012), the 
+OECD Principles for Internet Policy Making (2011), the Council of Europe Declaration by 
+the Committee of Ministers on Internet governance principles (2011), the G8 Declaration 
+issued in Deauville (2011), the “ROAM”-principles developed by the UNESCO, the 
+COMPACT principles proposed by the European Commission, and the Principles for the 
+Governance and Use of the Internet developed by CGI.br:
+ 
+(1) The global, open and free nature of the Internet as a single commons has to be 
+ensured. It is a driving force for progress towards development in its various forms 
+including economic growth, encouraging innovation and allowing for creativity. [
+adjusted from UN, OECD: open, distributed, interconnected, CoE and G8 similar, also 
+similar ROAM, COMPACT]
+ 
+(2) The same rights that people have offline must also be protected online. [UN] 
+Consistency and effectiveness in privacy protection have to be strengthened at a global 
+level. Although concerns about public security may justify gathering and protection of 
+certain sensitive information, unlawful or arbitrary surveillance and/or interception of 
+communications, as well as unlawful or arbitrary collection of personal data, as highly 
+intrusive acts, may violate the rights to privacy, freedom of expression and access to 
+information. [adopted from UN, OECD, similar also UK paper on roles for governments in 
+ITU]
+ 
+(3) Access to the Internet should respect the principles of non-discrimination, 
+transparency and openness. [adjusted from OECD, similar G8; CGI.br, CoE; OECD]
+ 
+(4) All stakeholders working together, cooperating in policy development processes and 
+on internet governance arrangements, each in their respective roles and with specific 
+responsibilities, respect these principles and refrain from any measure which may violate 
+human rights, undermine equal and democratic participation, disrespect the rule of law or 
+compromise the global and open nature of the internet. [adjusted from CoE, similar G8, 
+CGI.br, COMPACT] 
+(5) The rule of law must be the foundation for legislation and normative development 
+online. States must ensure full compliance with their obligations under international law.
+ 
+(6) Cultural and linguistic diversity can foster the development of local content, 
+regardless of language or script, notwithstanding the universality of human rights. [
+adjusted from CoE, similar CGI.br, also UK paper on roles for governments in ITU]
+ 
+(7) Individual empowerment is a key resource and further efforts to strengthen it have to 
+be undertaken, not only with regard to education, knowledge, health and infrastructure, 
+but also with regard to an accessible, affordable, stable, reliable and secure digital 
+environment. [adjusted from OECD, CoE and G8, similar also UK paper on roles for 
+governments in ITU] To this end, technically advanced states should endeavor to support 
+appropriate capacity building in digitally less advanced states where needed and ensure 
+that exchange is based on locally appropriate approaches. [adopted among others from 
+G8]
+ 
+(8) Decision-taking processes in the realm of Internet Governance need to be 
+transparent and fair and include all stakeholders in their respective role ensuring that 
+decision-makers are held accountable for their decisions. [adjusted from OECD, similar 
+G8, COMPACT]
+ 
+(9) The security, stability, robustness and resilience of the Internet as well as its ability 
+to evolve should be a key objective of internet governance. [adjusted from CoE, similar 
+CGI.br]
+ 
+(10) The technical community as well as the private sector should retain their leading 
+role in the day-to-day management of technical and operational matters in the 
+management of the internet, decentralised in character. [adjusted from CoE]
+ 
+For playing around: UNITED NORMS of Sao Paulo Universality of Human Rights online 
+as offline No discrimination Inclusion and Capacity building Transparency & Accountability Empowerment Diversity Neutrality Openness Rule of Law M
+ultistakeholder Format Security and Stability of Sao Paolo

@@ -1,0 +1,96 @@
+SPANISH GOVERNMENT Contribution to the Global Multistakeholder
+Meeting on the Future of Internet Governance
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Gema Campillos Gonzlez
+Region: Spain
+Organization: Ministry of Industry, Energy and Tourism
+Sector: Government
+Keywords: Brief non-paper on main principles, the globalization of ICANN
+and IANA functions, and the GAC (ICANN)
+Doc Attached: Click here to see the doc 1
+Abstract
+The Government of Spain appreciates the opportunity to participate in the ?Global Multistakeholder
+Meeting on the Future of Internet Governance?, kindly hosted by Brazil. We
+are very much looking forward to engaging with other stakeholders in open discussions
+that pave the way for the evolution of the multistakeholder framework and make it
+sustainable in the future. We wholeheartedly wish the meeting every success in this
+important endeavour.
+Document
+Internet Governance Principles
+Internet Governance (IG) involves governments, technical community, private sector and
+civil society in the development and application of a set of shared principles, rules,
+decision making processes and programs that contribute to the development and use of
+the Internet. This triple partake endows IG with its multistakeholder character.
+Several sets of principles regarding the Internet have already been outlined by different
+bodies and organizations worldwide, including the COMPACT principles put forward by
+the EU Commission. It is not our goal here to number them in an exhaustive fashion, but
+to underscore the ones particularly relevant for the forthcoming Brazil discussions.
+Albeit acknowledging that principles should be long-lasting and respect technology
+neutrality, while remaining ready to evolve in time, some of them constitute the core of the
+framework and should not be subject to modification: the secure, open, free and
+unfragmented nature of the Internet should remain, in full respect of human rights,
+including freedom of expression.
+Spain shares the view that private-sector led, bottom-up, multistakeholder model for
+Internet governance, in particular for the technical coordination and management of the
+domain name system, including the assurance of its resilience and stability, should be
+continued and further developed, with a view to fostering innovation and progress.
+Inclusiveness of all world regions in dialogues and decision making processes should be
+further encouraged. Likewise, in furtherance of the MS model information sharing and
+avenues for participation of Internet users not acquainted with the Internet governing
+bodies, yet affected by their decisions, should be improved.
+This multistakeholder framework should have as active ingredients true accountability and
+transparency to be future-proof. This pair of ingredients makes up the crux of any
+stakeholder organization since parties are governing themselves and must feel they retain
+control over the policies adopted at it.
+The same rights that people have in the analogue offline world must also be protected in
+the digital online one. In this respect, while private sector initiative should be maintained
+and innovation should not be hampered, the explosion of Internet and its huge importance
+for people and businesses demands more involvement from governments in the decision
+making processes that shape the Internet in order to protect public policy interests.
+In this light, sustaining the rule of law on the Internet has become a challenge given the
+global nature of the network. Governments should work together to provide users with
+affordable, swift and effective ways to assert their rights in a globalized marketplace.
+Roadmap for the Further Evolution of the Internet Governance Ecosystem
+Some suggestions regarding a roadmap for the development of the Internet governance
+framework to be discussed in the Brazil conference follow:
+1. Set up a scale line for the globalisation of ICANN and the Affirmation of
+Commitments (AoC)
+Spain supports an increase in the globalization of the IG framework and in particular of
+ICANN's management of the DNS. The internationalisation of ICANN would facilitate the
+involvement, on equal footing, of all interested authorities in its functioning, supervision
+and decision making processes.
+The major challenge for all stakeholders is to lay down the relevant procedures and
+timescales for this process of internationalisation of ICANN. This could become a
+discussion target for the Brazil conference.
+2. Conduct an analysis aimed at globalising the IANA function
+Regarding IANA’s function, all agents involved recognise it as critical. Therefore, Spain
+agrees with the proposal of the European Commission to identify ways to globalise the
+control over the IANA functions while safeguarding our shared interests in DNS stability
+and security.
+Any plan to globalize the IANA functions should be preceded by legal and technical
+analysis to ensure that stability and security of the Internet are preserved in the process of
+globalization of these functions.
+In globalizing monitoring of IANA functions, prime importance should be attached to
+setting a sound, stable and reliable supervisory system over the performance of the IANA
+functions by ICANN.
+3. Strengthen ICANN’s Governmental Advisory Committee (GAC)
+Section I.2.11 of ICANN Bylaws states that in performing its mission, one of the core
+values that should guide its decisions and actions is “while remaining rooted in the private
+sector, recognizing that governments and public authorities are responsible for public
+policy and duly taking into account governments' or public authorities' recommendations.”
+The GAC has been given an explicit role to warrant the safeguarding of the public interest,
+and hence it is crucial that it has the possibility to exercise their responsibilities through a
+full involvement in ICANN’s decision making processes providing advice on public policy
+matters. To this end, GAC recommendations should be reinforced, by intensifying followups
+on the coherence between Board measures and GAC recommendations, and
+upgrading feedback mechanisms to help both parties understand each other´s viewpoints
+and come to solutions congruous with public policy interests.
+Besides, the following proposals would heighten the multilateral character and the
+efficiency of the GAC:
+· Intensify the participation of States in the GAC. In this regard, the existing and
+successful scholarship programme should be upheld and augmented.
+· Enhance GAC working methods, procedures and decision making processes.
+· Provide additional support to the GAC Secretariat to promote an agile working
+environment that contributes to engaging more members in active discussions and
+streamlining GAC involvement in ICANN policy development process.

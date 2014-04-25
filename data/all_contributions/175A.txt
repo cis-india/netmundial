@@ -1,0 +1,138 @@
+The intergovernance of the InterPLUS
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: J-F C. MORFIN
+Region: France
+Organization: INTLNET
+Sector: Civil Society
+Keywords: digisphere agorics VGN homeroots intergovernance
+Abstract
+The relation of humanity with reality has dramatically been reshaped during the last
+century due to the communications development and the first phase of the Internet
+project. This has to be understood, politically assumed, and technologically overcome, as
+the second phase of the initial project is ready to deploy, but it is opposed by alternative
+?status quo? or technically colonizing strategies. This is the time of the digisphere
+network of the people by the people.
+Document
+Through technology and science, humanity is continuously extending its reach into
+reality's physical, non-physical, and societal mechanics. In this way it also extends its
+architectonical point of view, which leads to a slow, paradigmatic evolution that has, as
+everything, its continuities, and saliencies or discontinuities. The points of inflexion from
+which things will necessarily change can be called singularities.
+Such a singularity occurred when Copernicus understood the "Revolutions of the Celestial
+Spheres"; another in 1889 when Henri Poincaré showed the mathematic impossibility to
+resolve the "n-body" problem in a finite time, initiating what could be called the 20th
+century architectonic revolution, i.e. relativity, quantum physic, etc. including the digital
+renormalization (replacing infinitesimality by disruption) and networking (meshing of
+complexity). Another singularity has most probably occurred that this debate intends to
+manage: the no-return point of humanity's use of the communicating information
+processors. This has transformed humanity from an anthropic society into an
+anthropobotic society, where the "bot" is a software application that runs automated tasks
+over the Internet, or more generally throughout the resulting digisphere.
+Cybernetics in perspective
+Man created machines in his own image, says Norbert Wiener. Humans also created
+them for the convenience of some. Our task is to make them for the convenience of all
+and everyone, being physical or cybernetic (i.e. monolectic: one action, one response),
+logical (i.e. dialectic: two premises, one conclusion) or agorical (like in an open agora of
+free people: many meshed dynamics, one emergence). This means to write the Human
+Mechanical Rights and enforce them, in particular in using their intellition (intrinsic
+intelligence) force, i.e. the "ethitechnical" way we design and use the physical, logical and
+agorical machines, along the Dr Lessig's many time verified adage: "code is law".
+In so doing, we can be helped by a reflection on the technical homogeneity of theoretical,
+political, and societal metaphors. The incredible development of the technologies of
+information and communication is rooted in Shannon's entropic/negentropic Information
+Theory. Analysis of the seven communication states can help: I sleep, I listen, I talk with
+mine [e.g. family], I talk [monologue, monocracy], I talk to you [dialogue, democracy], We
+talk to us [polylogue, polycracy], We talk [consensus, symbiocracy]. In particular,
+symbiocracy has not been studied very much, except in the case of space or castaway
+settlers: our problem is that we are settlers in the cyberspace with the additional factor
+that we are a crowd of geographically, culturally, linguistically, politically, economically,
+and technically, strongly structured people.
+The internet project
+The internet project initially capitalized on two preceding contributions (TCP/IP and
+Catenet) and politically competed with two parallel ones, which initially led to the global
+network deployment (Tymnet and OSI), which meant to technically integrate with any
+other innovation (cf. EIN 48). This second motivation of the internet project has been over
+delayed by the politically/commercially unilaterally advantageous procrastination called
+the "status quo". If one were to characterize the first and the second internet motivation,
+one could say that the first motivation belongs to a "super user" hierarchic vision of
+system control, access and security, and that the second motivation belongs to their
+approach along an informed, capable, and intelligent user ("IUser") that is a more
+complex, but much more powerful vision.
+The choice is architectonically political. It consists in defining an esthetic for the
+cyberspace (and thereby the ethic to attain it). The mechanism will necessarily be in both
+cases based on an international multi-stakeholder adhesion that can also be called
+globalization. The difference is in the decision mode: either along the logic of a national,
+multilateral mentor possibly concerted with commercial leaders, or along the emergence
+of a common agoric. The initial international deployment (Tymnet) was agoric (the term
+comes from its designer) and interfaced all the other technologies (X.25/75, TCP/IP, SNA,
+Swift, SITA, etc.). It then moved to multilateral mentoring through CCITT (ITU) X.75/25.
+Today, national mentoring (USG contract with ICANN) is to guaranty the DNS Class IN
+stability.
+ICANN
+The difficulty of the ICANN US national mentoring, even globalized, is at least fivefold:
+· Multi-Stakeholderism corresponds to a personal polycratic attitude. In monocracy, one
+delegates decisions to a mentor by obedience. In democracy, one shares decisions by
+vote. In polycracy, one makes decisions in applying them after mutual information: their
+effect, together with that of the others, results in emerging moods.
+· Technically, the service provided by ICANN is middle-grade, has not contributed to the
+protection of US citizen privacy, is not necessary even in order to use the ICANN limited
+vision of the internet, and politically costly limits the capacities of the internet and the
+freedom of innovation.
+· Cyber-sovereignty is a complex issue because: (1) a national cyber territory is virtual
+and global (2) commercial infra-sovereignties develop that tend to become transnational
+or multinational, (3) the global nature of the virtual cyber territories is not consistently and
+adequately considered by the geographical nation-states which need to consider,
+implement and support a global, multitechnological and multilingual relation-state
+approaches.
+· Nation states have emerged and stabilized during the 16th/17th century in their
+Westphalian approach, from their Greek vision of the City. They kept the Aristotelian
+vision of equating architectonics with politics. The Chief of State (Archon eponymous) is
+sided by a Basileus Archon for the interior issues and the Polemach Archon for the
+exterior issues. Architectonic is assimilated with land and city planning and urbanisms.
+This is no longer the case today: the fifth (cyber) environment/battlefield is first to
+engineer, deciding on its national future. An Architarch Archon is to manage this ulterior ,
+along the precautionary principle, in order to avoid further catastrophes and conflicts. The
+international normative debate was already a technical colonization tool
+(internationalization of national standard to reach a favorable global norm); it is becoming
+a counterwar issue where precautionary doctrine, strategies, and forces are to prevent
+cyberwars and digital vulnerabilities.
+Can the national architectonic choice only be on an MS or a monarchic basis, and not
+democratically approved? The WSIS Geneva declaration has decided on a consensual
+over all esthetic in committing to an information society that had to be people centered , à
+caratère humain , centrada en la persona .
+· Privacy and security are to be increasingly confronted with the intellition challenge.
+Intellition can be defined as intrinsic information. It can be obtained without
+communication by pure intelligent inference. This is the purpose of data processing,
+artificial intelligence, and big data. To obtain unavailable, non-communicated, hidden,
+remote, etc. information by inference between the data on the data (metadata) we have
+and the conditional links we know (syllodata) between the linked data we have. One can
+protect access to data; one cannot prevent others from being intelligent.
+The Internet experience
+We created languages, scripting, money, mathematics, etc. The internet is the first manmade
+physical universal. We have no previous experience in managing a system of this
+size, but we know that:
+· globalization is going to ask many other systems to be governed like the internet
+(energy, water, pollution, health, food, economy, etc.) so that it is a test-bed, we partly
+control the development, for us to learn about global governances (or most probably
+intergovernance)
+· the architectural principles of the internet in RFC 1122, 1958, 3439, 5895 are good
+practical advises on the way to proceed, as they document the constitution of something
+that is structuring today s world. One of the non-written lessons of these RFCs is that
+complexity is a constant simplification of a network of simple things, and the opposite of
+complication.
+· Ingenuity in Network developments have taught that whatever pays something in return,
+is fun, or annoys someone (including its own author!) will be attempted
+The VGNs of the InterPLUS
+A motivation of the internet project is to allow new networking technology to be introduced
+while remaining functionally compatible. This allows for the phased introduction of new
+virtual networks without requiring a global change. Now is the time of the end of the statusquo
+and to implement Vint Cerf s second motivation in starting the internet project (cf. IEN
+48, 1978). It is time to multiply ICANNs and to use the Internet as the neutral and
+transparent support to a presentation layer on the user side (PLUS) fringe to fringe
+myriad of Multi-Stakeholder s private, trade, local, regional, national virtual global
+networks (VGNs), each of them with its own VGNIC meta-data referential system
+(MDRS) and HomeRoot.
+Multistakeholderism will this way be embodied as the intergovernance of the
+enhanced cooperation of international, public, private and personal virtual global
+network managers.

@@ -1,0 +1,39 @@
+Submission by AHCIET to the Global Multistakeholder Meeting on the Future of Internet Governance. NETMundial
+AREA: Internet Governance principles and roadmap for the further evolution of the Internet Governance ecosystem.
+Entitled by: Pablo Bello
+Region: Latin-America
+Organization: AHCIET
+Sector: Telecommunications
+Keywords: Integrity, robustness and resiliency of the network, human rights, globalization, security;
+AHCIET wants to express its support for NETMundial and congratulate the Government of Brazil for this big effort to evolve the existing model of Internet Governance and appreciates the opportunity to submit a contribution to this relevant meeting.
+Latin American telecom operators are working hard developing and delivering Internet thorough the region and they want to enhance the cooperation with the other stakeholders contributing to the discussions towards the evolution of Internet Governance model.
+We want to recognize the current channels of discussion established in the context of Internet Governance to date, the consolidated Internet Governance Forum (IGF) with their regional and national branches and the recently created Global Commission on Internet Governance (GCIG).
+AHCIET (Latin American Association of Research Centers and Telecommunication Enterprises) is a non-profit, private organization founded in 1982. It represents the business interests of 50 Information and Communications Technologies companies from all over Latin America. The Association’s mission is to serve as a platform that facilitates dialogue between the public and private sector e.g., (international organizations, regulators and governmental authorities.), in order to foster alliances and initiatives resulting in the development of policies, programs and projects that leverage economic and social development of regional economies
+Internet Governance Principles.
+AHCIET proposes the following items for consideration to the discussion regarding Principles for Internet Governance:
+1. Respect and protect the Universal Human Rights and the fundamental principle that the people has the same rights online and offline.
+o Internet governance arrangements must ensure the protection of all fundamental human rights and freedoms and affirm their universality, indivisibility, interdependence and interrelation in accordance with International Human Rights Law.
+2. We support an evolved global, collaborative, diverse and inclusive Internet governance model, building on existing foundations and with the involvement of all relevant stakeholders (including industry, governments, the technical community, civil society and academia) on an equal footing and in an open, transparent, efficient and collaborative manner. This model should respect the changing nature of the Internet.
+o The current global nature of the Internet has brought social and economic benefit to users all around the world.
+o Any proposed changes to the current governance model, have to take into account that the principles of flexibility and agility should be applied and that all relevant stakeholders are represented appropriately.
+o The strength of the current model is based in the Internet technical infrastructure, provided from different entities working in a collaborative way, and its ability to adapt the standards and protocols to changing technologies and user requirements. In the evolution of the governance model is necessary to maintain that key principle.
+o The Internet governance system must avoid the “primus inter pares” relations, especially when countries are involved.
+3. The current Internet model has proved to be a useful and effective tool for diffusion and interchange of knowledge, being an obvious incentive to the development of the global economy. Any proposed technical or operational change affecting the core Internet activities, including naming and numbering, has to preserve the integrity of the network as well as its robustness, resiliency, security and stability. In the other side, any proposal to localize the Internet and its governance will affect the operational and economics of the current Internet, and could act as a barrier to the growth itself and undermining socio-economic benefits.
+4. We recognize that the current government mechanisms for technical and operational matters of the Internet have proved to make it a remarkably stable and resilient system and that the technical community and private sector should retain their leading roles for the day-to-day management of the global, interconnected Internet.
+5. Issues should be resolved with due process in a clear and transparent way
+6. AHCIET support the process of globalization of ICANN and IANA functions and we believe that this task must be accelerated with a clear roadmap.
+Roadmap for the Further Evolution of the Internet Governance Ecosystem.
+Due to the growing diversity of the Internet and its huge social and economic impact, its governance has become more challenging and an issue of international politics.
+AHCIET proposes the following for consideration to the discussion regarding Roadmap for the Further Evolution of the Internet Governance Ecosystem:
+1. Ahciet is aware that the existing mechanisms and organizations dealing with Internet Governance have worked in a good manner allowing the tremendous development
+achieved by the Internet, so we are of the opinion that there is no need to create new institutions or a global governing body for the Internet.
+2. The current multistakeholder fora such as the Internet Governance Forum (IGF), the IETF and ICANN should be strengthened in order to reflect the changing nature and various aspects of Internet governance. AHCIET believes that the multistakeholder model is the best way to govern the Internet but that it needs to evolve and be improved. An analysis of the work of existing multistakeholder fora should be carried out with a view to streamlining processes identifying overlapping areas where they exist and eliminating duplication.
+3. The current status of ICANN/IANA should be changed gradually, the initiated globalization process is a good way to go forward in this sense it has to be strengthened and accelerated with a clear roadmap. Therefore, in line with the recent Montevideo Statement on the Future of Internet Cooperation1, we are in favor of this process leading to an environment in which all stakeholders, including all Governments, participate on equal footing.
+4. All stakeholders, including governments, should work together in transparent processes to make sure that everyone can use the Internet with confidence that his or her security and privacy is respected, in this sense, the Internet Governance Forum has played a very important role, have been successful and become more diverse and international It could be better funded and its role and influence expanded.
+5. AHCIET is the opinion that the roadmap should work clarifying the legitimate involvement of Governments in Internet governance debates, we could support a model whereby Governments are involved, as an equal player, in high-impact Internet public policy issues such as; cybersecurity, critical infrastructure debates and societal/development debates, in this sense the IGF could be the appropriate framework.
+o We recognize that there are some Internet-related issues, such as privacy and security, where governments have an especially important role to play.
+o The role of the Governmental Advisory Group (GAC) at the ICANN could be strength and clarified.
+6. The roadmap should also seek to clarify the roles of civil society and business (telecomm operators).
+o Civil society involvement is warranted in areas touching upon civil rights and consumer issues
+o Telecom operators should be involved in any discussions affecting their core infrastructure.
+1See : http://www.lacnic.net/en/web/anuncios/2013-declaracion-montevideo

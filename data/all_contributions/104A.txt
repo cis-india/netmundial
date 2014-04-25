@@ -1,0 +1,207 @@
+Internet Infrastructure Coalition Internet Governance
+Principles: Multistakeholder Model for Security and
+Economic Growth
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: David Snead
+Region: United States of America
+Organization: Internet Infrastructure Coalition
+Sector: Private Sector
+Keywords: Internet Governance, Multistakeholder, Security
+Abstract
+The i2Coalition?s unique place within the Internet ecosystem gives it great insight into the
+impact of the current Internet Governance model, the issues facing that model and
+proposals to change/reform it.The i2Coalition supports those who build the nuts and bolts
+of the Internet. We believe the continued growth of the Internet is vital for growing an
+environment of innovation and seek to engage in ways to foster success of the Internet
+and Internet infrastructure industry. We seek to foster growth within the Internet
+infrastructure industry by driving others to harness the Internet?s full potential.i2Coalition
+has a deep interest in the way the Internet is ?governed.? Our member companies are
+affected by decisions made in regard to Internet governance; we are increasingly involved
+in the institutions created by the Internet community to guide the development of the
+Internet. It is our firm belief that participation in these processes is a civic duty and an
+economic necessi
+Document
+Global Multistakeholder Meeting on the Future of Internet Governance
+Internet Infrastructure Coalition (i2Coalition)
+The i2Coaltion appreciates the opportunity to provide comments to the Global
+Multistakeholder Meeting on the Future of Internet Governance. The i2Coalition’s unique
+place within the Internet ecosystem gives it great insight into the impact of the current
+Internet Governance model, the issues facing that model, and proposals to change or
+reform the model.
+The i2Coalition supports those who build the nuts and bolts of the Internet, and we treat it
+like the noble profession that it is. We believe the continued growth of the Internet is vital
+for growing an environment of innovation and seek to engage in ways to foster success of
+the Internet and Internet infrastructure industry. We seek to foster growth within the
+Internet infrastructure industry by driving others to harness the Internet’s full potential.
+The i2Coalition has a deep interest in the way the Internet is “governed.” Each of our
+member companies is affected by decisions made in regard to Internet governance, and
+we are increasingly involved in the institutions created by the Internet community to guide
+the development of the Internet. It is our firm belief that participation in these processes is
+not only a civic duty, but also an economic necessity.
+Below are principles that we, as a coalition, believe are needed for discussions of Internet
+Governance.
+Section 1. Internet Governance Principles
+Internet Governance works best when specialized groups are involved,
+allowing individual groups to focus on issues specific to their knowledge
+base and then sharing with one another, utilizing specializations.
+Governments have a role as equals in Internet Governance, but should
+not have “veto power” in governance fora.
+Businesses provide support for the Internet, and are fundamental to
+ensuring its success. Economic principles govern business decisions.
+Providing an environment for investment will facilitate Internet
+development.
+Internet Governance entities should be focused on their “remit.” There is a
+danger that the Internet Governance system will become overly politicized.
+Several documents and statements currently exist that the i2Coalition
+agrees are particularly appropriate to a set of universal principles,
+including:
+o The Modern Paradigm for Standards (Open-Stand.org’s Prinicples)
+o European Commission Vice President Neelie Kroes’ Compact for the Internet
+Section 2. Roadmap for the Further Evolution of the Internet Governance
+Ecosystem
+i2Coalition Overview of Internet Governance
+The Internet was created from the bottom up. Those initially building the Internet did so on
+a collaborative basis, sharing ideas and debating the best methods to operate the
+network. These processes continue today in a variety of areas: people discussing Internet
+standards, naming and numbering policies, peering and interconnection and many other
+technical and administrative issues.
+Why Participation in Internet Governance is Important
+The i2Coalition believes that business plays a critical role in shaping Internet governance.
+The vast majority of the Internet’s infrastructure is owned or operated by private entities.
+While these entities have a civic duty to develop the Internet, they are also driven to move
+their business forward. Participation in the collaborative Internet governance process is
+critical to ensuring that the Internet remains a positive place to do business and that all
+businesses regardless of location are able to grow and flourish.
+Those using and benefiting from the Internet must work together to ensure its continued
+success and viability. By doing so, the Internet will remain a robust place to exchange
+ideas, create new businesses, and develop economies in a way that is unprecedented,
+and offers significant opportunities for those without significant development resources.
+The i2Coalition believes that the following principles of Internet governance are key to a
+thriving and robust Internet:
+Governance of the Internet is best undertaken by specialized groups.
+The Internet has thrived because technical experts have led its
+governance. Groups like the W3C and IETF focus almost exclusively on
+technical standards. These standards are designed to optimize the
+functionality and resiliency of the Internet, and not serve a particular
+entrenched technology or set of standards. This has allowed the creation
+of an open and free Internet in which one or a small set of businesses do
+not dominate.
+Governments deserve a seat at the table. Some issues affecting the
+Internet cannot be resolved by entities other than governments.
+Governmental entities should be treated as equals among all stakeholders
+in multistakeholder processes. No participant in Internet governance
+should be given veto power over any decision.
+Internet governance must be transparent. Decisions made by
+governance bodies must be made openly in public forums, using a
+consensus-based process with significant opportunity for debate.
+The development of the Internet should continue to be done at the
+edge of the network, by end users, and not mandated by
+governmental or intergovernmental entities. Internet infrastructure
+providers have a unique viewpoint into the development possibilities the
+Internet provides. For most U.S. providers, over fifty percent of their
+business comes from outside the United States. As this business grows,
+these providers establish a presence outside the U.S. to be closer to their
+customers. Because of the investment involved in establishing Internet
+infrastructure, development cannot be forced. It will only come when small
+Internet businesses grow, making infrastructure investments viable.
+Issues Presented for the Internet Governance Ecosystem and Areas for
+Improvement
+The Internet governance process is at an inflection point. While we believe that the past
+success of the multistakeholder model of Internet governance, we see increasing calls for
+change. Those calling for change appear to seek to replace this governance structure
+with one favoring a top down regulatory approach in which governmental entities, or quasigovernmental
+entities, dictate rules, regulations and technical standards. Such a change
+would exclude groups like the i2coalition and its members who have designed, funded,
+operated and participated in the governance structure of the Internet. Further, the rapid
+pace of innovation is well suited to the multistakeholder model. It is not well suited to a
+top down, regulatory based model of governance. Such a model is not narrowly focused
+enough to be nimble and swiftly address issues in “Internet time.”
+Internet infrastructure providers have a significant interest in the continued security,
+stability and reliability of the Internet. Even with this interest, we recognize that other
+interests have a seat at the table. We believe that the current model of Internet
+governance facilitates the discussion and prioritization of interests better than a top down,
+nation based, governmental structure.
+Although Internet governance may appear to be abstract and removed from day-to-day
+business operations, businesses ignore it at their peril. Some issues that are currently
+being debated that directly affect Internet infrastructure businesses, yet are being
+harmfully conflated with other subjects, include:
+In-country requirements. Governments should not mandate that all or
+some content remain in a particular jurisdiction. The Internet has thrived
+in a one-to-many environment. This environment has not only
+revolutionized the way the world conducts commerce, it has amplified the
+ability of those seeking to communicate with others to disseminate their
+views. Data localization requirements and content controls are solutions
+seeking a problem.
+Intermediary liability. Those creating content should bear liability for its
+creation and dissemination. Intermediary liability creates a barrier to new
+businesses, and entrenches already existing businesses. Imposing
+liability on intermediaries also creates a disincentive to invest in
+jurisdictions that seek to equate transmission of data with its creation.
+Imposing liability on intermediaries would stymie the growth of new
+businesses by creating an incentive for businesses to only provide
+services to safe, and not disruptive, businesses.
+Politicization of the process. Internet technical standards have
+generally developed away from political issues. While no issue is totally
+free of politics, allowing those participating in technical standards
+organizations to create standards away from political and diplomatic
+pressures is a key factor in the continued development and stability of the
+Internet.
+Adding additional, potentially unnecessary layers of governance to
+the Internet Governance process with a finite amount of participants.
+As the Internet grows, there is some need for the organizations providing
+support to its governance to also expand. However, great care must be
+exercised that those responsible for facilitating the governance of the
+Internet do not themselves become the governance. In addition,
+increasing layers of staff may isolate those operating businesses from the
+ability to make effective, and swift, decisions. The current governance
+structure may need to be refined to better address the needs of
+participants who seek to use the structure to address problems that they
+believe affect the Internet as a whole.
+Inability of the process, and participants, to welcome new
+participants and ideas. The current governance structure appears
+complicated and opaque to new entrants. As a new entrant in the
+process, the i2Coalition has experienced this issue recently. In particular,
+technologies that facilitate communication and dissemination of
+information are not common within governance structures. Corporatized
+communications solutions that are appropriate for high level government
+needs may not be necessary, or nimble enough, to facilitate the high level
+of communication needed for globally distributed Internet businesses and
+users to participate. Further, remote participation is often difficult and
+perceived by governance participants as secondary, or reflective of a lack
+of interest, than in-person attendance at meetings.
+Meetings and gatherings that form the basis of Internet governance should not be
+hierarchical, complicated gatherings requiring multiple layers of authentication and identity
+verification. Widely available and widely used technologies should be favored over
+proprietary solutions that require technical expertise to use. To facilitate participation by
+those who do not have significant resources, remote participation tools (in particular)
+should use technologies that may be installed on shared resources such as internet cafes
+or on handheld devices.
+The i2Coalition recommends that at a minimum Internet governance organizations offer
+“newcomer” sessions that have been designed by individuals skilled in soliciting new
+entrants into unique processes. Further that these sessions be designed to reflect the
+global nature of the Internet, and include facilitation of remote participation as an equal.
+Fora for Internet Governance processes
+The specialization of Internet governance entities has been key to its success. This
+specialization has allowed these entities to respond quickly to new developments and
+technologies in a way that is not available to established regulatory entities. We believe
+that Internet stakeholders will be able to rely on these entities to solve new problems, and
+that a new model, or additional governance bodies, are not necessary.
+The major entities involved in Internet coordination are: the Internet Corporation for
+Assigned Names and Numbers (ICANN), the Internet Engineering Task Force (IETF), the
+Internet Architecture Board (IAB), the World Wide Web Consortium (W3C) and the
+Internet Society (ISOC). There are hundreds of lesser known organizations actively
+involved including root-server operators, DNS registries, Internet Exchange Points and IP
+address registries (regional and local).
+As noted above, the solution to the issue of how to handle the inflection point that faces
+the Internet may not be to create new institutions, but to help users, particularly new
+users, use existing structures. To do so, we recommend that those participating, using
+and critiquing governance structures:
+Create models that allow new entrants to effectively interface with them
+without a significant learning curve or isolation.
+Embrace the capacity building examples provided by the IETF and ISOC.
+Welcome transparency. The default standard for all organizations that
+touch the Internet should be for open meetings, transparency and
+inclusion. Attendance should be encouraged, documents should be
+disseminated without cost, and platforms should be available to the
+technically unsophisticated and economically disadvantaged.

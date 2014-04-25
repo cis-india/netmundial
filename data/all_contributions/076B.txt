@@ -1,0 +1,1661 @@
+Toward a Single Global Digital Economy:
+The First Report of the Aspen Institute IDEA Project
+Introduction
+The Internet is the most robust medium of information exchange in history.
+Two billion people are now connected, and at current growth rates everyone with
+Internet access will join the Internet community within a decade. Barring technological
+and political disruptions, the world’s populace will then be on a single
+common digital platform. The global medium can provide unparalleled personal
+well-being, economic growth and beneficial social change.
+The risk of technological and political disruption now looms very large. The
+power of the medium to promote change has produced a counter-revolutionary
+response among many political and business interests. In numerous countries,
+leaders have called for government to interrupt the free flow of data (the essence
+of the Internet) at state borders and to create within political boundaries unique
+national regimes for regulating the Internet. Regulation in many instances means
+the specific curtailment of the capability to exercise the full potential for change
+provided by the Internet. In some cases, business and government leaders have
+called for bilateral or multilateral government regulation, sponsored, for example,
+by the United Nations. These calls raise grave risks to the robust expansion of the
+Internet that do not seem outweighed by any benefits that might be created for the
+Internet community.
+To consider now, in what still are the early years of the global spread of the
+Internet, the appropriate forms of governance of this medium, the Aspen Institute,
+supported by major foundations, and working with a broad array of stakeholders,
+conducted the two-year project called the International Digital Economy Accords—
+the Aspen Institute IDEA Project. This is the report emanating from IDEA.
+Summary of Opportunity and Risks
+The Aspen IDEA Project began by considering the advantages of a single common
+medium. Technological advances in computing and mobility and in software
+and data-driven services can foster the growth of the Internet to everyone
+everywhere. As it grows in scale and scope, the Internet advances creativity and
+learning, accelerates innovation in new and existing businesses, and enhances the
+3
+4 Toward a Single Global Digital Economy
+creation and delivery of public goods, including better government. The Internet
+can empower citizens of any state or every state to work together to grow their
+economies and solve their social problems. Its building block is the individual
+user, but its value is in the network effects of a common global medium.
+The Internet’s building block is the individual user, but its
+value is in the network effects of a common global medium.
+As a global network, the Internet gives the farmer in Africa instant access to
+weather conditions, crop prices and health information. It allows migrant workers
+in the United Arab Emirates to connect with family and friends left behind in India.
+It enables children in rural Brazil to take virtual tours of museums in Europe or to
+engage in massive multiplayer games with peers in Asia and around the world. It
+offers small businesses in Indonesia, Ireland or Ethiopia cheap and flexible fulfillment
+possibilities as they access global markets. It serves the aspirations of individuals
+everywhere, whether they are advancing their personal well-being, their local
+communities, their standards of living or their aims for self-governance.
+In addition, the Internet has a magic quality that reinforces its own potential:
+namely, the Internet thrives because no single government or private firm, or even
+group of governments or firms, controls it. It is run by the many for the benefit
+of all.
+It is in everyone’s interest, then, to have a trusted, robust and reliable Internet,
+where access is easy and where the rights of privacy, property and security are
+respected. But the advantages of a global common medium evaporate if the
+Internet fragments into regional or local networks. If countries wall themselves off
+from the global medium, or unduly restrict users’ access to content, or if jurisdictional
+niceties block the transfer of information across borders, the public suffers
+in the following ways:
+• Undue barriers to trade and increased protectionism lead to the loss of
+the benefits of competition: lower prices, choice of services and increased
+innovation.
+• Deviations from a rule-of-law approach lead to a lack of trust as it relates
+to privacy, security and intellectual property protection.
+• Lack of harmonization can lead to differences in deployment of broadband
+infrastructure, impede spectrum management and hamper interoperability.
+• Jurisdictional and regulatory differences can lead to differences in the
+adoption of human rights, particularly with respect to the freedoms of
+communication.
+The Report 5
+Yet, as with free trade or free speech, the Internet is such a powerful medium
+for change that some governments and firms want to control it in order to limit
+its impact. Indeed, even if no one can know the ultimate outcome of the recent
+challenge to the long-standing government of Egypt, when that government shut
+down its people’s access to the global Internet, the world learned a new lesson
+about the importance of connectivity.
+The advantages of a global common medium evaporate if
+the Internet fragments into regional or local networks.
+We are now at an important crossroads in how the Internet will evolve as a
+global common medium. Will it remain open, free to unleash tremendous innovation
+and to be the engine of economic growth? Or it will become fragmented,
+where the free flow of information and services will be hampered and locked down
+into separate zones of control?
+Today there is a window of opportunity to develop a baseline of principles,
+policies and practices that can promote the Internet as a global medium and prevent
+fragmentation. That is why the Aspen Institute Communications and Society
+Program convened the IDEA Project.
+How IDEA Was Conducted
+The goal of the Aspen Institute International Digital Economy Accords (IDEA)
+Project was to establish a fair, effective and empowering system for governing
+the flow and use of data in a single global digital economy. The Project engaged
+businesses and nongovernmental organizations (NGOs) in the design of enduring
+principles and of a governance system that implemented those principles. At the
+center of IDEA’s mission was the establishment of the Internet as the common
+medium through which all of the world’s people could securely, fairly, openly and
+freely exercise their economic and human rights. It became clear, as well, that a
+multistakeholder approach to governance would be best.
+To persuade all to adopt a multistakeholder process based on durable principles,
+IDEA took on two tasks: (1) to develop a consensus view about the beliefs
+and values of the Internet and (2) to construct a means of implementing that view.
+The test of success would be whether the ideas of IDEA could resolve real cases
+of deviation from generally accepted principles and problematic cases of enforcement
+of said principles. There were many dramatic examples of hard cases in these
+last two years.
+6 Toward a Single Global Digital Economy
+The goal of the IDEA Project was to establish a fair,
+effective and empowering system for governing the flow
+and use of data in a single global digital economy.
+The Project proceeded by means of four plenary sessions, multiple working
+groups and a series of working papers and documents. At least 36 American and
+European companies, 14 representatives of civil society, and 4 foundations were
+represented. All devoted much time and intellectual capital to the effort. Highlevel
+government officials from 6 countries representing 18 different agencies
+provided valuable input and insights. This two-year process has led to this report,
+which (1) publishes the Aspen IDEA Principles and (2) advances some thoughts
+about a multistakeholder, trade-based implementation system.
+As to broad principles, the Aspen IDEA Project produced a clear statement of the
+ideal Internet culture. The Principles resulted from an extensive process, although
+they were not endorsed by each of the participants, and cannot, in whole or in part,
+be attributed to any specific participant or group of participants in the Project.
+Nevertheless, the Principles were aimed at delivering common views among commercial,
+civil society and individual users on the most significant and difficult issues
+facing Internet governance. These Principles are as follows: the free flow of communications;
+free trade of digital goods, services and ideas; creation of a trusted
+environment for use of the Internet (including two sides of a coin of rights—piracy
+and privacy); and transparency in a multistakeholder process. The Aspen IDEA
+Principles may have influenced and at least supplemented principles developed at
+other forums, including the government-sponsored work at the Organisation for
+Economic Co-operation and Development (OECD), in what a White House official
+participating on the Project called “The Year of Principles–2011.”
+With respect to any set of principles, the test for their efficacy is: Do they speak
+to problems that most agree need solving? As discussed below, the Aspen IDEA
+Principles pass this test.
+As to the implementation of the Principles, the Project aimed to define a multistakeholder
+process, or trade agreement, that emphasized market access for broadband
+at the hardware, software and content levels. No adequate mechanism now
+exists to carry the culture of the Internet—the fabric of beliefs and values shared by
+more than two billion people—to all the expanding frontiers of the Internet. The
+Project’s goal was to define a mechanism that did not require government enforcement
+of the Aspen IDEA Principles, but did encourage respect for the Principles
+by every nation and all the interest groups in every nation. The result sought was
+to generate a digital economy that demonstrated respect for rights of property,
+The Report 7
+privacy, security and that acknowledged all human rights. The essence of such an
+implementation mechanism is the idea of multistakeholder governance for the
+Internet. These enforcement mechanisms were designed to carry that notion into
+governance of a single global digital economy.
+The Project also hoped to outline a trade-based solution that was to be
+based in large part on the success of the World Trade Organization’s Basic
+Telecommunications Agreement (BTA), which is annexed to the General
+Agreement on Trade in Services (GATS). The negotiations of the GATS were
+started by the WTO in Marrakesh in 1993. The basic principles in the BTA were
+defined by U.S. Vice President Al Gore in a major speech to the International
+Telecommunications Union (ITU) Development Conference in Buenos Aires in
+early 1994. Drawing on that precedent, the Project proposed to link a multilateral
+trade agreement to the Aspen IDEA Principles, as stated in a reference paper.
+At the fourth Aspen IDEA Plenary Session in November 2011, IDEA staff
+offered a “thought experiment” aimed at generating ideas about implementation.
+In the ensuing discussions and deliberations, there was strong agreement on the
+need for a multistakeholder governance process. There was also spirited discussion
+on whether there was a need for any “connective tissue,” i.e., a way to coordinate,
+in any respect, the collection of existing and future multistakeholder entities. A
+consensus on coordination did not develop by the time that the IDEA Project
+reached its end. Several aspects of the “thought experiment” appear below, and
+other forums in the coming years will need to pursue the quest for means to implement
+principles into practice.
+The Aspen IDEA Project Participants and Process
+The Plenary Sessions and Working Groups benefited enormously from the participation
+of a broad range of corporate, civil society, foundation and government
+representatives. The government representatives did not join the Working Groups;
+but they gave generously of their time and expertise in the Plenary Sessions, and
+Project staff consulted with them throughout the process.
+The Project was funded by, and owes particular gratitude to the following foundations:
+the Markle Foundation, John S. and James L. Knight Foundation, Ford
+Foundation and the John D. and Catherine T. MacArthur Foundation. In particular,
+Stefaan Verhulst of the Markle Foundation deserves special thanks for his
+support, insights and day-to-day participation in the process. However, financial
+support of the Project does not imply the funders’ agreement with any particular
+statement made in this report.
+American and European companies from every digital industry segment
+were instrumental in the development of the Aspen IDEA Common Statement
+8 Toward a Single Global Digital Economy
+and Principles, and they provided valuable insight into implementation issues.
+Similarly, civil society participants from the U.S., Europe, South America and Asia
+were vital to the process. The Project benefitted greatly from the input and advice
+of key government officials and agencies from six countries, plus representatives
+from the European Parliament and the European Commission. More specifically,
+in addition to the EU representatives, officials from the following countries
+and agencies contributed to the effort: Canada—Canadian Radio-Television
+and Telecommunications Commission; Denmark—National IT and Telecom
+Agency, Danish Ministry of Science, Technology and Innovation; France—Conseil
+Stratégique des Technologies de l’Information and Office of the President of
+France; Netherlands—Ministry of Foreign Affairs; Sweden—Ministry of Foreign
+Affairs; United States—Department of Agriculture, Department of Commerce
+(NTIA), Department of State, Federal Communications Commission, Executive
+Office of the President, including National Economic Council and the Office of
+Science and Technology Policy, Office of the United States Trade Representative,
+and the President’s Intelligence Advisory Board.
+The Project built on the prior work of Jonathan Aronson of the University of
+Southern California; Peter Cowhey of the University of California, San Diego;
+and Donald Abelson, who in 2009–2010 convened a group of firms to discuss
+global Internet issues outlined in their book Transforming Global Information and
+Communication Markets: The Political Economy of Innovation (MIT Press, 2009).
+They joined with Aspen IDEA Chairman Reed Hundt, Managing Director and
+General Counsel Gary Epstein, Charlie Firestone, Shanthi Kalathil, Melanie Hart,
+Sarah Eppehimer, David Hansen and Kate Aishton to guide the process.
+A representative list of the Aspen IDEA Project participants that attended one
+or more of the four Plenary Sessions is included in the appendix to this report.
+In addition to those listed, the Project also benefited from the work of additional
+representatives from the companies and civil society in the working groups.
+However, participation in the Project at any one point does not necessarily reflect
+agreement by a participant or their employer of any particular statement in this
+report. Rather the report reflects the Project staff’s sense of the group.
+Portions of the Project’s work product are included in the appendix to this
+report:
+• The Aspen Institute IDEA Project Framework Paper
+• Internet Freedom: A Background Paper, Shanthi Kalathil
+• Privacy Standards in the Digital Economy: Enhancing Trust and Legal
+Certainty in Transatlantic Relations, Remarks by Viviane Reding
+• The Role of Public Authorities in Cloud Computing, Remarks by Neelie
+Kroes
+The Report 9
+• The Cloud: Unleashing Global Opportunities, Remarks by Julius
+Genachowski
+• Remarks Given at the Aspen IDEA Plenary, Washington, D.C., Reed Hundt
+• Cross-Border Information Flows and Digital Trade Principles
+• Plenary Participants
+The deliberations over principles began at the initial meeting in Washington,
+D.C. in October 2010. The discussion was aided by reference to the Framework
+Paper included in the appendix. The Framework Paper analyzed fundamental
+changes in today’s global markets affecting the Internet and related international
+communications systems. It then explored choices for collective action to achieve
+the Project’s goals, stressing the critical need for cooperative leadership in the face
+of proliferating threats to the culture of the Internet.
+The participants discussed and formulated topics for further deliberations.
+There was a strong emphasis and focus on market opportunities. Most recognized
+that Internet freedom is an inextricable part of the debate. Market freedom and
+personal freedom were generally recognized as complementary values, although
+subject to careful definition.
+After the initial meeting, IDEA formed five working groups: (1) Promoting
+Innovation and Access—Market Opportunities; (2) Publishing in an Open
+Internet; (3) Network, Device, Application and Service Interconnection; (4)
+Cloud, Data Control and Sovereignty; and (5) Values and Methods of Information
+and Communications Technology (ICT) Innovation. Corporate and NGO representatives
+chaired the working groups and moderated the calls, which were
+also facilitated by IDEA staff. The discussions were spirited and productive. After
+several months of weekly calls and meetings, each group produced a report. These
+reports were compiled into a single working document for the January 2011 Los
+Angeles Plenary Session.
+At the Los Angeles Plenary Session, each Working Group Chair presented a
+draft set of principles, set forth its underlying rationale and led a group discussion
+on the issues. Each of the working groups focused on ways to promote the single
+global digital market within the context of their specific working group charter.
+In order to narrow discussion toward the goal of specificity, the Los Angeles participants
+recommended that the principles be tested, discussed and analyzed in the
+context of “cloud computing.” Ambassador William Kennard, U.S. Ambassador
+to the European Union, stressed the importance of bringing European companies,
+civil society and European Union (EU) government representatives into the
+Project.
+10 Toward a Single Global Digital Economy
+Building upon the Los Angeles efforts, and on Ambassador Kennard’s recommendation,
+IDEA staff and participants recruited additional European representatives.
+With expanded attendance, the third Plenary Session was held in Brussels
+in late March 2011. At that meeting, the IDEA staff presented a revised version
+of the principles in a Discussion Paper. The Paper used cloud computing as a
+test case. As part of the Project’s incorporation of more European perspectives,
+European Commission Vice Presidents Neelie Kroes and Viviane Reding and
+Deputy Director General for Information Society and Media Antti Peltomäki set
+forth a European approach to the Project’s issues. Representatives from Brazil and
+India civil society also participated in the Brussels plenary session. Afterwards, the
+original five working groups, expanded by new European participants, re-formed
+into a trio of new working groups focusing on (1) market access, (2) free flow of
+information and (3) trusted environment issues. In addition, each of the three
+new Working Groups was asked to help formulate portions of an Aspen IDEA
+Common Statement. The Common Statement was intended to be a general
+articulation of the three working groups’ more specific delineation of principles.
+The working groups continued after the March 2011 Brussels Plenary Session.
+This was an especially eventful time. Many of the Project’s participants were
+involved in the E-G8 meeting in Paris in May 2011. Many were also part of an
+OECD High-Level Meeting in Paris in June 2011. The former revolved in general
+terms around the core issues debated in the IDEA Project. The latter led to the
+promulgation of principles, discussed in detail below, that could be described as
+“in dialogue” with the Aspen IDEA Principles.1
+Taking these events into account, Aspen IDEA set the fourth and concluding
+Plenary Session in Washington, D.C. for November 2011. There, the staff presented
+the Aspen IDEA Common Statement and Principles. As a result of dialogue
+at the Plenary Session, the Principles were amended and are published below. The
+Washington Plenary Session also generally debated and discussed Internet governance
+issues and specifically discussed a means to implement the Aspen IDEA or
+other principles.
+The Internet freedom agenda was at all times an inextricable part of the Aspen
+IDEA process. In the first Washington, D.C. Plenary Session, the staff presented a
+paper on Internet freedom (see Appendix).
+As the Project continued, it was thrilling and instructive to watch the 2011 Arab
+Spring unfold in large part on the common medium of the Internet. Even though
+the denouement of the Arab uprisings lies in the future, already these events have
+1. Communique on Principles for Internet Policy-Making,” OECD High Level Meeting, Paris, France, June
+28-29, 2011, http://www.oecd.org/dataoecd/33/12/48387430.pdf.
+The Report 11
+echoed in Russia and other countries. A central argument of the Aspen IDEA
+Principles is that governments should support and extend Internet culture, not
+curtail it.
+In 2010 and 2011, United States Secretary of State Hillary Clinton delivered a
+series of three speeches on Internet freedom. In them, she outlined both the benefits
+of an open and secure Internet, and the consequences of failing to live up to
+those ideas. One of the purposes of the Project was to strengthen and apply those
+ideas. In her trilogy, Secretary Clinton made it a tenet of American policy that the
+United States, in concert with other governments, will promote the Internet as a
+single global platform. State Department representatives Alec Ross and Ben Scott
+forcefully presented Secretary Clinton’s policies in all of our meetings.
+A central argument of the Aspen IDEA Principles is that
+governments should support and extend Internet culture,
+not curtail it.
+In January 2010, Secretary Clinton began the presentation of her views by stating
+that, “The spread of information networks is forming a new nervous system for
+our planet.” But she stated these technologies can be used “to undermine human
+progress and political rights.” She described “a spike in threats to the free flow of
+information.” Then Secretary Clinton said that the United States stands for “a single
+Internet where all of humanity has access to knowledge and ideas.” She likened
+this position to the First Amendment and to Franklin Roosevelt’s Four Freedoms
+speech in 1941. She then expounded on the Internet’s capability to provide “access
+to knowledge and potential markets” and thus to “create opportunities where
+none exist.” She said, “Disruptions in these demand a coordinated response by all
+governments, the private sector and the international community.” She called for
+a global “freedom to connect.”2
+Secretary Clinton’s second speech, on February 15, 2011, responded directly to
+events in the Arab Spring.3 She described the Internet as “the public space of the
+2. Hillary Clinton, “Remarks on Internet Freedom,” (Speech, Newseum, Washington, D.C., January 10, 2010),
+http://www.state.gov/secretary/rm/2010/01/135519.htm.
+3. Hillary Clinton, “Rights and Wrongs: Choices & Challenges in a Networked World,” (Speech, George
+Washington University, Washington, D.C., February 15, 2011), http://www.state.gov/secretary/
+rm/2011/02/156619.htm.
+12 Toward a Single Global Digital Economy
+21st century.” She restated the importance of the “freedom to connect,” and she
+listed more threats to the exercise of that freedom. She then asserted that “liberty
+and security … make each other possible,” and so both are necessary to the functioning
+of the Internet. She also called for both “transparency and confidentiality”
+in the Internet culture. Finally, she called for both “tolerance and civility.” Her
+dualisms captured the balances the Aspen IDEA Principles tried to strike.
+Her third and last speech in the series, on December 8, 2011, was a forceful
+summary.4 She clearly explained network effects: “When ideas are blocked, information
+deleted, conversations stifled and people constrained in their choices, the
+Internet is diminished for all of us.” She called (as does the IDEA’s implementation
+proposal) for “cooperative action…shared principles…[and ways] to navigate
+the practical challenges of marinating an Internet that is open and free while
+also inter-operable, secure and reliable.” Secretary Clinton said private companies
+and users have to be part of governance, while governments should not “replace
+the current multistakeholder approach, which includes governments, the private
+sector and citizens, and supports the free flow of information, in a single global
+network.” She decried “national barriers in cyberspace” and called for a “truly
+global coalition to preserve an open Internet.”
+Secretary Clinton’s three speeches animated the IDEA effort in at least three
+ways. As she did, the Project recognizes real threats to an open Internet, including
+acts by states and nongovernmental agents. The Project enumerates principles that
+should be shared by all those who connect to the Internet—a new, modern, basic,
+global freedom. And the Project’s participants began to outline practical mechanisms
+to use multistakeholder governance, instead of state control, as the method
+to assure for everyone the manifold benefits of this single global medium.
+4. Hillary Clinton, “Conference on Internet Freedom,” (Speech, Fokker Terminal, The Hague, Netherlands,
+December 8, 2011), http://www.state.gov/secretary/rm/2011/12/178511.htm.
+The Report 13
+The Aspen IDEA Common Statement and Principles
+The Aspen IDEA Common Statement was formulated and refined between
+the Brussels Plenary Session in March of 2011 and the second Washington, D.C.
+Plenary Session in November 2011. It is a prologue to the more specific principles
+for the IDEA Project. In our view, the Common Statement should be adopted by
+all participants in the global Internet, and it is very much in accord with the prevailing
+culture of the Internet. The Common Statement and Principles collectively
+constitute “The Aspen IDEA Principles.”
+The Aspen IDEA Common Statement
+All elements of a digital economy and society should be bought, sold,
+created or experienced in a single seamless global market of goods,
+services and ideas over broadband infrastructures that operate in a
+dynamic commercial environment.
+All information should be transferred across any and all national
+borders as senders and receivers should wish. Any restrictions resulting
+from measures taken by governments to safeguard public policy principles
+should be proportional, transparent, equitable, necessary, provided
+for by law and consistent with international treaties or best practices
+on privacy, security, protection of intellectual property rights and free
+expression. Commercial agreements and voluntary arrangements may
+go beyond measures taken by governments but should be compliant
+with applicable law, relevant international treaties and best practices.
+The seamless, global transfer of information and exchange of digital
+goods and services should occur in a responsible and accountable
+trusted environment that guarantees the interests of national and personal
+security, the right of individuals to privacy, and the interests that
+individuals and firms have in rights of property and rights of access to
+information, association and free expression.
+14 Toward a Single Global Digital Economy
+The Aspen IDEA Principles
+The Aspen IDEA Principles fall into three clusters: those that strengthen
+the Internet infrastructure and promote free trade in the Internet’s ecosystem,
+those that enhance the international free flow of information and those that
+promote a trusted environment for the Internet:
+A. Strengthen the Internet Infrastructure and Promote Free Trade in the ICT
+Ecosystem
+1. Governments should foster a pro-competitive policy environment
+and promote investment, including cross-border investment, in the
+facilities and services supporting the Internet infrastructure and
+expansion of the Internet as rapidly as possible.
+2. Governments should expand the Internet by encouraging competition
+in broadband access and other relevant markets. In light of
+the growing importance of broadband mobile networking, governments
+should commit to embrace the following policies:
+a. Maximize the availability of spectrum through continual
+improvements in spectrum policy.
+b. Assure technology neutrality in the design of the wireless
+network and its devices.
+c. Subject to competition policies, permit commercially
+determined approaches to the intersection of the wired
+and wireless segments of the Internet space.
+3. To permit suppliers of communications infrastructure to participate
+fully in the ICT ecosystem and, thus, fuel investment in that
+infrastructure, governments should commit to these actions:
+a. Redefine the relevant market for networked consumer
+information to provide nondiscriminatory treatment of
+telecom carriers, particularly in regard to privacy requirements
+for how they handle customers’ electronic data.
+b. Continue to rely on flexible market-based frameworks for
+network pricing, traffic policies and interconnection in
+order to maintain an open and interconnected Internet
+ecosystem, subject to the reasonable oversight of competition
+authorities.
+The Report 15
+4. Governments should expand the capability of the Internet to
+increase trade and adopt policy measures designed to maximize free
+trade in all aspects of the ICT ecosystem.
+5. To encourage trade and innovation in services and software, governments
+should:
+a. Allow IP-based and converged services (e.g., cloud computing
+and environmental services) to enjoy maximum
+regulatory flexibility and to be subject to regulatory obligations
+only to the extent that they are narrowly tailored to
+the dynamics of this rapidly evolving sector.
+b. Reinforce policies that support technology neutrality,
+including promoting digital product neutrality for applications
+and software.
+6. As the range of ICT applications expand in the economy and society,
+and the salience of these applications to important rights and
+needs of citizens increases, new policy interventions are needed in
+ICT markets. Governments should make best efforts to advance
+“regulatory coherence” among national policies with major impact
+on ICT markets, including by creating internal government mechanisms
+to promote coherence. To do so governments should publish
+annually a list of planned future measures that impact ICT goods
+and services.
+B. Free Flow of Information Principles
+1. Governments should allow the free flow of information globally.
+a. Allowing information to move freely and be stored globally
+permits the capture of economies of scale and makes it
+possible to reap the economic benefits associated with the
+Internet.
+2. Governments should not artificially or geographically restrict facilities
+and information storage.
+a. Artificially limiting the location of data geographically
+reduces the resiliency of the Internet and undermines its
+stability.
+b. Governments should not require that facilities or information
+be located in a specific country or region.
+16 Toward a Single Global Digital Economy
+3. Other Protections.
+a. Freedom of expression, as defined in international treaties
+on human rights, should be preserved.
+b. Any government restrictions on content should be transparent,
+necessary, provided for by law and consistent with
+international standards on free expression and privacy.
+c. Governments should provide to information on the Internet
+the same protection from government access as information
+stored locally or housed in any other environment.
+d. To encourage the online dissemination of services and
+content, governments should offer providers appropriate
+intermediary safe harbors to shield them when hosted
+content or software is alleged to violate a law or infringe on
+third party rights, including intellectual property rights.
+C. Creating a Trusted Environment
+1. Global Internet policy and practice must promote a functioning
+“trusted environment” with respect to issues such as security; privacy;
+intellectual property rights; protection of children, consumers
+and personal data online; and free expression. All stakeholders
+should recognize government, civil society and private sector needs
+for security of the Internet.
+a. Governments should implement clear, transparent and
+impartial laws, including due process protections and reasonable
+notice, to govern requests for third party information
+stored by Internet providers.
+b. Governments should develop fast, efficient methods for
+gathering and sharing information regarding fraudulent
+and deceptive commercial practices that can victimize
+consumers through the Internet, and the means to deter,
+detect and prevent such practices.
+c. Governments should develop policy requirements that
+make certain that consumers’ personal data is portable.
+Such policies should provide consumers with reasonable
+access to their own data gathered by suppliers about
+that user’s conduct on the Internet (e.g., records of
+past purchases) and personal information submitted to
+The Report 17
+Internet-based applications (e.g., personal health information
+stored on a web-based application for personal health
+monitoring).
+d. Governments have an obligation to assure that the private
+sector maintains enhanced consumer protection:
+i. Internet providers should transparently explain their
+information handling practices and the regulatory
+needs of their server locations with respect to such
+issues as data protection and privacy.
+ii. Internet providers should disclose requested third-party
+information only to the extent required by law and,
+to the extent permitted by law, should provide affected
+customers with reasonable advance notice of any such
+compelled disclosure.
+iii. Governments should work to create a level playing
+field and achieve global interoperability on privacy
+and data protection principles by basing privacy rules
+on globally recognized principles (such as the OECD
+privacy guidelines) and by extending mutual recognition
+of laws that achieve the same objectives. Privacy
+rules should also consider fundamental rights such as
+freedom of speech, freedom of the press and an open
+and transparent government.
+e. Governments should enforce intellectual property rules as
+they relate to the Internet and the ICT ecosystem.
+f. Governments should ensure clearly defined legal rights
+and a robust and fair process to protect rights, including
+users’ rights, consistent with the need of governments to
+enforce applicable law. Governments, industry and civil
+society should work together to foster respect for the rule
+of law, defined here as a system of transparent, predictable
+and accessible laws and independent legal institutions and
+processes that respect, protect, promote and fulfill human
+rights.
+g. Governments should implement internationally recognized,
+market-driven security standards and best practices
+to promote cybersecurity, while simultaneously ensuring
+that the framework conditions ensuring an open Internet
+are not disrupted.
+18 Toward a Single Global Digital Economy
+Discussion and Analysis of the IDEA Principles
+Rights and Obligations
+The Aspen IDEA Principles (the Common Statement plus the specific Principles)
+are a combination of positive and negative liberties, or rights. They assert powers
+to use the Internet that are inherent for all people. These include the capability to
+send and receive information anywhere in the world, across all national boundaries
+and to all individuals, subject only to commonly understood prohibitions
+against criminal activity. Internet users also should have the capability to form
+associations, participate in networks and express themselves freely. Similarly, the
+Principles envision as positive liberties the use of the Internet for entrepreneurial
+activity, the process of creating and capturing value in commercial activities on the
+single global digital economy and the capability to market and sell on the common
+medium.
+By describing the Aspen IDEA Principles as positive liberties, the project
+intended to state that firms and individuals in every country should be able to
+share in the economies of scale and network effects. These multiply exponentially
+(Metcalfe’s Law) as the Internet increases in the number of participants, both animate
+and inanimate.
+Some contend that Internet access and web participation are not fundamental
+rights. The Aspen IDEA Principles presuppose that, as McLuhan wrote decades
+ago, “the medium is the message”—or, in other terms, in the digital age, no one
+can exercise to the fullest such rights as free expression and innovation without
+being able to be part of the Internet community. Economic, political and technological
+barriers to that participation are not to be tolerated.
+The Principles also include negative liberties: statements of what individuals,
+firms and nation states should not do. If its governance limits these negative acts,
+the Internet can evolve in an expanding open space of creative action and technological
+innovation. Advances in microprocessor price and performance, fiber and
+radio wave connectivity, and data storage and retrieval have already permitted the
+Internet to host and to distribute goods and services in degrees of scale and scope
+that were unforeseen even a few years ago. Unplanned and unpredicted innovation
+abounds in the common medium, although governments, acting alone and
+in concert, may assist in assuring various positive liberties. According to the IDEA
+Principles, these enumerated negative liberties should prohibit governments from
+accidentally or intentionally creating harmful barriers to the open innovative evolution
+of the Internet.
+The Report 19
+Categories of IDEA Principles
+The Aspen IDEA Principles fall into three broad categories, mirroring the
+working groups: market access, free flow of information and trusted environment.
+These categories are mutually supporting. Each is indispensable to ensuring
+Internet freedom and function.
+The Market Access category focuses on connectivity, guiding the creation and
+maintenance of the physical networks on which information flows. The Principles
+in this category allow market forces to guide the expansion of these networks and
+for these networks then to open markets as a whole. This market focus means
+adopting technologically neutral policies. Consumers should determine what
+goods and services win the day.
+The Principles include a bar against governments discriminating among telecom
+carriers in imposing privacy requirements. Governments also should not impose
+any restrictions on IP-based and converged services such as cloud computing. In
+general, governments need only preserve the status quo of flexible, market-based
+frameworks, as in the case of network pricing, traffic policies and interconnection,
+including the choice of access and application technologies and service providers’
+treatment of traffic. Many participants at the November 2011 Plenary Session in
+Washington vigorously stated this point. Because of the growth of broadband
+mobile networking, governments should maximize available spectrum through
+both licensed and unlicensed modes of use. Commercial markets, not regulators,
+should determine what devices and network solutions will exploit that spectrum.
+As technologies change, the Aspen IDEA Principles will need to change in application.
+However, the Principles are sufficiently robust that they should provide a
+precedent-based system of governance. Moreover, the Principles should promote
+cross-border investment in Internet infrastructure. They should also encourage
+fair trade policies that maximize the social and economic benefits produced by
+technological innovation.
+The Free Flow of Information category contains the Principles that capture the
+role of information (or data) as a positive force for both commerce and human
+rights. This category’s Principles address two main issues: the geographical storage
+of data and the protection of free expression and privacy. Regarding data location,
+policymakers must ensure that national sovereignty and regional agreements do not
+create barriers that threaten the security and resiliency of transnational networks.
+… policymakers must ensure that national sovereignty and
+regional agreements do not create barriers that threaten
+the security and resiliency of transnational networks.
+20 Toward a Single Global Digital Economy
+As stated in the Principles, governments should remove rules that limit the
+geographical location of data storage facilities. They should void regulations that
+undermine the stability and resiliency of the Internet. Subjecting data stored in foreign
+facilities to different regulations from those imposed on locally stored data produces
+similar effects to outright bans. The Aspen IDEA Principles reject such rules.
+To protect privacy and free expression, governments should offer information
+exchanged online the same protections as information in any other environment.
+If governments wish to impose restrictions on information to protect against
+criminal behavior, or to serve some other social purpose, any such regulation
+should be transparent, part of the overall rule of law and consistent with international
+norms.
+To encourage the exchange of services and content online, service providers who
+facilitate those exchanges should not be burdened with the obligation to interfere
+with those exchanges. Further, they should not face liability for providing a common
+medium, any more than manufacturers of printing presses or a newsprint
+seller should be responsible for what someone publishes on paper. Reasonable
+intermediary safe harbors are necessary to shield providers against allegations
+that they are hosting illegal content. Governments can create an environment in
+which information flows freely, without asking service providers to be censorious.
+Businesses can best exploit economies of scale and reap the economic benefits of
+the Internet if service providers are not asked, in effect, to act as agents of government.
+This approach, however, is not intended to condone, rationalize or protect
+those who do violate the rule of law consistent with international norms.
+All participants in the Internet ecosystem, including service providers, recognize
+the importance of content. The attendant rights of content owners are discussed
+below in the Trusted Environment category. Discussions of the appropriate balance
+between trusted environment and free flow of information concerns were an
+important aspect of the Aspen IDEA dialogue. However, the participants were not
+able to reconcile intellectual property and intermediary safe harbor issues, and the
+discussion will need to continue in other forums.
+The Trusted Environment category contains the Principles that focus on the
+vital government and private interests needed to protect the Internet from misuse,
+while preserving vital rights of free expression. Tackling a broad range of issues
+that has attracted increasing attention in recent years, this category’s provisions
+are grouped into those aimed primarily at protecting privacy and those aimed at
+preventing the creation online of activities commonly regarded as criminal.
+Protecting privacy online requires both protecting the rights of consumers and
+controlling the actions of service providers. Consumers should have access to and
+control of the personal data they submit or that service providers collect regarding
+their actions online. To achieve this end, service providers must be transparent
+The Report 21
+about their practices regarding consumer data, limit their disclosure of personal
+data to third parties to those required by law and inform consumers of necessary
+disclosures whenever possible.
+Rules governing third-party requests for information, like all rules in the desired
+Internet governance system, should be clear, transparent and impartial. They must
+be administered with due process and reasonable notice provisions.
+Coordinating policies across national boundaries will further protect consumers
+and enhance efficiency. Therefore, governments should build their rules
+around internationally accepted privacy principles, such as those established by
+the OECD.5 They should extend mutual recognition of laws that differ in form
+but achieve these same goals.
+Without safety from fraud, abuse and theft, commerce and civil society cannot
+continue to thrive on the Internet. To keep users safe, governments should implement
+internationally recognized, market-driven cybersecurity standards. They
+should attend to best practices and enforce existing intellectual property rules.
+Developing fast, efficient methods for gathering and sharing information when
+violations occur will also help governments respond to existing problems and
+deter others in the future. These actions should all be taken with due consideration
+of user rights and acknowledgment of the right of free expression. Government,
+industry and civil society should cooperate to assure that all parties respect the rule
+of law and freedom of information.
+The IDEA Principles aim to create a sustainable,
+vibrant digital environment for…social and economic
+development.
+These three categories form a coherent set of fundamental guidelines for
+enhancing the Internet’s capacity to create economic growth and improve quality
+of life. Without resilient and accessible infrastructure, information has no path to
+individuals and businesses. Without freely accessible information, infrastructure
+lacks value to those users. Without trust that these networks are safe for lawful
+expression and commerce, users’ generation and use of information will diminish.
+The world then would be culturally, economically and politically poorer. The
+IDEA Principles aim to create a sustainable, vibrant digital environment for the
+magnification of the possibility of social and economic development.
+5. OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data, adopted September
+23, 1980, http://www.oecd.org/document/18/0,3343,en_2649_34255_1815186_1_1_1_1,00.html.
+22 Toward a Single Global Digital Economy
+Comparison to Other Internet Principles
+The Aspen IDEA Project’s efforts to develop fundamentals of good international
+Internet governance were complementary to other initiatives in 2011. A
+compilation and comparison of several such efforts is included in the appendix of
+this report.6
+Some, such as the White House’s Cybersecurity Proposal,7 focused on important
+but comparatively narrow policy areas. Perhaps the process most closely resembling
+the Aspen IDEA Project was the government-sponsored OECD process. The OECD
+Principles were carefully negotiated in a multistakeholder process and unveiled in a
+laudably open, high-level meeting in Paris.8 Civil society representatives balked at
+endorsing the OECD Principles, but many companies were supportive. Expressed
+in a cautious tone, the OECD Principles reflected an inter-governmental perspective,
+but one that emphasized a light touch with regard to regulation.
+The Aspen IDEA Principles reflect somewhat greater focus on transparency in
+nation state regulation of the digital economy. They have a somewhat more prescriptive
+tone. They focus more than the OECD on cross-border data flows and
+on trade issues.
+The OECD Principles looked to future multistakeholder efforts for defining the
+limits of intermediary liability. The IDEA Principles instead call now for governments
+to create appropriate intermediary safe harbors to shield service providers
+from liability for innocently transmitting content that infringes on a third party’s
+rights.
+A system to improve government response to online fraud and deception is
+present in the IDEA plan but absent from the OECD Principles, as are recommendations
+for empowering consumers to gain access to and control the information
+collected about them online. The OECD Principles also make no mention
+of placing privacy protection requirements on service providers, while the IDEA
+Principles call for Internet service providers (ISPs) to disclose their privacy practices
+to consumers and to limit the disclosure of consumer information to third
+parties to the greatest extent possible.
+In general, the IDEA Principles explicitly enumerate that which governments
+should not do. Governments should not require that facilities or information be
+6. See “Cross-Border Information Flows and Digital Trade Principles,” in the appendix for additional efforts
+aimed at developing fundamentals of international Internet governance that are not discussed in this section,
+including the U.S.-EU Trade Principles for ICT Services and the G8 Deauville Declaration.
+7. “Fact Sheet, Cybersecurity Legislative Proposal,” The White House, May 12, 2011, http://www.whitehouse.
+gov/sites/default/files/fact_sheet-administration_cybersecurity_legislative_proposal.pdf.
+8. “Communique on Principles for Internet Policy-Making,” OECD High Level Meeting, Paris, France, June
+28-29, 2011, http://www.oecd.org/dataoecd/33/12/48387430.pdf.
+The Report 23
+located in a specific country or region. End users should be able to access data
+across borders. Data centers are efficiently located where power is relatively cheap,
+weather conditions permit natural cooling and fiber access to the global networks
+is ample and inexpensive. These efficiencies cannot be achieved in many nation
+states. But the benefit of accessing and storing information in such data centers can
+be enjoyed by everyone—as long as nation states do not interfere with the transfer
+across borders of data from such centers to users located anywhere in the world. In
+this and other respects, the Aspen IDEA Principles aspire to translate technological
+innovation into sound policies for every nation.
+The normal caveats of criminal sanction must apply: no one wants data centers
+to be havens for lawbreakers. But underlying the Aspen IDEA Principles is the
+concern that national efforts to require data to be sited within national boundaries
+may lead to the denial of market access, or limit citizens in some countries from
+full use of the Internet.
+This topic alone will attract much discussion, debate and detailed deliberation
+in years to come. Some nations will want to tax cross-border transfer of data.
+Some will want to impose privacy rules on firms that store individual data and, by
+doing so, oblige firms to create data centers within the boundaries of any nation
+in which they do business. Others may want to deny access to national markets for
+firms that want to offer software, platform or infrastructure as a service. The IDEA
+Principles express disapproval of all such initiatives, while explicitly endorsing the
+power of governments to protect their citizens from illegal activity through the
+medium of the Internet.
+In spirit and in objective, the Aspen IDEA Principles and those emerging from
+the OECD are consistent. Both of these statements have much more useful detail
+than other efforts have produced. Most importantly, they both endorse multistakeholder
+governance. This represents a dramatic departure from the way telecommunications
+and media historically were governed nationally and internationally.
+Use and Limitations of the Aspen IDEA (and Other) Principles
+Principles alone may be insufficient in the absence of an enforcement mechanism.
+Various governments still contend that nation states must regulate the
+Internet to preserve its benefits and preclude its use by bad actors. They suggest
+that without the attentive bureaucracies and enforcement authority of government,
+the Internet will devolve into chaos. These governments describe a choice:
+give up the flexible, dynamic, bottom-up evolution that has allowed the Internet to
+become a major feature of the social and economic landscape, or watch it dissolve
+into a swamp of lawlessness. The Aspen IDEA Project rejected this pessimistic view
+of multistakeholder governance under guiding principles. There are at least three
+benefits to widespread agreement as to principles and to their continued development
+through the multistakeholder processes.
+24 Toward a Single Global Digital Economy
+First, any firm, group, or individual can use these Principles as a guide to selfdirected
+behavior. The more detailed the principles, the easier for a single firm
+to align its conduct with the prevailing practice. An initially loose coordination
+around principles could evolve into a self-organizing, coherent, cognizable code
+of good behavior—without requiring that any government put the code into
+law.
+Second, anyone accepting the Principles can cite them as support for action
+challenged by others. If a company is shut out of markets because of national
+regulations requiring storage of personal data on local servers, it can point to the
+IDEA Principles on market access in its petition to the authorities for relief. If a
+government requests that a company remove content that the company believes
+falls within the boundaries of free expression, that company can cite IDEA
+Principles on the free flow of information to justify its refusal to comply. It is far
+from unusual in international law to refer to norms, and codes of conduct, as part
+of governments reaching reasoned conclusions about right acts.
+Third, the IDEA Principles can be adopted by any nation state or multistakeholder
+organization as a regulatory paradigm or a charter for collective action.
+Their scale, scope and genesis are robust enough that nations and organizations
+need not repeat the process by which they were generated. Instead, beginning
+with the Principles, nations and organizations then could choose to tailor them to
+address specific problems in specific situations.
+The IDEA Principles can be adopted by any nation state or
+multistakeholder organization as a regulatory paradigm or
+a charter for collective action.
+However, unendorsed principles do not readily lead to mutual accountability
+among diverse actors. When Egypt severed all of its Internet connections and shut
+down its cellular services in response to political protests in January 2011,9 it probably
+would have been ideal if a multistakeholder body had convened to mobilize a
+common response. It would have been useful if a multistakeholder group’s charter
+obliged that participants frame a response. If the firms that effectively operated
+the Internet in Egypt had endorsed the Aspen IDEA Principles, they might have
+been aware that complying with the instructions of the Egyptian state put them in
+9. Christopher Rhoads and Geoffrey Fowler, “Egypt Shuts Down Internet, Cellphone Services,” Wall Street
+Journal, January 29, 2011, http://online.wsj.com/article/SB10001424052748703956604576110453371369740.
+html.
+The Report 25
+conflict with what they had endorsed. That might have led them to discuss ways to
+oppose collectively the demands of the Egyptian state. They could have said (with
+the strength of numbers), if the government of Egypt terminated Internet traffic,
+they must collectively and publicly state their opposition.
+By contrast, when a government singles out a firm as a danger to the state, it
+is extremely difficult for it to respond in any way other than by obedience to the
+demands of the accusatory state. The individual firm may depend on a government
+license to do business. Its employees and business partners may be at risk if
+the firm does not submit to the state. And any single firm may face the prospect
+that the accusing state can elevate a commercial rival into a superior situation if
+it does not comply with whatever demands are made. While Google tangled with
+China over banned search terms, the Chinese search company Baidu profited
+immensely, at Google’s expense, in the Chinese search market.10 When a critical
+mass of firms has endorsed the Aspen IDEA Principles, however, an attack on one
+may be deemed an attack on all. A single firm then could call on all signatories to
+declare support for the IDEA Principles. If they did act collectively, the state might
+find that it had more to lose from the resistance of all firms than it could gain by
+bending the single firm to its will.
+Next Steps—What Is Left to Do
+There is still work to be done on the Aspen IDEA Principles. Progress should
+be made in the areas of consistency across other statements of principles, more
+precise classification of principles, clearer details and broader explicit consensus.
+Consistency. The Aspen IDEA Project recognized that the time was not ripe
+for a full agreement. The participants were pressed for time. The parties were still
+divided on important issues, and the Principles will need to evolve in tandem with
+technological and political circumstances. The Aspen IDEA Principles will benefit
+from deeper analysis and comparison with the larger ecosystem of Internet-related
+principles. Various stakeholder groups, in both the private and public sectors, are
+regularly proposing new sets of principles. Mapping the areas of convergence and
+conflict among these sets will make clear where challenges remain and where the
+path for progress is clear.
+Classification. The Principles would benefit from separation into finer categories
+for application to specific circumstances. Those addressing more high-level
+ideas should serve as general guides to the policy process and will remain relevant
+for years to come. Narrower, more specific directives will provide clearer direction
+for implementation. These more specific principles probably will require more
+10. Alexandra Stevenson, “China: Google’s Loss Is Baidu’s Gain,” Financial Times, July 19, 2010, http://blogs.
+ft.com/beyond-brics/2010/07/19/google-back-in-china-but-faces-steep-competition/#axzz1gdJvma2g.
+26 Toward a Single Global Digital Economy
+frequent revision as technology and circumstances change. Drawing lines between
+general and specific principles, analogous to the demarcation between statutes and
+regulation, will increase the value of both.
+Clarification. Some areas of the Principles require more deliberation. For example,
+to achieve closure in the Trusted Environment category, the Principles need
+a more complete policymaking guide. Stakeholders in the global digital economy
+also must further develop national security, privacy and intellectual property principles.
+Avoiding such issues will lead to less consensus around the other principles.
+Consensus. Ultimately, the IDEA Principles need strong, widespread support
+by the Aspen participants and from others that were not around the Aspen IDEA
+table. It is particularly important to involve those from all sectors outside the
+United States and Europe. Either by acts of individual leadership, or by a collective
+multistakeholder process, a broad consensus is necessary. Indeed, if parties in the
+Aspen IDEA Project do not lead the refinement and consensus-building process,
+they may find that suboptimal principles emerge as normative practice in the
+Internet ecosystem. (Such unfortunate behavior occurs all too often in commons,
+whether an ocean of water is the example or an ocean of data is the case in point.)
+Moreover, the Aspen IDEA and OECD Principles, and other competing principles
+in global discourse, need support from relevant NGOs and by the overwhelming
+majority of nations. NGOs are numerous, but many are inadequately or intermittently
+funded. Foundation or corporate support probably will be required to allow
+many NGOs to participate fully and effectively in multistakeholder forums. NGOs
+are inconsistently invited to participate as equal participants in relevant processes,
+especially NGOs based in developing countries. Many of them represent important
+points of view, but if their presence is not robust and continuous, or if they are
+not able to commit some constituencies to concrete principles, their views may be
+unheard or dismissed too easily. Yet NGOs are central to the genesis and governance
+of the Internet. If the NGO role is to remain as constructive as it has been historically,
+relevant parties should strengthen NGOs through inclusion and financial support.
+The lack of binding participation in principle formation by most nation states,
+particularly in the developing world, is difficult to address without invoking the
+presence of existing bodies like the United Nations, or its authorized extensions,
+such as the International Telecommunications Union (ITU). But the principle of
+multistakeholder governance by definition denies control of the Internet to the UN
+or the ITU, even if these venerable organizations were to seek such authority over the
+Internet. Voluntary government participation can produce important and widely
+attended events like the Internet Governance Forum in Nairobi in 2011, but a reliable
+method to ensure widespread government participation still needs to be found.
+The Report 27
+Issues of Implementation of Principles
+Statement of Problem of Implementation
+The goal of the Aspen IDEA Project was to engage governments, business and
+civil society in the design of principles and in the development of a governance
+system that would fairly and efficiently implement them. The threats described
+below are real and cannot be ignored. Thus, in addition to the development of the
+Aspen IDEA Principles, an underlying theme throughout the course of the Project
+was the search for a way to implement them through a multistakeholder entity
+(“MSE”) model of Internet governance. To pass muster, the resulting governance
+structure needs to be able to effectively resolve hard cases that deviate from generally
+accepted principles.
+…governance by MSEs acknowledges the right of
+everyone—companies, civil society and governments—
+to participate in the policy-making process….
+The participants understood the importance of the implementation issue. It was
+the focus of the November 2011 Washington, D.C. Plenary Session. From the start,
+the Project explored trade-based solutions that could be embedded in a broader
+agreement on national policies and their implementation. The Aspen IDEA participants
+recognized that a trade-only solution was unfeasible. Thus, the Project
+considered existing and evolving forms of multistakeholder Internet governance.
+Simply put, the governance by MSEs acknowledges the right of everyone—
+companies, civil society and governments—to participate in the policy-making
+process related to issues with which they choose to be concerned. However, the
+MSE concept is vague (to a degree, purposefully so), lacks operational clarity and
+leaves open many questions: What are the respective roles of the various actors?
+Should governments be an active participant in the process? What procedures
+should be used? What are the binding or enforcement mechanisms that need to be
+in place? These and other questions were debated during the course of the Project
+and elsewhere.11
+To some, MSE governance is inadequate. It can seem like democracy to those
+who do not favor democracy, but it smacks of technological colonialism to those
+who vividly recall imperialist subjection. The open, transparent nature of MSE
+11. See Wolfgang Kleinwächter, ed., Internet Policy Making, Multistakeholder Internet Dialog, Co:llaboratory
+Discussion Paper Series No. 1, 2, (Hamburg, Germany: Internet & Society Co:llaboratory, 2011), http://
+en.collaboratory.de/publications/discussion_papers.
+28 Toward a Single Global Digital Economy
+governance has few supporters among the unelected, or undemocratically elected,
+governmental leaders who assert sovereignty over most of the world’s people.
+Still, there is a recognized body of law and practice on MSE governance. Several
+examples exist in the Internet area. Even though no single comprehensive set of
+MSE practices exist, and no vote was taken, certain parameters emerged:
+…the only plausible Internet governance plan includes
+both government and nongovernmental agents.
+First, technological advances do not necessarily produce positive results for
+humanity. As Secretary Clinton explained in detail, collective human action is
+essential for the Internet to deliver good outcomes.
+Second, the only plausible Internet governance plan includes both government
+and nongovernmental agents. Government has a necessary role in vindicating
+various rights and seeking certain sound outcomes. Nongovernmental actors
+operate the Internet, create value on its platform and, at a bare minimum, address
+transborder issues that no single government can manage.
+Third, outcomes matter. If the Internet culture cannot solve the problems of
+market access, property rights and individual freedom, then its governance must
+evolve to produce solutions. The test of effective MSE governance is its results.
+Alternatives to Multistakeholder Governance
+As the Internet’s effect on commerce and individuals continues to grow, nation
+states are showing increasing interest in asserting their jurisdiction over it. A legitimate
+and important role for governments must be defined, partly to enhance the
+capability of the Internet to affect the world for good instead of ill, and partly to
+establish appropriate limits on governmental action. The line must be drawn with
+special care in the areas of privacy, security and the protection of property rights.
+In the absence of a positive plan, negative initiatives might proliferate.
+…in the absence of a positive plan, negative initiatives
+might proliferate.
+For example, China, Russia and other nations are pushing for the establishment
+of a more formal international management system for the Internet. They may
+The Report 29
+want to house such a function in the United Nations.12 India, with the support of
+Brazil and South Africa, has suggested the creation of a United Nations Committee
+for Internet-Related Policies, reporting directly to the UN General Assembly and
+run by the organization’s staff and using its funding.13 Despite a mixed response
+from other authorities, these three nations have vowed to bring Internet governance
+under broader state control.14
+A venue for the debate of such proposals is the ITU World Conference on
+International Telecommunications in late 2012. The ITU proposes that nations
+will renegotiate the International Telecom Regulations (ITRs). The United States’
+position, supported by other like-minded governments, is that only minor changes
+should be made to the ITRs. The ITU’s Secretary-General has stated that a substantial
+expansion of the treaty’s scope is necessary.15 Given its existing treatybased
+authority over digital networks, the ITU, governed by its member states, is
+unlikely to adopt multistakeholder governance as the central method to guide the
+future of the Internet.
+Further, the ITU World Conference could seek actions that run counter to the
+Aspen IDEA Principles, the OECD Communiqué16 or any other widely accepted
+statement of operational conducts and values. Russia, China, Tajikistan and
+Uzbekistan set forth their own proposal for Internet norms before the United
+Nations General Assembly in September 2011. This “International Code of Conduct
+for International Security” does support some goals shared by the United States and
+other nations favoring an open Internet, such as protecting critical infrastructure.
+But it pushes for “information security” to curb any action that “undermines other
+nations’ political, economic and social stability, as well as their spiritual and cultural
+environment.”17 This proposal is distinctly not consistent with the Aspen IDEA
+Principles. If the Russia-China policy becomes a part of the Internet’s culture, the
+impact on international human rights and digital commerce could be devastating.
+Until recently, conflicts over culture and governance of the Internet were largely
+hypothetical. But in the past decade challenges to the seamless and open Internet
+proliferated. China’s restrictions on Internet traffic are bold and at odds with the
+12. Jason Healey, “Breakthrough or Just Broken? China and Russia’s UNGA Proposal on Cyber Norms,” New
+Atlanticist, http://www.acus.org/new_atlanticist/breakthrough-or-just-broken-china-and-russias-unga-proposal-
+cyber-norms.
+13. Kieren McCarthy, “India Formally Proposes Government Takeover of Internet,” .nxt, October 27, 2011,
+http://news.dot-nxt.com/2011/10/27/india-proposes-government-control-internet.
+14. T. Ramachandran, “Plan for New Global Body to Oversee Internet Governance Evokes Mixed Response,” The
+Hindu, October 23, 2011, http://www.thehindu.com/sci-tech/internet/article2565390.ece.
+15. David A. Gross and M. Ethan Lucarelli, “The 2012 World Conference on International Telecommunications:
+Another Brewing Storm Over Potential UN Regulation of the Internet,” Who’s Who Legal, November 2011,
+http://www.wileyrein.com/publications.cfm?sp=articles&id=7630.
+16. “Communique on Principles for Internet Policy-Making,” OECD High Level Meeting, Paris, France, June
+28-29, 2011, http://www.oecd.org/dataoecd/33/12/48387430.pdf.
+17. Jason Healey, “Breakthrough or Just Broken? China and Russia’s UNGA Proposal on Cyber Norms,” New
+Atlanticist, http://www.acus.org/new_atlanticist/breakthrough-or-just-broken-china-and-russias-unga-proposal-
+cyber-norms.
+30 Toward a Single Global Digital Economy
+Aspen IDEA Principles. China, for example, has publicly announced the blocking
+of websites based outside of China that are trying to enter the Chinese market,
+including Facebook, Twitter and Skype.18
+Even governments that usually support the free flow of information sometime
+diverge from the Aspen IDEA Principles. Riots in London in early 2011 prompted
+the United Kingdom’s prime minister initially to blame Twitter and Facebook for
+facilitating disorder. He floated their suppression as a means of preventing future
+riots.19 The EU is apparently considering imposing restrictions on data storage
+location that in practice may create market access limitations on cloud computing
+in Europe. And in August 2011, San Francisco Bay Area Rapid Transit authorities
+shuttered mobile-Internet and phone service in an attempt to quash a demonstration.
+The FCC is now investigating this issue.20
+State actors also threaten security. The United States Congress recently alleged
+that China and Russia are responsible for cyber-espionage campaigns against
+American companies.21 Government incursions on the basic structure of the
+Internet impede the free flow of information and reduce the safety of conducting
+business online. These threats to the Internet culture’s survival are likely to become
+more frequent in the absence of both a wider base of support for the Principles and
+a greater consensus of opinion around multistakeholder governance.
+…threats to the Internet culture’s survival are likely
+to become more frequent. …
+Consideration of Trade Agreements as an Internet Governance Mechanism
+The Aspen IDEA Project began by seeking consensus around a trade agreement
+that emphasized market access for broadband at the hardware, software and content
+levels (see the Aspen IDEA Framework Paper in the appendix.) The notion was that
+by means of a trade regime, the Principles could be exported into the economy and
+18. Malcolm Moore, “China Makes Skype Illegal,” The Telegraph, December 30, 2010, http://www.telegraph.
+co.uk/technology/internet/8231444/China-makes-Skype-illegal.html.
+19. Elizabeth Montalbano, “U.K. Prime Minister Floats Blackberry, Twitter Crackdown,” Information Week,
+August 11, 2011, http://www.informationweek.com/news/government/policy/231400063.
+20. Julius Genachowski, “Statement on BART Policy Adoption,” Federal Communications Commission,
+December 1, 2011, http://www.fcc.gov/document/fcc-chairman-julius-genachowskis-statement-bart-policyadoption.
+21. Fahmida Y. Rashid, “U.S. Congressional Report Accuses China, Russia of Cyber-Espionage,” eWeek,
+November 11, 2011, http://www.eweek.com/c/a/Security/US-Congressional-Report-Accuses-China-Russiaof-
+CyberEspionage-809875/.
+The Report 31
+national legal regime of every signatory country. A single digital economy would
+emerge. It would promote respect for rights of property, privacy and security, as
+well as human rights, and would utilize an existing enforcement regime. This aspiration
+was based in large part on the success of the WTO Basic Telecom Agreement
+of 1997. Under this precedent, a multilateral trade agreement could be linked to
+behavioral principles stated in a reference paper. This technique was endorsed by
+a former United States Trade Representative in the Project’s final plenary meeting.
+Agreement on a trade agenda failed to materialize in the IDEA Project for at
+least two reasons. First, a global trade agenda was severely hampered by the worst
+economic downturn in decades. Neither business nor government could mobilize
+the will to take action in this new topic area at such a trying time.
+Second, even as threats to a seamless Internet gathered strength globally, competing
+and unharmonious perspectives emerged within the United States concerning
+the reach of domestic jurisdiction over even the physical platforms that
+underlie the workings of the Internet. A successful trade agenda depends on an
+underlying consensus on both a regulatory framework and an implementation
+process. That has not yet happened. Moreover, some Aspen IDEA Project participants
+thought that the lack of consensus domestically about Internet governance
+meant that the United States could no longer serve as the undisputed “demander”
+and leader in global negotiations. After all, the Internet is global today, and therefore
+many nations, alone or in coordination, could lead trade-based approaches
+to addressing the need for governance. However, in the last few years, Europe
+has become even more riven by political disharmony than the United States. As
+a result, no country or region has successfully assumed the role of leader in setting
+an aggressive global trade agenda for the digital economy, or even specifically
+sought to champion market access for Internet firms.
+Nevertheless, trade remains a fruitful means for supporting the open Internet.
+Trade agreements can combat both traditional roadblocks to commerce and
+newer threats that could cause more damage to the digital economy. Tariffs and
+regulatory barriers such as interconnection rules, restrictions on foreign ownership
+of networks and limits on investment in infrastructure deleteriously affect
+the Internet, and these barriers are traditional subjects of trade negotiations. New
+technical barriers to trade present a particular threat to the Internet. Among other
+issues, differing technical requirements for the same equipment and services prevent
+firms from introducing new goods and services to improve the platform.
+Trade regimes have enforcement mechanisms that multistakeholder governance
+lacks. Trade can also have an important influence on the development of
+the digital economy. The principles that undergird trade decisions can become
+norms that guide nation states’ domestic governance, laying a foundation for
+future decisions.
+32 Toward a Single Global Digital Economy
+Perspective of Current Trade Officials. High-level trade officials were active
+participants in the Aspen IDEA Plenary Sessions. Miriam Sapiro, Deputy U.S.
+Trade Representative, and Christine Bliss, Assistant U.S. Trade Representative,
+provided valuable background and advice at the Plenary Sessions. They stressed
+that recent initiatives are attempting to integrate the global trade regime with the
+Internet.
+For example, multiple efforts have addressed protection of intellectual property
+rights internationally. The Trade-Related Aspects of Intellectual Property Rights
+(TRIPS) set rules applying intellectual property law to all members of the WTO
+as part of the General Agreement on Tariffs and Trade (GATT) in 1994. In 1996,
+the WTO signed an agreement with the World Intellectual Property Organization
+(WIPO) to encourage broader understanding and implementation of TRIPS
+and other Intellectual Property Rights (IPR) rules, including technical support.22
+More recently, the Anti-Counterfeiting Trade Agreement (ACTA) has provided
+additional support, with its current participants, including the new addition of
+Russia,23 representing more than half of global trade in goods.24 Bilateral agreements
+have also bolstered the effectiveness of IPR initiatives. Nearly all U.S. bilateral
+trade agreements created in the last decade contain requirements that both
+nations sign key WIPO treaties.25
+Regional organizations have adopted rules extending support of free digital
+trade beyond where broad multilateral consensus is possible. The Asia-Pacific
+Economic Cooperation (APEC), established in 1989, has made progress on
+Internet and technology-related issues. APEC’s 2005 Privacy Framework establishes
+standards similar to OECD standards previously set on the topic with the
+important inclusion of China and other nations that have caused concern over
+treatment of user data.26 The group continues efforts to coordinate more coherent
+policymaking among its 21 member nations.27
+Bilateral agreements have also made some progress in the digital economy.
+22. “Agreement Between the World Intellectual Property and the World Trade Organization,” World Trade
+Organization, 1995, http://www.wto.org/english/tratop_e/trips_e/intel3_e.htm.
+23. Miriam Sapiro, “Intellectual Property Protections in the Digital Age,” (Speech, St. Petersburg International
+Economic Forum, St. Petersburg, Russia, June 18, 2011), http://www.ustr.gov/about-us/press-office/speeches/
+transcripts/2011/june/remarks-ambassador-miriam-sapiro-st-petersburg.
+24. Miriam Sapiro, “Challenges to Global Economic Governance: Trade and Monetary Aspects,” (Speech,
+Eleventh Annual Herzliya Conference, Tel Aviv, Israel, February 8, 2011), http://www.ustr.gov/about-us/
+press-office/speeches/transcripts/2011/february/remarks-ambassador-miriam-sapiro-eleventh-a.
+25. Sacha Wunsch-Vincent and Arno Hold, “Towards Coherent Rules for Digital Trade: Building on Efforts in
+Multilateral Versus Preferential Trade Negotiations,” Working Paper no. 2011/64, Swiss National Centre of
+Competence and Research: Trade Regulation, July 4, 2011, http://www.nccr-trade.org/publication/towardscoherent-
+rules-for-digital-trade-building-on-efforts-in-multilateral-versus-preferential-tr/.
+26. Graham Greenleaf, “APEC Privacy Framework Completed: No Threat to Privacy Standards,” Privacy Law and
+Policy Reporter, 2006, http://www.austlii.edu.au/au/journals/PLPR/2006/5.html.
+27. Ron Kirk, “Remarks to the Consumer Electronics Show,” (Speech, Las Vegas, NV, January 8, 2011), http://
+www.ustr.gov/about-us/press-office/speeches/transcripts/2011/january/remarks-ambassador-ron-kirk-consumer-
+electro.
+The Report 33
+Preferential Trade Agreements (PTAs) between individual nations allow governments
+to settle issues on which broader negotiations fail to reach consensus, such
+as the application of other WTO rules to digital transactions. PTAs have provided
+a venue for experimentation with new terms, pushing forward the development
+of e-commerce-related terms. The United States has spearheaded this approach,
+negotiating agreements with a number of key partners that include provisions
+for everything from improving domestic regulatory processes to removing location
+requirements for online suppliers.28 Other nations have similar agreements
+enacted or pending, demonstrating the influence of these “laboratories” for innovative
+trade solutions.29 A United States agreement with Korea is a recent example,
+breaking down technical barriers to trade, settling intellectual property enforcement
+questions, and establishing momentum for further change in the region.30
+Other newer initiatives are being pursued to update trade relationships, harmonize
+trade rules on a global scale and strengthen enforcement of existing rules. For
+example, in November 2011 President Obama announced that nine nations had
+agreed to a firm outline for the Trans-Pacific Partnership, a forward-looking trade
+agreement among Australia, Brunei, Chile, Malaysia, New Zealand, Peru, Singapore,
+Vietnam and the United Sates. The agreement builds upon the work of APEC, covering
+all sectors of the member nations’ economies but saving special focus for ICT.
+Current work between the United States and the European Union is leading
+to new options for trade discussions concerning the digital economy. The
+Transatlantic Economic Counsel (TEC), the organization behind the Internetbased
+trade principles discussed above, is pursuing ongoing projects on innovation
+policy and intellectual property protection. Leaders of the United States and the
+European Union met in November 2011 to issue a directive for TEC to establish
+a High Level Working Group on Jobs and Growth, focusing on tech-driven
+emerging sectors.31 A new forum under TEC, the Transatlantic Innovation Action
+Partnership (TIAP), is using multistakeholder discussions between top-level government
+representatives and technology experts to break down barriers in the trade
+of raw materials necessary for production of new technologies and to increase communication
+about geographic areas where innovation is flourishing.32 Although all
+market sectors are not covered, these initiatives promise to strengthen the already
+strong trade relationship between the United States and the European Union.
+28. Sacha Wunsch-Vincent and Arno Hold, “Towards Coherent Rules for Digital Trade: Building on Efforts in
+Multilateral Versus Preferential Trade Negotiations,” Working Paper no. 2011/64, Swiss National Centre of
+Competence and Research: Trade Regulation, July 4, 2011, http://www.nccr-trade.org/publication/towardscoherent-
+rules-for-digital-trade-building-on-efforts-in-multilateral-versus-preferential-tr/.
+29. Wunsch-Vincent and Hold.
+30. Kirk, op cit.
+31. The White House, Office of the Press Secretary, “Joint Statement: US-EU Summit,” November 28, 2011,
+http://www.whitehouse.gov/the-press-office/2011/11/28/joint-statement-us-eu-summit.
+32. U.S. Department of State, “Transatlantic Innovation Action Partnership Work Plan,” December 17, 2010,
+http://www.state.gov/p/eur/rls/or/153327.htm.
+34 Toward a Single Global Digital Economy
+Another important area of progress in trade is the enforcement of existing
+agreements. Digital commerce has been a leading source of compliance controversy
+in trade. Enforcement of TRIPS-consistent laws, rather than the establishment
+of those laws, is the central problem in intellectual property rights protection.33
+In recent years, digital trade and the Internet have been among the leading causes
+of service-related WTO disputes.34 The United States has also taken advantage of
+WTO rules allowing enforcement pressure without formally filing a dispute. In
+October 2011, the United States sought detailed information from China on the
+impact of Chinese policies that may block American companies’ websites. Given
+the importance to American businesses of online access to the enormous Chinese
+market, ensuring that China acts in accordance with related GATS provisions is
+crucial. The GATS contains a provision requiring China, a WTO participant, to
+respond promptly to the request.35 Without making sure that key participants are
+following trade rules, there is little point to setting them in the first place.
+Limitations of a Trade Solution. Although trade negotiations continue to
+attempt to ease digital commerce among nations, certain aspects of the traditional
+trade system limit their effectiveness. These issues have historically prevented trade
+from addressing the full spectrum of challenges facing international commerce
+and civil society. Overcoming them is an important challenge for policy makers
+and stakeholders.36
+Trade agreement structures leave room for gaps and exceptions that hamper
+their effectiveness. Gaps can be created by the need for consensus, as negotiating
+parties avoid certain topics, or willfully ignore controversial issues. Because
+governments are bound only to the final agreements they sign, these gaps lead
+to uncertainty even if other countries have committed to certain behaviors. Even
+after parties agree to basic terms, exemptions built into agreements provide more
+exceptions for countries not interested in committing to full compliance. Both
+the GATS and TRIPS contain articles that allow a country to avoid treaty provisions
+that violate the country’s “public morals,” but neither document contains
+adequate explanation of what that term means.
+Another issue is the national security exception present in every trade accord.
+By shifting goods and services into the military category, nations can avoid bans
+33. U.S. Department of Commerce, “Overview of Intellectual Property Rights and the TRIPs Agreement,” August
+12, 2002, http://www.osec.doc.gov/ogc/occic/ipr.htm.
+34. Sacha Wunsch-Vincent and Arno Hold, “Towards Coherent Rules for Digital Trade: Building on Efforts in
+Multilateral Versus Preferential Trade Negotiations,” Working Paper no. 2011/64, Swiss National Centre of
+Competence and Research: Trade Regulation, July 4, 2011, http://www.nccr-trade.org/publication/towardscoherent-
+rules-for-digital-trade-building-on-efforts-in-multilateral-versus-preferential-tr/.
+35. Office of the United States Trade Representative, “United States Seeks Detailed Information on China’s
+Internet Restrictions,” October 19, 2011, http://www.ustr.gov/about-us/press-office/press-releases/2011/
+october/united-states-seeks-detailed-information-china%E2%80%99s-i.
+36. See Peter F. Cowhey and Jonathan D. Aronson with Donald Abelson, Transforming Global Information and
+Communications, (Cambridge, MA: MIT Press, 2009).
+The Report 35
+on tariffs and industry subsidies.37 ICT industries, where new technologies are
+likely to have defense as well as civil applications, may be more vulnerable to such
+potential tactics. Using these gaps and exceptions, countries can avoid conforming
+to broadly accepted principles of Internet governance while still technically
+complying with trade agreements.
+After entering an agreement and navigating multiple exceptions, a trade agreement
+provision must also deal with enforcement and compliance problems. The
+WTO’s Trade Policy Review Mechanism regularly reviews the trade policies of
+member nations and requires nations to offer explanations for inconsistencies.
+However, the process offers only transparency and does not lead to enforcement
+of rules against violators. Cases often drag on for years before any sanctions are
+issued (notwithstanding major reforms to the system in 1995).38 Ultimately, the
+significant power that countries have to enforce WTO agreements and dispute
+settlements is the threat of retaliation by imposing additional trade barriers. This
+tit-for-tat tactic leaves smaller nations, who lack economic force behind their
+policy threats, with little protection at all.39 Yet there are many small nations for
+which access to a single global digital economy is especially valuable.
+A history of tension between trade agreements and human rights further
+complicates this system. The WTO is not a human rights organization, and its
+agreements do not explicitly reference human rights.40 Historically there has been
+conflict between human rights and agreements in several areas of trade, and that
+conflict continues in such areas as intellectual property. Human rights advocates
+have made TRIPS and other treaty provisions key to the ICT industry the subject
+of significant critique.41 Human rights also interact with trade agreement exceptions
+in ways that further complicate enforcement.
+These drawbacks or limitations of a trade regime are not new, nor are they likely
+to be resolved in the near future. The trade regimes should help sustain a single
+digital economy. However, ensuring that nations act in accordance with all desirable
+principles likely will require more mechanisms for implementation than the
+trade arena provides.
+37. John Feffer, “Globalization & Militarization,” Foreign Policy in Focus, October 4, 2005, http://www.fpif.org/
+reports/globalization_militarization.
+38. Mostafa Beshkar and Eric W. Bond, “The Theory of Dispute Resolution With Application to Intellectual
+Property Rights,” in Intellectual Property, Growth and Trade, ed. Keith Eugene Maskus, (Amsterdam, Elsevier,
+2008), 394.
+39. Bernard M. Hoekman and Petros C. Mavroidis, “WTO Dispute Settlement, Transparency and Surveillance,”
+The World Economy, 23, no. 4, November 19, 1999.
+40. Cephas Lumina, “Free Trade or Just Trade? The World Trade Organisation, Human Rights and Development
+(Part 1),” 32, http://www.ajol.info/index.php/ldd/article/viewFile/52892/41493.
+41. Lumina, op cit. 29
+36 Toward a Single Global Digital Economy
+Solving for Multistakeholder Entity (MSE) Governance
+Advantages and Disadvantages. Whatever their membership, goals and decision-
+making structures, different Multistakeholder Entities (MSEs) have similar
+advantages and disadvantages. Multistakeholder governance can embody democratic
+processes in a way not practically possible in any governmental system.42 By
+shifting control away from a top-down system in which a single authority sets agendas
+and provides the final word on solutions, MSEs facilitate dialogue about institutional
+priorities. Because MSEs permit all ideas to be advanced, they can encourage
+more creative solutions to problems. Their flexible structures and lack of bureaucratic
+formality can allow them to bring debates to conclusion with dispatch.43
+But MSEs are self-organized; they do not necessarily have legitimacy, respect or
+persuasive power. They may lack financial and other resources. Participants may
+not necessarily represent all stakeholders whose interests are implicated in an MSE’s
+decisions. Organizers may not find a good balance between the inclusion of all
+stakeholders and the need to deliver consensus. Organizers who lack authority may
+find that their judgment calls are influenced by the need to avoid criticism from
+one party or another.44 In some MSEs, the stakeholders with the greatest influence
+on decision making are also the parties that the resulting rules or principles are
+intended to govern. In these cases, questions of accountability arise, particularly
+when procedural controls may not be as strict as in other governing bodies.45
+Because MSEs permit all ideas to be advanced, they can
+encourage more creative solutions to problems.
+Some governmental bodies have also begun to question MSEs’ source of
+authority over the Internet, arguing that without formal cooperation with government
+entities, they cannot exercise legitimate power over Internet policy making
+42. Sivasubraminian Muthusamy, “Building Suitable Frameworks for Internet Governance,” in Internet Policy
+Making, ed. Wolfgang Kleinwächter, Multistakeholder Internet Dialog, Co: llaboratory Discussion Paper Series
+No. 1, 2, (Hamburg, Germany: Internet & Society Co: llaboratory, 2011), 81, http://en.collaboratory.de/publications/
+discussion_papers.
+43. Fiona Alexander, “Towards an Open and Innovative Internet,” in Internet Policy Making, ed. Wolfgang
+Kleinwächter, Multistakeholder Internet Dialog, Co: llaboratory Discussion Paper Series No. 1, 2, (Hamburg,
+Germany: Internet & Society Co: llaboratory, 2011), 28.
+44. Bertrand de La Chapelle, “Multistakeholder Governance,” in Internet Policy Making, ed. Wolfgang
+Kleinwächter, Multistakeholder Internet Dialog, Co: llaboratory Discussion Paper Series No. 1, 2, (Hamburg,
+Germany: Internet & Society Co: llaboratory, 2011), 22–23.
+45. Edward J. Balleisen and Marc Eisner, “The Promise and Pitfalls of Co-Regulation: How Governments Can
+Draw on Private Governance for Public Purpose,” in Internet Policy Making, ed. Wolfgang Kleinwächter,
+Multistakeholder Internet Dialog, Co: llaboratory Discussion Paper Series No. 1, 2, (Hamburg, Germany:
+Internet & Society Co: llaboratory, 2011), 135.
+The Report 37
+for much longer.46 Finally, MSEs lack readily accepted methods of enforcing their
+decisions. Nevertheless, despite all these disadvantages, MSEs can run on their
+record. For 20 years, they have played a major and largely successful role in the
+development of today’s Internet.
+Current MSE Initiatives. Several of the MSEs that have helped define the
+Internet from its inception continue to shape its evolution. What is now a structure
+of independent entities began as an amalgam of small boards and advisory panels
+created by the United States government to oversee management of the Internet.
+In 1992, members of these groups, who reside in many countries, founded the
+Internet Society (ISOC), a not-for-profit organization, in order to host a continuing
+discussion of the Internet’s legal, political, economic and social implications.
+ISOC provides an overarching legal and fiscal structure for the groups that directly
+manage the Internet’s functioning.47 Under ISOC, the Internet Architecture Board
+(IAB) is in charge of the technical and engineering development of the Internet,
+overseeing work by the Internet Engineering Task Force (IETF) and other task
+forces.48 Together, the multiple MSEs functioning under ISOC form a network of
+linked organizations, each with specific responsibilities for guiding the Internet’s
+everyday functioning.
+Of the MSEs, the Internet Corporation for Assigned Names and Numbers
+(ICANN) has one of the longest track records, dating back to the 1990s. ICANN
+originally was a creation of the United States government, but has expanded its
+board and procedures to be a more international body. It oversees new Internet
+domain registrations and IP addresses within those domains. In November 2011,
+the National Telecommunications and Information Administration (NTIA), the
+Department of Commerce’s expert on Internet governance, announced that the
+contract giving ICANN authority over the domain name system would be open
+to competitive bidding. It is unlikely that another organization would be able
+to match ICANN’s resources and expertise closely enough to win the contract.
+However, NTIA and Commerce want ICANN to be more responsive to the government’s
+requests for information and to provide more reasoned and thorough
+explanations of its decisions.49
+Started in 1994, the World Wide Web Consortium (W3C) also provided early
+technical guidance for the Internet. The organization now has offices around the
+world and members from businesses, universities, governmental entities and civil
+46. Catherine Trautmann, “Multistakeholderism Needs Fundamental and Decisive Legitimation,” in Internet
+Policy Making, ed. Wolfgang Kleinwächter, Multistakeholder Internet Dialog, Co: llaboratory Discussion
+Paper Series No. 1, 2, (Hamburg, Germany: Internet & Society Co: llaboratory, 2011), 33-35.
+47. Internet Society, “Who We Are,” Accessed March 16, 2012, http://www.isoc.org/isoc/.
+48. Internet Architecture Board, “Overview,” Accessed March 16, 2012, http://www.iab.org/about/iab-overview/.
+49. Kristin Weinberger, “A Full Guide to the New IANA Contract,” .nxt, November 17, 2011, http://news.dotnxt.
+com/2011/11/17/full-guide-iana-contract.
+38 Toward a Single Global Digital Economy
+society groups as well as interested individuals. W3C does face challenges and criticism.
+Stakeholders have raised concerns about the organization’s effectiveness in
+keeping standards up to date.50 Some believe the balance of power in its decisionmaking
+process needs to be altered.51
+A newer generation of MSEs has begun to address other areas. One relatively
+new participant in the field, the Internet Governance Forum (IGF), has dramatically
+expanded participation in the international discussion over the Internet’s
+future. In 2006, the United Nations established the IGF in response to a 2005
+report from the World Summit on the Information Society (WSIS). The IGF’s
+central body is its Multistakeholder Advisory Group (MAG), made up of 46 representatives
+from government, business and civil society, and in which all members
+participate in equal standing. IGF’s “dynamic coalitions,” addressing specific
+issues of concern such as privacy and linguistic diversity, generally allow participation
+by any interested individual. The Forum’s annual meetings have generated
+unprecedented participation from citizens around the world. More than 2,000
+participants attended the 2011 meeting in Nairobi, Kenya.
+Part of the reason the IGF has succeeded in fostering free dialogue about
+Internet governance may be its disinclination to seek policy-binding consensus.
+This may also be one of the IGF’s major limitations. The lack of pressure to negotiate
+binding rules allows freer communication and the inclusion of many stakeholders
+otherwise not included in the Internet governance process, but it may not
+be an adequate way to implement key Internet-related principles. However, the
+IGF has demonstrated a significant “soft power” ability to define key issues and
+shape norms among the diverse parties it draws to the conversation.52
+The Global Network Initiative (GNI) is an international multistakeholder effort
+at safeguarding freedom of expression and personal privacy against government
+restrictions. In 2008, Microsoft, Yahoo and Google announced the creation of
+GNI.53 GNI’s initial mission was to create core documents laying out principles,
+50. Vlad Alexander, “Why Is the HTML Specification a Failure?” Rebuilding the Web, October 27, 2009, http://
+rebuildingtheweb.com/en/html-spec-failure/. Also, companies focused on solutions to immediate technical
+problems have also expressed worry that W3C’s more creative and far-thinking projects draw the
+organization’s resources away from the creation of practical solutions. See Antone Gonsalves, “W3C Work
+on Semantic Web Draws Criticism,” Information Week, April 8, 2003, http://www.informationweek.com/
+news/8600230.
+51. Paul Festa, “Critics Clamor for Web Services Standards,” CNET News, February 12, 2002, http://news.cnet.
+com/2100-1023-834990.html. For faint praise of the W3C’s improvements in access to more diverse stakeholders,
+see Molly E. Holzschlag, “Misplaced Anger: A Rebuttal to Zeldman’s Criticism of the W3C,” The
+Web Standards Project, July 26, 2006, http://www.webstandards.org/2006/07/26/misplaced-anger-a-rebuttalto-
+zeldmans-criticism-of-the-w3c/.
+52. Wolfgang Benedek, Veronika Bauer and Matthias C. Ketteman (eds.), Internet Governance and the Information
+Society: Global perspectives and European Dimensions, (Utrecht, Netherlands: Eleven International, 2008), 76.
+53. Geoffrey A. Fowler, “Parsing the Google, Yahoo, Microsoft, Global Network Initiative,” Wall Street Journal,
+October 28, 2008, http://blogs.wsj.com/chinarealtime/2008/10/28/parsing-the-google-yahoo-microsoft-global-
+network-initiative/.
+The Report 39
+implementation guidelines and an accountability plan to ensure that its members
+act in support of human rights worldwide.54 Despite two years of active collaboration
+among representatives from business, government, academia and civil
+society, the resulting documents have received mixed responses. GNI continues to
+work on issues at the intersection of human rights and the Internet, requiring and
+reviewing reports from its member companies, seeking new members and supporting
+research on new topics.55
+Even as entities such as the IGF generate broad discussion of new issues, more
+focused expertise and labor may be required to make policy progress in specific
+areas. The Broadband Internet Technical Advisory Group (BITAG) seeks to fill
+that gap for the issue of network management. By convening committees of
+technical experts to address the appropriateness of specific actions by companies
+that affect online traffic flows, BITAG seeks to create certainty in a specific area of
+Internet policy. BITAG’s scope is intentionally narrow and United States-focused,
+at least for now.
+As the current MSE landscape demonstrates, many gaps in Internet governance
+cry out for their own MSEs, such as in the areas of privacy and cybersecurity.56
+In order to focus the discussion on Internet governance, in the November 2011
+Plenary Session, the Aspen IDEA staff presented an idea, labeled a “thought experiment,”
+for implementing the Aspen IDEA Principles through MSE governance.
+The Staff “Thought Experiment.” The Aspen IDEA proposal had two basic
+design principles: (1) respecting national sovereignty (hence the proposal did not
+depend on trade treaty-based governance) and (2) maximizing the use of expert,
+pragmatic and efficient MSEs for accomplishing many of the goals of regulation
+and standard setting. The building blocks of the staff proposal were MSEs called
+“subject matter multistakeholder organizations” (SMOs). The SMOs would engage
+in setting standards and guidelines for behavior, certify companies as complying
+with national policies, certify countries as having national policies that comport
+with the Principles and reach reasoned conclusions on any disputes brought to
+them. The staff proposal recognized a need for “connective tissue,” i.e. the concept
+of mutual recognition among the SMOs. The MSEs discussed above would be
+examples of some necessary SMOs, but they would need to define their goals with
+54. Global Network Initiative, “Core Commitments,” Accessed March 16, 2012, http://www.globalnetworkinitiative.
+org/corecommitments/index.php.
+55. For example, a report containing recommendations for companies and users regarding control of content
+in online services by GNI members the Center for Democracy and Technology and the Berkman Center for
+Internet & Society grew out of a GNI event on the topic. Erica Newland, Caroline Nolan, Cynthia Wong and
+Jillian York, “Report on Account Deactivation and Content Removal: Guiding Principles for Companies and
+Users,” Berkman Center for Internet & Society, Harvard University, September 21, 2011, http://www.globalnetworkinitiative.
+org/newsandevents/Report_on_Account_Deactivation_and_Content_Removal.php.
+56. See the Common Criteria Recognition Arrangement, http://www.commoncriteriaportal.org/.
+40 Toward a Single Global Digital Economy
+more precision in order to fit within the framework advanced by the staff.
+As an example of such precision, an SMO might certify a company as complying
+with the policies of a particular government. That country, as a participant in the
+SMO, would treat such a certified company just as it would treat all other companies
+in its jurisdiction. In short, it would adhere to a nondiscrimination principle.
+There would be no limit to the number and variety of SMOs. The network of
+SMOs would expand and evolve with technology and society. They would each
+adopt the Aspen IDEA Principles as part of their charters. Thus, the Principles
+would become “connective tissues” across all the SMOs.
+Although a central governmental body may struggle to create a new bureaucracy
+covering an emerging network technology in a short period of time, such
+an SMO system would avoid delays and costs by allowing experts and interested
+parties in new areas to form bodies to recommend regulatory approaches, saving
+time and resources. Additionally, SMOs exist outside of the daily political
+wrangling of individual governments, making them easier for companies, NGOs
+and even other governments to trust as independent evaluators.57 Due to that
+independence, governments may also be more willing to learn from SMOs rather
+than from larger political actors. Whatever the specifics of its implementation, a
+governance system for global digital communications based on SMO knowledge
+and independence could reap enormous rewards for nations worldwide and the
+citizens and companies they represent.
+…a governance system for global digital communications
+based on SMO knowledge and independence could reap
+enormous rewards for nations worldwide and the citizens
+and companies they represent.
+Under one variation of the “thought experiment,” governments would each
+enter into an identical contract with a unique SMO, called a Protocol Certification
+Organization (PCO). The PCO itself would be an MSE funded by companies,
+foundations and contracting nations. The PCO would foster, financially support
+and assure the reasonable performance of various expert international multistakeholder
+organizations, each organized around one or more of the subject matter
+57. One example of an “SMO-like” body successfully operating in another field is the International Accounting
+Standards Board. See www.ifrs.org.
+The Report 41
+topics addressed by the Principles. The PCO would rule on the reasonableness of
+any SMO’s decision making, if asked to do so. The PCO would report its decision
+to the public and to all the contracting governments.
+Advocating the MSE Model. Despite MSEs’ expertise and history of Internet
+management, their control over Internet governance is increasingly under threat.
+They are not adequately prepared to defend themselves or to demonstrate their
+efficacy. There is no single, central set of principles and structure for their efforts.
+That is one reason to suggest that all adopt in common the Aspen IDEA or similar
+Principles. MSEs are already re-litigating the same issues, using precious resources
+redundantly. Nor is there a mechanism to foster collective action in interdependent
+areas of concern.
+There was no consensus among the IDEA participants on whether any more
+“connective tissue,” vertical or horizontal, or both, should be created. Some
+are optimistic that MSEs will evolve in appropriate ways to satisfy the concerns
+described in this report. That may be true, but any evolution needs to occur quickly,
+because the dangers to the Internet’s present and future development are real
+and urgent. Moreover, important decisions need to be taken in the near future.
+Generally, “plan beats no plan,” as U.S. Treasury Secretary Geithner famously said
+in the most critical moments of the financial crises of 2008–2009.
+In considering what plan is preferable, the Aspen IDEA Project identified at
+least the following attributes as important for any MSE Internet governance structure
+to be useful:
+• Adherence to principles, either IDEA’s or a reasonably comparable version
+• Open membership and participation
+• Open processes
+• Reasoned deliberation and explanation of decisions
+• Acceptance of a willingness to be challenged and to have to explain processes
+to other forums
+• A dispute resolution mechanism
+• A statement of purpose (standard setting, codes of conduct, topical focus,
+and so forth)
+• Support, including financial, for the continuous and well-informed participation
+of civil society in sufficient form and number to accommodate
+that amorphous but vibrant community within the Internet’s broader
+community
+• An enforcement mechanism
+42 Toward a Single Global Digital Economy
+Stress Testing the IDEA Principles and MSE Governance
+The test of any set of principles, even if all MSEs adopt them, is whether they
+solve problems that most all agree need solving. This section applies the Aspen
+IDEA Principles to four real world situations. The stress tests focus on the application
+of the SMO concept to specific cases.
+The Case of WikiLeaks
+WikiLeaks is an international nonprofit media organization that publishes secret,
+classified and confidential information, primarily from government sources. The
+organization released documents embarrassing to the governments of Somalia,
+Peru, Kenya and other nations in 2006. But its international notoriety exploded in
+2010 when it released a series of documents from United States military and diplomatic
+sources. These releases included video of a United States helicopter attack
+on apparently unarmed Iraqi civilians and cables by State Department employees
+criticizing world leaders. The Department of Justice commenced an investigation.
+Political pressure mounted. Several major companies who provided services to
+WikiLeaks, including Amazon, Apple, PayPal, Visa and MasterCard, terminated
+their relationships with the organization. Some media and human rights organizations
+also criticized WikiLeaks for failing to redact information that could harm
+Afghan civilians serving as informants and other innocents. Supporters at other
+publications and groups, however, welcomed the release of the information and
+established mirror sites to keep the documents available online.
+How should governments, businesses and other participants in the global
+digital marketplace have approached this thicket of thorny issues? The Aspen
+IDEA Principles provide guidance. Under the Principles, governments must balance
+preservation of freedom of expression as defined in international treaties on
+human rights with the need to preserve cybersecurity and national security. Above
+all, any government actions regarding WikiLeaks and other online publishing of
+information must be “transparent, necessary, provided for by law and consistent
+with international standards on free expression and privacy.”
+In the WikiLeaks case, an SMO could have struck the balance the Principles
+call for. Such an SMO might have included for-profit firms and NGOs. It might
+have concluded that WikiLeak’s conduct had gone too far toward disclosure of
+information without considering sufficiently the national security and personal
+safety concerns involved. In that case, the SMO would have declared WikiLeaks
+to be unwelcome in the Internet community and thus would have legitimized
+the refusal of certain important firms to provide the platforms necessary for
+The Report 43
+WikiLeaks. Such a process would have created a clear precedent and would
+have extended the rule of law to a troublesome but important fact situation.
+Governments then would benefit from the creation of clear and internationally
+standardized rules for responding to situations like WikiLeaks in the future, a task
+that SMOs could help accomplish.
+The Case of Internet Privacy
+In 2010, the Wall Street Journal investigated the use of tracking technologies and
+discovered that the top 50 sites worldwide each placed an average of 64 trackers on
+visitors’ computers. The Journal revealed that data-collection companies tracked the
+behavior of children, collected geographic location information via mobile devices,
+used deep-packet inspection to identify users across multiple devices and compiled
+detailed dossiers on private individuals using social networking, résumé, government
+and other sites among other potentially distressing developments. These
+practices, along with evidence of similar actions, intensified the call for new privacy
+rules, either from industry self-regulation or by means of legislation, or both.
+The IDEA Principles regarding consumer protection and privacy speak to
+these issues. Specifically, these actions by private companies revealed by the
+Journal may be contrary to the IDEA Principles’ emphasis on public sector directives
+to maintain enhanced consumer protection, including limits on third-party
+information disclosure and respect for international standards of data treatment.
+Under MSE governance, the facts would be established in an open forum.
+…a specific code of conduct…would allow legitimate
+business practices to proceed [and] assure individuals that
+they could maintain reasonable expectations of privacy as
+to their use of the Internet.
+Private and public sector parties would work toward a specific code of conduct
+that all relevant firms should follow. This process, if successful, would allow
+legitimate business practices to proceed while at the same time it would assure
+individuals that they could maintain reasonable expectations of privacy as to their
+use of the Internet.
+44 Toward a Single Global Digital Economy
+The Case of Google in China
+Google began offering a Chinese version of its website in 2000, but the venture
+soon faced challenges. Two years later, an investigation revealed that Chinese
+Internet service providers were heavily filtering Google’s results, slowing or blocking
+access for China’s 250 to 500 million Internet users. With users flocking to
+Google’s competitor Baidu, a Chinese search engine, Google agreed to filtering
+requirements demanded by the Chinese government in order to operate as
+a licensed company in the country. In 2009, a cyberattack known as Operation
+Aurora mined proprietary information from Google’s networks. This was part of a
+larger series of attacks that experts suspect were carried out by the Chinese government.
+Google continues to operate the Chinese version of its site with government
+approval, but the governmental restrictions prevent Google from offering the value
+of its search engine in competition to Baidu and new competitor GoSo.cn, owned
+by one of China’s state-run media organizations.
+China’s actions implicate the IDEA Principles relating to the free flow of information
+and trusted environment. The Principles require that any government
+restriction on the free flow of information online, including filtering of content, “be
+transparent, necessary, provided for by law and consistent with international standards
+on free expression and privacy.” The Operation Aurora attacks also violate
+the Principle’s directive to respect the privacy of individual users and do not meet
+the need for “clear, transparent and impartial laws, including due process protections
+and reasonable notice” needed to preserve a trusted online environment in
+regards to privacy. Finally, the Principles recommend the creation of international
+standards for cybersecurity, a measure that could prevent future attacks.
+SMOs may not have direct enforcement power, but they do have the ability
+to influence international opinion and help build consensus. Here, SMO actions
+could have drawn attention to freedom of expression issues worldwide. An
+SMO on cybersecurity also could have significant impact on public opinion. By
+encouraging collaboration between technical and security experts, governments
+and businesses, such an SMO could facilitate the setting of security standards
+and policies to prevent, identify and react to cyber-attacks quickly and effectively.
+SMOs may not have direct enforcement power, but they do
+have the ability to influence international opinion and help
+build consensus.
+Such an initiative would require significant financial and other resources, but
+those investments would pay large returns in the safety of individual privacy and
+The Report 45
+industry secrets. Perhaps the most effective response SMOs could orchestrate
+would have been a collective refusal by the global Internet community to connect
+China to the rest of the world—even for a limited time period. This ostracism
+might have had salutary effects.
+The Case of China’s Indigenous Innovation Policies
+The Chinese government has developed a strategy for “indigenous innovation”
+that it hopes will allow Chinese companies to surpass current leaders in the United
+States, EU and Japan in ICT and other technology innovations. A set of guidelines
+created in 2006 encouraged Chinese government agencies to promote domestic
+innovation companies through preferential procurement, discriminatory standardization,
+tax incentives and financial support for research and development
+(R&D). Holders of intellectual property interests in other nations have been particularly
+concerned about China’s encouragement of “assimilating, absorbing and
+re-innovating” foreign technologies into Chinese companies.
+First, several Principles relating to market access speak against China’s protectionist
+actions. Giving Chinese companies advantages through discriminatory
+procurement and standards setting fails to preserve technological neutrality in
+ICT and related markets. Second, respecting intellectual property rules in the ICT
+ecosystem is key to creating the trusted environment described in the Principles.
+China’s “assimilation” of technologies patented by parties in other nations may
+violate various international agreements governing intellectual property use.
+Existing and new SMOs could play a key role in addressing these and similar
+“indigenous innovation” policies. Standards-setting organizations, including the
+IETF and other examples of multistakeholder entities in the ICT sphere, should
+maintain influence over standards so as to prevent discrimination against foreign
+companies and fragmentation of technology markets. Cooperation with the international
+trade system can reinforce existing agreements and point to areas where
+additions to agreements can make significant impacts in trade areas. A strong
+“name and shame” regime generated by SMOs can draw attention to these and
+other discriminatory policies, increasing pressure on nations to comply with common
+principles or risk retaliation and isolation. SMOs focusing on intellectual
+property might even offer expert opinion in judicial proceedings.
+…respecting intellectual property rules in the ICT
+ecosystem is key to creating the trusted environment
+described in the Principles.
+46 Toward a Single Global Digital Economy
+These examples raise some of the hard cases any Internet governance system
+will face. But hard cases lead to good practices, as opposed to bad law. In hard
+cases, MSE governance can be the optimal way to build broad collective cooperation
+in framing responses. Hard cases can exemplify why MSE governance is
+preferable to more legalistic solutions, and certainly to indifference or inaction.
+Conclusion
+The challenges to creating a single global Internet are large and growing. Annual
+ICT revenues now exceed $4 trillion and the ICT industry accounts for a high percentage
+of new high-skilled jobs worldwide. Failure to address in a timely manner
+the fundamental flaws that threaten to cripple and fragment the Internet’s growth
+and its seamless nature are major issues that need to be addressed now.
+The grand political battles in the United States and Europe over budget deficits
+and economic issues, the existence of unsustainable trends across geopolitical
+regions and the rapid spread of the Internet’s related technologies all heighten the
+importance of the Aspen IDEA Project effort to promote policies among governments
+to ensure a robust, global and seamless Internet. Ensuring that the voices of
+NGOs and firms with distinctly different priorities are considered only makes the
+task more difficult. For example, differences between Internet edge companies and
+content firms over intellectual property and the free flow of information entered
+often into the discussions, making compromise on key policies and approaches
+difficult to resolve. The time was not yet ripe for agreement.
+The Principles, recommendations and implementation efforts of the Aspen
+IDEA Project may never be embraced in full or by all relevant stakeholders.
+Indeed, time and new technological change will make some of the details outdated
+before they can be discussed, negotiated and agreed upon. Still, the Aspen IDEA
+participants, who gave so generously of their knowledge and time, have enabled
+the Aspen IDEA Project to offer a valuable start towards what is needed. The ideas
+of IDEA set forth in this report are intended as a valuable stepping stone to a successful
+Internet future.

@@ -1,0 +1,114 @@
+Discussion of Principles related to Stakeholder Roles and
+Responsibilities
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Avri Doria
+Region: USA
+Organization: Independent Researcher
+Sector: Academia
+Keywords: Stakeholder roles and Responsibilities
+Abstract
+Principle S: No stakeholder group should define the roles, responsibilities of another
+stakeholder group. Nor should any Stakeholder group define its own roles and
+responsibilities in isolation from the other stakeholder groups.
+Document
+Principle S: No stakeholder group should define the roles and responsibilities of another
+stakeholder group. Nor should any Stakeholder group define its own roles, responsibilities
+in isolation from the other stakeholder groups.
+In the Geneva Declaration of Principles Paragraph 49, the governments sitting in Geneva
+looked at the Internet - an Internet they had trouble defining, looked at governance of the
+Internet - a concept they could not define, and decided it was their responsiblity to define
+roles and responsibilities for all stakeholders, without an understanding of what it meant to
+be a stakeholder in the Internet. They also defined their own specific roles and
+responsibilities in isolation from the other stakeholder groups. In fact all of the roles and
+responsibilities were defined without any relation to the interrelation of roles and
+responsibilities or the complexities of changing roles and responsibilities over time and
+task.
+Whether it was in the WGIG or during the later stages of WSIS and ever since, the
+governments have refused to reconsider the definitions made without the consent of the
+other stakeholders and without a full understanding of the interrelations and variability of
+roles and responsibility among actors in Internet governance
+The definition by governments of the roles and responsibilities of other actors in Internet
+governance has been one of the most fundamental blocks to making progress on many of
+the issues of Internet governance. How does one cooperate and find consensus with a
+group that is incapable of recognizing ones actual roles and responsibilities?
+We cannot go back and correct these government declarations, as much as some of us
+would like to do so. We can only move forward and try to understand and to recognize
+the actual roles that the various actors fill and the responsibilities they assume in these
+roles.
+In defining the roles of various actors we may also do well to avoid the simple
+categorization of Government, Private Sector and Civil Society. Over the years it has
+become obvious that whether one was speaking of Governmental actors or Non-
+Governmental actors, the breakdown was far more complex that a simple triad.
+In one respect it is fairly clear, there are Governmental and Non-Governmental actors.
+That is the original UN distinction and regardless of what the WSIS outcome documents
+say, that is essentially still the breakdown in effect. Whether it is the IGF MAG or UN
+Working Groups (WG) such as the WG of Internet governance (WGIG) or the WG on
+Enhanced Cooperation (WGEC), half of the seats always go to Governmental actors and
+half of the seats go to Non-Governmental actors according to various proportionalities
+among the stakeholder groups within the Non-Governmental actors. The Governments
+are never willing to accept less than half of the seats.
+Going forward, if we wish to make progress, we need to recognize the full diversity of
+stakeholders.
+In terms of the subdivision of Non-Governmentals, that never breaks down as simply as
+Private Sector, Civil Society plus maybe Academia and Technical Community. As was
+seen in /1net, as soon as one starts to do any breakdown of stakeholder groups, further
+stakeholder groups appear, whether it is Private Sector breaking down into Big Business,
+Little Business, Service Provider, Registry, Registrar, Reseller or owner of intellectual
+property, it does not remain a fixed stakeholder group for very long. Likewise Civil Society
+quickly starts to break further into stakeholder groups like rights advocate, aid worker,
+philanthropy or NGO staff. Beyond these stakeholder groups, groups like Media and
+Librarians look for their place in the stakeholder mix. The basic Private Sector and Civil
+Society, though, don’t begin to cover the groups like User, Community Informatics or
+Technical Community that can be either Private Sector, Civil Society or both.
+Government stakeholders may also be broken down into stakeholder groups beyond the
+diplomats and bureaucrats that are the normal participants in the multistakeholder
+processes. As one starts to look at the Governmental stakeholders one quickly sees the
+emergence of other stakeholder groups such as regulators, legislators, jurists, military,
+intelligence workers, law enforcement, privacy and data protection officers,
+intergovernmental civil servant and others. The complexity of the issues being discussed
+often requires the participation of many of these stakeholder groups.
+While the division between Governmental and Non-Governmental remains relatively clear,
+further breakdown is dependent on the task and hand and the skills needed. The ability to
+break down the roles of the various actors is often dependent on the task that is being
+discussed. One also finds that the same individual can occupy multiple roles at the same
+time, or diverse roles over an extended period of time. Government workers can be
+technical contributors. Technical contributors, and even civil society members, can be
+part of government delegations. Defining roles is complex and defies as simple a division
+as we find in the WSIS outcome documents.
+When one starts to consider the responsibilities of each of these roles one finds that the
+responsibilities also vary over issues, time and are subject to the phase of a process. For
+example one stakeholder may have a primary responsibility while an Internet protocol is
+being designed, though other stakeholders would still have responsibilities that
+contributed to the trade-off decisions made in multistakeholder discussions. Once the
+protocol is designed, a different set of stakeholders may have the primary responsibility,
+without eliminating the multistakeholder process that allows all to assume their
+responsibilities and contribute to developing appropriate policies and implementations.
+When it comes to making national public policy, a task where government workers have
+priority, all the other stakeholders still have their own responsibilities in the process. In
+terms of international Internet policy all stakeholders have roles and responsibilities, and
+because of their ability to create treaties and their obligations that derive from the Human
+Rights Declarations and Covenants, governments do have a special responsibility to
+defend the human rights, without having the primary responsibility for Internet public
+policy.
+The roles and responsibilities of stakeholders are not fixed, they vary with the
+circumstance and the type of issue being dealt with. Divisions into 3, 5 or 7 fixed
+stakeholder groups will always fall apart at some point in the process. This does not
+mean that there are stakeholder groups, though a multistakeholder model such as that in
+the IETF recognizes stakeholders without forcing them to divide themselves into fixed
+stakeholder groups. It does mean, however, that we need a more complex and fluid
+notion of stakeholders and stakeholder groups if we are going to fulfill the promise of the
+multistakeholder model, without always finding ourselves in the situation of either leaving
+some group out in the cold, or finding stakeholders shoehorning themselves into groups
+that do not quite fit the reality of their responsibilities.
+We cannot change the the WSIS outcome documents. They are part of the history we are
+building the future of Internet governance upon. But we can rethink, and refine our
+understanding of these roles and responsibilities in light of reality and the experience we
+have gained over the years.
+To return to the principles stated at the beginning of this note: No stakeholder may define
+the roles and responsibilities of other stakeholders, while at the same time no stakeholder
+group can define their own roles and responsibilities without interacting with the other
+stakeholder groups. The responsibility for defining roles and responsibilities belongs to all
+stakeholders working together. As we move forward, we need to set aside time and effort
+to better understand and recognize the diversity and complexity of roles and
+responsibilities in Internet governance.

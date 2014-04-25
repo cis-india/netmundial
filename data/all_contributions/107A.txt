@@ -1,0 +1,84 @@
+Civil society must participate of decisions about Internet
+governance
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Tatiane Pires da Silva
+Region: Brasil
+Organization: Centro de Estudos da Mdia Alternativa Baro de Itarar
+Sector: Civil Society
+Keywords: participation, civil society, governance model
+Abstract
+This text aims to explain some reasons why it is so important that civil society take part in
+the decisions about the Internet.
+Document
+Principles for Governance and Use of Internet
+The following list of principles was elaborated by Brazilian Internet Steering Committee to
+support and provide orientation for its actions and decisions. [1]
+1) Freedom, privacy, human rights
+The use of Internet must be driven by the principles of freedom of expression, individual
+privacy and the respect for human rights, recognizing them as essencial to the
+preservation of a fair and democratic society.
+2) Democratic and collaborative governance
+Internet governance must be exercised in a transparent, multilateral and democratic
+manner, with the participation of the various sectors of society, thereby preserving and
+encouraging its character as a collective creation.
+3) Universality
+Internet access must be universal so that it becomes a tool for human and social
+development, thereby contributing to the formation of an inclusive and nondiscriminatory
+society, for the befefit of all.
+4) Diversity
+Cultural diversity must be respected and preserved and its expression must be stimulated,
+without the imposition of beliefs, customs or values.
+5) Innovation
+Internet governance must promote the continuous development and widespread
+dissemination of new technologies and models for access and use.
+6) Neutrality of the network
+Filtering or traffic privileges must meet ethical and technical criteria only, excluding any
+political, commercial, religious and cultural factors or any other form of discrimination or
+preferential treatment.
+7) Unaccountability of the network
+All action taken against illicit activity on the network must be aimed at those directly
+responsible for such activities, and not as means of access and transport, always
+upholding the fundamental principles of freedom, privacy and the respect for human rights.
+8) Functionality, security and stability
+The stability, security and overall functionality of the network must be actively preserved
+through the adoption of technical measures that are consistent with international
+standards and encourage the adoption of best practices.
+9) Standartization and interoperability
+The Internet must be basedon open standards that facilitate interoperability and enable all
+to participate in its development.
+10) Legal and regulatory environments
+The legal and regulatory environments must preserve the dynamics of the Internet as a
+space for collaboration.
+At Center of Studies of Alternative Media Barão de Itararé, we believe that these are the
+principles that must guide a global and multi stakeholder Internet governance ecosystem.
+These principles define guidelines to ensure that Internet remains an environment open
+for people and friendly for innovation.
+Multi stakeholder governance model
+Governments, companies, academy and civil society must have representatives where
+decisions about the Internet are taken. This governance model, where all the stakeholders
+really participate, is the way to encourage discussions about the views and concerns of
+each participant regarding to decisions to be made.
+Brazilian Internet Steering Committee already has this representation model, in fact it was
+elaborated to have representatives of these four sectors in its composition, and it has
+done a remarkable work for the development of Internet in Brazil. We seek to defend at
+NETmundial that this multi stakeholder model is the one that should guide the governance
+of the Internet.
+Threats to the future of the Internet
+Global companies have lobbies trying to persuade congressmen to pass legislation
+against freedom of speech and against the very nature of the Internet that is sharing
+knowledge. We have seen this happen in many countries.
+Now, in Brazil, these lobbies are trying to change a legislation called Marco Civil da
+Internet so that companies could break the neutrality of the network. Marco Civil da
+Internet is a legal framework elaborated with the contribution of thousands of people both
+from Internet and from public hearings. Lobbyists have spoken openly with some
+congressmen about funding their next campaign if they now agree with their views about
+Internet. Civil society organizations are playing a key role right now to fight these lobbies,
+and Center of Studies of Alternative Media Barão de Itararé has joined this effort against
+the lobbies from the beginning.
+For this reason we cannot stress enough the vital importance of civil society participation
+in every forum gathered to discuss the future of the Internet. We aim to collaborate so that
+Internet remains open and free environment.
+[1] Brazilian Internet Steering Committee's Principles for Governance and Use of Internet
+http://www.cgi.br/regulamentacao/pdf/resolucao-2009-003-pt-enes.
+pdf/regulamentacao/resolucao2009-003.htm

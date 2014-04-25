@@ -1,0 +1,246 @@
+Document
+Overview
+
+ 
+
+Any plan to transfer Stewardship of IANA over to another entity should be preceded by extensive consultations with all stakeholders.  This is one plan, among others, that should be discussed over the course of the May 2014 - May 2015 so that a consensus solution can be found prior to September 2015 when the current contract expires.  It needs to be understood that any proposal for transition from the current IANA arrangements or US Government oversight would require a transition plan that was well formed, endorsed by stakeholders and the key customers of IANA services, in order to guarantee the security and stability of the Internet.
+
+ 
+Principles of the roadmap
+
+ 
+
+In defining a roadmap for IANA several principles should hold:
+
+ 
+
+* Stability and security of the Internet should be the highest priority at all times.
+
+ 
+
+* Completing the plan to bring IANA functions under ICANN as originally documented in the White Paper is an advisable and overdue milestone, but not the ultimate goal.
+
+ 
+
+* Oversight of IANA should be a multistakeholder function
+
+ 
+
+> No single stakeholder group should have sole oversight of IANA
+
+ 
+
+> No single country should have a preeminent role in overseeing IANA
+
+ 
+
+ 
+
+* As IANA’s functions are limited to data maintenance, database provision and coordination -- whose methods are determined in IETF, ICANN and the RIRs -- IANA should not have a policy role. Each of these organization must retain the oversight of its own data and methods.
+
+ 
+
+* Oversight of IANA will focus on performance, adherence to Service Level agreements and MOUs with the organizations with which it has signed MOUs (referred to as Partners elsewhere in this document).  These MOUs should be modeled on the current MOU between ICANN and the IETF, as described in RFC2860, RFC6220 and in subsequent updates to the MOU, with similar reporting requirements and appropriate service level agreements.
+
+ 
+
+* Reporting requirements and service level agreements between IANA and its partners should be negotiated and executed in a public and transparent way; ensuring that all affected stakeholders are involved in the development of those requirements.
+
+ 
+Scope of the IANA Operations Function
+
+ 
+
+Under this proposal, IANA’s Operations Scope would be limited to four major activities:
+
+ 
+
+* global apex of Internet numbering resources (for example IPv4, IPv6 addresses, AS numbers, etc.);
+
+ 
+
+* global apex of Internet DNS-based naming resources (including the root zone of the public, global DNS, management of the .arpa and .int top-level namespaces, and IDN practices)
+
+ 
+
+* management of Internet protocol parameters as required from the IETF
+
+ 
+
+* maintenance of the Internet’s time zone database
+
+ 
+
+The intent of this proposal is insure that the scope of the current IANA Operations Function is not changed or added to during the transition to Stewardship by an independent IANA Stewardship Group (ISG). Once the IANA was a fully independent organization it is intended that the functions listed above would be added to, changed or even moved to other organizations only through negotiation and consensus agreement between the IANA Stewardship Group and those organizations that are “Partners” of IANA (see below).
+Plan
+
+In order to complete the White Paper Plan the US Government should first relinquish its oversight role to a new IANA Stewardship Group while the IANA Operational Activity temporarily remains executed by ICANN.  The IANA Stewardship Group would be an independent group (see below) that provides strategic and planning direction for IANA’s Operational Activity.  This intermediate step would see the IANA Stewardship Group operate in much the same way as the Internet Architecture Board (IAB) operates under the Internet Society (ISOC) umbrella: an independent group where ICANN would be responsible for IANA Operational Activities but where the IANA Stewardship Group would be responsible for the strategic direction of IANA.
+
+This would be done as an intermediate step before IANA is established as an independent entity.   ICANN’s limited, temporary stewardship of ICANN should be defined in MOUs between ICANN and the various Internet organizations that rely on IANA, such as IETF, and the RIRs (the partners) for a maximum of 3 years.
+
+ 
+
+Immediately upon the transferring IANA to ICANN stewardship, the IANA Stewardship Group would be responsible for:
+
+ 
+
+* Oversight of IANA function under the ICANN corporate umbrella according to the MOUs.
+
+ 
+
+* Consultation with stakeholders on the structure and processes, including oversight, of a free standing IANA
+
+ 
+
+* Within 3 years of the date of the transfer, establishing an independent IANA
+ 
+IANA Stewardship Group
+
+ 
+
+The IANA Stewardship Group is intended to reflect broad stakeholder input into the operations and strategic direction of the IANA Operational Activity during the interim period. The membership must reflect a globally diverse balance of the key stakeholders who use the work products of IANA.  The IANA Stewardship Group should be organized composed of:
+
+ 
+
+* 1 Representative from each of ICANN supporting organizations
+
+ 
+
+> Addressing Supporting Organization (ASO)
+
+ 
+
+> Country Code Name supporting Organization (CCNSO)
+
+ 
+
+> Generic Name supporting organization (GNSO)
+
+ 
+
+ 
+
+* 1 Representative from each of the ICANN advisory committees
+
+ 
+
+> At-Large (users) Advisory Committee (ALAC)
+
+ 
+
+> Government Advisory committee (GAC)
+
+ 
+
+> DNS Root Server Advisory Committee (RSSAC)
+
+ 
+
+> Security and Stability Advisory Committee (SSAC)
+
+ 
+
+ 
+
+* 1 Representative from each of the Regional Internet Registries
+
+ 
+
+> AFRINIC
+
+ 
+
+> APNIC
+
+ 
+
+> ARIN
+
+ 
+
+> lacnic
+
+ 
+
+> RIPE
+
+ 
+
+ 
+
+* 1 Representative from each of the following ISOC entities
+
+ 
+
+> Internet Society Chapters
+
+ 
+
+> Organization Advisory Council
+
+ 
+
+ 
+
+* 1 representative from the Internet Architecture Board (IAB)
+
+ 
+
+* 1 representative from the Internet Engineering Steering Group (IESG) for IETF
+
+ 
+
+* 1 representative from the IGF Multistakeholder Advisory Group (MAG) in each of the following stakeholder groups:
+
+ 
+
+> Academia
+
+ 
+
+> Civil society
+
+ 
+
+> Private Sector
+
+ 
+
+> Government
+
+ 
+
+> Intergovernmental Organization
+ 
+ 
+Eventual structure of independent IANA
+
+ 
+
+The framework advised in this recommendation is that of an International Non Governmental Organization which has host country agreements with several countries that guarantee that IANA would be governed by its MOUs.  It is recommended that the IANA data and functions be distributed in several countries that provide the greatest protections for an open, accessible and trusted Internet. The oversight mechanism for the independent IANA must be defined by the IANA Stewardship Group prior to the signing of MOUs with IANA Partners (see Milestones, below).  In addition to resolution of conflicts by internal processes there should be an appeals mechanism that relies on a trusted International Arbitration entity. The initial internal conflict resolution processes and appeals mechanism must be in place prior to the signing of MOUs with IANA Partners (see Milestones, below). The structure and framework for IANA should, to the full extent possible, be transparent and accountable to those with whom it has signed MOUs.  
+
+ 
+Milestones:
+
+ 
+
+* MOUs USG turns control of IANA over to ICANN.  September 2015
+
+ 
+
+* Consultation on form of the free standing IANA 2016 -2017
+
+ 
+
+* Negotiation of host country agreement 2017 -2018
+
+ 
+
+* MOUs signed and IANA established as free standing in 2018.
+
+ 
+Funding
+
+ 
+
+Funding levels to be established as part of the MOU preparation with agreement prior to the signing of MOUs with IANA Partners (see Milestones, below).  Questions of whether IANA should charge for any of its services to be resolved at a later time and to be governed by the MOUs with its partners

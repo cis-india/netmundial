@@ -1,0 +1,51 @@
+Global Multi-Stakeholder Meeting on the Future of Internet Governance/NETmundial
+Sao Paulo, April 23-24
+Contribution from the Government of Canada
+The Government of Canada welcomes the opportunity to contribute to the discussion at the Sao Paulo NETmundial meeting in the elaboration Internet governance principles and a roadmap for the further evolution of the Internet governance ecosystem. We appreciate the opportunity to participate in the NETmunidal meeting, and look forward to a broad and inclusive multistakeholder discussion.
+Internet Governance Principles
+Canada’s vision of the Internet is one which is free, open and secure. We envision a future in which: individuals in every corner of the globe can easily connect to the Internet, information and ideas flow freely online, individuals’ rights and freedoms are protected, networked technologies continue to generate prosperity and spur innovation, and in which our information and digital infrastructure are protected.
+Canada recognizes importance of efforts taking place in a range of organisations in support of the development of Internet principles to reflect national, regional, and international priorities. Canada also acknowledges the key principles established by the World Summit on the Information Society (WSIS), Organization for Economic Cooperation and Development (OECD) Principles for Internet Policy Making, the G8 Deauville declaration, Human Rights Council Resolution 20/8, and the Freedom Online Coalition founding declaration as significant contributions to the wider discussion of Internet governance principles. The Principles for the Governance and Use of the Internet developed by the Brazil Internet Steering Committee are a particularly noteworthy example at the national level.
+We are optimistic that the NETmundial meeting provides an opportunity to take stock of these previous efforts, to find the common ground and to contribute to the current and future discussions on Internet Governance issues. In order to achieve this objective, Canada believes our discussions would benefit from the following principles with the following qualities:
+- High-level in nature in order to stand the test of time in a fast-changing, technology driven environment;
+- Drawn from common provisions found in previous articulations of Internet principles, existing international law and based on Internet-related tenets that already enjoy widespread or universal support;
+- Reflect a consensus among all stakeholders within the global Internet community.
+2
+Canada offers the following principles which, in our view, reflect these qualities and which will serve to
+foster an environment for an Internet which is free, open and secure:
+A Free Internet
+Promote and Protect Human Rights - Respect for human rights, including expression,
+association, and privacy-related rights is essential in promoting and preserving a democratic
+society. The same rights apply equally online as they do offline.
+Universality – Access to information on the Internet should be universal and non-discriminatory.
+Rule of law – Laws, regulations and policies applicable to the Internet are transparent and
+respect the rule of law. International law and other traditional norms of behaviours that govern
+state relations, including international human rights law and international humanitarian law
+apply online as they do offline.
+An Open Internet
+Inclusive Multistakeholder Decision-making – Stakeholders from across the global Internet
+community, including Internet users, business, expert technical organizations, and governments
+collectively develop policies and make decisions based on consensus in a transparent and
+inclusive manner.
+One global Internet– Commitment to the Internet as a single, interoperable and unfragmented
+technology to allow Internet users to innovate and capture the social and economic benefits.
+Foster Innovation and Economic Growth - It is critical that the international community rally to
+preserve and foster an online environment that promotes, rather than constrains dynamism and
+human creativity. Internet governance must be undertaken in a way to encourage innovation
+and promote economic growth and development. Reinforcing an open and decentralized
+Internet will bring economic benefits to all. By 2017, over a billion new Internet users are
+expected to come online, with the vast majority connecting via mobile devices in the global
+south. It will be important to ensure that these new Internet users are able to contribute and
+influence outcomes as part of the multistakeholder decision-making processes at the relevant
+institutions, including those in place to address Internet technical matters.
+A Secure Internet
+Promoting security – Internet users must be able to have trust and confidence that they are safe
+online and not be subject to malicious cyber activity. All stakeholders have a role to play in
+improving security of digital networks that support economic prosperity and social
+development.
+Stable, Secure and Resilient – The security, stability and resiliency of the Internet is of
+paramount importance and all stakeholders must work together to ensure that it is preserved.
+3
+A Roadmap for the Future Evolution of the Internet Governance Ecosystem
+A Strengthened Multistakeholder model – The multistakeholder model of Internet governance has been a key driver in the success of the Internet to date. Canada firmly supports this model and believes it must continue to be the foundation for all discussions in order to preserve the Internet’s open architecture. Canada firmly supports strengthening this model. Government centric approaches would stifle the innovation and dynamism associated with the Internet. The current model has led to enhanced productivity, innovation and inclusion, creating better quality of life and economic growth in the global digital economy. Canada would not support an existing or new multilateral institution to oversee or manage the Internet ecosystem. Doing so would pose a real risk of diminishing true multistakeholder governance, and replacing it with a state centric, top down approach. Such an approach does not adequately recognize the decentralized nature of the Internet and the need to adapt to rapid technological changes as the Internet evolves.
+Support for the further globalization of the Internet technical organizations - Promote inclusivity by working with partners, yet being clear that security and stability is of paramount importance. Canada would be interested in pursuing questions related to further globalization in order to reflect the evolution of the Internet.
+An Invigorated Internet Governance Forum (IGF) – Taking into account the recommendations of the Working Group on the Improvements of the IGF, Canada underscores the value of the IGF as a forum for discussion of Internet Public Policy related issues and calls for the extension of the IGF mandate beyond 2015. In addition, it is important that the IGF secretariat be strengthened.

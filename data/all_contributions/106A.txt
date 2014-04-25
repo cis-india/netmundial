@@ -1,0 +1,174 @@
+Kuwait Information Technology Society (KITS) Submission
+on Internet Governance Principles and Roadmap for the
+further Evolution of the Internet Governance Ecosystem
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Qusai AlShatti
+Region: Kuwait
+Organization: Kuwait Information Technology Society
+Sector: Civil Society
+Keywords: Internet Governenance Principles, Internet Governance,
+Roadmap for the further Evolution of the Internet Governance Ecos
+Doc Attached: Click here to see the doc 1
+Abstract
+Kuwait Information Technology Society (KITS) is pleased to provide its input for the
+NetMundial Global meeting on the Future of Internet Governance Sao Paolo, Brazil, 23-24
+April 2014. KITS contribution on Internet Governance Principles provides a number of
+considerations to be noted and highlights a proposed list of principles. KITS submission
+includes consideration addressing the Roadmap for the further Evolution of the Internet
+Governance Ecosystem.
+Document
+Kuwait Information Technology Society (KITS) Submission on Internet Governance
+Principles and Roadmap for the further Evolution of the Internet Governance
+Ecosystem
+NetMundial Global Meeting on the Future of Internet Governance
+Sao Paolo, Brazil, 23-24 April 2014
+Prepared by: Qusai AlShatti
+March 8, 2014
+Abstract:
+Kuwait Information Technology Society (KITS) is pleased to provide its input for the
+NetMundial Global meeting on the Future of Internet Governance Sao Paolo, Brazil, 23-24
+April 2014. KITS contribution on Internet Governance Principles provides a number of
+considerations to be noted and highlights a proposed list of principles. KITS submission
+includes consideration addressing the Roadmap for the further Evolution of the Internet
+Governance Ecosystem.
+Section 1. Internet Governance Principles
+Internet Governance (IG) has become an increasingly important issue on global level
+since its introduction by the Tunis Agenda in the second phase of the World Summit on
+Information Society (WSIS) November 2005. The need for a principle based approach
+arises from many factors, part of it are:
+The increase role of the Internet in our daily life.
+The Internet impact on the economic and social conditions.
+The Internet users high growth rate, especially from the developing world,
+and their demands.
+The need for improved Internet access.
+The different views of stakeholders groups from different regions of the
+world on matters related to IG.
+Considerations on IG Principles:
+1.
+It is important to agree on the definition of Internet Governance and set the
+principles in accordance to it. Over the years many interpretations of what is meant
+by IG have been surfaced, however we can say that the only working definition we
+have for Internet Governance is paragraph 34 of the Tunis agenda:
+“ the development and application by governments, the private sector and civil society, in
+their respective roles, of shared principles, norms, rules, decision-making procedures, and
+programmes that shape the evolution and use of the Internet.”
+1.
+Internet Governance and the development of its principles is not only a global issue,
+it is a national and a regional issue too. We need to promote a principled based IG
+approach on all levels to unify our understanding of IG, the Internet itself and the
+respective role of each stakeholder group.
+2.
+The Issue of sovereignty and national jurisdiction and where or how they are
+applied in cyberspace need to be addressed.
+3.
+Internet Governance principles should not be discussed or addressed as a reaction
+to incidents. They should be addressed in terms of the evolution of the Internet to
+be a better environment and an improved resource to its users.
+4.
+Different regions of the world, different stakeholders groups and different cultures
+and societies have different priorities and concerns regarding the Internet.
+Therefore, It should be acceptable to have diverse sets of principles that are
+different from each other as long as they are developed with an acceptable conduct
+and as long as they preserve civil rights to an acceptable level. Within that respect,
+a global set of a high level IG principles are needed to be developed that is
+acceptable to all and that is considered the basic fundamental sets of IG principles
+to be followed by everyone.
+5.
+Over the years, efforts have been made to develop IG principles. These efforts
+mostly were made by either an entity from a single stakeholder group or developed
+nationally as in the Brazilian model which is considered the only set of principles
+that is into effect today. While these efforts can serve as a reference, it is important
+that the development of IG principles especially on global level should involve a
+balanced global representation of all stakeholder groups from different part of the
+world.
+6.
+The Universal Declaration of Human Rights, the International Covenant on Civil and
+Political rights, The Geneva Declaration of Principles and The Tunis Agenda should
+be the basis of any globally adopted Internet Governance Principles. National
+efforts in this direction should reflect also civil rights as stated in national
+constitutions and legislations.
+Proposed Internet Governance Principles:
+1.
+Internet Governance is a multistakeholder process in nature. Principles, policy
+development and procedures related to IG should be all developed in an open,
+inclusive, transparent and democratic process with a balanced involvement and
+contributions from all stakeholder groups.
+2.
+The Internet should be regarded as a public good for all Internet users and
+stakeholder groups. They should all be empowered with the capabilities and
+resources that the Internet can offer to them.
+3.
+The same rights applied to people Offline should be applied online. This is should
+not only be led by The Universal Declaration of Human Rights and the International
+Covenant on Civil and Political rights, but also by countries constitution and national
+legislation. The issue of sovereignty in this respect should be addressed.
+4.
+All Internet users should be entitled to an equitable, just and open access to the
+Internet. Individuals with disabilities, living in rural areas, closed communities,
+isolated geographical areas, or belong to indigenous groups are all entitled to the
+same equal access.
+5.
+Freedom of expression, the free flow of information and open access to knowledge
+should be preserved to all Internet users.
+6.
+Net neutrality and open standards development should be preserved and
+maintained.
+7.
+Internet Governance should foster innovation, create opportunities, improve social
+and economic conditions in an equal manner to all Internet users. Intellectual
+property rights should respected and protected.
+8.
+Individuals’ privacy and data protection measures in accordance with civil rights and
+states sovereignty should be respected. Instruments to protect them from any type
+of violation should be established.
+9.
+The Internet should preserve and promote cultural and linguistic diversity. The
+Internet is a borderless place were cultures and people meet, communicate and
+outreach. Tools to foster and enrich local content should be promoted and
+encouraged.
+10.
+Internet stability, security, robustness and resilience are crucial factors to establish
+user confidence and trust. They are equally important to the economic and social
+evolution of the Internet. Within this respect, Internet Governance should ensure
+that proper instruments and actions addressing these factors are adequately
+addressed and implemented.
+11.
+The day-to-day technical operation of the Internet is a privately-lead effort by the
+technical community independent from the influence of any single government.
+Section 2. Roadmap for the Further Evolution of the Internet Governance Ecosystem
+It is important in the first place to identify the organizations or platforms related to the
+Internet Governance Ecosystem. This should be conducted in a neutral manner and an
+acceptable consensus on it should be reached.
+It is further important that the initiation of any process related to the evolution of the
+Internet Governance Ecosystem should be multistakeholder in nature where every
+stakeholder group is engaged in equal footing to discuss all matters involved.
+The Internet Governance Forum (IGF) has proved to be an effective independent platform
+to discuss issues related to IG. Its global success has initiated and influenced many
+similar forums on regional and national levels. This is an indicator of how the IGF became
+an effective tool to discuss Internet Governance issues. Its open, inclusive and
+multistakeholder nature contributed mainly to its success. Its continuation at this stage of
+time is essential to all stakeholders groups. However it is important at this stage to
+reconsider its format and outcomes in order for it to play a better role on global Internet
+governance issues and policy development.
+The Internet is a global public good. The Internet Eco System (including Critical Internet
+resources: root servers, domain names and addressing), requires a global model that is
+fair, open, transparent and accountable to the wide range of Internet users and involved
+stakeholders. The global model should be based on the current existing organizations
+rather than establishing new legal structures or new umbrellas.
+While the discussion on the evolution of the Internet Governence Ecosystem focuses on
+the globalization of the ICANN and the IANA functions, It is important to address the
+status of other IG related organizations that are limited in its process to a specific
+stakeholder group. Such organizations should be open to the equal participation of all
+stakeholder groups in any process related to the development of IG policies. The ICANN
+should be praised for the steps it took over the past years to improve its bottom up
+process in policy development as well as its openness and engagement with many
+stakeholder groups in different regions of the world on issues related to Internet
+Governance and policies.
+Yet further steps are needed toward the globalization of the ICANN and the IANA
+functions. The globalization of the ICANN should include its status to become more of a
+global organization. However, more thoughts need to be given to the globalization of the
+IANA functions due to its technical nature and its vital role in the security and stability of
+the Domain Name System. Future steps taken toward the globalization of the ICANN and
+the IANA functions should be evolutionary and should not affect the stability, robustness
+and resilience of the Internet.

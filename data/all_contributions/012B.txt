@@ -1,0 +1,83 @@
+Document
+
+Internet Governance Principles
+
+ 
+
+1. The United Kingdom Government recognises that a number of organisations have developed different kinds of internet principles over recent years, including the UN Human Rights Council, the OECD, the Council of Europe, the G8, the European Commission, the Internet Rights and Principles Coalition and CGI.br. These principles all bring diverse and valuable perspectives to the debate. We should not lose sight of rich store of thinking and the range of viewpoints that it provides. Nevertheless, building a consensus at global level on a set of high level principles offers an important opportunity to establish common ground.
+
+ 
+
+2. Of course, a set of high level principles on their own will not be able to solve the many complex issues that the development of the internet has created or harness the many opportunities that the internet offers. There will always be differences of view and challenging problems to address. But provided that such principles identify areas of genuine global consensus, they could act as a valuable guide to how we should approach discussions in the future about internet governance issues and as a useful global reference point for those discussions.
+
+ 
+
+3. There are two main reasons why it is important that any set of principles is high-level. First, the internet and how people use the internet is continually evolving and changing. It is crucial that any set of global principles should be future-proof and technology neutral. If they are too detailed and specific to the challenges we face today, they will quickly become out of date as technology and society changes. Secondly, if the principles are to be useful then it is important that there is genuine consensus among all stakeholders around the world: the more agreement there is, the more useful they will be. A smaller number of high level principles will be more effective than a longer list of detailed statements.
+
+ 
+
+4. The development of a set of high level principles should start by considering the principles which have already been developed and seek from them to identify common ground. In the view of the United Kingdom, the principles developed by CGI.br offer a very good place to start. Some of these Brazilian principles have not attracted support from all stakeholders, and some of the language they use could be brought more fully into line with the multi-stakeholder model which was confirmed at the World Summit on the Information Society. Nevertheless, many of these Brazilian principles have attracted widespread support. It may be helpful to take them as a starting point for discussions to identify a small number of high-level principles around which we can build long-lasting global consensus.
+
+ 
+
+Roadmap for the Further Evolution of the Internet Governance Ecosystem
+
+ 
+
+The multi-stakeholder model
+
+ 
+
+5. One of the key reasons for the success of the internet has been its multi-stakeholder model of governance and the United Kingdom continues unequivocally to support that model. The multi-stakeholder model needs to continue to adapt and evolve in order to remain fit for purpose. Indeed, one of the strengths of this model is its flexibility. The internet has always adapted and changed and will continue to do so, often very quickly, and it is important that its governance model is also able to adapt. There is a significant risk that attempts to codify and set in stone the exact roles and responsibilities of each stakeholder will introduce an inflexible structure which is unable to respond effectively to emerging challenges and opportunities and which will stifle the dynamism and innovation of the internet.
+
+ 
+
+6. The Internet Governance Forum (IGF) has played an important role in bringing stakeholders together to discuss issues, develop consensus and identify solutions. The IGF needs to find ways to become more easily navigable, however, to have more structured discussions and lead to clearer outputs. The development of dynamic coalitions is a good example of how relevant stakeholders can come together to address specific issues and this should be encouraged. A strengthened secretariat capacity could also help in this process and help ensure that all stakeholders are able effectively to participate. Initiatives such as the European Commission’s GIPO initiative could also help to make it easier for stakeholders who do not have significant resources to navigate and engage in multi-stakeholder processes more easily.
+
+ 
+
+Capacity building
+
+ 
+
+7. There is arguably a need for a culture change in the internet governance eco-system. Discussions on internet governance too often lose sight of the need to support stakeholders who do not have significant resources and the need for capacity building in the developing world and emerging economies. Better communications and access to new markets can drive economic development in remote and deprived communities around the world. Services such as e-health and e-education can offer benefits to millions of people. The internet could transform lives in the developing world far more radically than it has in the developed world. We all have a responsibility to focus on these opportunities.
+
+ 
+
+8. It is important that international internet organisations are open to the needs and concerns of stakeholders from developing countries and that their processes are navigable and accessible. In Europe, market liberalisation has brought about a transformation in telecommunication services. This, together with appropriate regulation to shield networks and platforms from liability for content transmitted by third parties, has created an environment in which new services can start and grow. More attention and support is needed to help developing countries to open up their markets and reduce the costs of connectivity by adopting proportionate licensing and regulatory regimes which encourage companies to invest in networks. Local internet exchange points, for example, can play a major role in promoting more efficient traffic routing, reducing costs and encouraging the development of more local content, but they are too often held back by disproportionate licensing requirements on themselves or their participants. Our debates should pay more attention to practical measures such as these which offer the potential to change the lives of millions of people.
+
+ 
+
+Mainstreaming internet issues
+
+ 
+
+9. The internet affects almost every aspect of modern life and organisations across the world have had to adapt to it and change their ways of working in order to make the most of its opportunities or respond to the challenges it brings. The United Kingdom does not believe that we need to identify or create a single international organisation to oversee the internet or deal with internet issues. There is a risk that such a centralising, compartmental approach would disconnect existing international organisations from the internet issues that affect them and mean that some relevant stakeholders are excluded. It may lead at best to duplication of work and at worst to confusion about overlapping mandates.
+
+ 
+
+10. Increasingly it is not possible to identify “internet issues” – the internet has become so fundamental that there are simply issues. At the international level, organisations such as WTO, WIPO and Interpol are addressing internet issues relevant to their mandates and this should be continued. The United Kingdom believes we should promote an agenda of mainstreaming internet issues into existing processes and organisations at every level in order to ensure that issues are addressed thoroughly and that all stakeholders are able to contribute in an informed way.
+
+ 
+
+Globalisation of internet resources
+
+ 
+
+11. The United Kingdom supports a single, un-fragmented internet and considers that compelling the localisation of the internet would risk undermining the economic and social benefits that the internet has brought. It is clear that internet resources are becoming more truly global. The development of the internet was originally based in the United States and at first most internet traffic was routed through servers in the US. But as the number of internet users around the world has increased, so the architecture of the internet has adapted. Capacity to deploy and use the internet has developed and grown around the world and the pattern of internet traffic is radically changing. There is significantly more internal routing within and between different regions of the world and the proportion of traffic which is routed via the US is falling substantially. Increased submarine cable capacity will greatly accelerate this trend in the coming years.
+
+ 
+
+12. ICANN is already taking steps to globalise, reflecting these changes, and the United Kingdom continues to support it and support this process. We need to ensure that ICANN remains primarily a technical organisation with a clear remit and that it concentrates on carrying out its remit effectively, taking into account the views of all stakeholders. The Affirmation of Commitments has been a welcome step forward in globalising ICANN’s accountability. That process should continue, and self-assessment and peer review mechanisms can also play a valuable role. Discussions on how to improve the working methods of ICANN’s Governmental Advisory Committee have been very valuable. At the same time, however, we need to ensure that ICANN’s role does not become the subject of political debates and guard against expanding ICANN’s remit into other policy issues.
+
+ 
+
+13. It is likely that there will come a time when it is appropriate for the management of the domain name system and the IANA function to be fully globalised. That process needs to be one of responsible evolution. It is crucial that any new arrangements for managing the IANA function should not be politicised. The internet has become an essential tool in nearly all aspects of life and the robustness and reliability of the internet and the proper functioning of the domain name system and the root zone of the internet is of fundamental importance. The internet works under the current arrangements. It has proven to be robust and there is no reason to suggest that it will not continue to be so. It needs to be demonstrated that any development in the current management of internet resources will ensure that the internet will continue to work as effectively and reliably.
+
+ 
+
+14. Any proposals for new arrangements need to be carefully scrutinised and tested and have broad multi-stakeholder consensus. The development and critical examination of proposals for change in such an important set of functions is a significant piece of work which will require time and informed consideration. The Global Multi-stakeholder Meeting in Sao Paulo should play a useful role in helping to identify the serious questions that any new proposal would need to answer and the tests that would need to be applied to it, including the extent to which any new arrangement would help or hinder the operation of an open, global internet. The meeting could help to identify a multi-stakeholder process of informed discussion and scrutiny which could begin to address these issues thoroughly as part of an evolutionary development in the globalisation of internet resources.
+
+ 
+
+15. It is easy simply to call for change. It is much more difficult to develop a new and better model than the one which we have now. The United Kingdom hopes that the meeting in Sao Paulo will be able to make a positive and informed contribution and help to take this debate forward in a constructive way. 

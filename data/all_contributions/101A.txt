@@ -1,0 +1,243 @@
+PANEL ON GLOBAL INTERNET COOPERATION AND
+GOVERNANCE MECHANISMS: CONTRIBUTION TO
+NETMUNDIAL
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: PANEL ON GLOBAL INTERNET COOPERATION AND
+GOVERNANCE MECHANISMS
+Region: Global
+Organization: PANEL ON GLOBAL INTERNET COOPERATION AND
+GOVERNANCE MECHANISMS
+Sector: Other
+Keywords:
+Abstract
+The Panel on Global Internet Cooperation and Governance Mechanisms has been
+assembled to provide input into the global debate on Internet governance. The Panel?s
+work is evolving: a final report is anticipated for May 2014.The following contribution to
+NETMundial is derived from the Panel?s current discussions. It consists of a set of
+Internet governance principles and outlines the Panel?s current (and still evolving) effort
+to develop a roadmap for operationalizing these principles.
+Document
+PANEL ON GLOBAL INTERNET COOPERATION AND GOVERNANCE MECHANISMS:
+CONTRIBUTION TO NETMUNDIAL
+Outline:
+?
+0. Preamble
+1. Introduction and Framing
+2. Internet Governance Principles
+3. Roadmap to Operationalizing the Principles
+a) Issue-to-Solution Mapping
+b) National and Regional Internet Governance Structures
+c) ICANN Globalization
+d) Forums and Dialogues
+e) Expert Communities
+f) Empowerment and Toolkits?
+0. Preamble
+The Panel on Global Internet Cooperation and Governance Mechanisms has been
+assembled to provide input into the global debate on Internet governance. The Panel’s
+work is evolving: a final report is anticipated for May 2014.
+The following contribution to NETMundial is derived from the Panel’s current discussions.
+It consists of a set of Internet governance principles and outlines the Panel’s current (and
+still evolving) effort to develop a roadmap for operationalizing these principles.
+1. Introduction and Framing
+The Internet is without doubt one of the largest cooperative effort ever undertaken by
+humankind. What allowed the emergence of this complex dynamic ecosystem is a
+common set of protocols, developed and continuously refined through open and
+participatory processes in an ecosystem of complementary technical institutions. As a
+result, it smoothly grew in a few decades to more than 3 billion users and will have to
+handle several additional billions of users and devices in the years to come.
+In addition, during the last two decades, the Internet has enabled a myriad of applications,
+the most visible of which is the World Wide Web. They have, to an extent never seen
+before, enabled people to “seek, receive and impart information and ideas [...] regardless
+of frontiers”, as envisaged by the Universal Declaration of Human Rights. The end result
+is the creation of (cyber)spaces where a constantly growing part of humanity’s social and
+economic interactions are now taking place.
+As the number and diversity of users increase, however, the cross-border nature of these
+interactions expose growing tensions with an international patchwork of social and legal
+norms, requiring structured mechanisms of cooperation to handle this issue. Furthermore,
+despite the availability and success of the many active and distributed Internet
+governance mechanisms, networks, and institutions, stakeholders still face challenges.
+For example, some stakeholders and governments from least developed countries find it
+difficult to determine where to turn to address their issues within the web of Internet
+governance. These stakeholders can have difficulty finding clear choices that directly
+address their most pressing concerns on a national and global level. This is especially the
+case with emerging non-technical issues. Such challenges contribute to these
+stakeholders feeling marginalized in global Internet governance.
+2. Internet Governance Principles
+The Panel has identified eleven Internet governance principles that build upon a
+multistakeholder framework as the foundation for effective Internet governance.
+Unified
+1. An un-fragmented, interconnected, interoperable, secure, stable, resilient, sustainable,
+and trust-
+building Internet;
+Dynamic
+2. Distributed, lean, evolving, and adapting, and able to address issues in innovative ways;
+Inclusive
+3. Inclusive opportunity for participation and access for all stakeholders, representing
+multiple interests;
+Diverse
+4. Respect for, and inclusion of, diverse interests and cultures;
+Equitable
+5. No one single stakeholder, or category of stakeholders, dominates at the expense of
+others;
+Collaborative
+6. Decision-making
+is informed and enabled through bottom-up,
+transparent, and
+participatory stakeholder collaboration;
+Local
+7. Seek to resolve issues at a level closest to their origin;
+Stewardship
+8. Serve the global public interest by placing good management, use, and evolution of the
+Internet above any individual interest in it;
+Low Barriers
+9. Lower barriers to leverage the Internet as a global force for development and actively
+encourage its developmental role amongst stakeholders, especially the marginalized;
+Human Rights
+10. Support the fundamental rights and freedoms of all people affected by the Internet;
+Accountable
+11. Accountable, transparent, and rooted in public stewardship;
+3. Roadmap to Operationalizing the
+Principles
+To ensure the continuing success of an Internet based on the principles described above,
+the global community must address three complementary challenges:
+First, the elaborate ecosystem of cooperating institutions governing the technical issues of
+the Internet must continue to evolve and globalize their participation and structures?
+Second, accessible and collaborative governance mechanisms are needed for the
+Internet’s non-technical issues where possible, drawing on the lessons learned from the
+successful ecosystem of technical governance?
+Third, Internet governance capacities should be broadened and developed across all
+stakeholder categories at the global, regional, national, and local levels, thus empowering
+stakeholders to effectively navigate, participate, and address emerging issues in a
+distributed, collaborative, and dynamic Internet governance ecosystem;
+And fourth, as the Internet grows to include additional billions of users, the resulting
+increase in diversity risks exacerbating existing differences in social and legal norms.
+Accommodating this challenge will require a renewed effort at finding areas of
+commonality rather than discord and openness to accepting diversity as an opportunity for
+enrichment rather than as an pretext for division.
+The Panel is exploring a number of options to address these challenges.
+The following reflects the Panel’s current and still evolving view on a roadmap forward to
+operationalize the Principles above:
+a) Issue-to-Solution Mapping
+New mechanisms to map issues to solutions are needed.
+Such mechanisms help stakeholders map issues to appropriate institutions or governance
+networks that are addressing the issues at a global, regional, national, or local level.
+Such mapping would solve the often-cited difficulty especially in least developed countries
+with limited resources to
+navigate the growing complexity of the Internet governance
+ecosystem. Issue mapping would also assist in identifying gaps in current institutions or
+governance networks and address the concerns that arise as a result of a multitude of
+choices, or
+not enough clear choices,
+that directly respond to stakeholders' most
+pressing concerns.
+When a new issue emerges, these mechanisms effectively identify and engage the
+relevant institutions, groups, and/or experts and coalesce them to address the issue
+effectively.
+b) National and Regional Internet Governance Structures
+New localized mechanisms and structures are needed.
+Panel discussions have acknowledged that not all Internet governance issues can be
+solved within the global level. Different cultures and their respective needs are sometimes
+better reflected in local decision-making processes.
+National and regional level Internet governance structures and mechanisms must emerge,
+guided by the same global principles to ensure alignment. The synchronization between
+the different levels ensures a healthy, inclusive, and balanced stakeholder representation
+locally while contributing to the coordination of activities taking place at the global level
+and avoiding additional frictions in the Internet.
+c) ICANN Globalization
+ICANN needs to further globalize.
+Based on the aforementioned Equitable principle, ICANN needs to further globalize its
+structures, operations, commitments, and legal framework.
+ICANN has the steadfast role as the global administrator of the IANA functions, operating
+the names, numbers, and protocol registries in collaboration and based on established
+agreements and input from the relevant Internet technical organizations. For over fifteen
+years without a single interruption since ICANN's inception, this performance continues to
+support a global Internet.
+However, ICANN can now move beyond the U.S. government’s stewardship that assured
+the world of ICANN’s performance to date. While this arrangement was arguably
+necessary during ICANN’s growth phase, the current maturity of ICANN’s structures,
+processes, and accountability mechanisms warrants the transitioning of the U.S. role to
+the ICANN community.
+ICANN must pursue this transition through multistakeholder developed accountability
+mechanisms coupled with the strengthening of mutual commitments and agreements with
+relevant Internet communities and organizations. Such a transition should be done
+carefully to maintain ICANN’s established operation that provides the stability and
+resiliency of the core Internet technical identifiers.
+d) Forums and Dialogues
+Global, regional, and national forums and dialogues on Internet governance issues must
+be strengthened.
+The Panel encourages the strengthening of multiple and diverse forums and dialogues -
+online and offline - between stakeholders from business, technology, government, civil
+society, and academic environments on a broad range of technical and nontechnical
+issues.
+Forums and dialogues are an indispensable part of the Internet governance ecosystem,
+open to all stakeholders from all countries for equal participation, and wherein any
+stakeholder can bring up any issue. With light management structures, bottom-up
+organization of workshops, extensive use of remote participation tools, and holistic,
+substantive mandates, such forums are unparalleled catalysts for the global exchange of
+ideas and experiences across the full range of Internet governance issues. Additionally,
+these forums serve as incubators and test beds for a variety of new collaborative
+formations, such as national and regional forums that enhance local policy landscapes, as
+well as issue-
+specific dynamic mechanisms.
+The interactions in open forums and dialogues contribute greatly to the mechanisms that
+provide solutions for existing and emerging issues across
+the local, national, regional,
+or global levels.
+e) Expert Communities
+Expert communities are needed to support Internet governance structures and
+mechanisms.
+Expert communities are open and collaborative groups of experts in research and practice
+to inform and support Internet governance through knowledge-sharing
+and expertise.
+These communities enrich discourse and collective learning, iterating, and contributing at
+local, national, regional, and global levels to the resolution of issues.
+These communities vary in many dimensions, but they are vital sources for the exchange
+of people, ideas, and lessons learned that can percolate throughout the ecosystem and
+replenish and expand human capital, knowledge, and perspectives for the stakeholders
+across the ecosystem.
+Expert communities should be mostly organic, requiring a minimum organizational
+mechanism, which is often effectively delivered through an online platform.
+f) Empowerment and Development
+More empowerment, development, and tools are needed to enable Internet governance
+mechanisms and structures at the global, regional, and national levels.
+Empowerment programs and toolkits enable and strengthen stakeholders and groups that
+form governance structures and participate in governance networks.
+These developmental activities provide training on Internet governance, processes, skills,
+and tools spanning
+technical, legal, and policy areas. These programs are vital for the
+growing need to support local, national, and regional governance networks that address
+local issues, while ensuring local/national/regional synchronization between all
+stakeholders.
+Technical organizations, governments, international organizations, private foundations, or
+local, national, and multilateral development agencies should deliver the empowerment
+programs. Collectively, these programs represent an enormously effective, and yet low-
+cost investment, building the human capital to sustain a thriving and diverse Internet
+governance ecosystem. Toolkits should also be made available for existing or emerging
+stakeholders as shared resources, in multiple languages, to enable effective
+administration and collaboration between stakeholders and groups.
+--- END OF DOCUMENT --
+Note:The Panel does not have all the answers but is actively seeking community input
+from the NETmundial conference and other forums. The Panel remains engaged in deep
+and thoughtful reflection to address several remaining questions in order to effectively
+operationalize the distributed and collaborative governance of the internet.
+As such, the Panel is committed to providing practical answers to many questions such as
+these:
+- How, when and who decides whether an issue requires global coordination or
+devolution? How do we make these decisions thoughtfully yet at a rapid enough pace to
+ensure stability?
+- Who will and how to monitor adherence to principles of Internet governance - ensuring
+accountability? What incentives can assure compliance and the public interest?
+- How to accommodate new technologies and issues arising in a dynamic environment,
+affording stability without undermining innovation?
+- How to coordinate across issue areas (where a clear distinction between technical and
+non-technical; content and code; infrastructure and trade are hard to make)?
+- What platforms are needed in order to operationalize effective and legitimate forms of
+decision-making?
+- How to ensure that the growing machine-to-machine internet traffic (currently at over
+60% of total) is operated based on the same governance principles and frameworks of
+human use?
+The panel will continue to evolve and advance its discussion towards delivering a
+comprehensive report with a practical roadmap for the evolution and operationalization of
+distributed and collaborative Internet governance. The final report will be published in May
+2014.

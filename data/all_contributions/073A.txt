@@ -1,0 +1,60 @@
+Taking Consent Seriously
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Eli Dourado
+Region: USA
+Organization: The Mercatus Center at George Mason University
+Sector: Academia
+Keywords: consent, legitimacy, multistakeholder, government, role
+Abstract
+That many nongovernmental stakeholder communities are electing to participate in
+Internet governance processes on their own account implies that governments lack the
+consent necessary to legitimately exercise a primary role.
+Document
+It is a self-evident truth, wrote Thomas Jefferson, that governments “derive their just
+powers from the consent of the governed.” If this statement is indeed so self-evidently true
+that NETmundial participants can agree to it, then it has important implications for the role
+of governments with respect to the multistakeholder model of Internet governance.
+The role of governments has been one of the multistakeholder model’s most controversial
+aspects. Before the development of the Internet, questions of global importance were
+always addressed by governments, with minimal involvement from other sources. The
+Internet now enables greater global coordination and problem solving without reliance
+upon governments, and indeed, Internet governance has so far been effected without the
+implementation of any clearly articulated role for governments at all.
+The fact that governments are not evidently needed to coordinate global Internet
+resources raises the valid question of whether other stakeholder communities want
+governments to represent them or whether they want to represent themselves. Many are
+electing to represent themselves. On a consent-based view of the legitimacy of
+government, other stakeholder communities have this right.
+Insofar as stakeholder communities elect to participate in Internet governance processes
+on their own account, governments should not have a primary role in Internet governance.
+Policy authority for Internet-related public policy issues is not, as the Tunis Agenda (a
+document agreed to only by governments) claims, the sovereign right of states. It is the
+sovereign right of the people, delegated to states as they see fit, which, in view of their
+participation on their own account, means not at all.
+Instead, we should conceive of the role of government as a subordinate one.
+Governments should facilitate the participation of their domestic stakeholder communities
+in Internet governance processes. They do not have the right to advance positions that
+contradict the consensus of other domestic stakeholders because such exercises of
+government power do not reflect the consent of the governed and are therefore
+illegitimate.
+If some stakeholder communities want and are able to represent themselves, it follows
+also that intergovernmental bodies are never the right fora to discuss matters relating to
+Internet governance. Stakeholder communities participate directly in Internet governance
+discussions because their governments do not adequately represent their views.
+Consequently, any process that relies on governments to represent the views of domestic
+stakeholder communities when those communities do not consent to that representation
+is illegitimate and exclusionary.
+Finally, in exercising even their subordinate role of facilitating the participation of their
+domestic stakeholder communities, governments should subject themselves to rigorous
+standards of transparency so that domestic stakeholder communities can verify that they
+are being well served.
+To conclude, a view of governmental legitimacy that is grounded in the consent of the
+governed has several implications for Internet governance. I invite fellow NETmundial
+participants to join me in endorsing the following high-level principles.
+The role of governments in the multistakeholder model is limited to the
+facilitation of the participation of their domestic stakeholder communities in
+Internet governance processes.
+Intergovernmental bodies are inappropriate fora to discuss matters relating
+to Internet governance.
+Governments should be subject to rigorous standards of transparency in
+matters relating to Internet governance.

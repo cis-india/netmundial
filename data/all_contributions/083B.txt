@@ -1,0 +1,200 @@
+Internet Governance Principles and
+Roadmap for the Further Evolution of the
+Internet Governance Ecosystem
+Submission to the
+NetMundial Global Meeting on the Future of Internet Governance
+Sao Paolo, Brazil, 23-24 April 2014
+Submitted by ICC BASIS to http://content.netmundial.br/
+Due date: 8 March 2014
+Section 1:
+Internet Governance Principles
+Members of the International Chamber of Commerce’s (ICC) initiative Business Action to
+Support the Information Society (BASIS) are pleased to contribute these Global Internet
+Governance Principles as input into the Global Multistakeholder Meeting on the Future of
+Internet Governance, to be held 23 - 24 April 2014 in Sao Paulo, Brazil. Business focuses in
+this submission on five principles that are deemed most relevant for businesses worldwide: 1)
+a secure, open and interoperable network, 2) cross-border flow of data and information, 3)
+improving access, 4) supporting the rule of law, 5) protecting the application of rights, and 5)
+the continuation of the multistakeholder governance model.
+Members of the International Chamber of Commerce (ICC) and its initiative Business Action to
+Support the Information Society (BASIS) are pleased to contribute these Global Internet Governance
+Principles as input into the Global Multistakeholder Meeting on the Future of Internet Governance, to
+be held 23 - 24 April 2014 in Sao Paulo, Brazil.
+The multistakeholder model approach to Internet governance has created decentralized structures
+that govern the Internet, which in turn has fostered unprecedented economic, social, and political
+development. The Internet has enabled individuals to access information and services, to connect
+and to communicate, and to share ideas and knowledge globally. It has become a powerful engine
+for technological innovation, economic growth and the preservation and promotion of cultural
+diversity.
+Members of ICC BASIS depend on a thriving Internet to do business in a variety of industry sectors
+and markets, throughout the world. In particular, we rely upon on a safe, secure, open, interoperable,
+and sustainable Internet in order to stay connected with customers, business associates and end
+users. And we believe that the multistakeholder model, as continually strengthened and evolved, will
+serve our shared interest in a stable and sustainable Internet. Indeed, it is precisely because of this multistakeholder governance model that the Internet has grown into the platform for economic growth
+that it is today.
+As we look toward the future, we see the following principles as vital to the success of any future
+model of Internet governance.
+Functionality, security, stability and resiliency of the network: Policies must ensure a safe,
+secure, open, interoperable, resilient, seamless and sustainable Internet.
+Cross-border flow of data and information: Business stresses the need and importance of crossborder
+data flows to the functioning of the digital economy and continued achievement of the
+Information Society. While we recognize the need to comply with local laws, including those on
+privacy and security, they should be consistent with established trade rules.
+Improving and expanding access to the Internet: Policies should stimulate sustainable investment
+and deployment of Internet networks and industries, and services that create demand for those
+networks. In particular, policies and regulatory frameworks should support innovation, investment,
+and competition, including the protection of intellectual property. Standards should be designed to
+facilitate interoperability. Efforts to foster local content, improve cultural and linguistic diversity, and
+bring access to all global citizens, particularly to those in developing countries, should be supported.
+Rule of law: Policies should support the rule of law, which governments have primary responsibility
+for advancing.
+Application of rights: Offline rights should apply online, especially with respect to freedom of
+expression and human rights.
+Making decisions in open consultation with all stakeholders: Any discussion about Internet
+governance principles, frameworks or processes, should be conducted in a multistakeholder
+format. All stakeholders should be appropriately represented in a transparent and accountable
+decision-making process.
+Business Action to Support the Information Society (BASIS)
+ICC created BASIS to raise awareness among the public, governments, civil society, intergovernmental
+organizations and technical community of what business requires to continue contributing to the
+development of the Information Society. It serves as the voice of business in the global dialogue on the
+Information Society, following two World Summits on the Information Society (WSIS) held in Geneva
+(2003) and Tunis (2005).To promote the environment in which business around the world will continue to thrive as an innovator of
+information and communication technologies, BASIS participates in UN-linked forums set up to continue
+the dialogue, such as the Internet Governance Forum (IGF) and the WSIS follow up and implementation
+processes, particularly through the UN Commission on Science and Technology for Development.
+To help shape the agenda and participate in these global discussions, BASIS relies on the policies
+developed in ICC’s Commission on the Digital Economy as the foundation for its efforts.
+BASIS builds on the activities and network of the Coordinating Committee of Business Interlocutors
+(CCBI), which ICC formed to coordinate participation by world business in the processes leading up to,
+and at WSIS.
+BASIS members include business organizations such as the Africa Information & Communication
+Technologies Alliance (AfICTA), the Computer Society of India, and the World Information Technology
+and Services Alliance (WITSA) as well as several ICC national committees and companies from across
+sectors and geographies.
+BASIS is an initiative of the International Chamber of Commerce (ICC), an organization composed of
+hundreds of thousands of member companies and associations from over 120 countries.
+For further information regarding BASIS, the partners, members and activities, visit:
+www.iccwbo.org/basis
+*** *** ***
+Section 2:
+Roadmap for the Further Evolution of the
+Internet Governance Ecosystem
+Members of the International Chamber of Commerce’s (ICC) initiative Business Action to
+Support the Information Society (BASIS) are pleased to contribute these considerations for a
+roadmap for the further evolution of the Internet governance ecosystem as input into the
+Global Multistakeholder Meeting on the Future of Internet Governance, to be held 23 - 24 April
+2014 in Sao Paolo, Brazil.
+Members of the International Chamber of Commerce’s (ICC) Business Action to Support the
+Information Society (BASIS) initiative are pleased to contribute these considerations for a roadmap
+for the further evolution of the Internet governance ecosystem as input into the Global
+Multistakeholder Meeting on the Future of Internet Governance, to be held 23 - 24 April 2014 in Sao
+Paolo, Brazil.
+Business welcomes the opportunity to underscore the strength of existing mechanisms and
+the multi-stakeholder processes of Internet governance
+In view of the increased relevance of the Internet to our society and economy, business supports the
+opportunity to examine the existing mechanisms of Internet governance, so that the stakeholder
+groups can identify areas of improvement of these mechanisms.
+The strength of the current distributed, bottom-up Internet governance process is not only in its open
+and inclusive participation model, and the legitimacy and credibility that model fosters, but also its
+flexibility to rapidly adapt to changing technologies and issues. For example, local and regional IGF
+processes are an effective way to expand participation in Internet governance debate and create a
+healthy exchange of ideas at the grassroots level, while also feeding into the global IGF. The
+NetMundial meeting in Brazil can contribute to the positive elements of enhanced cooperation and
+appropriate, meaningful multistakeholder participation and inclusion through both the principles and
+the road map.
+The existing multi-stakeholder environment is rich with opportunities to address governance
+issues and to vet the perceived need for further mechanisms or processes
+Business favours using existing organizations, institutions and processes for any Internet governance
+framework discussion.Some governments have highlighted a concern about certain Internet-related policy or technical
+issues for which they cannot identify relevant existing mechanisms to address their perceived
+problems. We feel it is important to note that business, in contributing to the CSTD Working Group
+on Enhanced Cooperation’s (WGEC) current mapping exercise, identified more than 40 international
+venues, organizations, and private sector, technical community, and civil society initiatives that have
+been established to address a broad range of Internet public policy and technical issues.
+The upcoming launch of the European Commission’s Global Internet Policy Observatory (GIPO) will
+provide another valuable online resource on Internet policy, regulations and technology, and better
+enable emerging economies in particular to engage on Internet governance and policy matters.
+The Global Multistakeholder Meeting on the Future of Internet Governance serves as an opportunity
+to review and build on existing work and develop a good process for: (1) identifying issues that do not
+appear to addressed yet, (2) exchanging information on solution mechanisms already available to
+address these issues, or (3) considering whether new mechanisms need to be developed.
+There is a risk that establishing new mechanisms or models, without a thorough and methodical
+assessment could drain resources and result in reduced participation by all stakeholders in existing
+efforts. Business seeks to avoid the development of new mechanisms that duplicate existing efforts
+and supports efforts to strengthen and expand existing mechanisms to address outstanding issues,
+to ensure that the Internet remains a vibrant platform for economic growth and innovation.
+The evolution and improvement of Governance Mechanisms
+The evolution of Internet governance principles, frameworks and accountability mechanisms is a
+process that must proceed through careful work and analysis. It is important to better understand the
+various alternative options for further progress. It is important to ensure that any changes would
+contribute to enhancing the security, stability, privacy, resiliency, and interoperability of the global
+Internet, while also ensuring the rule of law and economical and societal benefits.
+Business is interested in pursuing a credible and productive discussion and examination of possible
+improvements to existing governance mechanisms, including issues related to globalization. There
+are many concerns that have been raised related to the need for greater globalization of Internet
+Governance mechanisms. Despite the many years where people have been discussing this issue
+the topic still means different things to different people. Among the issues: the need for greater
+geographic diversity, which might mean a need for greater inclusion, participation, transparency or
+oversight; applicable law and jurisdiction, contractual obligations and various elements of technical
+mechanisms. One of the main purposes served by these governance mechanisms is the continued
+stability, functionality and interoperability of the unique and global Internet. Any improvements to
+Internet governance mechanisms must at a minimum assure that continued stability, functionality and interoperability, while providing a continued evolutionary process improvement, diminished threat of
+harm or other enhanced governance outcomes.
+For instance, any adjustments to the current structure of the IANA contract must be considered and
+conducted in a deliberate and cautious manner, to ensure that no incremental risk or instability is
+introduced into IANA’s functions, including the root zone management process and must recognize
+and respect other existing agreements related to the IANA functions. The goal in all facets of
+Internet governance is to ensure consumer and user trust in the Internet as a means of speech,
+creativity, innovation and legitimate commerce.
+Business stresses the need to proceed methodically and carefully with any proposed change, so as
+to not impose unintended consequences and risks. In this regard, any transition process for IANA
+and its functions must begin with a clear understanding of what “globalization” should mean. The
+global stakeholder community would need to be fully engaged not only in developing milestones and
+timelines for the “globalization” of these critical functions, but also to ensuring the reliability and
+accountability of any such plan to the security and stability of the global Internet.
+We welcome an opportunity to review the process by which potential issues are identified and
+addressed by mechanisms in the multistakeholder environment
+Business is examining how global stakeholders should pursue a voluntary, transparent, inclusive and
+methodical process for considering mechanisms to addressed perceived governance or operational
+problems. This process should include the following elements:
+1. A potential issue should be first identified to the global stakeholder community, indicating what
+the implications of the issue are to governance and to determine whether the issue has
+already been addressed in an existing mechanism or identify the appropriate mechanism to
+address the issue.
+2. Once the issue has been assessed, any proposed solution should then be fully described to
+the global stakeholder community.
+3. The proposed solution should then be analysed to determine whether it would violate the
+principle of “first, do no harm” to the functionality, stability and interoperability of the unique
+and global Internet.
+4. Finally, the solution should then be thoroughly evaluated to determine its potential
+effectiveness to address the problem as well as the potential for possible unintended
+consequences or burdens. Another concern for business in any Internet governance discussion is to counter the growing trend
+of imposing new barriers to the growth of the Internet as a global platform for economic and social
+development. In this context, business supports the development of legal rules and policy
+frameworks that lead to certainty and to predictable outcomes that will foster the continued
+development of the Internet as a global platform for commerce, services and content.
+Business Action to Support the Information Society (BASIS)
+ICC created BASIS to raise awareness among the public, governments, civil society, intergovernmental
+organizations and technical community of what business requires to continue contributing to the
+development of the Information Society. It serves as the voice of business in the global dialogue on the
+Information Society, following two World Summits on the Information Society (WSIS) held in Geneva
+(2003) and Tunis (2005).
+To promote the environment in which business around the world will continue to thrive as an innovator of
+information and communication technologies, BASIS participates in UN-linked forums set up to continue
+the dialogue, such as the Internet Governance Forum (IGF) and the WSIS follow up and implementation
+processes, particularly through the UN Commission on Science and Technology for Development.
+To help shape the agenda and participate in these global discussions, BASIS relies on the policies
+developed in ICC’s Commission on the Digital Economy as the foundation for its efforts.
+BASIS builds on the activities and network of the Coordinating Committee of Business Interlocutors
+(CCBI), which ICC formed to coordinate participation by world business in the processes leading up to,
+and at WSIS.
+BASIS members include business organizations such as the Africa Information & Communication
+Technologies Alliance (AfICTA), the Computer Society of India, and the World Information Technology
+and Services Alliance (WITSA) as well as several ICC national committees and companies from across
+sectors and geographies.
+BASIS is an initiative of the International Chamber of Commerce (ICC), an organization composed of
+hundreds of thousands of member companies and associations from over 120 countries.
+For further information regarding BASIS, the partners, members and activities, visit:
+www.iccwbo.org/basis
+*** *** ***

@@ -1,0 +1,78 @@
+The Need to Abolish Stakeholder 'Roles'
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Milton L Mueller
+Region: North America
+Organization: Noncommercial Stakeholders Group, ICANN
+Sector: Civil Society
+Keywords: Multistakeholder governance, stakeholder roles, Tunis Agenda,
+public policy
+Abstract
+This paper proposes a new principle for Internet governance. The principle can be
+stated:In multistakeholder institutions for global Internet governance, all individuals ?
+regardless of whether they are agents of governments, international organizations, the
+technical community, the private sector, civil society or interested individuals ? should
+have equal status as participants in the formulation of public policies.This principle is
+intended to clarify issues and overcome problems that were encountered during the World
+Summit on the Information Society (WSIS).
+Document
+The need to abolish stakeholder “roles”
+Submitted by Milton Mueller with the support of the ICANN Noncommercial Stakeholders
+Group
+This paper proposes a new principle for Internet governance. The principle can be stated:
+In multistakeholder institutions for global Internet governance, all individuals – regardless
+of whether they are agents of governments, international organizations, the technical
+community, the private sector, civil society or interested individuals – should have equal
+status as participants in the formulation of public policies.
+This principle is intended to clarify issues and overcome problems that were encountered
+during the World Summit on the Information Society (WSIS).
+WSIS was the first direct engagement between the intergovernmental UN system and the
+multistakeholder methods of the Internet. Back in 2003, it was probably inevitable that
+representatives of governments would not fully understand or accept the multistakeholder
+model. Still, great progress was made. The Working Group on Internet Governance
+(WGIG) and the final documents produced by the WSIS (the Geneva Resolutions and the
+Tunis Agenda) embraced multistakeholder concepts in their definitions of Internet
+governance.
+There was, however, an important flaw in the WSIS documents. In attempting to find a
+middle ground between the multistakeholder model and the intergovernmental system,
+the Tunis Agenda attempted to put different stakeholder groups into specific ‘roles.’ These
+roles elevated representatives of national governments above all other stakeholders:
+1. ‘Policy authority’ and ‘public policy making’ was reserved to sovereign states
+2. The private sector was assigned responsibility for ‘technical and operational
+matters’ that ‘do not impact on international public policy issues’
+3. Civil society was given a subordinate role. The WSIS resolutions stated that civil
+society ‘has played an important role on Internet matters…at the community level.’
+Time has proven this division of stakeholder groups to be ambiguous, unworkable and
+undesirable.
+1. In many aspects of Internet governance, implementing policy decisions requires
+direct interaction with technical and operational matters. Making policy often
+requires deep knowledge of the constraints imposed by technology and operations.
+That knowledge can only come from the direct participation of private sector and
+technical community participants as equal-status actors in the policy process.
+2. When states refer to ‘public policy’ related to the Internet, they must understand that
+the relevant ‘public’ is transnational, not national; states, therefore, are only partial
+and imperfect representatives of the global public.
+3. The document does not even specify what civil society’s role is, other than saying it
+is ‘important.’
+4. Civil society actors are not necessarily restricted to the local ‘community’; they are
+increasingly transnational in their advocacy of important human rights and policy
+principles. And they often advocate public policy positions that are different from
+those of their government. The Internet creates a global political community. To be
+fully democratic, global policy making must allow all these voices to be heard, and it
+must give non-state actors the same status as state actors.
+5. In global Internet governance, the quest for ‘sovereignty’ is futile. Governments can
+and do regulate some aspects of Internet policy in their own jurisdictions, but
+effective and beneficial policies often need to be global or transnational, especially
+policies pertaining to the coordination of critical Internet resources.
+6. It should be noted that in defining these roles, the governments who negotiated the
+WSIS documents did not ask for, or obtain, the agreement of the other stakeholder
+groups.
+We ask the Global Multistakeholder Meeting on the Future of Internet Governance to
+formally challenge the Tunis Agenda’s definition of stakeholder ‘roles’ by adopting the
+‘equal status’ principle stated above. We ask that the Meeting overtly recognize and
+defend the modifications of traditional policy making authority inherent in the
+multistakeholder model.
+The advocates of this new principle recognize that there are numerous areas where the
+traditional role of the state is appropriate and necessary, such as legislation and law
+enforcement in territorial jurisdictions. Yet because so much of the policies and services of
+the Internet are transnational, we believe that Internet governance must change their
+traditional roles and give all stakeholders the same status in the formulation of policy.

@@ -1,0 +1,262 @@
+French Government Submission to NETmundial
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Damien Coudeville
+Region: France
+Organization: French Ministry of Foreign Affairs
+Sector: Government
+Keywords: France, EU, multistakeholderism, ICANN, accountability
+Abstract
+The French Government appreciates the opportunity to participate in NETmundial and to
+share with all stakeholders the French and English versions of our initial roadmap
+proposal for the future of Internet governance.
+Document
+French Government Submission to NETmundial
+Initial Roadmap Proposal for the Future of Internet Governance
+4 March 2014
+1. Given the complexity and diversity of Internet issues, Internet governance is getting
+more and more topical an issue in a growing number of international fora, where the
+debate tends to focus on the most appropriate model of Internet governance. Ever since
+the WSIS back in 2003 and 2005, France has been advocating for the multi-stakeholder
+model with a view to preserving a single, open, free and secure Internet. France also
+acknowledges that perceived shortcomings of the multi-stakeholder model have offered a
+context for alternative, some would say more authoritarian, advocacy approaches in
+favour of more governmental control over the Internet. France is resolute in its intention to
+address these perceived shortcomings which give weight to an intergovernmental model
+of Internet governance.
+2. Now two parallel processes are on the verge of being launched at international level
+that will affect the future of Internet governance. The WSIS+10 review process by the UN
+might soon lead to the organization of a high level event, possibly a new summit with
+negotiated conclusions, in 2015. This eventuality should definitely give the EU a sense of
+urgency to ensuring the success of the Global Multi-stakeholder Forum on the Future of
+Internet Governance to be hosted by Brazil in Sao Paulo in late April 2014. For this very
+reason, France welcomes and wants to join in all recent efforts by other EU Member
+States, the Commission and EEAS, aimed at reaching a European consensus on the two
+objectives of the Sao Paulo Forum: “(1) crafting Internet governance principles; and (2)
+proposing a roadmap for the further evolution of the Internet governance ecosystem”.
+Focusing on the second objective, this paper is to be considered as France’s own
+contribution to a coherent and comprehensive set of European food for thought papers.
+3. First, as part of the general debate over the future of Internet governance, France
+reaffirms that in essence, Internet governance cannot but include all stakeholders.
+Difficulties arise only when considering specific Internet governance issues, primarily on
+the question of who should assume the leadership role. In areas such as cybersecurity,
+intellectual property, privacy, consumer protection, child protection or taxation, which
+governments address through domestic legislation and international treaties, governments
+clearly dominate the process, although not to the exclusion of other stakeholders. In areas
+related to the coordination of the Internet technical infrastructure, however, no
+government can reasonably have a similar leadership or might even have to intervene in
+the process. Interferences between the coordination of the Internet technical infrastructure
+and the Internet-related public policies should be avoided through the enhancement of the
+cooperation and the dialogue between the various relevant entities.
+4. Second and as a consequence, France maintains that while a global Internet
+governance ecosystem must obviously include all private organisations responsible for
+the coordination of the Internet technical infrastructure (the so-called I*, such as the IETF
+and the RIR), it also has to make room for the multilateral system (and such fora as ITU,
+OECD or WIPO), where governments defend their citizens’ interests in international
+negotiations on a range of Internet-related public policy issues. Given the growing number
+of international fora which address ever more complex and diverse Internet issues, a
+comprehensive roadmap to the further evolution of the Internet governance ecosystem
+should then also require all stakeholders to agree on a few principles – including the basic
+principle of subsidiarity, well known from the EU Member States, whereby any Internet
+governance issue ought to be handled by the smallest body capable of addressing that
+issue effectively.
+5. Beyond these considerations which derive from the common multi-stakeholder
+conceptual approach to Internet governance, France acknowledges that ICANN and the
+oversight of the Domain Name System (DNS) are, in practice, key points that need to be
+tackled in the debates on the future of Internet governance. ICANN embodies both the
+success of the multi-stakeholder model of Internet governance and its shortcomings.
+France therefore believes that all stakeholders should give every possible consideration to
+the twofold reasons why ICANN and the oversight of the DNS are so controversial.
+6. As a late November 13 report by the Congressional Research Service reads, “one
+criticism is fuelled by concerns of many nations that the US government holds undue
+legacy influence and control over ICANN and the DNS.”[*] As the leaders of I* themselves
+recently called for “accelerating the globalization of ICANN and IANA functions” in their
+late October 7 Montevideo Statement, France wants to point out that this first shortcoming
+of the multi-stakeholder model embodied by ICANN does not raise concerns among
+governments only.
+7. The other “criticism reflects the tension between national governments and the
+current performance and governance processes of ICANN, whereby governments feel
+they lack adequate influence over ICANN decisions that affect a range of Internet policies
+issues”[*]. Indeed, many ICANN decisions affect areas such as intellectual property,
+privacy or cybersecurity which “governments have addressed for their own citizens
+through domestic legislation, as well as through international treaties”[*]. This second
+shortcoming gives solid ground to governments who presently support a greater role for
+governments in the oversight of Internet because they feel their interests are not
+adequately addressed within ICANN’s multi-stakeholder system. These are very
+legitimate concerns that no stakeholder should deny. Besides, the feeling that one’s
+interests are not adequately addressed within ICANN’s multi-stakeholder system is, again,
+not shared among governments only. “The current performance and governance
+processes of ICANN” also worry all stakeholders who call for more accountability in the
+Board’s decision-making processes.
+8. France intends to overcome both criticisms of the multi-stakeholder model embodied
+by ICANN. In this context, France first welcomes the late February 17 ICANN Board’s
+resolution to create six President’s Advisory Groups dedicated to enhancing the
+Affirmation of Commitments, ICANN’s decision?making processes and policy structures,
+ICANN’s legal structure, processes for root server system, IANA multi-stakeholder
+accountability, and Internet governance. France supports ICANN President’s work to
+reshape ICANN, and is looking forward to discussing these Advisory Groups’
+recommendations in the next Singapore and London meetings of ICANN.
+9. Second and accordingly, France is convinced that the roadmap to the future of
+Internet governance will have to balance the pace of globalizing ICANN, which represents
+a prior objective, and the oversight of the DNS activities with the pace of bridging ICANN’s
+gap of accountability before all stakeholders. As far as France is concerned, the
+overarching goal of the roadmap should be to establish a schedule for making ICANN
+responsible for the oversight of the DNS by globalising the Affirmation of Commitments
+and organising the devolution of the IANA functions to ICANN.
+10. ICANN’s accountability has always been key to confidence in the multi-stakeholder
+model. As a start, France suggests to work on mitigating the concerns expressed by most
+stakeholders on the absence of separation of powers within ICANN in general and of
+binding mechanisms for the Board‘s decisions in particular. In this respect, the provisions
+of the Affirmation of Commitments and IANA contracts must be considered carefully, as
+present external constraints over ICANN that should be transferred and internalised within
+the future ICANN system. Other future accountability mechanisms would have to be
+designed jointly by all stakeholders so that the ICANN multi-stakeholder system can
+adequately address their interests.
+11. France calls for a broad European consensus on this initial roadmap proposal and
+invites ICANN, the US government, EU, Brazilian authorities and all stakeholders in the
+High level multi-stakeholder committee of the Sao Paulo forum, and all other partner
+countries, to engage in a direct dialogue over these concrete goals. In the meantime,
+France intends to work with all stakeholders to define the conditions under which ICANN
+can be rendered accountable before them all and achieve the utmost level of international
+confidence. In doing that, France means to include all the governments who presently
+support a more intergovernmental approach to Internet governance, so that all
+stakeholders can already build on the success of the Sao Paulo process in the next
+WSIS+10 review process.
+[*] Congressional Research Service. “Internet Governance and the Domain Name
+System: Issues for Congress (updated)”. November 13, 2013. R42351.
+Contribution du gouvernement français au forum NETmundial
+Proposition initiale de feuille de route pour le futur de la gouvernance d’internet
+4 mars 2014
+1. La complexité et la diversité croissantes des sujets internet ont mis la gouvernance
+mondiale du réseau au coeur des débats d’un nombre lui-même toujours plus grand
+d’enceintes internationales, où l’accent tend à être mis sur le modèle le plus approprié de
+gouvernance. Depuis les SMSI de 2003 et 2005, la France a constamment plaidé pour le
+modèle dit multi-parties prenantes et promu la vision d’un internet unique, libre, ouvert et
+sécurisé. Mais la France admet aussi que les lacunes observées du modèle multi-parties
+prenantes ont favorisé l’émergence d’autres approches de gouvernance du réseau,
+qualifiées par certains d’autoritaires, en faveur d’un plus grand contrôle des
+gouvernements sur internet. La France est fermement déterminée à corriger avec ses
+partenaires ces lacunes qui alimentent aujourd’hui les plaidoyers en faveur d’un modèle
+intergouvernemental de gouvernance d’internet.
+2. Aujourd’hui, deux processus parallèles qui auront des conséquences sur le futur de
+la gouvernance d’internet sont sur le point d’être lancés. Le processus de révision après
+dix ans du SMSI par l’ONU pourrait bientôt mener à l’organisation en 2015 d’un
+événement de haut niveau, voire d’un nouveau sommet avec conclusions négociées.
+Cette éventualité devrait urgemment encourager l’UE à assurer le succès du Forum
+global multi-parties prenantes sur le futur de la gouvernance d’internet organisé à Sao
+Paulo par le Brésil fin avril 2014. À cet égard, la France salue les efforts récents des
+autres États Membres, de la Commission et du SEAE, qui ont pour but de parvenir à un
+consensus européen sur les deux objectifs affichés du Forum : « (1) élaborer des principes
+pour la gouvernance de l’Internet ; et (2) établir une feuille de route pour l’évolution future
+de l’écosystème de la gouvernance d’internet ». Avec ce document, qui se concentre sur
+le deuxième objectif du Forum, la France entend joindre sa propre contribution à un
+ensemble cohérent et exhaustif de documents européens de réflexion sur le futur de la
+gouvernance d’internet.
+3. Dans le cadre du débat général sur le futur de la gouvernance d’internet, la France
+réaffirme d’emblée que par définition, la gouvernance d’internet ne peut être que multiparties
+prenantes. Les difficultés ne surviennent qu’ensuite, dans le traitement de sujets
+spécifiques de gouvernance et principalement sur la question de savoir quelle partie
+prenante peut avoir un rôle de chef de file à assumer. Dans les domaines de la cybersécurité,
+de la propriété intellectuelle, de la protection de la vie privée, de la protection
+des consommateurs, de la protection de l’enfance ou de la fiscalité, qui font notamment
+l’objet de législations nationales et/ou de traités internationaux, les gouvernements
+dominent clairement le processus, même s’ils n’excluent pas les autres parties prenantes.
+En revanche, dans le domaine de la coordination du fonctionnement technique des
+infrastructures d’internet, aucun gouvernement ne peut raisonnablement assumer un rôle
+similaire de chef de file, voire même ne devrait avoir à intervenir dans le processus. Les
+interférences entre la coordination du fonctionnement technique d’internet et les politiques
+publiques relatives à internet, devraient par ailleurs être évitées grâce au renforcement de
+la coopération et du dialogue entre les diverses institutions concernées.
+4. De façon corollaire, la France maintient qu’un écosystème global de gouvernance
+d’internet doit non seulement et évidemment inclure toutes les organisations privées
+chargées de coordonner le fonctionnement technique de l’infrastructure d’internet
+(lesdites I*, comme l’IETF et les RIR), mais aussi faire place au système multilatéral (et à
+des enceintes comme l’UIT, l’OCDE ou l’OMPI), dans lequel les gouvernements
+défendent les intérêts de leurs citoyens au cours de négociations internationales portant
+sur toute une série de questions de politiques publiques relatives à internet. Mais étant
+donné le nombre croissant d’enceintes qui abordent des sujets internet toujours plus
+complexes et divers, et avant d’établir une feuille de route sur l’évolution prochaine de
+l’écosystème de gouvernance d’internet, l’ensemble des parties prenantes devrait alors
+s’accorder sur un petit nombre de principes – dont le principe de subsidiarité, bien connu
+des États Membres de l’UE, par lequel toute question de gouvernance d’internet aurait à
+être traitée par le plus petit organisme à même de mener ce traitement efficacement.
+5. Au-delà de ces considérations théoriques sur la gouvernance multi-parties
+prenantes d’internet, la France reconnaît qu’en pratique, l’ICANN et la supervision du
+système des noms de domaine (DNS) demeurent des points d’achoppement des débats
+sur la gouvernance d’internet et qu’ils devront être résolus dans le futur. L’ICANN incarne
+à la fois le succès et les lacunes du modèle multi-parties prenantes de gouvernance
+d’internet. La France croit donc nécessaire d’attirer toute l’attention des parties prenantes
+sur les deux raisons pour lesquelles l’ICANN et la supervision du DNS soulèvent tant de
+controverses.
+6. Comme en fait état un rapport du Congressional Research Service daté du 13
+novembre dernier, la première critique faite à l’ICANN est « alimentée par les
+préoccupations de nombreux États estimant que le gouvernement américain a hérité
+d'une influence et d'un contrôle indus sur l'ICANN et le DNS »[*]. Dans la mesure toutefois
+où les dirigeants des I* ont eux-mêmes appelé à « l’accélération de la globalisation de
+l’ICANN et des fonctions IANA » (Déclaration de Montevideo du 7 octobre 2013), la
+France souhaite souligner que cette première lacune du modèle multi-parties prenantes
+incarné par l’ICANN, n’est pas qu’une source de préoccupation pour les seuls
+gouvernements.
+7. L’autre critique « reflète la tension entre les gouvernements nationaux et la
+gouvernance et la performance actuelles des processus de l’ICANN, par lesquels les
+gouvernements ont le sentiment de manquer d’influence sur des décisions de l’ICANN qui
+ont des conséquences en termes de politiques publiques relatives à internet »[*]. De fait,
+beaucoup des décisions de l’ICANN ont des effets dans des domaines comme la
+propriété intellectuelle, la protection de la vie privée ou la cyber-sécurité, que « les
+gouvernements abordent pour le compte de leurs citoyens au travers de législations
+nationales comme au travers de traités internationaux »[*]. Cette seconde lacune
+constitue une base solide pour les gouvernements qui souhaitent un renforcement de leur
+rôle dans la supervision du DNS, simplement parce qu’ils estiment que le modèle multiparties
+prenantes de l’ICANN ne leur permet pas de défendre adéquatement leurs
+intérêts. De telles préoccupations sont extrêmement légitimes et aucune partie prenante
+n’est en droit de les dénier. D’ailleurs et encore une fois, le sentiment que le modèle multiparties
+prenantes de l’ICANN ne permet pas de défendre adéquatement ses intérêts,
+n’est pas seulement partagé par les seuls gouvernements. « La gouvernance et la
+performance actuelles des processus de l’ICANN » inquiètent aussi l’ensemble des
+parties prenantes qui réclament plus de transparence et d’obligation de rendre des
+comptes [accountability] dans les processus de prise de décision par le Board de l’ICANN.
+8. La France veut pallier à ces deux critiques du modèle multi-parties prenantes
+incarné par l’ICANN. Dans ce contexte, elle souhaite déjà saluer la résolution du Board
+datée du 17 février dernier, qui crée six Groupes de Conseil du PDG de l’ICANN dédiés à
+améliorer l’Affirmation of Commitments, les processus de prise de décision et la structure
+institutionnelle de l’ICANN, sa structure légale, les processus pour le système des
+serveurs racines, la transparence et l’obligation de rendre des comptes vis-à-vis de toutes
+les parties prenantes, et la gouvernance d’internet. La France soutient les travaux du
+PDG de l’ICANN pour remodeler l’organisation et attend avec intérêt de discuter les
+recommandations de ces Groupes de Conseil lors des prochaines réunions de l’ICANN à
+Singapour et à Londres.
+9. Dans la logique exposée précédemment, la France est également convaincue que
+la feuille de route pour le futur de la gouvernance d’internet devra parvenir à un équilibre
+entre l’accélération de la globalisation de l’ICANN, qui représente un objectif prioritaire, et
+de la supervision du DNS, et l’accélération de la résolution des problèmes de
+transparence et du respect de l’obligation de rendre des comptes de l’ICANN vis-à-vis de
+l’ensemble des parties prenantes. De ce point de vue et pour la France, le but ultime de la
+feuille de route devrait être d’établir un calendrier pour conférer à l’ICANN la
+responsabilité permanente de la supervision du DNS en globalisant l’Affirmation of
+Commitments et organisant le transfert des fonctions IANA vers l’ICANN.
+10. Le respect de l’obligation de rendre des comptes et la transparence de l’ICANN ont
+toujours été indispensables pour la confiance dans le modèle multi-parties prenantes.
+Comme point de départ, la France suggère de travailler à atténuer les inquiétudes de la
+plupart des parties prenantes sur l’absence de séparation des pouvoirs au sein de
+l’ICANN en général, et sur l’absence de mécanismes contraignants à l’encontre des
+décisions du Board en particulier. À ce titre, les dispositions de l’Affirmation of
+Commitments et des contrats IANA devraient être considérées avec attention, en tant que
+contraintes externes exercées actuellement sur l’ICANN et destinées à être transférées et
+internalisées au sein du futur système ICANN. De façon à garantir que ce futur système
+permette aux parties prenantes de défendre leurs intérêts, celles-ci pourraient
+ultérieurement envisager la conception en commun d’autres mécanismes destinés à
+renforcer la transparence et le respect de l’obligation de rendre des comptes de l’ICANN.
+11. La France appelle à un large consensus européen sur cette proposition initiale de
+feuille de route et elle invite l’ICANN, le gouvernement des États-Unis, l’UE, les autorités
+brésiliennes et toutes les parties au sein du Comité multi-parties prenantes de haut
+niveau du Forum de Sao Paulo, ainsi que tous ses autres pays partenaires, à s’engager
+dans un dialogue direct sur ces objectifs concrets. Dans l’attente, la France veut travailler
+avec l’ensemble des parties prenantes à définir les conditions sous lesquelles l’ICANN
+peut être rendue responsable devant eux et ainsi acquérir le plus haut niveau de
+confiance internationale. Ce faisant, la France entend inclure tous les gouvernements qui
+soutiennent aujourd’hui une approche plus intergouvernementale de la gouvernance
+d’internet, de façon à ce que l’ensemble des parties prenantes puisse d’ores et déjà
+capitaliser sur le succès du processus de Sao Paulo pour le prochain processus de
+révision après dix ans du SMSI.
+[*] Congressional Research Service. “Internet Governance and the Domain Name
+System: Issues for Congress (updated)”. November 13, 2013. R42351.

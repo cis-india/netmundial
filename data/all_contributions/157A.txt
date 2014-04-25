@@ -1,0 +1,117 @@
+Cities, Citizens, and Internet Governance
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Thomas Lowenhaupt
+Region: New York, USA
+Organization: Connecting.nyc Inc.
+Sector: Other
+Keywords: cities, at-large, citizens, cities, city
+Abstract
+Most of us live in cities that are only now beginning to take advantage of that critical
+Internet infrastructure, the Top Level Domain. While our lives are increasingly affected by
+digital developments enabled by the Internet, city residents have scant access to the
+governance structures that establish the policies, standards, and practices that guide the
+Net?s operation. This submission suggests ways cities and their residents can better
+participate in Internet governance at the local and global levels.
+Document
+Background
+When ICANN earnestly activated its new TLD issuance responsibilities in 2005, its initial
+inclination was to view cities as outside the scope of entities eligible for Top Level
+Domains. After a persuasive campaign by representatives from Berlin, Barcelona, New
+York, Paris, Tokyo and other global cities, that viewpoint changed and cities were
+included within ICANN’s 2008 resolution authorizing a new TLD program.
+As the ICANN community struggled through the long process of developing an Applicant
+Guidebook, many in the city-TLD community noted that the needs of cities and their
+probable use of TLDs differed in significant ways from those of generic and business
+TLDs. And they urged that a different set of requisites for city-TLDs be established.
+Additionally, these proponents urged that cities be forewarned about the implications of a
+TLD, enabling cities to better prepare for the responsibilities entailed in their planning and
+operation.
+However, the challenges surrounding the completion of an Applicant Guidebook and
+pressure from eager applicants did not allow for applicant categories. And the only
+significant interventions were those proffered by ICANN’s Government Advisory
+Committee (GAC) on behalf of the integrity of geographic names.
+As of March 2014 it seems likely that approximately 35 cities will receive TLDs in the
+coming year.
+This submission advances two topics for consideration by NETmundial. The first involves
+changes to the city-TLD issuance and development process and for the inclusion of cities
+in Internet governance processes. The second suggests a means for cities and individual
+Internet users to better participate in Internet governance processes.
+Cities and Top Level Domains
+Cities are amongst the oldest and most complex entities we encounter in our daily lives.
+They house more than half our planet’s population, with U.N. estimates projecting that will
+rise to 75% by mid-century. Cities are the places from which a preponderance of ideas
+and economic development emerge. And there’s growing acceptance that a sustainable
+planet is likely to arise from the efficiencies of urban areas.
+To date, the digital needs of cities have been given short shrift by Internet technologists
+and the Net’s governance ecology. As remedy, we offer the following suggestions.
+The Roadmap should recommend a more robust process for issuing cityTLDs.
+This should include a recommendation that the TLD issuing entity
+provide an informative and enlightening application process for cities
+considering TLD acquisition. While the “letter of non-objection’” required of
+the 2012 city-TLD applicants held the spirit of informed consent, the
+inclusion of a detailed scoping of a city-TLDs utility to residents, local
+businesses, quality of life, government operation, and global identity would
+better contribute to their efficacious planning and development.
+Cities do not have a formal place in the Internet governance ecology.
+While a City-TLD Governance and Best Practices workshop was held at
+the 2010 IGF in Vilnius, follow-up has been scant. At ICANN, there’s a
+move to include city-TLDs within the Registry Constituency of the GNSO,
+but only as part of a broader geographic representation. However,
+considering their size, their unique needs, and their importance to the
+global economy and a sustainable planet, we urge that cities be
+considered a full stakeholder within any multistakeholder regime.
+A Message From The Bottom
+Our lives are increasingly affected by digital activities enabled by the Internet. Yet Internet
+users have modest access to the “bottom-up” governance structures that establish the
+policies, standards, and practices that guide the Net’s operation.
+Here in New York City we’ve experienced a small inkling of the potential of bottom-up
+participation in Internet oversight and management through two At-Large Structures. One
+is operated by the New York Internet Society, a chapter of the global Internet Society, and
+another by Connecting.nyc Inc., an advocacy and education organization focused on the
+development of the .nyc TLD. For those not familiar with the role of the At-Large
+Structures within ICANN, here’s a brief history.
+In its early days ICANN provided for strong representation of individual Internet users in
+its decision making processes. It did so by allocating 5 seats on its board of directors to
+be filled by Internet users, with each of ICANN’s regions selecting one member via a
+direct election. One such election was held and, for a time, 5 ICANN board members were
+selected by individual Internet users.
+The corporation found fault with the selection process and replaced the user-selected
+members with an appointed At-Large Advisory Committee and a Nominating Committee
+charged with selecting several board members.
+In recent years the At-Large was reconstituted and now participates in selecting one (1)
+voting member to ICANN’s board of directors. This member is selected via a multi-staged
+process that provides for each At-Large Structure (organizations with membership and
+other structures) casting a vote for its preferred board member.
+While one board member is better than none, by any measure, under today’s governance
+formation, the world’s 2+ billion individual Internet users and the At-Large Structure’s
+impact on ICANN’s governance decisions remains tenuous.
+In our role as an At-Large Structure Connecting.nyc Inc. has observed a significant
+improvement of the At-Large’s operation over the past several years. As one example,
+this past year the At-Large made significant contributions more than a dozen ICANN
+policy considerations.
+But far more can be achieved by expanding and enhancing user engagement the through
+the following actions.
+The number of seats selected by individual Internet users on ICANN’s
+board of directors should be increased. Reverting to the original 5 seats
+seems a reasonable short term target.
+The new board seats should be allocated as of old, one per ICANN region.
+The new seats should be selected by direct vote of each region’s At-Large
+Structures. (There are currently 180 At-Large Structures in the 5 regions.)
+The number of At-Large Structures should to be increased with additional
+resources provided to facilitate their operation.
+Care should be taken to assure that participation by the poor and the
+marginalized is facilitated.
+Concomitant with this resource allocation there needs to be improved
+transparency and accountability measures for the At-Large.
+In those instances where At-Large Structures exist in cities with TLDs, city
+government should be provided with ex officio participation.
+For those interested in learning more about the At-Large, an At-Large Summit is to be
+held during ICANN’s June 2014 London meeting, with a representative from each of the
+At-Large Structures in attendance.
+If is our belief that engaging cities as stakeholders and expanding the At-Large will
+democratize and enhance the ICANN’s operation.
+-----
+Connecting.nyc Inc. is a New York State not-for-profit formed in 2006 to advocate and
+facilitate the development of the .nyc TLD as a public interest resource. In 2012 it was
+recognized as an At-Large Structure by ICANN.

@@ -1,0 +1,109 @@
+Russian parliament submission to NET mundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Robert Shlegel
+Region: Russian Federation
+Organization: State Duma Of The Russian Federation (Parliament of the
+Russia)
+Sector: Government
+Keywords: human rights, coordinated strategies, internet ecosystem,
+critical resources, IANA, government roles, ethical issues
+Abstract
+Honorable Colleagues! I propose to bring the following topics to the agenda of the NET
+mundial in So Paulo: 1. Coordinated strategies for effective Internet governance 2.
+Protection of users rights 3. The evolution of the Internet ecosystem 4. Critical Internet
+resources governance. IANA: Quest for the Rest 5. Clarifying the role and authority of
+governments 6. Ethical Issues in the Informational Environment
+Document
+Honorable Colleagues!
+I propose to bring the following topics to the agenda of the NET mundial in São Paulo:
+1. Coordinated strategies for effective Internet governance
+Internet has penetrated into all spheres of human life, and it became oneof the most
+important means to ensure human rights and democracy. However it carries equally
+important threats. The incident with Snowden has demonstrated a complete lack of
+security and control. The necessity to protect the rights of the citizens causes the actions
+of the states to establish legal framework for relations arising while using the Internet. But
+the attempts to create legislation in this sphere are not systematic, that can lead to
+negative consequences, taking into account the cross-border nature of the Internet. The
+task of creating legislation in this sphere must be systematic and must be achieved by
+concerted actions of all the states to develop a unified international legally binding
+legislation.
+2. Protection of users rights
+Today the world faced with widespread violation of human rights on the web. These
+violations are global, worldwide and appear as from the individual states and also from
+major transnational companies, criminal groups and individuals. This situation tends to
+undermine confidence on the Internet by users and threatens with fragmentation of the
+Network. For many governments inability to protect the rights of their citizens may
+become a pretext for creating protective barriers. There are many such examples already.
+International community must find ways to deal with violations of the rights of users,
+before such a practice has not become commonplace, in order to preserve the integrity,
+freedom and openness of the Internet. The States, together with other stakeholders,
+should find the frameworks of the protection of the rights of users and ensure the
+protection of these rights in those areas in which the States have the exclusive authority
+and responsibility.
+3. The evolution of the Internet ecosystem
+The future of Internet is foggy. Traditionally, we see the Internet in its static, current state.
+But the Internet ecosystem is constantly developing. New technologies, new challenges,
+new stakeholders appear. The influence of some stakeholders reduces and the influence
+of others increases.
+There is no single global approach to determination of the policy and direction of
+development in this area. It is necessary to define a unified conceptual apparatus for all
+objects and processes of the Internet, and the very definition of Internet governance.
+Applying the multistakeholder approach, it is necessary to determine the degree of
+responsibility of each of the sides of interaction. Currently this is not done.
+It leads to the fact that there are different groups that claim to have a right to decide what
+will be the future of the Internet. However, decision-making in this area requires a broader
+discussion and consensus than some meetings behind the closed doors. IGF is perfectly
+suited for this, exactly IGF, but not the elite groups that are able to determine the vector of
+development of Internet governance.
+At a forum in Istanbul it is essential to discuss – how we see the evolution of "Internet"
+ecosystem governance, what principles will be used for this, to listen to the opinions of
+stakeholders and, perhaps, apply on this occasion.
+4. Critical Internet resources governance. IANA: Quest for the Rest
+To date, the World Wide Web has proven its stability. The critical infrastructure, in
+particular, the system DNS, is stable. However, in future individual outdated control
+system elements pose a threat to the sustainable development of the Internet. For
+example, the control of one government for the root zone governance system that
+performs IANA. It worries the international community. In the future, the alternative
+scenario of the DNS implementation is possible. In addition, the lack of transparency
+undermines the credibility of the entire control system of the critical infrastructure of the
+Internet as a whole.
+In general, the IANA functions quite effectively. That’s why it is proposed to include to the
+agenda of the Internet Governance Forum the issue of necessity to review the contract
+and the relevant IANA procedures for its implementation.
+The next step in this direction should be discussion of the creation of a working group that
+will develop proposals for the formation of an international body for oversight and audit
+IANA.
+Such a body should have appropriate technical competencies and enjoy the wider
+international community confidence. Its activities should be based on the agreement
+providing the mechanism of accountability, and be entirely focused on protecting the
+public interest.
+5. Clarifying the role and authority of governments
+Internet is transboundary. But national states have fixed and clearly defined boundaries
+within which they spread their laws and economic rules. They can not avoid affecting the
+legal entities using the Internet. Each country solves problems of security, intellectual
+property, and distribution of domains. Internet is used and for political purposes differently.
+These issues can be determined on the international level through conventions and
+treaties, but more often it does not. This process should be activated. Therefore it is
+necessary to define what should be regulated at the international level, and to what extent
+the Internet can be controlled independently.
+6. Ethical Issues in the Informational Environment
+Enshrined in the Universal Declaration of Human Rights the principle of freedom of
+speech is a fundamental basis of the Internet functioning. It is a global information
+environment that provides free cross-border flow and exchange of information. However,
+such conceptual documents as the Convention for the Protection of Human Rights and
+Fundamental Freedoms of the Council of Europe states that realization of these freedoms
+in a democratic society imposes duties and responsibilities established by law.
+Finding a balance between the informational human rights and the principle of their
+restrictions for protection of these rights and the rights of third parties is a challenge for all
+stakeholders involved in Internet governance.
+The right to freedom of information exchange in the network must be protected from
+excessive restrictions and controls. Including against unauthorized surveillance. It places
+special responsibility on the state as the guarantor of the rights of both the national and
+international level.
+Therefore, at the present stage of development of the Internet, global Internet
+communities need to revert to the ethical principles in the field of information and
+mechanisms for their implementation . The platform for dialogue on the issue could be the
+Internet Governance Forum. In addition, the Forum should explore the possibility of
+analyzing and making appropriate recommendations by forces created in 2012 by the
+Working Group on the Principles of the Internet (Working Group on Internet Principles)

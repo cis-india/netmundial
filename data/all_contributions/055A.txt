@@ -1,0 +1,231 @@
+Google Submission for NET mundial Conference
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Ross LaJeunesse
+Region: USA
+Organization: Google Inc.
+Sector: Private Sector
+Keywords: Internet Governance Principles, Roadmap, Stable, Secure,
+Interoperable Open Internet
+Doc Attached: Click here to see the doc 1
+Abstract
+Google welcomes the opportunity to submit a contribution to the Global Multistakeholder
+Meeting on the Future of Internet Governance (NET mundial). Our company?s mission is
+to organize the world?s information and make it universally accessible and useful, and
+without a secure, stable, interoperable, resilient, and open Internet, there would be no
+Google. The Internet?s effects on economic growth, commerce, innovation and creativity
+are unprecedented. However, despite the significant positive impact of the Internet, its
+further development stands at a crossroads. The entire Internet community -- including
+governments, businesses, civil society, academic and technical experts, and individual
+users -- must continue working together if we want the Internet to remain an open, vibrant
+platform for innovation, growth, and the free exchange of ideas, and if we want to expand
+the reach of this technology to those who remain unconnected.
+Document
+Introduction
+Google welcomes the opportunity to submit a contribution to the Global Multistakeholder
+Meeting on the Future of Internet Governance (NET mundial). Our company’s mission is
+to organize the world’s information and make it universally accessible and useful, and
+without a secure, stable, interoperable, resilient, and open Internet, there would be no
+Google.
+The Internet’s effects on economic growth, commerce, innovation and creativity are
+unprecedented. According to the McKinsey Global Institute, the Internet accounts for 21
+percent of GDP growth in the last five years in developed countries, as well as in 30
+surveyed developing countries. [1]
+However, despite the significant positive impact of the Internet, its further development
+stands at a crossroads. The entire Internet community -- including governments,
+businesses, civil society, academic and technical experts, and individual users -- must
+continue working together if we want the Internet to remain an open, vibrant platform for
+innovation, growth, and the free exchange of ideas, and if we want to expand the reach of
+this technology to those who remain unconnected.
+Section 1: Internet Governance Principles
+We believe that preserving and advancing open and consultative decision-making is
+essential to ensuring that global citizens are able to take advantage of this transformative
+platform both now and in the future. As such, we support the following principles:
+* Policies should ensure a safe, secure, open, interoperable, and resilient Internet.
+* Policies should support opening and maintaining international markets in a way that
+allows for the seamless flow of digital services, applications, products, and information,
+particularly across national borders.
+* Policies should foster innovation.
+* Policies should support capacity building and implementation of best practices in relation
+to network security.
+* Policies should recognize that individual human rights apply online just as they do offline.
+* Policies should promote expanding access to the Internet so that it reaches all citizens
+across the globe.
+A governance structure that honors the substantive principles above should also
+include certain procedural characteristics:
+* Governance structures should be open, transparent, and accountable to all
+stakeholders. All members of the Internet community -- whether individual users,
+governments, civil society, businesses, and members of the academic and technical
+community -- have an interest in preserving the Internet as a critical platform for
+communication and information exchange, and therefore all stakeholders should be
+included in governance discussions. Moreover, all of these stakeholders have contributed
+to the development of the Internet to date, and working together, they have driven
+unprecedented growth in access to, uses of, and innovation on the Internet. They must
+continue to be involved in any future model of Internet governance.
+At Google, we see these principles as a natural extension of our company’s philosophy, in
+which we recognize the need to focus on Internet users first, the need for information that
+crosses all borders, and the power of the web to empower global citizens.
+We believe that there is broad agreement on the high level principles we have articulated
+here, and we support additional work on and discussion of universal principles. The work
+on establishing Internet principles should continue as an ongoing process, and
+NETmundial should not measure its success or failure by agreement -- or lack thereof --
+on a new, universal set of principles. Indeed, there may never be a “constitutional
+moment” for the Internet, but our goal should be ensuring alignment on principles by all
+stakeholders. [2]
+Section 2. Roadmap for the Further Evolution of the Internet Governance Ecosystem
+The Current System
+Because Internet governance is multifaceted -- spanning technical, political, and policy
+issues -- there is no single organization that manages or has jurisdiction over all Internet
+policy questions; instead, the Internet’s policies and protocols have rapidly evolved
+through a set of diverse organizations. Together, a robust set of multistakeholder Internet
+institutions, each with different core functions and strengths, address nearly all Internet
+policy and technical issues.
+A few such examples include:
+* The Internet Engineering Task Force (IETF), which develops global standards and
+protocols;
+* The Internet Corporation for Assigned of Names and Numbers (ICANN), which manages
+the global system for Internet naming, numbering, and addressing;
+* The Internet Governance Forum (IGF), which brings together academia, governments,
+civil society, and industry as a means of fostering the discussion of critical Internet issues;
+and
+* The Internet Society (ISOC), a technical organization, which seeks to promote the open
+development, evolution, and use of the Internet for the benefit of all people throughout the
+world.
+While these organizations each address a significant number of issues, the Internet
+governance framework’s inherent flexibility also enables issue-specific organizations to
+play useful roles in addressing critical questions. A few of these specialized groups
+include:
+* The Messaging, Malware and Mobile Anti-Abuse Working Group and Stop Badware,
+both global member-driven organization that works collaboratively to address various
+forms of messaging abuse (such as spam, viruses, denial-of-service attacks and other
+messaging exploitations) through industry collaboration, technology, and public policy
+initiatives;
+* The Forum for Incident Response and Security Teams (FIRST), which brings together a
+variety of computer security incident response teams from government, commercial, and
+educational organizations and aims to foster cooperation and coordination in incident
+prevention and incident response and to promote information sharing among members
+and the community at-large;
+* Global Computer Incident Response Teams (CIRTs), multistakeholder organizations
+responsible for leading efforts to improve cybersecurity online, coordinate cyber
+information sharing, and proactively manage cyber risks; and
+* The Alliance for Affordable Internet, which brings together governments, civil society,
+and the private sector to promote policy changes that enable affordable Internet access.
+Today, we face two significant challenges. First, we must make the organizations that
+address Internet governance questions -- whether they are technical or policy-oriented --
+more inclusive and transparent while at the same time ensuring their continued
+effectiveness in solving new challenges in an ever changing world. Second, we must
+tackle the challenge of connecting the rest of the globe to the Internet.
+Increasing Inclusivity, Transparency, and Accountability in Existing Organizations
+Google has pursued a number of initiatives to improve existing Internet governance
+organizations. Below we include just a few examples of such work:
+* Internet Governance Forum: Google believes that the UN-chartered Internet
+Governance Forum (IGF) is the premier forum for robust and inclusive debate of key
+Internet governance and global Internet policy issues. It is the only forum that brings
+together all stakeholders to discuss these issues. However, the IGF is at a critical stage:
+it is in desperate need of consistent funding in order to continue operating, and it could be
+strengthened by further improving transparency regarding its operations and broadening
+its efforts to reach new stakeholders. We support efforts to ensure the IGF’s sustainability
+and to improve its inclusivity, transparency, and accountability.
+* Facilitating discussions between policymakers and the technical community: Google
+supports meetings of regional operators groups (e.g., AfNOG, MENOG), regional Internet
+registries (e.g., AfriNIC) and regional peering and interconnection fora (AfPIF). We have
+also worked with the Internet Engineering Task Force (IETF) to make it easier for
+regulators from across the globe to participate in IETF meetings and better understand
+the bottom up, multi-stakeholder process of Internet standards development.
+Expanding Internet Access
+Google is committed to working with all stakeholders on the technology, policy, and
+business solutions for improving Internet access. We have made significant investments
+in a number of areas.
+* Innovative solutions for increasing broadband access and decreasing its cost: There is
+no single technology or platform that will achieve global connectivity, and we are working
+on several different projects. Project Loon, our early-stage effort to deliver broadband via
+high-altitude balloons, is one of many exploratory initiatives aimed at connecting remote
+and hard-to-reach localities. We have also invested in Project Link, a fiber network in
+Kampala, Uganda, that aims to improve Internet access by connecting existing, local
+networks to the undersea cables that, in turn, connect the Internet between continents.
+Similarly, Google has long advocated that unused channels in the television broadcast
+spectrum -- called “white spaces” -- be used to deliver low-cost broadband in unserved
+and underserved areas. To that end, we have developed a database to make this
+spectrum available for the transmission of broadband.
+* The African School on Internet Governance: Last July, Google sponsored the first
+African School on Internet Governance in Durban, South Africa. The School brought
+together government officials, technical experts, academics and business leaders, and
+highlighted the inherent power of the multi-stakeholder model by incorporating all these
+views in the development of strategies for using the Internet as a platform for economic,
+social, political, and cultural development.
+* Driving demand for locally relevant content: Online content drives Internet adoption. To
+that end, we have worked with local businesses across the globe to help them establish
+an online presence. Not only does this effort contribute to locally relevant content, it allows
+small businesses to grow their revenues by expanding to a broader, potentially global,
+audience. We have also made significant achievements in localizing Google content for
+national audiences: for example, in Africa alone, we have developed localized country
+domains for over 30 countries and provide content in 37 languages. In addition, we have
+expended considerable efforts to put the world’s cultural treasures online with such
+initiatives as the Google Cultural Institute, which has put the collections of over 400
+leading museums online to date.
+We offer these illustrative examples as ways that we are tackling two critical challenges
+facing the Internet community. Of course, it will take more work in the coming months and
+years from a variety of stakeholders to order to meet these challenges.
+The Path Forward
+There has never been a single road, no single “one stop shop” for Internet governance;
+instead, there are are multiple organizations and actors that all contribute to Internet
+governance development. The Internet’s rules have rapidly evolved in diverse
+organizations like the IETF, which cooperates on the development of open standards, or
+ICANN, which manages naming and addressing. Of course, governments are heavily
+involved in regulating the Internet through regulations addressing privacy, fair use, libel,
+competition, and other matters. The technology community is spread across many sectors
+and its work creates implicit and sometimes explicit bounds on behavior. And many
+individuals and civil society organizations engage to provide independent perspectives on
+behalf of users. These are just a few examples, and amazingly, all these groups
+collaborate with each other to set collective rules for the advancement of the Internet
+ecosystem.
+In sum, the Internet governance ecosystem is complex in a way that reflects the social,
+political, and business contentions of the world in which we live. One of the early heads of
+the Internet Architecture Board (IAB), David Clark (with others) summarized some of the
+governance challenges by observing that “as the Internet becomes mainstream it
+inevitably moves from being an engineering curiosity to being a mirror of the societies in
+which it operates.” This is even more true today.
+The Internet community does not lack for places to discuss key Internet policy and
+governance questions. Rather, a critical concern voiced by some stakeholders is that the
+rubric of organizations and overlapping missions is confusing and difficult to navigate
+without considerable time and effort. While these concerns are valid, they do not
+necessarily counsel in favor of directing all Internet policy discussions into one body.
+Rather, we must find a way to take advantage of the richness of the ecosystem while
+making it easier to navigate, especially for new entrants.
+As such, as Internet policy discussions continue to evolve, we believe stakeholders
+should continue to rely on the existing structures to develop global policies that benefit all
+users rather than relying on either the creation of another governance body or on
+multilateral approaches. To make the processes easier to navigate, we believe that one
+way to approach to the development of a “roadmap” requires us look at the map through
+the lens of the Internet’s technical architecture. In particular, the Internet’s “layered
+model” provides a way to understand the ecosystem. The technical layer deals with the
+Internet’s infrastructure, standards, routing protocols. On top of the technical layer are the
+content and social layers, within which the applications and services of the Internet are
+found. Although there are different ways to think about the layered system, we believe
+the conceptualization of the Internet in these layers helps provide a basis for a discussion
+about which institutions and stakeholder groups should be involved in which Internet
+policy issues, and within which “layers” they operate. [3]
+The whole Internet ecosystem is likely to benefit from mapping the existing Internet
+governance institutions and clarifying their roles as stewards for particular Internet
+governance practices and policy-making. Doing so can also help identify the areas or
+issues that are not yet addressed within the ecosystem and help identify areas that
+require further attention.
+Conclusion
+We look forward to the opportunity to discuss these proposals and others with
+representatives from governments, the private sector, civil society, and the technical
+community in Sao Paulo. And, we look forward to working together with all stakeholders
+in moving toward a shared goal: continued, robust growth of an open Internet that enables
+economic development, cultural advancement, and the free exchange of ideas and
+information to every nation and person on the globe.
+-------
+Footnotes
+[1] Internet Matters: The net’s sweeping impact on growth, jobs, and prosperity, available
+at
+http://www.mckinsey.com/Insights/MGI/Research/Technology_and_Innovation/Internet_matters.
+[2] SeeVinton G. Cerf (Chair) et al., “ICANN’s Role in the Internet Governance
+Ecosystem,” Report of the ICANN Strategy Panel, February 20, 2014, available at
+http://goo.gl/D60sJw.
+[3] For further detailed on the layered model in policymaking, see Cerf/Ryan/Senges,
+“Internet Governance is our Shared Responsibility, available at
+http://ssrn.com/abstract=2309772 and Whitt, “A Deference to Protocol,” available at
+http://ssrn.com/abstract=2031186.

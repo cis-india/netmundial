@@ -1,0 +1,183 @@
+Intel Comments for NETMundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Mike Chartier
+Region: United States
+Organization: Intel
+Sector: Private Sector
+Keywords: do no harm, open, inform
+Abstract
+Intel commends Brazil for convening and hosting this important dialog on the critical topic
+of internet governance and is pleased to submit these comments. Intel is the world's
+largest semiconductor chip maker. Since 1968 we have developed the chips and
+technology that power the worldwide digital economy. In our submission we offer some
+comments on the logistics and work of the meeting, and then provide proposals on the
+principles and roadmap.
+Document
+Intel Comments for NETMundial
+Intel commends Brazil for convening and hosting this important dialog on the critical topic
+of internet governance and is pleased to submit these comments. Intel is the world's
+largest semiconductor chip maker. Since 1968 we have developed the chips and
+technology that power the worldwide digital economy. In this submission we would first
+like to offer some comments on the logistics and work of the meeting, and then provide
+proposals on the principles and roadmap.
+COMMENTS ON THE WORK OF THE MEETING
+Do No Harm – Help All
+The global community, as gathered in the United Nations 68th General Assembly,
+acknowledged in Resolution 68/198 “the steady increase in Internet access to one third of
+the world’s population, the rapid diffusion of mobile telephony and mobile Internet, the
+increased availability of multilingual content and the advent of many information and
+communications technologies services and applications, which offer great potential for the
+development of the information society.” It went on to stress, however, the “
+need to close the digital divide, including with regard to such issues as Internet
+affordability, and to ensure that the benefits of new technologies, especially information
+and communications technologies, are available to all.” Intel believes these two
+statements should serve as buoys to guide the way forward for the work of NETmundial
+and the global discussion in general. The meeting should seek to “do no harm” to the
+vibrant, innovative, and competitive market for products, services, and ideas, that has
+brought the benefits of technology to billions, while striving to expand those benefits to all.
+Stay Focused
+Secondly, the large number and great diversity of participants, importance of the topic,
+and very short duration will preclude extended discussion of detailed proposals. In order
+to achieve consensus, the meeting should focus on high-level principles and concepts.
+Organization- specific contributions, such as detailed ICANN proposals, should be
+remanded to those specific organizations.
+Sunshine Process
+Finally, for the output of the meeting to gain wide support and legitimacy, it must reflect a
+true consensus of the stakeholders. There is currently some lack of transparency in
+fundamental aspects of the meeting, such as how participants are chosen to attend, how
+representatives of various constituencies were designated, and how output documents
+will be deemed approved. It is important that a clear understanding exists at the start of
+the meeting of the mechanisms NETmundial will use to ensure that any output reflects
+true consensus.
+COMMENTS ON PRINCIPLES
+As recognized by all, many organizations have produced Internet-related principles such
+as UN General Assembly, OECD, UN Human Rights Council, the G8 and others. Some
+commenters have derived principles based on a synthesis of these earlier principles.
+Given that global discussion around these basic ideas has reached some level of
+maturity, we believe the meeting should be able to arrive at a consensus on a set of
+principles. In our submission we would just like to highlight two principles we consider
+foundational to the continued growth of the Internet.
+Commitment to the Multistakeholder Approach
+From our vantage point as one of the innovators and key suppliers of technology to the
+ICT industry for over forty years, Intel is keenly aware of the efficiency, flexibility, and
+resiliency of a multistakeholder approach, especially in the area of day-to-day operations
+and technical standards. One of the greatest market challenges was the coordination of
+hundreds of thousands of hardware manufacturers with millions of software and
+application developers to produce interoperable products, while delivering constant
+innovation. Yet a distributed, industry driven approach, where technologies and products
+are tried on their technical and market merits has been able to deliver capabilities to
+consumers that were considered science fiction just decades ago. Moreover, this
+development and standardization process, which is close to the end-user, is also crucial
+for rapidly responding to cyber security attacks and threats. Intel realizes the role of
+governments in addressing communities that may be underserved by the market, for
+instance, through the use of Universal Service programs. However, Intel strongly opposes
+the replacement of existing organizations and technical bodies, or the arrogation of the
+functions of those bodies, by a new or existing intergovernmental body.
+Open Internet
+Intel supports the principle (submitted by Germany) that “The global, open and free nature
+of the Internet as a single commons has to be ensured. It is a driving force for progress
+towards development in its various forms including economic growth, encouraging
+innovation and allowing for creativity.” We have been greatly concerned by recently
+proposed unilateral actions that would fundamentally alter the single commons nature of
+the Internet by enforcing localization mandates. Similar to proposals during WCIT to
+replace industry agreements with government-imposed sending-party-pays regimes,
+localization requirements seek to alter a fundamental aspect of the internet for parochial
+benefit that would result in negative consequences for all parties involved. The ability to
+establish, virtually, a global footprint has been a key driver for the growth of many
+commercial enterprises. Germany’s mittelstand in particular have benefited significantly
+on the low barrier to entry to become an international leader. These companies would
+significantly suffer if localization mandates required a physical presence in every market
+they served. Also, end users could lose access to products and services and see rising
+costs due to reduced competition. Moreover forums for the free expression and exchange
+of ideas could be devastated by laws which would dramatically increase operating costs.
+We believe data security is not a question of server location but of standardized and
+harmonized security technologies, policies, and practices which enable interoperability
+and involve all stakeholders developing flexible approaches and mechanisms to improve
+cyber-security. We strongly support, however, the announcement to lay an undersea
+cable between Europe and South America. Such capacity-building would facilitate better
+access for the countries involved and improve access, resiliency, and security for the
+entire virtual community.
+COMMENTS ON THE Roadmap for the Further Evolution of the Internet Governance
+Ecosystem
+Inform Not Dictate
+The title of this discussion topic was appropriately chosen. As defined in the OED
+Evolution is “…the rise or origination of anything by natural development as distinguished
+from its production by a specific act.” The evolution of the multistakeholder Internet
+governance ecosystem has been an ongoing process as the existing individual
+organizations have responded to their changing environment. The companies,
+communities and governmental and non-governmental bodies that constitute Internet
+Governance engage in internal assessment and improvement on a regular basis. It is
+crucial that this process remains a bottoms-up progression. This meeting and similar
+forums can, should, and will influence that evolution, but reconfiguring, realigning or
+redistributing governance functions by external fiat would have a detrimental and long
+lasting impact.
+As technology advances developers and innovators utilize new capabilities to create ever
+improving and new applications and products. Simultaneously, dramatic cost reductions
+and new access technologies allow the benefits of the Internet and ICTs to flow to an ever
+increasing percentage of the world’s population. In addition, negative activities such as
+malicious cyber security attacks occur requiring immediate attention. And so a
+fundamental requirement for all companies, standards bodies, and policy setting
+organizations in the ICT Industry is their ability to adapt to change. Moreover, the
+processes these organizations use to improve themselves are often open consultations
+where all stakeholders have the means to provide input.
+For instance ICANN 47 in Durban, South Africa, created five new Strategy Panels to “
+build on public input being generated to inform a new, overarching vision and five-year
+strategic plan, and subsequent operating plan, for the organization.” The panels, providing
+recommendations and guidance for the operation and future of ICANN are directly
+relevant to this discussion, especially “ICANN’s Role in the Internet Governance
+Ecosystem,” which recently published a comprehensive report including a Roadmap
+towards Globalization. Intel commends the work of the panel and recognizes the internal,
+consultation process (stakeholders are encouraged to review all the draft reports and
+provide comments through 30 April 2014) as the best and only legitimate mechanism for
+positive change. We believe it would be counterproductive for this meeting to prescribe
+(top down) specific changes for ICANN or any individual organization. While this meeting
+should note the detailed proposals have been submitted to this meeting related to
+modifications to ICANN, ICANN 50 and internal forums are the appropriate place for their
+discussion.
+Role of governments
+Unquestionably, an issue dominating the global discussion has been the role of
+governments in Internet governance. Internet activity, like all human activity, requires a
+sphere of security and certainty established by the rule of law in order to flourish.
+However, inside that sphere, freedom and flexibility are critical to foster the innovation
+needed to realize the potential of technology. This concept is enshrined in Article 69 of the
+Tunis Agenda which recognizes:
+“the need for enhanced cooperation in the future, to enable governments, on an equal
+footing, to carry out their roles and responsibilities, in international public policy issues
+pertaining to the Internet, but not in the day-to-day technical and operational matters, that
+do not impact on international public policy issues.”
+Intel has a long history of fruitful engagement with Administrations to expand the benefits
+of ICTs to all segments of society. Our Intel World Ahead program has worked extensively
+with governments to adopt policies designed to accelerate broadband adoption, for
+instance, via the development of national broadband plans, and improvements in the use
+of Universal Service Funds. And we work with governments, stakeholders, and ecosystem
+partners to promote capacity-building, as in the area of education where Intel’s Teach
+professional development program has enabled 10 million teachers to effectively integrate
+technology into their lessons to promote problem-solving, critical thinking and
+collaboration skills among their students.
+However intergovernmental organizations are poorly structured to address most technical
+and operational aspects of the dynamic and fluid Internet and ICT environment. The
+current system, while not perfect, largely allows decisions to be made based on their
+technical or market merit. It also provides timely feedback to inform investment on those
+products and services most valued by consumers (Intel alone has invested over $100
+Billion during the WSIS period to maintain the daunting pace of Moore’s law). Perhaps
+most importantly, the existing multi-stakeholder model provides the speed and flexibility
+needed to address and combat cyber-security attacks and threats. Replacing the current
+system with a cumbersome, bureaucratic process requiring decisions based on the
+agreement of Administrations, would not only stifle innovation and progress, and lead to
+sub-optimal technologies, products and services, but could also lessen overall confidence
+and security in the use of ICTs. Accordingly, as mentioned above, Intel strongly opposes
+the replacement of existing organizations and technical bodies, or the arrogation of the
+functions of those bodies, by a new or existing intergovernmental body.
+IN SUMMARY
+· The meeting should be guided by the tenet “do no harm,” while it seeks to increase
+and disseminate the benefits of ICTs and the Internet.
+· At the outset, the meeting should clarify the processes used for designating
+representatives of various stakeholder groups and the mechanisms that will be used to
+draft and achieve consensus on any output documents.
+· We consider the principles of multi-stakeholder approach and an open Internet as
+foundational.
+· The evolution of the Internet governance ecosystem should be endogenous, that is,
+informed by external forums, but not dictated by them.
+· Existing or new functions should not be bestowed on an existing or new intergovernmental
+organization.

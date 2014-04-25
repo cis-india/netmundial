@@ -1,0 +1,69 @@
+Committing to the Principle of Openness
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Raquel Gatto
+Region: Global
+Organization: Internet Society (ISOC)
+Sector: Technical community
+Keywords: Openness; Open Standards; Cooperation; Voluntary Adoption;
+Free flow of information
+Doc Attached: Click here to see the doc 1
+Doc Attached: Click here to see the doc 2
+Abstract
+For more than 20 years, the Internet Society has been committed to promoting the open
+development, evolution, and use of the Internet for the benefit of all people throughout the
+world. In this regard, the Internet Society considers openness as a core principle and the
+underlying foundation for the fulfillment, enjoyment and sustainability of the Internet?s
+social, political and economic potential.
+Document
+Introduction
+The Internet Society appreciates the opportunity to provide input for consideration by the
+participants in the Global Multistakeholder Meeting on the Future of Internet Governance
+(“NETmundial”).
+We understand that the meeting will seek to put forward a set of recommended principles
+on Internet governance. In this regard, the Internet Society considers openness as a core
+principle and the underlying foundation for the fulfillment, enjoyment and sustainability of
+the Internet’s social, political and economic potential.
+Openness is additionally reflected in the following principles[1] articulated by a set of
+Internet standard-setting organizations:
+· Cooperation among standards organizations;
+· Adherence to due process, broad consensus, transparency, balance and openness
+in standards development;
+· Commitment to technical merit, interoperability, competition, innovation and benefit
+to humanity;
+· Availability of standards to all; and
+· Voluntary adoption.
+Underlying these principles is the value openness has created for the Internet (and
+beyond). Internet standards have to be open to be useable. Openness allows the rapid
+development of the Internet and the various applications running on it; it has resulted in
+unprecedented economic growth, social transformation, technological innovation and
+creativity.
+The Virtuous Circle of an Open Internet
+Openness has allowed the technical, economic, societal and political dimensions of the
+Internet to come closer together. For instance, open global standards provide a platform
+for borderless trade and an interoperable open economy, fostering innovation; innovation,
+in turn, relies on users’ ability to freely and openly create, share information and exchange
+ideas, reflecting the model of a healthy open society; finally, open multistakeholder
+models have proven key in terms of economic development and capacity building.
+In the absence of open, global standards for interoperation, fragmented and incompatible
+networks are likely. Open standards are accessible to all developers and permit the
+creation of affordable networks and services, through competition. The desire to create an
+open and efficient system of communication has driven the creation of the Internet we see
+today.
+Openness can also enhance individuals’ freedom, allowing people to connect and craft
+together technical and social change through a participatory and consensus-driven
+process. From its early days, the Internet has evolved by empowering users and
+communities.
+Final remarks
+These manifestations of openness, however, require constant commitment and reexamination
+of core values to remain relevant and effective. The NETMundial meeting
+could be one of the spaces that contribute towards this commitment.
+For more than 20 years, the Internet Society has been committed “to promote the open
+development, evolution, and use of the Internet for the benefit of all people throughout the
+world”.[2]
+To this end, the Internet Society considers openness a key principle. It is because of
+openness that the need to adhere to other principles including, but not limited to,
+transparency, accountability, cooperation, inclusiveness, proportionality and the rule of
+law and due process becomes even more pertinent. Openness encapsulates the essence
+of the Internet – from its technical evolution to its contribution to societies and economies.
+[1]http://www.internetsociety.org/who-we-are/mission
+[2] http://open-stand.org/principles/

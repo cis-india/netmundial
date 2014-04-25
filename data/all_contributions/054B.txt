@@ -1,0 +1,64 @@
+Document
+Internet Governance Principles
+
+We firmly believe that global Internet governance should be based on the mulltistakeholder model and protection of human rights, two principles that are considered to be critical in sustaining the past and future of an Internet for the global community.
+
+ 
+Genuine Multistakeholder Model
+
+ 
+
+The influence of public policies on the Internet are transnational by nature and thus are being developed by the contributions and responsibilities of various global stakeholders. Therefore, it is essential that all relevant stakeholders are given equality of opportunity to participate in the shaping of Internet policies. However, the current Internet governance system has not fully ensured multistakeholder principles in its genuine meaning. The transparency of the policy shaping process has sometimes not been ensured and thus has been criticized as non-democratic, and some stakeholders were not given the opportunity to participate in a meaningful way. Public policies that significantly affect the Internet such as the Anti-Counterfeiting Trade Agreement(ACTA) had been developed completely in a non-transparent manner, excluding the participation of various stakeholders.
+
+ 
+
+The recent emphasis on the multistakeholder model by numerous international organizations discussing Internet related public policies and the acceptance of this principle by many governmental organizations is definitely an encouraging sign. However, various interpretations of the multistakeholder model exist, some even going so far as to mean merely consulting the relevant stakeholders in the policy development process. While we do not believe that a single type of the multistakeholder model fits all, we firmly believe that we need to come to a consensus on following principles that need to be included in order to develop global Internet policies based on multistakeholder model.
+
+ 
+
+    Transparency: There should be full public disclosure of any information related to the policy as well as of the process of the development of the policy.
+    Inclusiveness: All stakeholders should have the opportunity to participate equally in the policy development process, either online or offline.
+    Accountability: Implementation of the policies should be monitored and evaluated regularly by all stakeholders or independent bodies.
+    Balance: The opinions of the various stakeholders should be given an equal status, and a mechanism preventing the capture of the process by any one dominant stakeholder needs to be instituted, allowing for sufficient deliberation among the stakeholders.
+    Proactive measure for disadvantaged groups: We need a mechanism for mitigating the unequal power that exists among the various stakeholders so that the disadvantaged groups may have a fair and meaningful opportunity to participate. Thus, extra effort needs to be exerted on issues such as funding, remote participation and capacity building.
+
+ 
+
+In order to ensure a genuine multistakeholder model, we need to update and revise the Tunis Agenda. Paragraph 34 of the Tunis Agenda defines ‘working definition of Internet governance’, in which the stakeholders would be involved in internet governance “in their respective roles.”, and then paragraph 35 defines “the roles” of each stakeholder. However, the difficulty here is that there is no clear method of defining ‘stakeholders’ and also that different types of issues will necessarily entail different stakeholders. 
+
+ 
+
+The roles of each stakeholder defined in paragraph 35 is not an adequate representatation of actual situations. For example, Civil society participation is not limited to the local community level. Civil societies all over the world are proactively participating in the full policy shaping process of not only local but global issues as an important stakeholder in many areas and our expertise on practical advocacy experiences as technical, academic, and business experts have been appreciated not only in our local communities but also in many global foras.Civil society is defending, protecting, taking solidarity actions with, converging, and sometimes representing the interests of marginalized and disadvantaged people, who are end-users as well as content generators over the Internet. Moreover, civil society as an agent advocating global public interests rather than private or national interests realizes the universal value of human rights even in internet policy areas, which are predominatedly  being affected by the establishment of the privileged private interests or big powers.
+
+ 
+
+Moreover, paragraph 35 declares that the policy authority of Internet-related public policy issues are ‘the sovereign rights of states’ but when we consider that the Internet is transnational by nature and thus requires the cooperation of various stakeholders we should include the equal participation of such stakeholders in the policy making process. We acknowledge, however, the importance of the roles and responsibilities of governments of individual countries in setting national as well as global public policies.
+
+ 
+Human Rights based approach 
+
+ 
+
+The ultimate goal of utilizing the Internet as an essential resource in our society should be to promote the progress and happiness of the human race, and as such Internet governance principles should adopt the protection of human rights as its cardinal value. Numerous principles and charters on the Internet such as the IRP charter of the Internet Rights & Principles Coalition and the  Internet Rights Chater declared by the Association for Progressive Communications(APC) have detailed human rights provisions that need to be protected. We would like to place special emphasis on the following human rights principles.
+
+ 
+
+    Freedom of Expression: Although the Internet is basically an open space for all, numerous Internet postings are still taken down or blocked access to for violation of a variety of rules and regulations. We would like to stress that Internet postings should never be taken down or blocked access to by the administration without a proper decision by the judiciary system. The censorship and control of expressions posted on the Internet being subject to the discretion of the administrative body is inconsistent with the international responsibilities of each countries to adhere to international treaties on  human rights. In addition, the right to remain anonymous should be protected.
+    Privacy: The right to privacy that is guaranteed by article 12 of the Universal Declaration of Human Rights(UDHR) is one of the most important prerogatives and is a key element in sustaining the trustworthiness of the Internet. The right to informational self-determination is a principle that is declared to be protected by  UN Guidelines concerning computerized personal data files as well as by various national legal systems. However in a global Internet environment, it is becoming increasingly more difficult to protect the rights of individuals. The revelation in 2013 of surveillance by a state’s intelligence agency has greatly weakened the trustworthiness of the Internet. Thus,  in line with ‘the International Principles on the Application of Human Rights to Communications Surveillance’ that has been proposed by the international civil society, we feel that it is necessary to establish a system that can prevent such mass surveillance. In this regard, the adoption of ‘The Right to Privacy in the Digital Age’ in November, 2013 by the UN general assembly represents a huge leap forward.
+    Net Neutrality: The freedom and openness that characterize the Internet are two critical elements that ensure its development and success. These principles, together with those of non-discrimination and fair competition, must continue to be an essential force behind its development. People’s rights to use the device of their choice to access Internet content, applications and services without discrimination or limitations should be guaranteed.
+    Right of Access to Knowledge and Culture: The Internet allows the opportunity for global sharing of knowledge and culture and thus enables the creation of innovative ideas and novel cultures through a mechanism of cooperation that contributes to the advancement of our society. Thus, publicly funded intellectual and cultural products should be open for public use. In addition, we need to re-evaluate the adverse effects of artificial monopoly rights that are given to intellectual and cultural products on the creation of innovative knowedge and cultures and consider establishing a new system for creative intellectual products.
+
+ 
+Roadmap 
+
+ 
+
+We would like to propose the following principles related to the future of Internet ecosystems.
+
+ 
+
+The Internet governance ecosystem should be founded on the principles stated above. Existing organizations related to Internet governance should be evaluated based on those principles, thus becoming more transparent in their operations and ensuring the participation of all stakeholders. The Internet governance ecosystem should be able to reflect a genuine multistakeholder model.
+
+ 
+
+Since 2005, the Internet Governance Forum has been instrumental in providing a forum for the various stakeholders to come together and develop cooperative relationships through open discussions. We need to pay special attention to the recommendations of the “Working Group on Improvements to the Internet Governance Forum” when considering the future Internet governance ecosystems. The role of the IGF should be enhanced so that it may produce tangible outputs regarding Internet governance. We hope that this ‘Global Multistakeholder Meeting on the Future of Internet Governance would enable the IGF to continue to be an important forum for discussing future Internet governance arrangements

@@ -1,0 +1,120 @@
+Document
+
+ 
+
+Democratising Global Governance of the Internet
+
+ 
+
+The Coalition for a Just and Equitable Internet (Just Net Coalition) was formed at a meeting in Delhi in February 2014. It comprises several dozen organisations and individuals from different regions globally concerned with internet governance, human rights and social justice, and the relationship between them.
+
+ 
+
+How to Achieve a Just and Equitable Internet for All
+
+ 
+
+The Internet has become a vitally important social infrastructure that profoundly impacts our societies.  We are all citizens of an Internet-mediated world whether as the minority who uses it or the majority who does not.  The Internet must advance human rights and social justice.  Internet governance must be truly democratic.
+
+ 
+
+The Internet is reorganising public institutions, including those related to governance, welfare, health, and education, as well as key sectors such as media, communications, transport and finance. It has transformed the way we do many things but the benefits promised for all have not been adequately realized. On the contrary - we have seen mass surveillance, abusive use of personal data and their use as a means of social and political control; the monopolization, commodification and monetisation of information and knowledge; inequitable flows of finances between poor and rich countries; and erosion of cultural diversity.  Many technical, and thus purportedly 'neutral', decisions have in reality led to social injustice as technology architectures, often developed to promote vested interests, increasingly determine social, economic, cultural and political relationships and processes.
+
+ 
+
+Opportunities for the many to participate in the very real benefits of the Internet, and to fully realize its enormous potential, are being thwarted by growing control of the Internet by those with power - large corporations and certain national governments. They use their central positions of influence to consolidate power and to establish a new global regime of control and exploitation; under the guise of favouring liberalization, they are in reality reinforcing the dominance and profitability of major corporations at the expense of the public interest, and the overarching position of certain national interests at the expense of global interests and well being.
+
+ 
+
+Existing governance arrangements for the global Internet are inadequate. They suffer from a lack of democracy; an absence of legitimacy, accountability and transparency; excessive corporate influence and regulatory capture; and too few opportunities for effective participation by people, especially from developing countries.  The situation can be remedied only through fundamental changes to the current governance arrangements.
+
+ 
+
+The governance of the Internet must proceed from the position that inter-connectivity cannot serve human rights and social justice unless it leads to and supports distributed power, particularly to the grassroots but also across the various Internet divides—social, economic, political. Ensuring that the Internet does not in fact lead to greater centralisation of power will therefore require appropriate interventions at all levels of Internet governance. Building an effective framework to achieve these objectives is the greatest challenge today in terms of global governance of the Internet.
+
+ 
+
+We have outlined elsewhere the principles that, in our view, must underpin the Internet in the future.
+
+ 
+
+We offer here an outline of a framework for how to implement these principles in the future. This framework should underpin the emergence of an Internet that advances human rights and social justice globally, and the reconfiguration of Internet governance into a truly democratic space.
+
+ 
+
+A roadmap for democratising global governance of the Internet
+
+ 
+
+1. New global governance mechanisms are needed. We believe that two distinct mechanisms are needed: one that looks at the global Internet-related public policy issues in various social, economic, cultural and political domains, and another that  undertakes oversight of the technical and operational functions related to the Internet (basically, replacing the current unilateral oversight of ICANN and IANA  by the US government). This will require the setting up of appropriate new global governance bodies as well as a framework of international law to facilitate their work, as follows.
+
+ 
+
+2. A new UN body for Internet-related public policy issues: An anchor global institution for taking up and addressing various public policy issues pertaining to the Internet in an ongoing manner is urgently required. It can be a committee attached to the UN General Assembly or a more elaborate and relatively autonomous body linked loosely to the UN (as a specialized UN body). It should have a very strong and institutionalized public consultative mechanism, in the form of stakeholder advisory groups that are selected through formal processes by different stakeholder constituencies, ensuring adequate representativeness. (OECD's Committee on Computer, Information and Communication Policy[1]and India's recent proposal for a UN Committee on Internet-related Policies[2] are two useful, and somewhat similar, models that can be explored.) This 'new body' will stay abreast of global Internet-related issues; where necessary, develop international level public policies in the concerned areas; seek appropriate harmonization of national level policies; and facilitate required treaties, conventions and agreements. It will also have the necessary means to undertake studies and present analyses in different policy areas.
+
+ 
+
+Most Internet-related public policy issues are of a cross-cutting nature, and overlap with mandates of other existing global governance bodies, such as WIPO, UNESCO, WTO, UNDP, UNCTAD, ITU and so on. This proposed new 'body' would establish appropriate relationships with these other existing bodies, including directing relevant public policy issues to them, receiving their inputs and comments, and itself contributing specific Internet-related perspectives to issues under the purview of these other bodies.
+
+ 
+
+3. A new 'Internet Technical Oversight and Advisory Board': This Board will replace the US government's current oversight role over the technical and operational functions performed by ICANN. The membership of this oversight Board can be of a techno-political nature, i.e. consisting of people with specialized expertise but who also have appropriate political backing, ascertained through a democratic process. For instance, the Board can be made of 10/15 members, with 2/3 members each from five geographic regions (as understood in the UN system). These members can perhaps be selected through an appropriate process by the relevant technical standards bodies and/or country domain name bodies of all the countries of the respective region. They could perhaps come from top recognised technical academic bodies of each country/ region. One member each from each Regional Internet Registries could also be included. (Other mechanisms for constituting the techno-political membership of this Board could also be considered.)
+
+ 
+
+3.1       The Internet Technical Oversight and Advisory Board will seek to ensure that the various technical and operational functions related to the global Internet are undertaken by the relevant organizations as per international law and public policy principles developed by the concerned international bodies.
+
+ 
+
+3.2       The Technical Oversight and Advisory Board will have a dual role: (1) oversight of decisions of ICANN related to its various functions of managing and coordination of critical Internet resources, and (2) advice on public policy perspectives to various technical standards bodies, and in this regard be the link between public policy bodies and these standards bodies. The function of oversight could be arranged to be undertaken either ex ante - before changes are made in the root files, or ex post - after the changes are made, as confirming them. The advisory role of this Board vis a vis technical standards bodies will be non-binding. 
+
+ 
+
+3.2       With regard to ICANN, the role of this Board will be comparable to that exercised by the US government in its oversight over ICANN. As for the decentralized Internet standards development mechanisms, like the Internet Engineering Task Force, these self organising systems based on voluntary adoption of standards will continue to work as at present. The new Board will have operating principles ensuring a very light touch and non-binding role. It will bring in imperatives from, and advise technical standards bodies on, international public policies, international law and norms being developed by various relevant bodies.
+
+ 
+
+3.3       The enable the Board to fulfil its oversight mandate, ICANN must become an international organisation, without changing its existing multistakeholder character in any substantial manner. It would enter into a host country agreement with the US government (or with the government of another country). It would have full immunity from national law and executive authority, and be guided solely by international law, and be incorporated under it. Supervision of the authoritative root zone server would also be transferred to this Board, and it would exercise this role with the help of an internationalised ICANN.
+
+ 
+
+3.4       This board will also advise the afore-mentioned new public policy body on technical matters pertaining to the Internet policy making, as well as take public policy inputs from it.
+
+ 
+
+4. Framework Convention on the Internet: An appropriate international legal framework will be required sooner rather than later for the above bodies to function properly. Accordingly, one of the early tasks of the proposed “new body” dealing with Internet-related public policy issues, discussed above, will be to help negotiate a “Framework Convention on the Internet” (somewhat similar to the Framework Convention on Climate Change[3]). Governance of the Internet concerns a variety of issues that are ever evolving. It is, therefore, preferable to formulate an enabling legal structure as a “framework convention” rather than as a specific treaty or convention that addresses only a bounded set of issues.
+
+ 
+
+4.1       Such a Framework Convention can initially introduce a series of principles, protocols and processes that can then frame further treaties, agreements, etc. on more specific issues.  It will thus enable appropriate and ongoing global policy responses to various opportunities and challenges presented by the fast-evolving phenomenon of the Internet. It will also formalise the basic architecture of the global governance of the Internet; inter alia recognising and legitimising the existing roles and functions of the various bodies currently involved with managing the technical and logical infrastructure of the Internet, including the ICANN, Regional Internet Registries, Internet technical standards bodies and so on.
+
+ 
+
+4.2       There will also be a need for the development of institutional mechanisms for crisis response and dispute resolution in relation to the global Internet, and the social activities that depend on it.
+
+ 
+
+4.3       The idea of a framework convention, and/or greater involvement of UN institutions, has been criticized for various reasons, including a reduction of democracy, infringement on national sovereignty, threats to freedom of speech, a risk of slowing innovation.
+
+ 
+
+4.4       In our view, only appropriate government involvement can ensure democracy, for a number of reasons: Private companies are not democratic institutions and are obliged to act in the interests of owners and shareholders; nations can and frequently do limit their sovereignty voluntarily by agreeing treaties, and such treaties are binding only after they are ratified by national parliaments, thus ensuring the respect of democratic decision-making; human rights, including the right to free speech, are protected by customary internal law enunciated in the Universal Declaration of Human Rights and cannot be limited by any of the mechanisms outlined above; and appropriate government intervention can foster competition and innovation, and indeed calls for net neutrality regulation are intended to have exactly this effect.
+
+ 
+
+5. Funding: Recognising that the current process of domain name registration in reality acts as a license fee or excise tax on Internet users, funding for the proposed new global Internet policy mechanisms would come from the collections made by relevant bodies from the allocation of naming and numbering resources pertaining to the global Internet (like the fee that ICANN collects annually from each domain name owner). These accruals now run into millions of dollars every year and could be adequate to fund a large part of the needed mechanisms for democratic governance of the global Internet.
+
+ 
+References
+
+ 
+
+[1] http://www.oecd.org/internet/ieconomy/37328586.pdf
+
+ 
+
+[2] http://itforchange.net/Techgovernance/IndiaCIRP
+
+ 
+
+[3] http://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change

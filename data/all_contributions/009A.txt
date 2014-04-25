@@ -1,0 +1,152 @@
+International code of conduct for information security
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND 
+ROADMAP
+Entitled by: Ministry of Foreign Affairs of the People's Republic of China
+Region: People?s Republic of China
+Organization: Government of People's Republic of China
+Sector: Government
+Keywords: information security; international cooperation; international 
+deliberations; global culture of cybersecurity; 
+Doc Attached: Click here to see the doc 1Abstract
+Recent years have witnessed the considerable progress achieved in developing and 
+applying the latest information and telecommunication technologies, which could 
+potentially be used for purposes that are inconsistent with the objectives of maintaining 
+international stability and security. It is of great significance that the common challenges in 
+the sphere of information security should be dealt with through international cooperation 
+and in the spirit of mutual respect. To that end, China, Russia, Tajikistan and Uzbekistan 
+have jointly elaborated in the form of a potential General Assembly resolution on an 
+international code of conduct for information security and call for international 
+deliberations within the United Nations framework on such an international code, with the 
+aim of achieving the earliest possible consensus on international norms and rules guiding 
+the behaviour of States in the information space (see annex).
+Document
+ 
+The General Assembly,
+Recalling its resolutions on the role of science and technology in the context of 
+international security, in which, inter alia, it recognized that scientific and technological 
+developments could have both civilian and military applications and that progress in 
+science and technology for civilian applications needed to be maintained and encouraged,
+ 
+ 
+ 
+Noting that considerable progress has been achieved in developing and applying the 
+latest information technologies and means of telecommunication,
+ 
+ 
+ 
+Recognizing the need to prevent the potential use of information and communication 
+technologies for purposes that are inconsistent with the objectives of maintaining 
+international stability and security and may adversely affect the integrity of the 
+infrastructure within States, to the detriment of their security,
+Underlining the need for enhanced coordination and cooperation among States in 
+combating the criminal misuse of information technologies and, in that context, stressing 
+the role that can be played by the United Nations and other international and regional 
+organizations,
+ 
+ 
+ 
+Highlighting the importance of the security, continuity and stability of the Internet and the 
+need to protect the Internet and other information and communications technology 
+networks from threats and vulnerabilities, and reaffirming the need for a common 
+understanding of the issues of Internet security and for further cooperation at the national and international levels,Reaffirming that policy authority for Internet-related public issues is the sovereign right of 
+States, which have rights and responsibilities for international Internet-related public policy 
+issues,
+ 
+ 
+ 
+Recognizing that confidence and security in the use of information and communications 
+technologies are among the main pillars of the information society and that a robust global 
+culture of cybersecurity needs to be encouraged, promoted, developed and vigorously 
+implemented, pursuant to General Assembly resolution 64/211 of 21 December 2009, 
+entitled “Creation of a global culture of cybersecurity and taking stock of national efforts to 
+protect critical information infrastructures”,
+ 
+ 
+ 
+Stressing the need for enhanced efforts to close the digital divide by facilitating the 
+transfer of information technology and capacity-building to developing countries in the 
+areas of cybersecurity best practices and training, pursuant to resolution 64/211,
+Adopts the international code of conduct for information security as follows:Purpose and scope 
+ 
+ 
+ 
+The purpose of the present code is to identify the rights and responsibilities of States in 
+information space, promote their constructive and responsible behaviours and enhance 
+their cooperation in addressing the common threats and challenges in information space, 
+so as to ensure that information and communications technologies, including networks, 
+are to be solely used to benefit social and economic development and people’s well-being, with the objective of maintaining international stability and security.
+ 
+ 
+ 
+Adherence to the code is voluntary and open to all States.
+ 
+ 
+ 
+Code of conduct 
+ 
+ 
+ 
+Each State voluntarily subscribing to the code pledges:
+ 
+ 
+(a) To comply with the Charter of the United Nations and universally recognized norms 
+governing international relations that enshrine, inter alia, respect for the sovereignty, 
+territorial integrity and political independence of all States, respect for human rights and 
+fundamental freedoms and respect for the diversity of history, culture and social systems 
+of all countries;
+ 
+ 
+ 
+(b) Not to use information and communications technologies, including networks, to carry 
+out hostile activities or acts of aggression, pose threats to international peace and security 
+or proliferate information weapons or related technologies;
+(c) To cooperate in combating criminal and terrorist activities that use information and 
+communications technologies, including networks, and in curbing the dissemination of 
+information that incites terrorism, secessionism or extremism or that undermines other 
+countries’ political, economic and social stability, as well as their spiritual and cultural 
+environment;
+ 
+ 
+ 
+(d) To endeavour to ensure the supply chain security of information and communications 
+technology products and services, in order to prevent other States from using their 
+resources, critical infrastructures, core technologies and other advantages to undermine 
+the right of the countries that have accepted the code of conduct, to gain independent 
+control of information and communications technologies or to threaten the political, 
+economic and social security of other countries;
+ 
+ 
+ 
+(e) To reaffirm all the rights and responsibilities of States to protect, in accordance with 
+relevant laws and regulations, their information space and critical information
+infrastructure from threats, disturbance, attack and sabotage;
+ 
+ 
+ 
+(f) To fully respect rights and freedom in information space, including rights and freedom 
+to search for, acquire and disseminate information on the premise of complying with 
+relevant national laws and regulations;
+ 
+ 
+ 
+(g) To promote the establishment of a multilateral, transparent and democratic 
+international Internet management system to ensure an equitable distribution of 
+resources, facilitate access for all and ensure a stable and secure functioning of the 
+Internet;
+ 
+ 
+ 
+(h) To lead all elements of society, including its information and communication 
+partnerships with the private sector, to understand their roles and responsibilities with 
+regard to information security, in order to facilitate the creation of a culture of information 
+security and the protection of critical information infrastructures;(i) To assist developing countries in their efforts to enhance capacity- building on 
+information security and to close the digital divide;
+ 
+  
+(j) To bolster bilateral, regional and international cooperation, promote the important role 
+of the United Nations in formulating international norms, peaceful settlements of 
+international disputes and improvements in international cooperation in the field of 
+information security, and enhance coordination among relevant international organizations;
+
+(k) To settle any dispute resulting from the application of the code through peaceful 
+means and to refrain from the threat or use of force.

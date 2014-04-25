@@ -1,0 +1,78 @@
+Document
+Roadmap (and principles) for internalisation of the former  IANA functions under a multistakeholder governance model involving  ICANN and associated technical organisations.
+
+This roadmap concentrates on one internet governance issue only – the future of the IANA functions which have been the subject of much past discussion because current arrangements are seen by many to be outside of the preferred multistakeholder model.
+
+ 
+
+Indeed, IANA itself was established  in an era before most current internet governance institutions (eg ICANN) were in existence. The emergence of a trusted global body to take over these functions was envisaged at the time and this submission suggests that we can now proceed to transfer remaining functions to a multistakeholder model of management.
+
+ 
+
+ROADMAP
+
+ 
+
+This roadmap suggests that the IANA functions (including their oversight), though necessary processes in the secure and authoritative functioning of the Internet, no longer need a separate identity and would more productively be merged with similar functions under the auspices of ICANN and associated technical bodies. Subject of course to many concerns about details, this direction appears to have widespread support from governments, civil society, technical community, and private sector.
+
+ 
+
+In order to achieve this desired change efficiently and productively, the following roadmap is proposed.
+
+ 
+
+1.       1. ICANN should be requested to prepare a proposal for management of the previous IANA functions within the multistakeholder model of internet governance, including among other considerations the following criteria:
+
+ 
+
+(a) protection of the root zone from political or other improper interference;
+
+ 
+
+(b) integrity, stability, continuity, security and robustness of the administration of the root zone;
+
+ 
+
+(c) widespread [international] trust by Internet users in the administration of this function;
+
+ 
+
+(d) support of a single unified root zone; and
+
+ 
+
+(e) agreement regarding an accountability mechanism for this function that is broadly accepted as being in the global public interest."
+
+ 
+
+2. Preparation of the proposal should involve discussion with all major stakeholder groups, with a completion timetable for a first draft for discussion at the Internet Governance Forum in Turkey in September 2014.
+
+ 
+
+3. To expedite completion in a timely manner, it is suggested that outside consultants be engaged to prepare the discussion paper (proposal) in consultation with major stakeholders.
+
+ 
+
+4. The solution must have the following characteristics
+
+ 
+
+(a) offers a legal structure that is robust against rogue litigation attacks
+
+ 
+
+(b) is aligned with the Internet technical infrastructure in a way that supports innovative, technology based evolution of the DNS .
+
+ 
+
+(c) is an inclusive model
+
+ 
+
+(d) is a demonstrable improvement on current processes in this area
+
+ 
+
+ 
+
+Background – this document was prepared by Ian Peter (civil society) with inputs from many participants in 1net and Internet Governance Caucus, including technical community, private sector, and civil society representatives, with informal inputs from various government representatives. It synthesises these inputs to create an achievable pragmatic path forward on this issue, which utilises multistakeholder collaboration and will result in greater operational efficiencies for these functions

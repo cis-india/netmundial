@@ -1,0 +1,50 @@
+Contribution from LAC-IX
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Max Larson Henry; Alejandro Escobar; Hernan Arcidiacono;
+Rolando Toledo; Fabian Mejia
+Region: Latin America and The Caribbean
+Organization: LAC-IX (The IXP Association for Latin America and The
+Caribbean)
+Sector: Technical community
+Keywords: IXP, Internet Exchange Point, Traffic, Interconnections
+Abstract
+The Internet Exchange Points (IXP) are considered critical infrastructure for the Internet
+and are a fundamental component for its Sustainability, Resilience and growth. Some
+IXPs in the LAC region have already developed Internet Principles which are public.
+Among them, there are principles affecting traffic exchange which are included in this
+document.
+Document
+Internet Exchange Points
+An Internet Exchange Points (IXP) are considered critical infrastructure for the Internet
+and are a fundamental component for its Sustainability, Resilience and growth. IXPs are
+neutral network facilities that enables the interconnection of more than two independent
+Internet networks, for the purpose of facilitating interconnections.
+An IXP does not require the Internet traffic passing between any pair of participating
+Autonomous Systems to pass through any third Autonomous System, nor does it alter or
+otherwise interfere with such traffic. The rules and conditions for traffic exchange are
+agreed by its members.
+The LAC-IX Association
+The association of Internet Exchange Points for Latin America and Caribbean (LAC-IX)
+was formally constituted in 2012 to increase the collaboration between traffic exchange
+points in the LAC region. It's been growing and supporting the establishment of additional
+IXPs since then.
+Contribution to Internet Principles:
+Some IXPs in the LAC region have already developed Internet Principles which are
+public. Among them, there are principles affecting traffic exchange.
+* The interconnection between various Internet actors, with non-discriminatory conditions
+that enable guaranteed access to the network and it’s contents in all the national territory,
+must be promoted.
+* The stability of the network, it’s security and global functionality must be actively
+preserved by means of adopting technical measures that are compatible with international
+standards, and encouraging the adoption of best practices. No one should have the ability
+to “turn off” the Internet totally or partially, in a territory and/or a specific segment of the
+population, and the service providers must be able to provide their services freely.
+* The architecture of the Internet and the communications systems, must be based on
+open standards that enable interoperability.
+* The juridical and regulatory environments must preserve the dynamics of the Internet, as
+an open collaborative space for all users, and must be guaranteed to remain free of
+blocks, interruptions, censures, interferences and surveillance.
+* Internet governance must promote the continuous development and widespread
+dissemination of new technologies and models for access and use.
+* All action taken against illicit activity on the network must be aimed at those directly
+responsible for such activities, and not at the means of access and transport.

@@ -1,0 +1,116 @@
+Multstakeholder model as a form of democracy
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Avri Doria
+Region: US
+Organization: Independent Researcher
+Sector: Civil Society
+Keywords: democracy multistakeholderism
+Abstract
+The note looks at the basic principle of democracy on the Internet and explores the
+necessity of a form of participatory democracy; a form we currently refer to as the
+multistakeholder model.
+Document
+One of the first principles of Internet governance is the democratic principle as it contains
+within its aspirations the fulfillment of the human rights’ based principles. There are few
+who would argue against the principle that Internet governance ought to be democratic.
+There is some disagreement, however, on whether the multistakeholder model, currently
+being used, represents a way forward for democracy and whether it fulfills the democratic
+principle that is central to our discussions.
+One of the most common complaints against the Multistakeholder approach is the it bypasses
+the democratically elected representives of the people. Often when one is sitting
+with governments, one hears a statement of the form:
+“ We do not know what Multistakeholder means, but we all know what Democracy means”
+Among those who consider themselves democratic, each with its own definition of
+democracy, we find:
+People’s Democracy
+Autocracy 2.0
+Constitutional monarchies
+Parliamentary republics
+Presidential multi-partite republics
+Majority based 'one man, one vote' democracy
+Democracy that incorporates minority rights in the voting
+Democracy that impedes minority rights in the voting
+Democracy that balances national religious membership
+Plebiscite based direct democracy
+Since the time of Aristotle we have been arguing about Democracy and invoking its name
+for all sorts of systems where the people, or at least some people, have some say in their
+governance regime; at least some of the time. Even Athens was democratic, at least for
+males born in Athens.
+When we look at the most basic form of multilateral expressions of democracy, we find
+that the ‘one person one vote’ is more an ideal than a reality, where nations with a
+population of tens of thousands have the same vote as those with a population of over a
+billion. Yet we view the UN as representing a form of democracy. We have seen that in
+many cases, multilateral democracy does not serve the multivariate interests of the
+people - it is focused on the notion of states as entities and it is out of scope to discuss
+the needs of people within a country. The muultilateral systems has showj itself to be
+inadequate for handling the needs of the Internet, whether it was the creation of the
+protocols and other technology that created the Internet or the issues and policy questions
+that resulted from the behaviors on the Internet. This is becasue the issues are too
+complex for any one grouping, including a global multilateral grouping to handle.
+The question comes down to what we mean by democracy on the Internet?
+When we speak of democracy, especially with regard to the Internet, we need to develop
+ever improved forms of participatory democracy. Participatory democracy is an advance
+in democracy that has seen few examples in the world to date outside of the Internet,
+though there are some. It is a form of democracy that is enabled by the Internet and one
+that may only have been possible in the small town meeting hall before the current age.
+The scope of participatory democracy is one that balances the best of representational
+democracy with the ideals of direct democracy.
+The variety of multistakeholder models are forms of participatory democracy.
+Multistakeholder models builds on, and includes, the State based multilateral system in an
+attempt to move towards more participation by the people and the organizations they
+form. Some states may do a decent job of representing the citizen residing within their
+geographically bounded territory for a particular set of interests related to that place and
+time. The states, however, do little for a wider set of rights-based interests people may
+have, do nothing (or worse) for the non-citizens under their control (especially those who
+are undocumented), and have little to say about inter-jurisdictional disputes in the
+absence of treaty. Beyond that, the state frequently infringes upon the rights of citizens,
+residents and non-resident alike; rights they have agreed to by covenant. The other
+human rights based interests require greater participation than can be achieved by
+governments alone. It is often Non Governmental Organizations that serve these rights
+and cross-border interests without discrimination based on geography, nationality or other
+circumstance.
+We all have seen, though, many ways in which the multistakeholder models that are being
+deployed are still underdeveloped and even flawed at times. There is still a lot to be
+complained about, and improved upon. But to misquote Winston Churchill’s quote on
+democracy:
+“Multistakeholderism is the worst form of governance, except all the others that have been
+tried.” (Drake 2011)
+The WGIG Background Report explained:
+“Democracy is defined in different ways in a multilateral context and by different
+stakeholders according to their particular perspectives. Governments generally hold to a
+view based on national sovereignty with equal say for all countries and decisions reached
+through consensus. Each citizen is held to be represented and to be able to influence
+decisions through national consultation and decision-making mechanisms. Some are of
+the view that most governments include members of their civil society in their delegations
+to the extent practical and in any case they take into account the interests of their civil
+societies when establishing agreements at multilateral bodies. Civil society advocates on
+the other hand would argue that the term goes beyond this, requiring direct full
+participation in decision making by many nongovernmental groups from the private sector
+and civil society. Furthermore, they have expressed the view that governments are not
+actively or consistently consulting with other sectors of society prior to establishing
+agreements within multilateral bodies.” (Page 239 Paragraph 58)
+This remains as true now as when it was wrritten a decade ago.
+And when the context is the Internet, this stakeholders extends to the technologists who
+built and preserve the system as well as the Internet Service Providers and other
+industries that deploy the technology.
+Even when it comes to governmental representation, governance of the Internet requires
+more stakeholder support than just the diplomatic and bureaucratic representatives of
+nation states that make up the multilateral system. The process needs the representation
+of the variety of governments stakeholders, including regulators, privacy protection, law
+enforcement, parliamentarians and others.
+Whether it is NGOs that represent the needs and interests of the people they serve, the
+technical community in their role as the creators and maintainers of the technology, or the
+academics who attempt to understand the dynamics of the social systems within which we
+live in this highly interconnected world, all of the stakeholder groups have a place at the
+table where they can discuss the issues and decide on solutions for Internet governance
+on an equal footing. Anything else leaves some interests without representation, and thus
+leaves the populations who feel and express these interests unrepresented, at least in
+that respect.
+For humanity’s interests to be democratically represented, we need a multistakeholder
+framework that includes all people and organizations who have a stake in and care about
+the Internet, participating with their own special perspective and skills; with roles and
+responsibilities that vary depending on the task at hand but which, in the larger scope are
+on equal footing, just as Tuvalu is on an equal footing equal footing with China in the UN
+system.
+Full representation requires multistakeholder representation and that is a basic
+democratic principle.

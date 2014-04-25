@@ -1,0 +1,69 @@
+Document
+
+IIS Contribution on Internet governance principles
+
+ 
+
+Izumi Aizu
+
+Senior Research Fellow, Institute for InfoSocinomics, Tama University
+
+Japan
+
+ 
+
+Abstract:
+
+We support a multi-stakeholder, bottom-up, consensus-based approach to Internet governance.  Internet governance processes should be open and inclusive. These principles should be applied to all levels of Internet Governance: local, national, regional and global.
+
+Key words:
+
+multi-stakeholder, local, national, global, open, inclusive
+
+Overall Principles
+
+1. Internet governance should be based on multi-stakeholder, bottom-up and consensus-making process.  By "multi-stakeholder" we mean government, civil society, private sector and technical community are given equal footing in shaping the policy and governance mechanisms of the essential functionalities of the Internet.  They need to evolve over time as the technology and society undergo changes.
+
+Local, national and regional governance mechanisms should be exercised reflecting the global principles, but specific context and environments pertinent to each locale should also be kept and respected. 
+
+ 
+
+Principles for process and participation
+
+2. Transparent, accountable, inclusive, enabling meaningful participation.
+
+• Transparent:  it should be easy to understand how decisions are made, processes should be clearly documented and follow agreed procedures.  Decision-making should reflect how inputs are taken into account and should be reflected in outcomes.
+
+Full disclosure of the institutional activities including the financial and other important records of the governing bodies must be maintained.
+
+• Accountable: mechanisms for checks and balance should exist; it should be possible for any stakeholder to be able to challenge decisions.  
+
+• Inclusive: Internet governance institutions and processes should be inclusive and open to all interested stakeholders.  Processes should be bottom-up enabling the full involvement of all stakeholders, from agenda setting to representation in final decisions. Capacity building activities should be implemented as an essential part of ensuring the inclusiveness.
+
+• Meaningful participation: Anyone affected by an Internet governance process should be able to participate in that process.  Particularly, Internet governance institutions and processes should strengthen outreach activities to wider members of the society, support capacity building for newcomers, especially stakeholders from developing countries and under represented groups.  Practical measures to address the needs of non-English speakers and those who do not speak the six UN languages should also be implemented.
+
+ 
+
+Principles for the architecture and operation of the Internet
+
+3.  We support the Internet's distributed and open architecture, based on open standards and protocols developed through collaborative, open processes, and principles of interoperability and the ability to connect.
+
+ 
+
+Respect and support for human rights
+
+4.  Human rights should be central values of any Internet governance principles. Human rights should be equal online and offline.  Internet governance should support the free flow of information as well as freedom of expression at all levels.  People should be able to expect that their right to privacy enjoyed offline are also respected online.
+
+ 
+
+Respect for diversity
+
+5. Cultural, linguistic, and social diversity (e.g. gender, age, persons with disabilities) should be fully respected both in the outcomes as well as decision-making processes at the Internet Governance institutions.
+
+ 
+
+Promote competition and choice
+
+ 
+
+6. We recognize the need to keep the uniqueness of the critical Internet identifiers such as Domain Name and IP Addresses requires some kind of monopolistic management at the top level. However, healthy competition that provides the choices for end users should also be promoted as they form essential part of modern society and economy. Measures safeguarding public interest and fair competition and prevent discriminatory behaviors of the monopolies must be implemented at all levels: local, national, regional and global. Independent and transparent oversight mechanisms should be placed over these monopolistic operations.

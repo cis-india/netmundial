@@ -1,0 +1,243 @@
+Document
+Section 2. Roadmap for the Further Evolution of the Internet Governance Ecosystem
+ 
+1. Current critical IG issues
+
+ 
+
+Public policy issues that relate to the internet are not finite.
+
+ 
+
+They will emerge and change over time. Some will stand out as priorities at certain times, as does at present, surveillance. The diversity of these issues is such that it would not be feasible to centralise decision-making about them.
+
+ 
+
+The internet does not exist in a parallel dimension. It is part of social, economic, cultural, personal and political life. A more appropriate manner for phrasing this question would be: What relevant international public policy issues do NOT pertain to the internet in any way in today's world?
+
+ 
+
+Nevertheless, there are a number of key issues that are currently attracting attention which the NetMundial could address:
+
+ 
+
+i.Internationalisation of DNS and Root management: Some internet governance bodies such as ICANN and IANA are not fully internationalised. Note that by 'internationalised' we do not mean to propose oversight by national governmental entities, but still required is the involvement of ALL countries. While on the one hand internet management is distributed, power and influence of this management has remains concentrated. Efforts should be directed to better coordination and inclusion, rather than centralisation. For concrete proposals on how to do this we endorse the submission by Avri Doria available at: http://content.netmundial.br/contribution/one-possible-roadmap-for-iana-evolution/153
+
+ 
+
+ii. Consolidating democratic, inclusive, multistakeholder internet governance processes: Many governments are still fundamentally uncomfortable with the WSIS principle that the management of the internet needed to involve 'all stakeholders'. The term multistakeholder is still used quite loosely, and some of the challenges that come with multistakeholder processes, such as dealing with conflict of interest and ensuring pluralism, need to be addressed. Multistakeholder processes need to be improved where they exist, and established where they don't.
+
+ 
+
+iii. Uncertainty about the future of the IGF: This is related to the previous point. While the United Nations-based IGF, the most long-running, large scale and successful experiment in multistakeholder internet policy debate and dialogue remains insecure, and under-resourced, the future of multistakeholder participation in internet policy will remain uncertain.
+
+ 
+
+iv. Network neutrality, and how this complex concept is evolving in the context of increased convergence of internet, telecoms, broadcasting and content services and applications. The impact of international and national consolidation in these sectors creating combined media and network service providers which have the power dominate markets, is of particular concern here.
+
+ 
+
+v. Fair and transparent cross-border regulation and taxation of global internet businesses that ensures competition and choice for users, and while supporting local laws and 'in-country' business interests.
+
+ 
+
+vi. States acting to limit freedom of expression and association on the internet. Many governments are engaged in internet filtering and censorship. Some are manufacturing and exporting the devices used to do this. Some even order operators to shut down the internet, or the telecommunications networks the public use to access the internet. This fragments the internet, creates a heightened sense of insecurity and violates human rights.
+
+ 
+
+vii. Mass surveillance and privacy. Data mining and exploitation of the personal data and behaviour of internet users has given rise to innovative business models, but it urgently needs to be contained, and very carefully managed. It is out of control and taking place with no or little concern for the fundamental rights of individuals. Legislation dealing with data protection, internet intermediary liability, and interception monitoring and surveillance needs to be revised to ensure robust protection for human rights.
+
+ 
+
+viii. Security on the internet is essential, but the prevailing approach places the security of States, narrowly defined by the security sector, before the security of the internet itself, and of internet users. Journalists, human rights defenders and whistleblowers who expose corruption and the abuse of power cannot be effective if they do not have access to a secure internet.
+
+ 
+
+ix. Cyberdisarmament. The open collaborative nature of the internet is antithetical to using it to attack. By its very nature it is vulnerable because it is a trust-based network. Efforts to fight crimes committed on the internet are important and legitimate, and require collaboration among states, and among law enforcement agencies and other stakeholders. Good progress is being made in this regard. The issue we raise here is different. It is the increasing militarization of the internet and the development of means to attack it at an infrastructure level. Some governments appear to be developing units that can commit cyberwar, or use cyberspace for military purposes. This all undermines its integrity, security and potential to benefit humanity. We need States to commit to “cyberpeace” and to cyberdisarmament.
+
+ 
+2. Existing IG forums and bodies dealing with policy or technical outcomes
+
+ 
+
+Policy development involves research, consultation, networking, drafting and debate and dialogue. There are multiple policy development forums, and, as we said above, the range of public policy issues pertaining to the internet are so broad that expecting one forum or body to develop all internet-related policy would be very problematic.
+
+ 
+
+Some of the existing forums and bodies involved in internet policy include:
+
+ 
+
+i. The IGF is an established process for multistakeholder internet policy dialogue. It has a mandate to be more outcome-oriented from ECOSOC via the CSTD WG on IGF improvements and in early 2014 the Internet Society (ISOC) proposed that the IGF develops policy recommendations which can then be considered for adoption by IG bodies or governments. Many civil society entities had made similar proposals previously.
+
+ 
+
+ii. National efforts. More countries address internet policy issues at national level. Some have established ministries or departments, and some, as is the case in Brazil, a multistakeholder body to deal with internet policies (CGI.br).
+
+ 
+
+iii. International intergovernmental bodies such as the World Intellectual Property Organisation and the Human Rights Council (to mention just two) deals with internet related issues. The HRC has passed several resolutions related to the internet in the last few years. Another example is the UN Counter-Terrorism Implementation Task Force, appointed by the UN Secretary General, which addresses policy related to 'cyber terrorism'.
+
+ 
+
+iv. Regional inter-governmental bodies such as the European Commission and the African Union Commission address a wide range of internet policy issues, as do the regional United Nations Economic Commissions. An example of an improved existing mechanisms is the implementation of the eLAC2015, the Information Society Plan for Latin America and the Caribbean (CEPAL/ECLAC) to which all governments in the region are signatories and in which non-govermental stakeholders have been formally included. In Africa the regional commission, UNECA, acts as the secretariat for multi-stakeholder forums such as the African IGF. At a subregional level, regional economic bodies such as the Southern African Development Community (SADC) and the Union of West African States (ECOWAS) have developed internet-related policies to support their member states, such as in the area of cyber-security and infrastructure deployment.
+
+ 
+
+v. Internet specific institutions such as ICANN, and others involved in the technical coordinaton of the internet, such as ISOC and the numbering organisations. As these are well-known and their roles already well documented we will not elaborate on them further. They work well, but their accountability, transparency and degree of inclusiveness can improve. In particular, as we have said above, ICANN needs to internationalise fully, and to ensure that it does not exceed its current role, and that it strengthens civil society participation.
+ 
+3. How and why are these issues not being adequately dealt with by these forums or organizations?
+
+ 
+
+There is a vibrant and diverse internet governance ecosystem at work.
+
+ 
+
+The challenges are that: (1) All parts of this ecosystem are not adequately inclusive, transparent and accountable, (2) they do not communicate and collaborate with one another adequately, and (3) power and influence in this ecosystem and its components are very unevenly distributed.
+
+ 
+
+It is important to look at communication, collaboration, participation, power and influence in both the ecosystem and its components. This is neither a trivial exercise,nor a once-off exercise, the 'health' of the ecosystem should be evaluated continuously. A role we believe a strengthened IGF will be well-suited to.
+
+ 
+
+Contributing factors to the above three problem areas are:
+
+ 
+
+i. The absence of commonly accepted principles for internet governance at both substantive and procedural levels. There is not even a common understanding on what the internet is from an economic or legal perspective.
+
+ 
+
+ii. The absence of a clear conceptual approach to internet governance. For example, when IG is discussed, distinctions are not made between governance, policy and regulation, and management and coordination.
+
+ 
+
+iii. Lack of maturity in some multistakeholder bodies. For example, stakeholder identification and representation can be fairly adhoc and mechanisms to guard against conflict of interest are not strong enough.
+
+ 
+
+iv. Unequal distribution of power among governments in global internet governance spaces. Decisions are often shaped by these power configurations rather than by a desire to achieve the best possible public interest outcomes.
+
+ 
+
+v. Limited resources, financial, time, capacity and knowledge among stakeholders that care about internet governance, but who are not centrally involved.
+
+ 
+
+vi.Different approaches by governments to inclusive and multistakeholder policy processes with some very unwilling to involve civil society and others unwilling to involve business entities.
+
+ 
+
+vii. Lack of resources to optimise the IGF, the most inclusive policy forum currently in existence, which influences global and national internet policies directly and indirectly. The IGF could play a far more effective role in facilitating collaboration and communications within the internet governance ecosystem if it had sufficient capacity and resources.
+
+ 
+
+viii. Assumptions that models that work in the technical coordination of the internet can be replicated for addressing broader public policies.
+
+ 
+
+ix. Clear gender imbalance among those who participate in current internet governance arrangements. Limited participation by women must be addressed
+
+ 
+4. Possible responses to these challenges
+
+ 
+
+Rather than create new policy-making or oversight mechanisms we recommend the following:
+
+ 
+
+i. International agreement (formal and informal) that internet governance is distributed and that it has to be viewed as an ecosystem and that centralising it is neither feasible, nor desirable. While this growing ecosystem risks being overly complex and opaque, it also increases depth, diversity, and the opportunity for participation and creative problem solving.
+
+ 
+
+ii. Renewal of IGF by the UN General Assembly for 10 years rather than the current 5. This will allow it to work on a longer cycle and be more effective in implementing is mandate and constantly improving while doing so.
+
+ 
+
+iii. Strengthen the IGF to enable it to facilitate communication, deliberation and collaboration for the broader IG ecosystem. This will also facilitate the process of identifying issues that are not currently being addressed effectively by existing mechanisms. Financial resources could come from, among other sources, revenues from gTLD domain name registrations, and be used to facilitate developing country participation. The IGF has evolved into a regional, national and global process which is linked to the UN, but is also independent. It is inclusive. Its value should not be underestimated.
+
+ 
+
+One concrete suggestion that would address the above challenges and strengthen the IGF is to establish an IGF-linked information clearing house and policy observatory or for the IGF to work closely with other such clearing houses and policy observatories, such as the European Commission's proposed Global Internet Policy Observatory.
+
+ 
+
+iv. Achieve broad agreement on principles for internet governance; principles that have the broadest possible public interest and respect for fundamental human rights at their core, and that affirm accountable, transparent and inclusive decision-making process.
+
+ 
+
+v. Strengthen meaningful participation of developing country stakeholders in existing mechanisms.
+
+ 
+
+vi. Improve government recognition of the value of nongovernmental stakeholder participation in public policy making. Public policy, including internet public policy, cannot be implemented by governments alone and implementation will be more effective if these stakeholders are involved in the development of policy in the first place.
+
+ 
+
+vii. Empower civil society engagement within existing mechanisms at national, regional and global levels. Civil society heterogeneity must be recognised as a strength and existing mechanisms must ensure that modalities for participation provide ample space for the diversity of voices in civil society to be heard.
+
+ 
+
+viii. Inclusion of women in internet governance spaces must be measured, and concrete action taken if the results indicate unequal participation.
+
+ 
+
+ix. Develop codes of practice for internet governance processes and bodies which provide guidelines and a monitoring framework for ensuring that they are transparent, accountable, participative and accessible. APC has worked on such a tool and developed, in partnership with the Council of Europe and UNECE, the Code of good practice on information, participation and transparency in internet governance. The Code continues to a be living document and as such is a work in progress. More information about it is available: http://www.intgovcode.org/index.php/Main_Page We recommend that a useful practical action for the NetMundial meeting would be to propose and support further work on this Code and we are ready and willing to assist in such a task.
+
+ 
+
+x. Existing bodies to avoid 'mission creep'. Institutions with power and resources should avoid expanding their current scope without exhaustive consultation with the broader internet community.
+
+ 
+
+xi. Establish national multistakeholder forums and processes for dealing with IG and internet policy issues, and ensuring that they include marginalised voices.
+
+ 
+
+xii. Capacity building initiatives including, but not limited to, continuing and strengthening the capacity building tracks and pre-events at regional and global IGFs.
+
+ 
+
+xiii. Clarify the role of governments: Governments have special responsibilities under international human rights law as bearers of duties to respect, protect and promote human rights. They also have the responsibility to protect and promote the public interest, which requires them to:a) Consult widely and be participative in the development of local internet policy;b) Respect the role and responsibility of civil society to challenge governments, including in international fora;c) Convene and support inclusive multi-stakeholder internet governance processes at national level;d) Bring sufficient political will to bear so that cooperation emerging from these processes does not stagnate;e). Establish transparency and accountability mechanisms to enable public scrutiny of their decisions and positions on internet governance;f) Take steps to ensure that businesses meet human rights standards (for example, in line with the United Nations guidelines on human rights and business)
+
+ 
+
+xiv. We also recommend that governments:
+
+ 
+
+a) Participate actively in global, regional and national IGFs and in other multistakeholder internet governance mechanisms. The burden (which can be substantial) of such participation can be lightened by government collaboration with other stakeholder groups;c) Uphold transparency and multi-lateral agreements, and avoid internet-related agreements that undermine the principle of governments operating on an equal footing and with transparency. Examples of the type of agreement that should be avoided are ACTA, and more recently, the Trans-Pacific Partnership (TPP): trade agreements which are not publicly negotiated within the international system.
+
+ 
+
+xv. Consider new mechanisms to address specific issues if the need arises: IG stakeholders and bodies should identify public policy issues without a clear home, and whether they are best dealt with through a single institution or forum, or through a distributed model.In some instances there might be a need for a new mechanism to be established to address specific issues which have emerged, such as, for example, to address and prevent the rights violations that result from mass surveillance by governments, working with corporations. We would still recommend first exploring whether, for example, existing human rights mechanisms cannot play the needed role before opting for the creation of new mechanisms.
+
+ 
+5. How these possible responses will ensure stability, resilience and efficiency and also comply with principles of equitable multistakeholder participation, accountability, transparency and predictability?
+
+ 
+
+* Achieving consensus on basic principles for internet governance will enable the development or adoption of a code of good practice, and monitoring framework that can be used for both self, peer and bottom-up assessment of the extent to which IG mechanisms and processes are effectively democratising and acting in the public interest.
+
+ 
+
+* Adoption of such principles at international intergovernmental level can consolidate recognition that the internet is a global resource, of benefit to all humanity and that governance of the internet should therefore involve all stakeholders, and not be reduced to haggling or horse trading based on narrow national interests or geopolitical conflicts, but based on international agreements such as the Universal Declaration on Human Rights and the International Covenants on civil and political and on economic, cultural and social rights;
+
+ 
+
+* Accepting the distributed 'ecosystem' approach to internet governance will pave the way for positive evolution through ongoing collaborative learning, evaluation and debate, provided it is effectively inclusive and 'multi-stakeholder' in its nature, transparent, accountable and accessible.
+
+ 
+
+* A stronger, longer term IGF, either hosting or linked to an information clearing house, and mechanisms and resources to strengthen the participation of developing country governments, will be able to continue its role as a forum for debate and dialogue, but also play a more dynamic and responsive role in facilitating communication, and cooperation within the IG ecosystem.
+
+ 
+
+* Consolidating the multistakeholder approach and making it more democratic, participative, effective and consistent, will enable the constructive evolution of the ecosystem.
+
+ 
+
+We also endorse the Best Bits roadmap submission http://bestbits.net/netmundial-roadmap/ and the Korean Civil Society Submission http://content.netmundial.br/contribution/korean-civil-society-submission-for-netmundial/146

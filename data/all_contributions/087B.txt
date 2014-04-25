@@ -1,0 +1,82 @@
+Document
+Switzerland’s contribution to the NETmundial conference
+
+Switzerland welcomes and supports the intention of the “Global Multi-stakeholder Meeting on the Future of Internet governance” in Sao Paolo, Brazil, to discuss global Internet governance principles and the roadmap for the further evolution of the Internet governance ecosystem. We look forward to taking part in valuable and constructive discussions with all other stakeholders. Switzerland would like to take the opportunity prior to this meeting to submit its views on both main themes of the conference.
+Switzerland’s role in the Internet governance debate
+
+Since the beginning of the Internet governance debate at the WSIS in Geneva, Switzerland has played an active role in shaping the Internet governance process, for instance in facilitating the consensus at the WSIS, leading the UN Working Group on Internet governance (WGIG), being a key supporter of the IGF and also supporting constructive discussions at the CSTD, in ICANN, etc. Ever since, Switzerland has stood for and defended principles such as inclusiveness and democratic participation, transparency and accountability in Internet governance. Switzerland has contributed to the ongoing debate not least due to its long-lasting experience in consensus-finding and policy-making in a multicultural and multilinguistic environment. Because of its participatory and decentralized direct-democratic governance system, Switzerland envisages rules of the games designed to make the Internet open, inclusive, interoperable, reliable and secure.
+
+Switzerland has taken actively part in the global Internet governance debate and will continue to do so. For that purpose, Switzerland is committed to foster an approach that allows all stakeholders, in their respective roles, to shape the discussion and decision-making on an equal footing. Not only will Switzerland hold on to the multistakeholder approach, but also invigorate it.  
+Section 1: Internet governance principles
+1.1 Underlying principles
+
+Transparency
+
+It is crucial that we endorse transparency by enabling access to the information relevant for a decision. Thus, procedural transparency, decision-making transparency as well as substantive transparency are tenets Switzerland is holding on to.
+
+Accountability
+
+It is paramount that each actor, in its respective role assumes responsibility for actions, products, decisions and policies.
+
+Participation
+
+The public value of the Internet is key, as it affects all aspects of our daily lives, be it in the professional or private field. Therefore, public involvement as well as public scrutiny allows for public intervention in decision-making processes.
+
+Human Rights
+
+It is pivotal that we develop a globally shared set of fundamental principles for the virtual space which are based on globally shared fundamental values of human rights and fundamental freedoms that apply equally to all the people in the world – online as well as offline. The Resolution „the right to privacy in the digital age“ supported by Switzerland underscores the need to protect as well as to promote human rights in the digital era.
+
+ 
+1.2 Vehicle for implementing globally shared Internet governance principles: Multistakeholder approach
+
+We need to develop Internet governance principles that enable everybody to participate on an equal footing in setting the rules for the internet. We want everybody to be able to act as freely as possible in the internet, with as few restrictions as possible. But this means that we all need to act responsibly and to respect the freedoms and rights of the others, too. All stakeholders from all around the world should be able to participate in the development of such principles and should also participate in their implementation. The implementation of any such principles will only work if all stakeholders are included in the process of their development and thus take ownership of these principles and thus are committed to implementing them subsequently.
+1.3 Existing Internet governance principles
+
+In the past few years, a significant number of Internet governance principles have been developed in different fora and by different stakeholders both at the global and regional level. Some of them have been developed in thorough and inclusive multistakeholder processes. In particular, we would like to highlight the 10 Internet governance principles of the Council of Europe (https://wcd.coe.int/ViewDoc.jsp?id=1835773) and the Charter of the Internet Rights and principles (http://internetrightsandprinciples.org/site/charter/). These are drafted very coherently, based on existing fundamental rights and principles and have a broad support from all stakeholders involved. Furthermore, we would like to refer to the OECD Council recommendation on principles for internet policy making (http://www.oecd.org/sti/ieconomy/49258588.pdf), as they are based on a more economic approach and have also been widely consulted with many stakeholders (noting however that some civil society stakeholders did not fully agree with all of these principles). There are also examples of Internet governance principles elaborated in inclusive processes at national level, such as in particular the Brazilian Internet Steering Committee’s principles for the governance and use of the Internet (http://www.cgi.br/regulamentacao/pdf/resolucao-2009-003-pt-en-es.pdf) which can also serve as a valuable input to the discussion on globally shared principles.
+1.4 The way forward
+
+These and other already existing documents might serve as a basis of our future efforts as they provide an excellent starting point for our way forward. Rather than repeating or summarizing here the points made in these various documents, Switzerland would like to emphasize the fundamental importance of an inclusive bottom-up process for the development of globally shared principles. Since 2011, the UN Internet governance Forum (IGF) has undertaken efforts in discussing existing principles and working towards a globally shared set of principles. As different stakeholders from all around the world may have different views on fundamental issues and a consensus on a binding agreement may only emerge gradually, we proposes to be inspired by the concept of  “rough consensus”.
+
+In order to develop a set of global principles which can and actually will be implemented by all stakeholders, it is important that it is important that we get a clearer understanding and acceptance of the respective roles of all stakeholders in Internet governance. § 35 of the Tunis Agenda, which describes the roles of all stakeholders unilaterally from a governments’ point of view in 2005, is a useful start to a more detailed discussion about these respective roles. Since 2005, the virtual world has evolved and the post-WSIS challenges have become clearer. The roles of stakeholders have developed differently in the various issues. We are therefore convinced that, in order to come up with meaningful results, we need to look at and discuss the roles of stakeholders concretely depending on the issues at stake.
+
+There are issues, like for instance the fight against cybercrime or the protection of rule of law and fundamental rights, where governments have significant responsibilities. At the same time, the other stakeholders have roles in these issues, too. Elsewhere, such as the management and allocation of infrastructure and resources, there is more space for letting market forces rule. All stakeholders, particularly those that have a leading role from time to time, should act transparently and should be accountable not just to themselves, but to the general public in whose interest they are to act.
+
+In addition, Switzerland believes that we also have to make a distinction between issues where we need to have binding agreements and others where a more flexible and non-binding common understanding might be more effective in serving the public interest.
+
+ 
+Section 2: Roadmap for the Further Evolution of the Internet governance Ecosystem
+2.1 Scope of Internet governance
+
+According to the working definition for Internet governance as agreed in §34 of the Tunis Agenda, internet governance comprises a very broad and diverse range of standard setting and decision making processes that include all stakeholders in their respective roles: “A working definition of Internet governance is the development and application by governments, the private sector and civil society, in their respective roles, of shared principles, norms, rules, decision-making procedures, and programs that shape the evolution and use of the Internet.”
+
+Consequently, the issues that are part of Internet governance are not only issues about infrastructure or critical internet resources, but also a very wide range of public policy issues related to the use and development of the Internet by all stakeholders and the impacts of this on the daily lives of us all.
+2.2 Public policy issues
+
+While the architecture, functioning and interplay of the different elements of the Internet is complex and diverse, the range of public policy issues related to its use and development is even more so.
+
+This diversity is also reflected in the current Internet governance ecosystem. In the past decades, as the internet has grown in its importance for the economic, social, political and cultural aspects of our daily lives, many institutions and processes traditionally dealing with a wide range of public policy issues in the offline world have become part of the Internet governance ecosystem, but with very diverse traditions, histories and cultures. “Traditional” Internet governance institutions and processes which have been dealing with what they themselves perceived as mainly “technical” issues, are now being looked at differently by the general public, as it is perceived that so called “technical” issues may have effects on our economic, political, social or cultural lives.
+
+The complexity of the Internet and its governance ecosystem has grown to an extent that makes it difficult for many stakeholders, in particular those not very familiar with the details of it, to find their way and to identify which aspect of Internet governance is dealt with by whom and where and how these elements play together.
+2.3 Commonalities
+
+In light of the above, Switzerland welcomes the opportunity provided by the NETmundial conference to discuss a roadmap for the further evolution of the Internet governance ecosystem with all stakeholders on a global level. This should, in our view, help all stakeholders worldwide to better understand the issues as well as the functions of the current ecosystem. The aim is to identify in what direction this ecosystem should evolve in order to make it easier for all stakeholders to actively participate in the discussion and decision-making on public policy issues related to the Internet.
+
+In our view, given this diversity and complexity of issues, there is no one-size-fits-all solution of a governance model for all elements of Internet governance. Depending on the concrete issues dealt with, the processes for dialogue and decision-making will have to be different. Also, the roles of stakeholders involved will differ, depending on the concrete issues.
+
+Nonetheless, we believe that it is possible to develop a number of common features that are necessary for all such governance processes in order to make sure that they are able to produce an outcome which is in the global public interest. It is of the essence to respond to the different needs and circumstances of the people using the Internet in different parts of the world, living in different economic, cultural and political environments.
+
+Such common features of all Internet governance processes could be:
+
+    Inclusion at the global level of all stakeholders in their respective roles, including a commonly shared understanding of these roles and the responsibilities that go along with them
+    Participatory bottom-up processes in decision-making
+    Accountability and transparency of the decision-making processes to the general public
+    Checks and balances in order to make sure that decisions can be evaluated and modified if necessary with a view to act in the global public interest(s)
+    Building on principles of the rule of law and agreed fundamental rights and freedoms
+    Building on a decentralized system of the Internet as well as its governance which should allow for an adequate diversity in applying agreed common principles, while respecting interoperability, universality and reliance and allowing further evolution of the technical infrastructure as well as of its governance models.
+
+It is our understanding that any decision taken by those in power can be challenged by those affected and that minorities and weaker parties need to be protected from abuse of power. We believe in competition of ideas and in economic competition. At the same time, based on our experience, we believe that there should be a certain level of solidarity and equality of access to opportunities. We are convinced that these values can also be useful for developing a commonly shared set of global Internet governance principles on a global level and for the further evolution of the Internet governance ecosystem which should allow all people in the world to responsibly exercise their fundamental rights and freedoms online as well as offline.
+Conclusion
+
+Switzerland encourages further multi-stakeholder discussions to clarify and to clearly recognize each others’ roles and responsibilities in a multi-stakeholder process. We should further identify and discuss shortcomings of the present situation and discuss possible solutions for an appropriate implementation of a true multi-stakeholder approach to Internet governance. In order to enable a balanced discussion between a variety of people with different cultures, different visions and different needs, the process used for developing Internet governance principles and for further developing the Internet governance ecosystem should be bottom-up and respectful of diversity, while respecting existing fundamental rights and freedoms. Checks and balances are pivotal for all groups of people and interests to feel represented in such a process, to accept its outcome and to constructively contribute to its implementation.
+
+We are committed to contributing to such a process with our experience and ideas. 

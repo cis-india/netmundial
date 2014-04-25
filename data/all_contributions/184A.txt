@@ -1,0 +1,86 @@
+Understanding ICANN?s complexity in a growing and
+changing Internet
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Cecilia Testart
+Region: USA
+Organization: Massachusetts Institute of Technology
+Sector: Academia
+Keywords: ICANN, change, expansion, process, governance
+Abstract
+ICANN has been the institution in charge of coordination, management and policymaking
+related to the technical functions of the Internet since 1998. At its creation, ICANN
+was expected to have a technical mandate. However, its scope reached the political and
+economical world, and changes in its structure where introduced, resulting in a large,
+complex institution, with several internal bodies intermingled in its functions. This paper
+contributes to the understanding of who participates in ICANN?s decision-making and
+policy development processes and how since its creation. The study is based on an indepth
+analysis of the legal and public documents of ICANN. This study reveals the
+substantial expansion of ICANN mandate and activities since its creation and how its
+policy development processes have allowed it to absorb Internet ecosystem evolution.
+The capacity of adapting to and absorbing change is a critical principle that should be
+promoted for the evolution of Internet governance
+Document
+Executive Summary
+The ever-increasing relevance of the Internet in all aspects of our lives –reaching over 2.7
+billion users around the world, has significantly raised the interest of cyberspace in the
+political, economical and international spheres. Internet governance and the future design
+of the Internet are now relevant to many different stakeholders eagers to engage and
+influence the decision-making and policy-making process.
+The Internet Corporations for Assigned Names and Numbers (ICANN) is recognized as
+the central institution involved in the governance of the global Internet. Specifically, it is in
+charge of the allocation and coordination of the critical Internet resources –Internet
+Protocol addresses, Domain Names System and protocols, and of policy development
+related to this function.
+At its creation, ICANN was expected to have a technical mandate. However, as its scope
+reached the political and economical world, changes in its structure where introduced,
+resulting in a large and complex institution, with several internal bodies intermingled in its
+functions. The in-depth analysis of the legal, financial and public documents of ICANN, as
+well as the information and documents published directly by ICANN’s internal bodies,
+reveals the substantial expansion in scale and scope of ICANN mandate and activities
+since its creation.
+Clearly, ICANN has succeeded in creating a structure where Internet users, companies,
+not-for-profit organizations, Internet service providers, registries, registrars, Top-Level
+domain managers, Regional Internet Registries, other organizations in the Internet
+governance ecosystem and even government and treaty organizations have a place to
+contribute in policy development concerning the global Internet. ICANN has seven internal
+bodies where these different constituencies are spread and sometimes mixed.
+Additionally, ICANN has been the institution in charge of coordinating and managing the
+technical functions of the Internet, as well as policy making related to these functions
+since 1998. When it was created, there were less than 10% of the current total Internet
+users and the World Wide Web potential was just emerging. At that time, most of social
+interactions through the Internet were done by email or other messaging systems such as
+Microsoft Messenger and ICQ. Even today, a very limited number of Internet users know
+what ICANN is or what ICANN does. Very seldom does an Internet user asks his or
+herself who runs the top-level management of IP addresses, of top-level domains, of
+protocols and other parameters, because the Internet works.
+ICANN has been able to cope and adapt to growth, evolution and change of the Internet
+and its usages. ICANN complex and iterative processes for policy development building
+bottom up from its constituencies, has allowed it to absorb and act accordingly to changes
+and evolution. Additionally, this same complex network organizing constituencies in
+internal bodies and external organizations that collaborate with ICANN is an outreach
+mechanism for ICANN to its constituencies, providing necessary buy-in for the policy
+development processes in place.
+However, although ICANN has only two categories of internal bodies, there are tangible
+differences in the involvement of these two categories in ICANN’s functions and with
+ICANN policy development and decision-making processes. Moreover, as some
+constituencies did not engaged as described in the bylaws, the different stakeholders do
+not have the same power or influence in ICANN. For instance, one of the main links of
+ICANN with the International System is the Governmental Advisory Committee, which fails
+to be a sufficient mechanism for many governments. This committee is in the delicate
+position of being an advisory committee but with more influence and internal links than
+other structures. However, it uses them seldom. This difference and internal inequality will
+possibly be sources of future contentions.
+Adding to this complexity is the fact that not all ICANN’s internal bodies were created at
+the same time, nor use the same instrument as definition. Hence, there is not a unified
+document where the principles governing the structure and work of ICANN are clearly
+exposed. ICANN’s reforms of 2002, as well as some ongoing processes, addressed and
+are addressing this issue in an effort to reconcile the governing principles with the
+operation of the institution.
+As a conclusion, a critical principle the Internet governance of the future has to consider is
+the capacity of absorbing and adapting to change; but, at the same time, its processes
+and the role of its different organizations have to be clearly stated and represent the real
+mechanisms. There are still more than three billion potential new Internet users on the
+world and many new usage trends are just emerging. What would be the killer Internet
+application in ten years? The new Internet governance system has to be able to enable it
+and evolve with it, and the different actors of Internet governance have to understand their
+role in the process.

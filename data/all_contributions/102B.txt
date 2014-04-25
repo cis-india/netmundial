@@ -1,0 +1,86 @@
+Document
+
+Executive Summary 
+
+Mozilla offers the following comments on principles for Internet governance and suggestions for its evolution and implementation. The submission is broken into three sections: comments on putting principles for Internet governance into practice; elements of building and analyzing a roadmap for the broad Internet governance ecosystem; and original lenses and interpretations of the process of Internet governance that may help achieve an optimal balance of inclusivity and efficiency.
+
+ 
+
+The first section discusses five important concepts for implementing Internet governance principles to preserve the Internet as an engine for global social and economic benefit: 
+
+    Do No Harm: Maintain a light touch approach to governance of the Internet’s technical layers;
+    Openness: Promote unrestricted global Internet communications;
+    Innovation: Let use and adoption of new and/or improved Internet applications and services drive growth and policy;
+    Opportunity: Allow diverse voices to participate in Internet governance with equal opportunity; and
+    Competence: Incorporate ample technical expertise in all Internet governance bodies and processes.
+
+These are not intended as proposed substitutes for the principles of others, but rather as complements to them, and ways in which to think about Internet governance principles as they are interpreted into practical structures and systems.
+
+ 
+
+The second section addresses the current Internet governance environment, highlighting the features of it that are most important to preserving key Internet benefits for the future. In particular, a broad range of issues should be included within the scope of Internet governance. Omitting major or controversial issues would risk them being resolved by one-sided processes, or not being addressed at all. The section then explains the tensions that arise within such a broad scope of issues, and discusses the importance and value of the multiple forums that have arisen to discuss and work through these tensions.
+
+The final section suggests that Internet governance can be conceptualized as a four-phase arc, and that functionally separating structures across these phases may be helpful to balance broad inclusion with efficiency of decision-making. In this view, the four phases are:
+
+ 
+
+    Goal identification: Working groups and informal forums with largely like-minded stakeholders identify desired policy goals and issues;
+    Policy development: Broad, inclusive, open discussion forums allow larger and diversified groups to develop views and perspectives, and to reach consensus where feasible.
+    Decision-making: Ad-hoc, specifically purposed bodies make decisions regarding unresolved issues.
+    Dispute resolution: Balanced, fair, inclusive mechanisms, modeled after juries or comparable bodies, resolve disagreements, including over the structure or the output of decision-making bodies. 
+
+Section 1. Putting Internet governance principles into practice
+
+ 
+
+This section suggests some complementary concepts and interpretive lenses through which to implement Internet governance principles into practical structures.
+
+Do No Harm: The first and foremost concept in putting Internet governance principles into practice must be “do no harm”. Historically, the Internet’s basic architectural structure has flourished, and a light touch from binding external structures has been essential for that. Any change in governance structures that would deviate from this history should be strongly discouraged, as it would put in jeopardy the significant social and economic benefits that have been delivered by the Internet.
+
+Mozilla’s mission is to build a better Internet and to promote openness, innovation, and opportunity on the Web. These goals shape Mozilla’s vision for good Internet governance structures: to promote openness, innovation, and opportunity on the Internet.
+
+ 
+
+    Openness: In the context of Internet governance, openness means promoting global communications and exchanges of ideas, and discouraging unnecessary barriers, throttles, and limits. The biggest risk in this space is balkanization or division, which would greatly hamper global growth and development and should be opposed. Internet governance principles should be interpreted in practice in a manner that supports openness of global communications and exchanges.
+    Innovation: In the context of Internet governance, innovation means supporting progress and change in online technology driven by user choice, and encouraging the adoption and use of applications and services to be the primary driver of the evolution of the Internet, rather than external factors. Internet governance structures and principles in practice should be shaped and applied in a manner that encourages innovation worldwide.
+    Opportunity: In the context of Internet governance, opportunity means facilitating and empowering broad, diverse, and meaningful participation from all segments of the Internet community. Internet users are not merely consumers; they are also creators, with a valid voice to develop and incorporate into Internet governance. As Internet governance principles are turned into practice through structures and bodies, they should be viewed through the lens of promoting global opportunity.
+
+ 
+
+Substance and Process: Many, if not all, of the sets of principles developed by other organizations and collaborations that will be submitted include a mix of substance and process. Process principles describe how to conduct governance, whereas substance principles identify goals that governance processes ought to achieve. It is not always easy to separate process from substance in theory or in practice, as processes by their nature heavily influence the substance of the output of those processes. For example, substantive goals favored by civil society interests are far less likely to be advanced in the output of a process that does not include any civil society representation. However, for purposes of understanding and discussion, efforts to distinguish Internet governance principles into those that focus primarily on substance from those that focus on process may have value and may enable more productive conversations.
+
+Competence: A separate, less broadly discussed, requirement for Internet governance is technical competence. An accurate, current technical understanding of the Internet, including such key concepts as routing, security, and storage of information, is essential as a component of major Internet governance processes in order to identify and prevent harm to the Internet’s core architecture. Governance bodies must incorporate ample technical expertise at all levels, and seek to share that expertise broadly with all stakeholders.
+
+Literacy: One of the key requirements for realization of Internet governance principles is ensuring that diverse stakeholders have not merely the opportunity for nominal participation, but in fact the literacy and the resources for effective participation. Much of this burden falls on the activities of the stakeholders, including governments, the private sector, and civil society, to support the creation and dissemination of educational materials, and the production of platforms and tools for effective engagement without requiring constant, expensive international travel. However, Internet governance structures and bodies themselves have a role to play in advancing literacy and reducing barriers to effective participation, as well. 
+
+Section 2: Key elements of a Roadmap for the further evolution of the Internet governance ecosystem 
+
+This section will briefly describe the necessary breadth of scope for Internet governance, and discuss normative tensions that arise within that scope and the value of multiple forums to address those tensions.
+
+Broad scope: The scope of issues that fall within Internet governance and policy conversations is, by necessity, extremely broad. Thought and planning exercises for Internet governance structures should aspire to match that full breadth. If the ecosystem of Internet governance structures and processes excludes issues from the outset as out of scope, the omitted issues may not see public discussion and may be resolved through less carefully constructed and thought-out processes, such as pure top-down control by one stakeholder.
+
+Normative tensions: Key to understanding the challenges faced in a broad Internet governance ecosystem is recognizing that individual stakeholders seek to advance normatively different, sometimes incompatible, balances of interest. Viewed from that lens, one of the primary functions of Internet governance is to create processes and mechanisms by which different normative views can be developed, expressed, supported, and opposed (where relevant) by the universe of Internet interests, so that consensus can be found where possible, and where not, disputes and disagreements can be resolved in a fair, inclusive, and accurate manner.
+
+Multiple forums: There is no one forum, body, or structure best suited to fully address every issue within the full scope of Internet governance. No single institution or process can handle all the diverse aspects of Internet governance because there is no possible perfect balance of inclusiveness and concrete decision-making, and no possible perfect balance among all the stakeholders who would need to be satisfied to achieve the essential legitimacy. Instead, a broad array of forums and bodies has been created over recent years, and it is this diversity that Internet governance reform conversations properly begin from.
+
+Section 3: Functional separation of Internet governance phases
+
+This section will describe the Internet governance process as a 4-phase arc as a way of facilitating understanding and building practical governance structures. It will then explain the potential benefits of functional separation across the phases to allow for a balance of inclusivity in discussion and efficacy in decision-making. 
+
+4-Phase arc: To build structures that help advance the right principles, it may be helpful to understand the flow of Internet governance as a 4-phase arc, phases which may be either conflated or separated in their execution in practice: 1) goal identification; 2) discussion and development of policy; 3) decision-making processes to resolve normative differences; and 4) dispute resolution mechanisms. 
+
+1. Goal identification: The overall process of Internet governance begins when individuals, organizations, or aligned parties and interests identify goals to pursue through Internet governance bodies or structures. Universal awareness and education of policy issues and contexts is the biggest challenge in practice to successful goal identification.
+
+2. Policy development: Through policy discussion and development, diverse interests come together in one or more Internet governance forums or bodies to discuss an issue or a range of issues, learn more about the overlaps or dissimilarities in their preferred normative outcomes, and adopt (possibly divergent) views on whether specific possible policy changes are sufficiently acceptable. In this phase, many of the Internet governance principles come to the fore, such as inclusivity, equal opportunity, and empowerment of all those who have a stake in the relevant issues.
+
+3. Decision-making: The third phase includes decision-making structures and processes that can take policy discussions into determinations of action (or inaction). In some contexts, the same forums that handle policy development and discussion adequately produce many decisions as well. But in many others, particularly those that involve difficult public policy issues such as human rights where divergent interests cannot agree, development and discussion forums built for inclusiveness do not extend well to efficient and tractable decision-making, without simply ignoring or overruling some voices.
+
+4. Dispute resolution: The fourth phase of the arc is the backstop for problems that may arise from decision-making structures or processes. Disputes will arise no matter how carefully structured the policy discussion and decision bodies and processes today or for years to come. Currently, the Internet governance ecosystem contains few dispute resolution mechanisms adequate to handle such a challenge, to hear and resolve grievances between hugely different types of interests.
+
+Functional separation: One way of understanding some objections to the current Internet governance ecosystem is that many forums for discussion are not built for efficient decision-making. Rather than try to graft decision-making capabilities onto forums that are successful at managing inclusive policy discussion and development, functional separation of decision-making may in many cases be the best approach, into a separate process, body, or forum that includes key multi-stakeholder voices yet is structured primarily to produce a decision rather than to maximize inclusion. In that way, inclusiveness need never be limited at the outset of policy discussion, and if there is a possible consensus, it can occur before narrowing the scope of inclusion in the conversation. But, when discussion fails, a subsequent process may be invoked to achieve a decision, taking the output of discussion processes into account. 
+
+Dynamic decision-making: The notion of less-inclusive decision-making bodies poses significant risk of abuse of power and poor outcomes, because to be efficient and effective such bodies will often pick a winner and a loser, or try to craft a compromise solution. An ideal approach to reducing capture of such a body by a specific interest, or set or category of interests, would be to make decision-making bodies strictly ad hoc, dynamic, and temporary: creating a new body only after the failure of voluntary and consensus processes, constructing the body purely to address a single issue or discrete set of related issues, and subjecting each one to a strict termination date.
+
+ 
+
+Stable dispute resolution: Dispute resolution mechanisms must themselves reflect the key principles applicable to policy development and decision-making forums. In particular, to be viewed as legitimate, they must be multi-stakeholder, accountable, transparent, and inclusive, among other values. Yet, to allow potentially thousands of distinct interests to all have voice in resolving every dispute would bog down Internet governance processes interminably. Thus, one model worth considering may be to build and legitimize a large pool of potential “jurors”, perhaps large enough to include balanced representation from all interested parties, from which an odd-numbered subset would be chosen at random to resolve each dispute. Such a stable, inclusive, balanced dispute resolution structure or set of structures could serve to balance the risks of capture and abuse of power that would otherwise rise from decision-making bodies, and to create stability and equality of opportunity among all interests.

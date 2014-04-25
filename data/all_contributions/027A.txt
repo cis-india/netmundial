@@ -1,0 +1,153 @@
+Towards a Just and Equitable Internet for All
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Sen Siochr
+Region: Global
+Organization: Just Net Coalition: This Coalition was formed at a meeting in
+Delhi in February 2014.
+Sector: Civil Society
+Keywords: Human rights, social justice, global commons, democracy
+Abstract
+In this submission, the newly formed Just Net Coalition proposes a set of principles to
+underpin the emergence of an Internet that advances human rights and social justice
+globally, and the reconfiguration of Internet governance into a truly democratic
+space.These are based on a recognition that the Internet has become a vital social
+infrastructure that profoundly impacts our societies; and on the observation that
+opportunities for the many to participate in the very real benefits of the Internet, and to
+fully realise its enormous potential, are being thwarted by growing control of the Internet
+by politically, economically and socially dominant actors.Existing global internet
+governance arrangements suffer from a lack of democracy; an absence of legitimacy,
+accountability and transparency; excessive corporate influence and regulatory capture;
+and too few opportunities for effective participation by people, especially from developing
+countries.
+Document
+Towards a Just and Equitable Internet for All
+The Just Net Coalition was formed at a meeting in Delhi in February 2014. It comprises
+several dozen organisations and individuals from different global regions concerned with
+internet governance, human rights and social justice, and the relationship between them.
+---------------
+The Internet has become a vitally important social infrastructure that profoundly impacts
+our societies. We are all citizens of an Internet-mediated world whether as the minority
+who uses it or the majority who does not. The Internet must advance human rights and
+social justice. Internet governance must be truly democratic.
+The Internet is reorganising public institutions, including for governance, welfare, health,
+and education, as well as key sectors such as media, communications, transport and
+finance. It has transformed the way we do many things but the benefits promised for all
+have not been adequately realized. On the contrary - we have seen mass surveillance,
+abusive use of personal data and their use as a means of social and political control; the
+monopolization, commodification and monetisation of information and knowledge;
+inequitable flows of finances between poor and rich countries; and erosion of cultural
+diversity. Many technical, and thus purportedly 'neutral', decisions have in reality led to
+social injustice as technology architectures, often developed to promote vested interests,
+increasingly determine social, economic, cultural and political relationships and
+processes.
+Opportunities for the many to participate in the very real benefits of the Internet, and to
+fully realize its enormous potential, are being thwarted by growing control of the Internet
+by those with power - large corporations and certain national governments. They use their
+central positions of influence to consolidate power and to establish a new global regime of
+control and exploitation; under the guise of favouring liberalization, they are in reality
+reinforcing the dominance and profitability of major corporations at the expense of the
+public interest, and the overarching position of some national interests at the expense of
+global interests and well being.
+Existing governance arrangements for the global Internet are inadequate. They suffer
+from a lack of democracy; an absence of legitimacy, accountability and transparency;
+excessive corporate influence and regulatory capture; and too few opportunities for
+effective participation by people, especially from developing countries. The situation can
+be remedied only through fundamental changes to the current governance arrangements.
+The governance of the Internet must proceed from the position that inter-connectivity
+cannot serve human rights and social justice unless it leads to and supports distributed
+power, particularly to the grassroots but also across the various Internet divides—social,
+economic, political. Ensuring that the Internet does not in fact lead to greater
+centralisation of power will therefore require appropriate interventions at all levels of
+Internet governance. Building an effective framework to achieve these objectives is the
+greatest challenge today in terms of global governance of the Internet.
+In this light, we put forward the following principles. These should underpin the
+emergence of an Internet that advances human rights and social justice globally, and the
+reconfiguration of Internet governance into a truly democratic space.
+The Internet as a Global Commons for Human Rights and Social Justice:
+1. The Internet is a key social medium and, in crucial respects, a global commons: it
+isa site for global knowledge and information exchange, a space for free expression and
+association, a means for democratic deliberation and participation, a channel for delivery
+of essential social and public services, and a scaffold for new models of economic activity.
+Therefore, all the world’s people, including those not at present connected to the
+Internet, must be able to collaboratively shape the evolution of the Internet
+through appropriately transparent, democratic and participatory governance processes.
+2. The Internet must be used only for peaceful purposes and this must be
+recognised by states in a binding and enforceable instrument.
+3. The Internet economy, like other areas of the global economy, must be subject
+to fair and equitable collection and distribution of tax revenues around the world
+recognising that the concentration of global North based international e-commerce is a
+threat to the tax revenues of the global South.
+4. The Internet must be maintained as a public space. Where a divergence emerges
+between the utility of the Internet for public interest purposes and the particular interests
+of Internet service or technology companies, the public interest must take priority, and
+the service must be subjected to regulation as a public utility.
+5. Net neutrality, and similar 'platform neutrality' in higher layers of the Internet,
+must be ensured in order to preserve online diversity and to prevent monopolies
+in either content or in the provision of essential public services, in mobile as well as fixed
+network architectures.
+6. An open and decentralized Internet requires strict enforcement of open and public
+standards. Open standards allow fully interoperable implementation by anyone in any type
+of software, including Free and Open Source Software (FOSS). The trend towards
+privatisation of digital standards must be stemmed and measures must be
+introduced to ensure that standards are publicly owned, freely accessible and
+implementable.
+7. The architecture for cloud computing should enhance digital functionality and
+efficiencies without reducing user control and choices. It should also enable users to
+have adequate legal protections either through domestic jurisdictions or effective
+international agreements.
+8. The Internet’s basic or essential functionalities and services, such as email,
+web search facilities, and social networking platforms, must be made available to all
+people as public goods.
+9. People must be able to enjoy all their rights and entitlements as citizens, even
+if they choose not to have Internet access. Access to and use of the Internet should
+not become a requirement for access to public services.
+10. Community-owned and not-for-profit infrastructure, applications, services
+and content, must be encouraged and enabled including through access to public
+funding and by other means.
+11. The right to access and contribute to the development of the Internet
+, including its content, particularly of marginalised and/or minority groups is essential to
+maintaining cultural and linguistic diversity and must be secured through protective
+discrimination and affirmative action.
+12. Personal and social data must belong respectively to the relevant individual
+and social group. Policy frameworks for operationalising such effective control and
+ownership of digital data must be developed.
+A Rights Framework for truly Democratic Governance of the Internet
+13. The Internet must be governed recognising that in crucial respects it
+comprises a global commons. All layers of Internet architecture must therefore be
+designed to safeguard against concentration of power and centralized control.
+14. All people have the right to freedom of expression online. Any restrictions, on
+grounds of security concerns or otherwise, must be for strictly defined purposes and in
+accordance with globally accepted principles of necessity, proportionality and judicial
+oversight.
+15. All people must have the right to use the Internet without mass surveillance.
+Any surveillance, on grounds of security concerns or otherwise, must be for strictly
+defined purposes and in accordance with globally accepted principles of necessity,
+proportionality and judicial oversight.
+16. At the global level, there is a severe democratic deficit in Internet governance.
+Appropriate platforms and mechanisms for global governance of the Internet, that are
+democratic and participative, must be established urgently. These must be anchored to
+the UN system, and include explicit provisions to design and enable innovative
+methods for ongoing and deep participation of non-governmental actors in policy
+making processes. Participating non-governmental actors must in turn be subject to
+appropriate transparency requirements, in particular regarding sources of funding,
+membership and decision-making processes.
+17. The right to make Internet-related public policies must lie only with those who
+legitimately and directly represent people. While there is a pressing need to deepen
+democracy through innovative methods of participatory democracy, these cannot include
+– in the name of multi-stakeholderism – new kinds of formal political power for corporate
+or partisan interests.
+18. Governance systems must be based on the recognition that the Internet has
+an impact on society that the technical community, with its singular focus on
+technical issues, lacks the legitimacy to determine.
+19. The laws of any one country or one group of countries cannot control or constitute
+international technical and public policy governance structures.Management of critical
+resources of the Internet must be internationalised.Current control by the US of the
+DNS/root zone must thus be replaced by a new transparent, accountable and
+internationally representative institution responsible for the oversight of critical Internet
+resource management functions.
+20. Every country must have the right to connect to the Internet. No country can
+have the unilateral ability to disconnect another country or a region from the Internet.
+21. The rights of individuals and states must be articulated and protected with
+regard to the Internet including through the creation of appropriate enforcement
+mechanisms. Such mechanisms are required at both the domestic and international
+levels, and should include dispute resolution mechanisms.

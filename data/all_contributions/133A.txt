@@ -1,0 +1,95 @@
+Perspectives from The Domain Name Association
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Kurt Pritz
+Region: Global
+Organization: Domain Name Association
+Sector: Private Sector
+Keywords: Multistakeholder, Security, Stability, Investment, Standards
+Abstract
+The Domain Name Association believes the NETmundial meeting will be an important
+step in the evolution of governance and should focus on the presentation of narrow set of
+high level Internet Governance Principles. Attempts to deliver outcomes or decisions on
+highly complex issues in a limited forum would not be reflective of the multistakeholder
+holder approach. NETmundial?s High Level Principles will help frame on-going
+discussions at upcoming meetings that follow from this one where Internet Governance
+will also be discussed.
+Document
+Domain Name Association Introduction:
+The Domain Name Association (The DNA) appreciates the opportunity to make this
+contribution to the Global Multi-stakeholder Meeting on the Future of Internet
+Governance. We sincerely appreciate the efforts of the Brazilian Government and CGI.br
+in leading and supporting this meeting and look forward to meaningful participation in Sao
+Paulo.
+The DNA is the only non-profit global business association that represents the interests of
+the domain name industry. Its members are groups, businesses, and individuals involved
+in the provision, support, and sale of domain names. This includes such organizations as
+top-level domain name registry operators, registrars, resellers, and registry service
+providers. These are the operators of critical Internet infrastructure and as such have a
+keen interest and potentially unique contribution in these discussions. While our
+organization is relatively young, domain name industry members are globally dispersed,
+have been involved in the operations of the Internet since its founding, and avidly support
+and understand the importance of a single, interoperable Internet. In developing markets
+and domain name utility globally, it is important to The DNA that international Internet
+organisations are open to the needs and concerns of stakeholders from developing
+countries and that their processes are navigable and accessible.
+Section 1. Internet Governance Principles:
+As key participants in the Internet ecosystem, we have been closely following the recent
+developments surrounding Internet Governance. In our view, baseline discussion of
+Internet Governance Principles must include the following:
+1. Unwavering commitment to a true multistakeholder bottom-up approach, which
+includes the institutions that have successfully fostered the development of the Internet to
+what it is today.
+2. Governance principles that expect accommodate and encourage the evolution of
+technology and other forms of innovation. Evolution and change are the hallmarks of the
+Internet and its uses. The Internet in a few years time will differ markedly from what it is
+now. Its users have demonstrated remarkable resiliency in adapting to and fostering
+change. Technology, left to the private sector with appropriate governmental incentives,
+has demonstrated the ability to accommodate rapid change and growth.
+3. Promotion and protection of the stability, security, interoperability, and resiliency of
+the Internet. Governments and the private sector should incentivize development of
+protocols and standards by appropriate standards and technical bodies to meet the needs
+of those expecting a secure, stable, resilient Internet.
+4. Promotion of standard setting, regulatory, and legal environments across
+jurisdictional lines that support innovation, prevent malfeasance, and avoids unnecessary
+duplication or political interference.
+5. Promotion, through incentives and lightweight regulatory schemes, of investment and
+development of high speed networks and cross border delivery of services.
+We also appreciate the openness shown by the meeting organizers in soliciting these
+inputs and are hopeful that the final synthesis will occur in a multistakeholder and
+transparent manner to ensure all perspectives are accurately and appropriately reflected.
+Section 2. Roadmap for the Further Evolution of the Internet Governance
+Ecosystem:
+A detailed Road Map can be developed once agreed upon principles are developed. With
+only two days of consultation available during the meeting we believe that this meeting
+should seek to initiate discussions and debates as opposed to deliver outcomes or
+conclusions.
+A general Roadmap follows a typical methodology. Once an agreed set of Internet
+Governance principles are developed, stakeholders in appropriate fora can:
+· develop sets of objectives against each of the principles,
+· measure the gap between the status quo and each of these objectives,
+· form an issues statement identifying and describing the gaps or difference as the
+issues to be addressed,
+· examine the available fora or Internet Governance bodies that develop policy or
+technical outcomes involved in these issues, and then
+· test outcomes and develop implementation plans carefully to achieve broad multistakeholder
+consensus.
+As supporters of the multistakeholder model that has operated in a way to bring the
+current vibrant Internet into being, we think that change should only be enacted through
+careful, thoughtful processes.
+For example, as an active participant in the 1Net discussion forums, we have seen
+significant attention directed to the future of the IANA function. This has been a vibrant
+discussion but the possible intended and unintended effects resulting from specific
+changes are too complex to be developed without considerable analysis and test.
+Possible changes to the IANA function should be discussed after identification of the
+issues statement and the gap between its current operation and our principles.
+Therefore, we believe that at this time it would be premature to try and reach conclusions
+on issues such as this and others. As such we encourage organizers and participants in
+NETmundial to focus on high level principles that will help frame on-going discussions at
+upcoming meetings such as the 2014 Internet Governance Forum, WSIS Review, High
+Level London Meeting and the ITU Plenipotentiary. In addition to the anticipated
+NETmundial session, we view the current set of Internet Governance Fora (
+http://www.intgovforum.org/cms/) to be an effective and available methodology for
+carrying discussion forward and developing principles.
+Once again thank you for the opportunity to contribute and we look forward to bringing the
+perspectives of the Domain Name Association the NETmundial in Sao Paulo.

@@ -1,0 +1,110 @@
+Argentina Contribution
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Olga Cavalli
+Region: Argentina
+Organization: Ministry of Foreign Affairs of Argentina
+Sector: Government
+Keywords: Freedom Expression Human Rights
+Abstract
+Principles of Internet Governance and Roadmap for the future development of the Internet
+Governance ecosystem
+Document
+Principles of Internet Governance
+1. Full respect for human rights.
+2. Respect for freedom of expression.
+3. Respect for the privacy of individuals and the protection of personal data, avoiding
+surveillance and collection of personal data in an arbitrarily way and / or contrary to the
+law, avoiding also supervision by corporations or governments that do not comply with
+due process.
+4. Respect the rights of consumers and users, promoting a comprehensive framework
+to enhance consumer protection online.
+5. Internet governance should be based on democratic and multistakeholder
+processes, where all stakeholders have relevant representation and their views can be
+taken in consideration, with special attention given to the role of governments, and the
+need to increase their participation in decision-making processes and in the debates and
+discussions.
+6. Promote greater transparency in Internet governance.
+7. Promote an information society based on knowledge sharing, preserving the
+security, stability and continuity of the Internet.
+8. Promote the right to Internet as a techno-cultural tool to enhance personal and social
+development at the national, regional and global level.
+9. Promote fair and equitable universal access for all, with special emphasis on
+vulnerable people, girls and women, seniors and people with special needs.
+10. Respect the culture and language diversity, where the Internet should be the platform
+for creating and sharing content in the preferred language.
+11. Promote the development of a neutral network, avoiding filtering and traffic
+restrictions.
+12. Promote a responsible use of the Internet, based on education and awareness for the
+prevention of vulnerabilities and attacks.
+13. Promote balanced geographic representation of all regions in organizations of the
+ecosystem of Internet Governance, where special attention must be given to gender
+balance.
+14. Promote cooperation to improve the collection and dissemination of information
+related to security, promoting also the exchange good practices among all stakeholders.
+Argentina and Internet Governance
+Argentina is actively involved in all areas of debate and participation in Internet
+Governance: ICANN, IGF, Regional IGF regional, regional meetings of the Latin America
+and Caribbean Information Society Plan of Action, eLAC, among others.
+Argentina believes that a new development of the ecosystem of Internet Governance
+should be achieved through the strengthening of existing structures based on the multistakeholder
+model where all stakeholders are equally represented, including
+governments, from all the regions and considering gender balance.
+Argentina supports the multi-stakeholder model for the Internet governance and
+recognizes the value of involving all stakeholders, with special attention given to their
+respective roles.
+Argentina recognizes that Internet governance is more than the allocation of domain
+names and IP addresses. It includes also aspects of public policy, as expressed in
+paragraph 58 of the Tunis Agenda adopted by WSIS, highlighting that the responsibility of
+the definition of these policies rests within the States and this is an inalienable right.
+Therefore, it is understood that the current ecosystem of Internet governance must evolve
+towards a more balanced model that guarantees the participation of all parties on an
+equal footing, in particular the least developed countries, taking into consideration the
+current and future Internet.
+In this scenario, governements play a critical role in Internetr governance and efforts must
+be made to increase their participation in the decision-making processes and in the
+debates and discussions.
+Argentina recognizes the need for a greater cooperation, to enable governments, on an
+equal footing, play their role and responsibilities in international public policy issues
+pertaining to the Internet.
+Roadmap for the future development of the Internet Governance ecosystem
+Strengthen the organizations of the Internet ecosystem (I* Organizations) through
+increasing the participation of all relevant stakeholders from all regions, including
+governments and taking into account gender balance.
+In particular, the following recommendations are made:
+On the Internationalization of ICANN:
+Promote the internationalization of ICANN, through a deep revision of the current
+structure.
+Achieve relevant and active representation from all regions and all actors in the ICANN
+structure, including representatives of governments on an equal footing, taking into
+account gender balance. These principles should be specially considered in the following
+Advisor Commitees and Supporting Organizations:
+• The ICANN board
+• The Security and Stability Advisor Committee (SSAC)
+• The Generic Names Supporting Organization (GNSO)
+Governmental Advisory Committee GAC :
+Promote the participation of as many countries as possible, especially developing
+countries.
+Promote the rotation of all the regions in the GAC chair and vice roles, creating five
+permanent vice-chairs, one from each region, elected by consensus, within each region.
+Take in consideration the suggested changes made by the GAC restructuring working
+group specially formed, led by Spain where Argentina has participated.
+IANA- RIRs - ISOC – IETF
+Strengthen the structure of IANA and the RIRs through the relevant participation of
+representatives of all stakeholders including representatives of governments, universities,
+civil society and private sector, who should be all involved in the decision making process
+related to related to critical Internet resources.
+Promote relevant and ongoing participation of experts of all regions in decision-making
+spaces of the Internet Society and the Internet Engineering Task Force.
+There is sufficient experience and trained professionals in all regions of the world, even in
+countries with a lower degree of relative development, to be considered as suitable
+candidates for general participation and for leadership positions in these organizations,
+including board of directors.
+There should be gender balance in the board of directors and leadership positions in
+these organizations, there are enough women professionals perfectly able to be
+considered as good candidates for these positions.
+Internet Governance Forum:
+Strengthen the Internet Governance Forum (IGF), as the main global forum where
+Internet Governance is debated, where all stakeholders participate on an equal footing.
+Strenghthen the mechanisms to promote the participation of all stakeholders from
+developing countries in the Internet Governance Forum (IGF).

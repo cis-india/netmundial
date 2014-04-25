@@ -1,0 +1,97 @@
+Document
+
+ 
+
+The Society for Knowledge Commons India and Brazil thanks the government of Brazil for hosting the NetMundial meeting, an opportunity for governments, civil society and the private sector to inter alia address the risks posed by mass surveillance to privacy, diplomacy and democracy.
+
+ 
+
+Revelations about mass surveillance have also demonstrated that current governance, legal and oversight structures of the Internet have failed to keep up with technology. 
+
+ 
+
+The decision-making structures and technological architecture that worked when the Internet was born and grew in its infancy, no longer work in today’s world. A more balanced model for sharing and governing the Internet is needed.
+
+ 
+
+The enormous potential of the Internet is being thwarted by its increasing control by large corporations and powerful governments. In addition to mass surveillance, we are seeing the monopolization and commodification of information and knowledge; abusive use of personal data - in particular its unchecked monetization; erosion of cultural diversity; inequitable financial arrangements; technical decisions that lead to social injustice.
+
+ 
+
+A. The Society for Knowledge Commons reiterates and endorses the Principles provided by the Just Net Coalition and provides the following additions thereto:
+
+ 
+
+1.     The Internet should be viewed as a global commons rather than merely a market place and should never be a theatre of war.  The remarkable potential of the Internet as the world’s greatest library, cultural archive, educational institution, health provider and communications exchange is threatened by efforts to reduce it to a market or militarized space. It is essential that the Internet be used only for peaceful purposes and it is necessary that this be recognized by states in a binding and enforceable instrument. Further, every country, every society must have the right to connect to the Internet and use the same in accordance with applicable law. There must be no unilateral ability to disconnect a country or a region from the Internet without appropriate global sanction. The Internet must be recognized as a global public utility in a similar way to how telecom networks are traditionally treated and the economic structures of the Internet regulated accordingly.
+
+ 
+
+2.     Drag net surveillance, economic espionage and network sabotage are not legitimate activities and should be explicitly outlawed.  These activities violate existing human rights standards, diplomatic treaties and the laws of war given inter alia that sabotage will have indiscriminate affect on non-combatants. Additional protocols are needed to update existing treaties to detail permissible restrictions on online activities, elaborate rights and prohibit certain acts such as indiscriminate data collection, back-doors into software or hardware, the hacking of submarine cables and the sabotage of networks.
+
+3.     Competition law, consumer law and open interoperability standards need to apply to online markets.  Instead of decentralizing power as they purport, the current structures of the global Internet tend to centralize control in the hands of a small number of companies and certain nation states. Some of these companies have near-monopoly power over key areas of economic and social significance through producing, refining, adding value, distributing and reselling data.  Other companies own infrastructure, wholesale and retail services.  The need to apply fair rules to prevent e-commerce monopolies is urgent.
+
+ 
+
+4.     Unregulated, non-transparent and disproportionate state controls that conduct mass surveillance of citizens violates freedom of speech and other fundamental human rights must be outlawed. Existing treaties all recognize that there are legitimate surveillance activities and actors, and provide a license for them to act with proper oversight and warrants based on reasonable suspicion of wrong-doing.  However, we now know that governments are bypassing oversight and abusing the capacity to surveil their own citizens – and those of foreign countries – just because they technically can.  Specific prohibitions of modern misuses of technology must be established in law and proper checks and balances established at the national level to reflect international standards.
+
+ 
+
+5.     The information that companies can collect, store and use on users must be restricted.  The private sector should be allowed and required, to disclose the nature of their agreements with governments and the quantities of information they are providing.
+
+6.     Digital colonialism, the ability of some cultures and language dominant on the Internet to influence how culture activities and projects evolve, must be recognized and addressed. The potential exists for culture and news from one part of the globe to dominate all else. Local industries and culture must be protected through industry specific or geographic tariff protections to stop dumping and the local distortions it causes.
+
+ 
+
+B. Towards a Roadmap for Internet Governance
+
+ 
+
+1. The best way to preserve a global Internet is through formulating appropriate global mechanisms, principles and rules that will underpin its governance. There is an urgent need to democratize Internet governance structures and make them legitimate, representative, equitable, democratic and transparent in their functioning. Given its global significance, the fact that the Internet is legally tied to one country no longer makes sense.
+
+  As long as the Internet is governed under private contracts and its recognition exists only under US law, there is no way that even allocation of domains and IP addresses can be done in a way that furthers the ends of equity and social justice.  There are two problems with contract-based Internet governance. First, it has lead to privatization and corporatization that have eroded competition. Second, contracts do not and cannot incorporate “human rights” or “sovereign rights” – the rights of either individuals or of nations. A bottoms-up Internet governance, as distinct from developing technical standards and protocols, has no legal mechanism to enforce rights of people, corporations or sovereign rights of countries. Given that the Internet now forms an essential part of the world’s social, cultural and economic infrastructure, there is an urgent need to formulate a binding international framework to delineate rights and obligations inter se states as well as between states and individuals. By keeping the Internet governance either under US laws or under “contracts”, the US has ensured that there are no international norms and is no effective global body that can address various issues, such as NSA's invasive surveillance over other governments and people, and penetration of vital infrastructure of other countries. Neither is there any place for regulatory principles to be exercised – for example, progressive taxation policies for e-commerce transactions that would help developing countries.
+
+ 
+
+US “trusteeship” of the Internet has failed, as have “multistakeholder” institutions such as the I-organizations.  We need to internationalize essential and global public policy decision making systems to enable them to function for the benefit of global citizens and not merely the first world – which due to historical and other reasons enjoy overbearing influence on these processes. There is an urgent need to ensure regional / geographic balance and representation of the under-represented and marginalized in decision-making powers.
+
+ 
+
+A failure to make drastic changes to the status quo could quite easily lead to increased exercise of domestic sovereign authority over what should be a global commons – and therefore a very real threat of ‘balkanization’ of the Internet. Without a globally agreed set of framing or guiding principles to govern the Internet, the Internet as we presently know it – a global tool of communication – could soon be a thing of the past as each country will attempt to propose its own governance models which it will try and enforce through domestic law. This could even extend to splitting of the root zone system through the creation of local roots.
+
+ 
+
+There is therefore an urgent need for a multilateral framework to be entered into that affirms, guarantees and protects the principles referred to previously.
+
+ 
+
+2. The multistakeholder model is current vaguely defined and applies arbitrary modalities which must be clarified through guidelines that ensure equitable representation and prevent conflicts of interest and corporate capture.   The multistakeholder system purports to place all stakeholders on an equal footing but fails to recognize the different interests, roles, capacities and resources available to each sector.  This model too often inappropriately blurs the different responsibilities and obligations of states and corporations. The aforesaid is not to limit or question the role of public participation in decision-making processes - this is essential in any democratic system, as is transparency.
+
+ 
+
+3. Certain public policy functions in the context of the Internet governance that can only be dealt with through a multilateral framework. While the adoption of technical standards and protocols might make sense in a multistakeholder platform, it cannot be effective in preventing cyber warfare or protecting human rights, dealing with regulatory issues such as cost of access and net neutrality, common ownership of domain name spaces including control of CCTLDs by the country concerned, and protection and stability of international telecommunication services. These issues are well within the scope and competence of a nation states’ traditional domain in the International legal sphere.
+
+We believe it is essential that the following issues be given sanctity in International law (possibly and at an initial stage as general principles in a Framework Convention or through a system of protocols):
+
+ 
+
+(a)            Protection of human rights including privacy
+
+(b)           Cyber warfare and cyber attacks
+
+(c)           Regulatory issues such as cost of access, net neutrality, etc.
+
+(d)           Common ownership of the domain name space including control of CCTLDs by the country concerned, international control, supervision and oversight of IANA functions
+
+(e)           Protection and stability of international telecommunication services (right against disconnection etc.)
+
+ 
+
+4. In addition to the principles and issues mentioned above, any Framework Convention will also need to formalize the basic architecture of the global governance of the Internet - recognizing and legitimizing the role and functions of the organisations involved in the public policy governance and technical oversight of the Internet in addition to various other bodies involved with managing the technical and logical infrastructure of the Internet (such as Regional Internet Registries, Internet technical standards bodies and so on).
+
+ 
+
+An appropriate mechanisms for crisis response and dispute resolution in relation to the global Internet, and the social activity dependent on it, will also be required to be set up under this Framework Convention.
+
+ 
+
+5. Public policy decision-making must take place within a multilateral framework, with a role for public participation of all necessary stakeholders participating in accordance with their relevant roles and interests. Technical oversight of essential functions of the Internet must also be founded within a global multilateral framework that recognises the Internet’s essential technical parameters (such as the addressing system) as a global commons. Technical standards are and must continue to be developed through a bottoms up method but must adhere to public policy principles.

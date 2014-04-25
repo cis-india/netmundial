@@ -1,0 +1,128 @@
+Document
+Issues' statement
+
+Strong asymmetries exist in the standards of accountability and transparency of Internet policy, and of operational and technical bodies closer to user access at regional and national level.
+Is there a forum or Internet Governance body that develops policy or technical outcomes involved in these issues?
+
+Some I* (i-star) members have developed such policies, although as a group it does not uphold to common explicit public standards as a whole. Only some of its members benefit from explicit governance rules. Civil society and Governments are impacted by this issue, as some entities at the local level are directly involved in the business to provide access or some of its elements.
+
+ 
+If there is, how and why are these issues not being adequately dealt with by that forum ororganization?
+
+RIR, IXPs, ccTLDs and gTLDs are not subject to the same level of accountability and transparency as other, higher level entities. Policy makers have less influence and less understanding of their business procedures which are most familiar to private sector access providers. This situation can lead to stronger friction at the regional and local levels, and, if uncoordinated, may negatively impact the path to globalization to IG.
+What are the possible responses to the challenges posed by these issues?
+
+The drive to globalization must be accompanied by regulated and equal accountability and transparency standards at the regional and national level, to avoid the risk that domestic may not be sufficiently empowered to be correctly implemented. This risk is substantially higher in the case that the less technical-oriented and non-commercial stakeholders are left behind. This situation does not comply with the standards of subsidiarity proposed by The ICANN Strategy Panel on Multistakeholder Innovation, which speaks of subsidiary and decentralized Accountability at national level, in order to allow all local stakeholders to have a common solution and represent common national and regional positions at the global level.
+
+ 
+How will the possible responses proposed ensure the stability, resilience and efficiency and also comply with principles of equitable multistakeholder participation, accountability, transparency and predictability?
+
+ 
+
+New global Internet governance architectures should guarantee the same accountability and transparency standards to entities that operate either at the regional or at local levels. Moreover, to help avoid asymmetries in access and governance at local level in smaller economies, a proactive stance should be taken to promote and guarantee true bottom-up, multi-stakeholder participation in all relevant issues.
+
+ 
+Background
+
+• The Internet developed thanks to open and transparent collaboration between very bright people that have changed not only the way we communicate, but also the way we develop policy and govern the entities which run the networks necessary for today's society.
+
+ 
+
+• The Internet operates today in an ecosystem of international, regional and local entities, each one with its own role and objectives, of which I* is the most important group of technical entities.
+
+ 
+
+• However, not all entities are equally accessible to Governments and civil society stakeholders in terms of representation, accountability and transparency of their policy making, as well as their governance models.
+
+ 
+
+• As a new path to the globalization of Internet Governance is being discussed, it is important that all stakeholders, particularly non-technical ones, develop the same degree of trust towards all entities of the ecosystem, independently how far or how close to their particular immediate needs.
+
+ 
+
+• To ensure real bottom-up involvement of all stakeholders, the involvement of regional and local level actors must be taken into consideration, as well as the actors that affect users Internet experience directly. Those have to be able to participate, from their local standpoint, in a consistent bottom-up multi-stakeholder model approach.
+
+ 
+Accountability and transparency of the I* entities at the higher level
+
+ 
+
+• As Internet developed it also grew wider, involving more and more stakeholders. Governments and civil society has been increasingly involved in the international fora and entities like IGF, ICANN and IETF over the last few years.
+
+ 
+
+• I* entities have been traditionally very open to all stakeholders, although its output has been traditionally dominated by the technical community from the more developed countries.
+
+ 
+
+• As Internet became more commercial over the last decade, the definition and scope of action of different stakeholders became more clear and structured (ex: GAC)
+
+ 
+
+• In order to clearly develop ICANN as a separate entity from the USG, explicit rules of accountability and transparency, along with new governance mechanisms, were built into the oversight of its very relevant technical function (AoC)
+
+ 
+
+• As the system expands, further involvement of private actors with the new gTLDs is expected to bring about more competition in the provision of internet services worldwide to the benefit of consumers
+
+ 
+
+• However, down the value chain, as regional and local entities create business with private operators and service providers, they can no longer claim that they have a purely technical role and thus avoid open governance rules existent higher up.
+
+ 
+
+• If civil society can only participate at the higher level of policy making, it will be difficult to provide evidence of direct relationship between this level and the local conditions of most users. In the case of governments of smaller countries, the coalitions can be very difficult, as they have little technical expertise to be able to participate consistently in so many international entities and their working groups
+
+ 
+
+• Worst of all, lack of local capacity in terms of ICT for development can turn into bad policy decisions, and create expectations on the globalization of the Internet that cannot be met, as shown recently by the WCIT12.
+
+ 
+Multi-stakeholder participation at regional and local levels
+
+ 
+
+• As the internet grows in geographic outreach and number of users, its regional entities (RIRs, IXPs, ccTLDs and eventually the new gTLDs in other alphabets) have not followed in terms of engaging the bottom-up multi-stakeholder model, which gives equal opportunities to less technical and less commercial interests.
+
+ 
+
+• Their role is very relevant to local stakeholders, as those entities are in permanent interaction with the mostly private entities that offer access to the Internet, and that impact the terms, conditions, coverage, quality and privacy terms in which people connect. The simple PSTN regulation of the telecom infrastructure that carries the Internet is not a viable alternative to solve those issues in the best interest of the wider public.
+
+ 
+
+• While it is also true that the role of these regional entities is more operational and less linked to policy-making, Governments and the civil society may develop higher expectations in finding solutions to local bottlenecks, especially as Internet reaches out to more users. While not responsible for all of these obstacles, if there is no greater level of engagement between the local stakeholders, some of the problems may just bump up the ladder making international issues even more complex.
+
+ 
+
+• Finally, as regional and local entities open up to their local constituencies, they can better translate local issues to the global system. If well-coordinated, these entities, along with local governments and civil society, could very well play a larger role than today in the Governance of the future global architecture.
+
+ 
+Roadmap to the globalization of the Internet
+
+ 
+
+Today not all I* entities follow the same explicit rules for accountability and transparency in their policy-making and governance. This implies different chances for the less technical and less commercial stakeholders to participate actively in their policy-making and operations. While many stakeholders have found adequate space in specific constituencies in ICANN and at the IGF to make their voices heard, there is paradoxically less opportunity for them to participate at regional and country levels in entities closer to implementations, operational and private sector issues. Moreover, there are large differences in the standard expected from ccTLDs as compared to gTLDs.
+
+ 
+
+Only a few large countries have the scope and scale to organize their own internal multistakeholder organization, such as Brazil (cgi.br). While some meetings where RIRs and ccTLDs participate are also open, they are much more technical and business oriented and lack formal accountability and transparency mechanisms, making it difficult for less technical stakeholders to follow up on their operations. Less resources are available for participation of the civil society at regional level than at global levels. Last but not least, smaller countries have little weight in those regional organizations, due to their limited markets. However it is those smaller economies that suffer from serious bottlenecks and high costs of Internet access, due to many different conditions and limited scale.
+
+ 
+
+While ICANN strategic panels have already recognized the need to apply governance principles more consistently, particularly in terms of participation [1], revision of policy and operational decisions [2] and subsidiarity [3], other I* entities are farther away from offering those conditions to governments of smaller countries and to civil society groups from those countries. Our recommendation is that NET mundial Roadmap to Globalization include the need for consistent application of explicit principles and standards, particularly in terms of accountability and transparency of operations, policy development and governance of all internet entities, at all geographic levels, so that all entities can comply with the same high standards and enjoy legitimacy in the eyes of all local stakeholders. By opening up to more transparency and responsibilities at their local levels, they may very well play a larger role in the future in the Governance of the new global architecture.
+
+ 
+
+Footnotes:
+
+ 
+
+1. Legitimate institutions operating in the public interest are inclusive in that they involve the peoplewho are affected by their decisions in the process of making those decisions. In the case of theInternet and of ICANN’s legitimacy, inclusivity matters because the Internet impacts all corners ofhuman activity around the globe, even to those who are not yet connected. Anyone must thereforehave easy and equitable access to participate in the process of shaping the policies and standardsof the Internet that ICANN helps facilitate. In this context, affected parties go beyond stakeholderswhose immediate economic interests might be implicated by, for example, a contract, a license or agrant. They include the broader members of the affected community. Hence opportunities forparticipation must not only include those whose expertise is specifically likely to yield workablesolutions to problems, but all members whether individuals or other groups and institutions.Participation must include undirected opportunities to deliberate as well as engagement focused onsolving a particular problem. in http://www.icann.org/en/about/planning/strategic-engagement/multistakeholder-innovation
+
+ 
+
+2. The purpose of a panel is to provide recourse should a party to an AOC believe that another partyhas failed in some way that must be accounted for and that all other resolution mechanisms impliedor explicit within the AOC have not yielded satisfaction. One of the challenges of an accountabilitypanel may be the natural asymmetry of power between governments and ICANN (and the powerasymmetry that governments have over most all stakeholders). p.55 in http://www.icann.org/en/about/planning/strategic-engagement/governance-ecosystem/report-20feb14-en.pdf
+
+ 
+
+3. ICANN Strategy Panel on Multistakeholder Innovation http://www.icann.org/en/about/planning/strategic-engagement/multistakeholder-innovation

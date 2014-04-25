@@ -1,0 +1,89 @@
+Document
+
+Orange contribution for the NETmundial
+
+ 
+
+Orange has been actively involved in the Internet governance debate across many different fora for many years and is pleased to submit a Contribution as input into the Global Multi-stakeholder Meeting on the Future of Internet Governance, to be held 23 - 24 April 2014 in Sao Paulo, Brazil.
+
+We commend the effort deployed by the Government of Brazil to convene this NETmundial conference.
+
+ 
+
+Orange is one of the world’s leading telecommunications operators with more than 236 million customers worldwide and 41 billion euros revenues in 2013. Orange footprint encompasses 32 countries both in Europe and in the Middle East Africa region and is therefore well acquainted with operational networks and internet issues in both developed and developing markets. Orange is also a leading provider of global IT and telecommunication services to multinational companies, under the brand Orange Business Services.
+
+ 
+
+As an electronic communications provider with worldwide presence, Orange has been an active stakeholder to GSMA’s and ETNO’s Contributions to the NETmundial.
+
+ 
+
+ 
+
+Internet Governance Principles
+
+Orange supports a universal set of high-level principles relating to the Internet. The overall aim of these principles should be to restore customers’ trust and digital confidence, preserve the open nature of the Internet and allow for its continued growth, resilience and stability.
+
+ 
+
+To reach this objective, we are of the opinion that the primary focus of NETmundial should be on establishing Principles for the Governance of the Internet as opposed to Internet regulation.
+
+ 
+
+In this respect such principles could address the need to promote :
+
+ 
+
+- An evolved global Internet governance model, building on existing multi-stakeholder foundations and bodies, with the involvement of all relevant stakeholders, on an equal footing and in a democratic, transparent, open and collaborative manner. This governance model should be based on a multi-stakeholder accountability mechanism for all actors involved in any decision making process.This model is the best suited to the dynamic nature of the Internet
+
+ 
+
+- The sheer respect for the individual and fundamental human rights, such as privacy, freedom of speech and security. The same rule of law should apply online as it does offline and the customers should enjoy the same protection in both situations. This approach must be applied along the whole value chain and be independent of underlying technology and services
+
+ 
+
+- The legitimacy and trust of the governance model through bolstered inclusiveness and a wider geographical representativeness, particularly vis-à-vis developing and emerging country stakeholders (governments, private sector, civil society, technical community, and academia)
+
+ 
+
+- An economically sustainable, interconnected, secure, stable and resilient Internet.
+
+ 
+
+ 
+
+Further Evolution of the Internet Governance Model: Roadmap
+
+In terms of a roadmap for an evolved Internet governance model, Orange calls for a review of the multi-stakeholder model, identifying when and where various stakeholder groups should be included in policy debates.
+
+ 
+
+The following premises could be pushed by the NETmundial:
+
+ 
+
+- Decision-taking processes in the realm of Internet Governance need to be transparent and decision-makers must be held accountable for their decisions.
+
+ 
+
+- The review process should seek to acknowledge and clarify the roles of the various actors and institutions in the Internet governance landscape, identifying overlapping areas where they exist. In particular, the review process should seek to define the legitimate involvement of Governments in Internet governance debates. Orange recognizes that Governments are instrumental in high-impact Internet public policy issues such as cybersecurity, privacy, child protection, intellectual property and other societal issues.  
+
+ 
+
+- The review process should also ensure that Electronic Communications operators’ role be duly taken into account in any discussions affecting the Internet infrastructure, given the ever growing crucial role of connectivity functions in the Internet ecosystem.
+
+ 
+
+- The globalisation of ICANN, including the IANA function, should continue to evolve towards a multi-stakeholder accountability framework, through a process that maintains and protects the resilience, the security and the stability of the global Internet.
+
+In this respect Orange welcomes the program initiated by ICANN’s President and Board in this field and believes it constitutes a significant step towards a better inclusion of developing and emerging country stakeholders.
+
+Concerning the IANA function, and maintenance of the root zone, globalization means considering this function as part of the ICANN operational mission without any contractual relationship or stewardship agreement with a single Government or an only-Government structure.
+
+The AoC should evolve to an agreement between ICANN as a legal organization and the ICANN community and stakeholders including Governments represented through the Governmental Advisory Committee.
+
+Concerning these topics, Orange supports the recent ICANN Board’s resolution to create President’s Advisory Groups addressing them and ICANN President’s work to reshape and globalize ICANN.
+
+ 
+
+- It is important to address the Internet-related perceived issues, often referred as “orphan issues,” for which relevant existing solution mechanisms have not be identified or for which new mechanisms  may have to be developed. 

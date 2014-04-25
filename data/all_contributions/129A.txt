@@ -1,0 +1,108 @@
+COAI Proposal - NETmundial-Global Multistakeholder
+Meeting on the Future of Internet Governance
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Vikram Tiwathia
+Region: India
+Organization: COAI
+Sector: Private Sector
+Keywords: COAI, multi-stakeholder, internet governance, mobile
+Doc Attached: Click here to see the doc 1
+Abstract
+The Internet in India has only taken 3 years to grow from a subscribers? base of 100
+million to 200 million. Mobile Internet is going to be the game changer for Internet in India.
+Multi-stakeholder or multi-lateral - two words encapsulating diametrically opposite views
+on internet governance stands at the heart of a raging debate across the globe. COAI,
+which represents the largest industry association and serves nearly 800 million mobile
+subscribers, believes policies that shape the Internet impact not only the development of
+the technologies themselves, but also the realization of internationally agreed human
+rights, social equity and interdependence, cultural concerns, and both social and
+economic development. Our vision is that Internet governance should be inclusive, people
+centered and development oriented. Any policy framework for the Internet must support
+openness and connectivity.
+Document
+NETmundial-Global Multistakeholder Meeting on the Future of Internet Governance
+23-24th April, Sao Paulo, Brazil.
+COAI Proposal
+A. Internet Governance
+1. The phenomenal growth of the Internet has facilitated individual empowerment and
+access to information, goods and services across borders; it has lowered entry
+barriers and supported the rapid development of small and medium sized
+enterprises; it has generated jobs for millions of people. In sum, the Internet has led
+to significant benefits to the society and the economy.
+2. The Internet in India has only taken 3 years to grow from a subscribers’ base of 100
+million to 200 million. This has been catalysed by the growth of wireless telecom
+networks in India. On the back of higher adoption of mobile devices as a means to
+access the Internet according to the I-Cube 2013 report, the number of Internet
+users in India is expected to reach 243 million by June 2014. India is also expected
+to overtake the US as the second largest Internet base in the world by the same
+time. The robust growth is a result of fast growing Internet ecosystem with a
+multitude of local and global players and a thriving Internet economy.
+3. Mobile Internet is going to be the game changer for Internet in India. Compared to
+0.4 percent mobile Internet users in 2012, the penetration has grown to 2.4 percent,
+indicating a substantial growth in the mobile Internet user penetration levels. The
+National Telecom Policy (NTP) 2012 envisages broadband penetration to reach 600
+million connections by 2020, this implies adding 7 million broadband connections
+each month from now onwards. According to an analysis conducted by McKinsey,
+the Internet economy in India could grow to $100 billion by 2015 to average 2.8 to
+3.3 per cent of GDP, which could facilitate 22 million jobs, if India follows an
+inclusive path of Internet expansion.
+4. Internet governance can be considered as the development and application of
+shared principles, norms, rules, decision-making procedures, and programs that
+shape the evolution and use of the Internet. It applies to activities as diverse as the
+coordination of technical standards, the operation of critical infrastructure,
+development, regulation, and legislation of Internet. There is a need to develop a
+coherent strategy for Internet governance ensuring that difficult trade-offs between
+competing interests, as well as between distinct public values, are managed in a
+consistent, transparent and accountable manner that accurately reflects internet
+users priorities.
+5. Multi-stakeholder or multi-lateral - two words encapsulating diametrically opposite
+views on internet governance stands at the heart of a raging debate across the
+globe. Multi-stakeholder control over the world wide web means parties other than
+governments, which include the tech community, academia, businesses and civil
+society. In a multi-lateral arrangement, only the governments will be the decisionmakers
+and every other stakeholder barring the state, is relegated to a purely
+advisory role. Simply put, the choice is between total state control over the internet
+or a more democratic set-up where other sections of society are also represented.
+6. Civil society and businesses are concerned that being relegated to an advisory role
+rather than a decision-making one could lead to disregarding or relegating their
+positions to a secondary level. Also with the internet being enhanced largely by
+private investment and individual demand it is important to safeguard their interests
+to enable sustained investment interest by potential investors who will enable the
+enhancement in networks providing access and services on the internet.
+7. The internet architecture has traditionally been controlled by the US. The demand
+for a more democratised set-up, where other countries also have a voice, started in
+early 2000s. In 2005, a consensus document, Tunis Agenda, had been signed
+under the aegis of the UN. It laid out much of the terms of the debate around
+internet governance, including the focus on enhanced cooperation and the need for
+a multi-stakeholder model.
+8. The internet architecture has had a significant bering on the leadership of the US in
+this regard. The demand for a more democratised set-up, where other countries
+also have a voice, started in early 2000s. In 2005, a consensus document, Tunis
+Agenda, had been signed under the aegis of the UN. It laid out much of the terms of
+the debate around internet governance, including the focus on enhanced
+cooperation and the need for a multi-stakeholder model.
+9. In 2011, India put forward a detailed proposal for a multi-lateral UN body that was
+widely criticised by activists and business bodies at home. In Geneva, Government
+of India's response to a question on implementing "enhanced cooperation" in a
+WGEC questionnaire stated: "A suitable multilateral, transparent and democratic
+mechanism must be created where governments, on an equal footing, may carry
+out their roles and responsibilities in international public policy issues pertaining to
+the Internet and public policy issues pertaining to coordination and management of
+critical Internet resources, in consultation with all other stakeholders." This position
+has been crticised by cvil society and businesses.
+10. A critical factor in the success of the Internet has been the multi-stakeholder
+framework and open access. In recent days, however, there is a growing concern
+about the excessive influence of one country over some of the internet governance
+mechanisms. Governments are coming to terms with their new role in the internet
+and social media space. The Tunis Agenda 2005 recognizes a role for multistakeholders
+such as government, businesses, civil society, technical community,
+academia and media.
+11. Several meetings are expected to be held in 2014 including WSIS+10 Review
+(February), UN CSTD Working Group on Enhanced Cooperation (February), the
+Brazil conference “The Global Multistakeholder Meeting on the Future of Internet
+Governance” (April), ICANN High Level Meeting (June), UN Internet Governance
+Forum, Istanbul, Turkey (September) and ITU Plenipot in Busan, South Korea
+(October – November). Much of the discussion in these meetings is about initiating
+dialogue on core internet values and principles that must govern the internet at a
+national and global level.

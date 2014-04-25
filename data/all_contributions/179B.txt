@@ -1,0 +1,57 @@
+Document
+
+ 
+
+The Information Technology Industry Council (ITI) respectfully submits this paper for consideration by participants of the “Global Multistakeholder Meeting on the Future of Internet Governance” or NETmundial, and other interested parties. We applaud the Brazilian Government for taking this initiative to bring together stakeholders from around the world to discuss the important subject of Internet governance. ITI is the premier advocacy and policy organization for the world’s leading innovation companies.  Our members pioneer cutting-edge products and services that improve people’s daily lives, and maintain investments, supply chains and operations around the world.  As a result, we have an acute understanding of the impact of international policies can have on the Internet and the World Wide Web. By any measure, the Internet has been a global phenomenon, spurring growth in communications, access to information and economic opportunity unprecedented in the annals of recent human history.  Much of credit for this dynamism can be attributed to the careful stewardship of a decentralized array of private sector “caretakers” such as the Internet Society (ISOC), the Internet Engineering Task Force (IETF), and the Internet Corporation for Assigned Names and Numbers (ICANN).
+
+ 
+
+ These multistakeholder institutions in which anyone can participate have played an important role in building the Internet into the vibrant platform that it is today. Under the current governance model, the Internet and the World Wide Web have generated an unprecedented explosion in commerce and creativity.  According to a 2011 study by the McKinsey Global Institute, nearly eight trillion dollars of business occurs each year through e-commerce.[i]  What many may not realize, however, is that both developed and developing countries are benefiting.  A 2009 report by the World Bank concluded that the growth broadband provides for developing countries was of similar magnitude as that for developed economies – about a 1.38 percent increase in GDP for each 10 percent increase in Internet penetration.[ii] As stakeholders, we all must insist that any alternative approach to Internet governance be subject to a careful and thorough cost-benefit and public interest analysis that fully considers potential impacts on e-commerce, education, the ability to improve healthcare and accessibility of government services, as well as the unrestricted flow of information and ideas.  This is of particular importance to the myriad developing countries that have been making significant investments in people and infrastructure to empower their people to tap the stream of economic and social benefits that flow from the Internet.  Key Principles of Governance The Internet is transforming the world.  Even so, it is important to bear in mind that, as a technology and platform, the Internet is still in its infancy.  It continues to evolve and move in directions unanticipated by even the most experienced technologists.  Growth and stability are not automatic, and it is not a task that can be assumed by a single entity.  We recommend adherence to the following key principles of governance to help ensure the future vibrancy and resilience of the Internet:
+
+ 
+
+ 
+
+1.         Any governance model must promote the following:
+
+    Expanding access to broadband networks so that these benefits can reach all of the world’s citizens.  The world deserves the access to knowledge, services, commerce, and communication, the accompanying benefits to economic development, education, and health care, and the informed discussion that the Internet provides.
+
+ 
+
+    Continuing the free flow of information.  The Internet’s importance as a platform for commerce, for education, for information and knowledge sharing, for self-expression, and for organization and assembly, depends on the global free flow of information.
+
+ 
+
+    Allowing for the ability to innovate, to develop technical capacity, and to create and take advantage of economic opportunities.  This can be achieved by promoting the current, distributed, interoperable, and interconnected nature of the Internet.
+
+ 
+
+    Assuring the continuing security, stability, and resiliency of the Internet.
+
+ 
+
+    Ensuring that individuals can exercise their human rights, both online and offline.
+
+ 
+
+    Recognition of government limitations on the collection of information on Internet users based on users’ reasonable privacy interests and the impact on trust in the Internet.
+
+ 
+
+2.     Any governance model should include the following characteristics:
+
+ 
+
+    All stakeholders – individual users, governments, civil society, businesses, and members of the academic and technical community – have a stake in preserving the Internet as a critical platform for communication and information exchange.  Therefore, all stakeholders should be appropriately included in governance decisions.  All of these stakeholders have contributed to the development of the Internet to date and, working together, have driven unprecedented growth in access to, uses of, and innovation on the Internet.  They must continue to be involved in any future model of Internet governance.
+
+ 
+
+    Any policy-making associated with the Internet must promote access, transparency and accountability, and must be grounded in respect for the rule of law.
+
+ 
+
+Conclusion The phenomenal success of the Internet is due in no small part to the multistakeholder governance model that guides technology and policy decisions.  A variety of organizations that include participation from businesses, civil society organizations, government representatives and technical experts have followed this de facto blueprint to manage the exponential growth of the Internet throughout the world, creating a flexible infrastructure that has successfully absorbed new technologies and demands in a seamless and cost-effective manner.  This multistakeholder collaboration has produced a stable, predictable environment that has helped facilitate continuing innovation and attract investments that have spread economic benefits around the globe, benefitting developed and developing economies alike.  We believe that the existing system of governance for the Internet is effective and inclusive, and for this reason, it should continue to be improved and reinforced. We welcome inquiries and feedback from all stakeholders regarding our views, and look forward to hearing and considering the views of other stakeholders on this important topic. Thank your for your consideration. For Further Information:  +202-737-8888 Mr. Ken J. Salaets   |   ksalaets(at)itic.org Ms. Maria Medrano   |   mmedrano(at)itic.org ------------------------------------------------------- End Notes
+
+ 
+
+[i]“Internet matters: The Net's sweeping impact on growth, jobs, and prosperity,” Matthieu Pélissié du Rausas, James Manyika, Eric Hazan, Jacques Bughin, Michael Chui, Rémi Said, Insights and Publications, McKinsey & Co., May 2011.  http://www.mckinsey.com/insights/high_tech_telecoms_internet/internet_matters, retrieved February 2014. [ii] “Economic Impacts of Broadband,” Christine Zhen-Wei Qiang and Carlo M. Rossotto, Information and Communications for Development 2009, World Bank

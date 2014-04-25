@@ -1,0 +1,23 @@
+Document
+
+ 
+
+The IEEE Standards Association (IEEE-SA), a globally recognized standards-setting body within IEEE (www.ieee.org), a large, global technical professional organization dedicated to advancing technology for the benefit of humanity and which embodies the OpenStand (open-stand.org) principles for standards development, submits the following contribution in response to the request for views on “Internet governance principles.”
+
+The development and evolution of technologies upon which the Internet is based exemplifies the success of a bottom up, open system of standardization. The Internet evolved from a networking community to a global collection of communities and widespread information infrastructure that has resulted in today’s e-commerce, information and knowledge sharing and community operations. The standards and the technical foundation upon which the Internet was built, and continues to evolve upon and advance, were developed within a globally open, inclusive and decentralized paradigm that allows for diversity of opinions and approaches as well as flexibility to acknowledge and address change and varying needs.
+
+The IEEE-SA believes that the principles associated with this paradigm—notably openness, transparency and inclusiveness—and the multi-stakeholder model of collaboration and consensus building can be applied to the principles for Internet governance to enable the successful progression of the Internet, including the progression and innovation of technology that serves as the foundation of the Internet.
+
+Working within a framework of open participation and diversity, this paradigm applied to policy discussions and Internet Governance practices would help ensure the continuation of the open, universal and inclusive nature of the Internet via direct, informed knowledge contributions by the global, without national borders collective of developers and users of the Internet.  Via collective empowerment the paradigm establishes a worldwide network capable of ensuring principles such as:
+
+·       Direct participation meaning there are no intermediaries between a good idea and the peer group that decides the start of a best practice or policy. Everybody, from anywhere should be able to submit a proposal.
+
+·       Due process providing for a level playing field for all participants to understand the rules of engagement and the opportunity for equal participation.
+
+·       Broad consensus ensuring that decisions are made by either a majority or supermajority of participants, so no single person or entity wields undue power in the definition of a policy. 
+
+·       Balance in order to provide opportunity for a multitude of stakeholders to participate in the development of policies.
+
+·       Transparency of the process and proceedings ensure that the procedures under which the policies are defined are available so that participants understand the rules of engagement and so that appropriate audit trails are available for inspection upon emergence of an output.
+
+·      Universal openness from the very beginning of any policy dialogue or consultation to ensure that appropriate notification to a global audience is given to all potential stakeholders on a global basis regarding the opportunity to attend meetings, submission of comments and other relevant forms of engagement. This combined with transparency creates the basis for a robust and trustworthy policy development process.

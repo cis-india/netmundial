@@ -1,0 +1,109 @@
+The Telecommunications Industry Association Submission
+for NETmundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Eric Holloway
+Region: United States
+Organization: Telecommunications Industry Association
+Sector: Private Sector
+Keywords: Internet Governance Multistakeholder Information Principles
+Doc Attached: Click here to see the doc 1
+Abstract
+The Telecommunications Industry Association (TIA) and its member companies would like
+to thank the Government of Brazil and organizers for the opportunity to submit a
+contribution to help facilitate the discussions at the ?Global Multistakeholder Meeting on
+the Future of Internet Governance? (NETmundial) to be held in So Paulo, Brazil. Our
+comments are divided into three sections that provide examples of Internet governance
+principles that are commonly supported by many types of organizations, comments on the
+concept of a "roadmap" for Internet governance, and practical actions that countries can
+take to further enhance the deployment of the infrastructure to enhance access to the
+Internet.
+Document
+The Telecommunications Industry Association Submission for NETmundial
+The Telecommunications Industry Association (TIA) and its member companies would like
+to thank the Government of Brazil and organizers for the opportunity to submit a
+contribution to help facilitate the discussions at the “Global Multistakeholder Meeting on
+the Future of Internet Governance” (NETmundial) to be held in São Paulo, Brazil. TIA
+represents the global information and communications technology (ICT) industry through
+standards development, advocacy, policy initiatives, business opportunities, and market
+intelligence. With support from hundreds of members, TIA enhances the business
+environment for companies involved in telecommunications, broadband, mobile wireless,
+information technology, networks, cable, satellite, unified communications, emergency
+communications, and the greening of technology.
+We applaud the organizers for their efforts to stay true to the principle of “the
+multistakeholder model” by opening this event to the global Internet community, and we
+look forward to the contribution of the conference to the global discussion on enhancing
+the multistakeholder approach to Internet governance. As governments, intergovernmental
+organizations, academia, the private sector, civil society, the technical
+community, and other stakeholders discuss the evolution of the multistakeholder
+approach to Internet governance, participants of NETmundial should be mindful of
+creating an environment that promotes sustainable growth of and global access to the
+Internet. In response to the invitation for submissions for the agenda of the NETmundial
+conference, TIA submits the following views on beginning a dialogue on identifying a set
+of universal Internet governance principles and developing a “Roadmap for the Further
+Evolution of the Internet Governance Ecosystem”.
+Internet Governance Principles
+Today, there exists a significant body of work by a variety of stakeholders to identify
+Internet governance principles, beliefs, and statements. The result of these efforts has
+led to a variety of positions on what exactly constitutes Internet governance, which are
+sometimes aligned and at other times divergent. In our view, an important goal of
+NETmundial will be to examine the variety of statements on Internet Governance and
+identify those principles that are universal in nature – principles that are commonly
+supported by a broad spectrum of stakeholders.
+Given the rapid pace of technological change and the always evolving ways that persons
+and organizations make use of the Internet, it would be best to avoid principles that are
+overly prescriptive as they risk obsolescence in the near term. Principles that are highlevel,
+technology-neutral, and focused on “the network”, that is the Internet, will help
+ensure that any Internet governance principles identified at NETmundial remain relevant
+now and into the future. With these views in mind, TIA provides the following suggested
+principles for NETmundial:
+Ensure the stability, security, interoperability, and functionality of the
+Internet.
+Commit to the multistakeholder approach, and encourage openness and
+transparency in consultative processes related to technical and policy
+aspects of Internet governance.
+Recognize the important economic role the Internet plays by minimizing
+impediments to the global flow of information on the Internet for the
+delivery of online services, applications, software, and other commercial
+uses.
+Promote universal access to the Internet.
+Promote voluntary, consensus-based standards that are developed in an
+open and transparent manner by a broad range of standards development
+organizations.
+Encourage policies that stimulate investment and deployment of networks
+and consumer uptake of connected devices, while avoiding policies that
+may distort the market and impede investment.
+Roadmap for the Further Evolution of the Internet Governance Ecosystem
+We recognize that there are a broad range of existing technical and policy discussions in
+various fora underway on the evolution of Internet governance, and believe that
+NETmundial can supplement these ongoing dialogues. However, we urge that the
+conference participants and organizers to refrain from attempting to create a specific
+roadmap, which could detract from other efforts underway to evolve the governance of the
+Internet.
+We suggest three important themes be incorporated into these discussions of a possible
+roadmap: (1) the centrality of the multistakeholder approach to Internet governance; (2)
+the evolution of Internet governance is a continuing dialogue amongst a broad range of
+stakeholders and fora; and (3) the current governance model has resulted in the
+exponential growth of the Internet. We look forward to the proposals of Netmundial and
+its contribution to enhancing the exchange of ideas on Internet governance that will
+ensure the stability and continued growth of the Internet for the benefit of the global
+Internet community.
+Practical Actions to Facilitate the Growth and Access to the Internet
+While the discussion on the evolving multistakeholder approach to Internet governance is
+being thoughtfully considered, there are still fundamental challenges today on how to
+bridge the digital divide and how the public and private interests will enhance deployment
+of the Internet. TIA acknowledges that there are existing venues where these questions
+are being discussed, but the following is a non-exhaustive list of policies and practical
+suggestions that countries can implement today to encourage widespread investment and
+adoption of the Internet, including the mobile Internet.
+Promote joining the WTO Information Technology Agreement.
+Reduce tariffs on fixed and mobile telecommunications infrastructure
+equipment, undersea cables, and mobile devices and services.
+Remove local content requirements.
+Streamline customs procedures of ICT equipment.
+Strengthen intellectual property rights protection.
+Recognize and adopt market-based global voluntary standards, rather
+than country-specific standards.
+TIA thanks the organizers for the opportunity to contribute to the dialogue at NETmundial,
+and should participants be interested in a discussion about any of the above topics or
+other suggestions TIA has, please contact us.

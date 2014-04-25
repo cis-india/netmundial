@@ -1,0 +1,132 @@
+Submission on Roadmap for IG evolution by the Articulation
+of Brazilian Civil Society Organizations
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Joana Varon Ferraz
+Region: Brazil
+Organization: Articulao de Organizaes da Sociedade Civil Brasileira
+Sector: Civil Society
+Keywords: Human rights, Multistakeholder Decision Making, Coordination
+Mechanism, Transparence, Accountability and Enforcement
+Doc Attached: Click here to see the doc 1
+Abstract
+The undersigned Brazilian civil society organizations propose the following concepts to be
+taken into account while developing a roadmap for the further evolution of the internet
+governance ecosystem: 1) Human Rights principles should be the core of IG and should
+be enforced globally 2) For enabling such protections, the development of IG institutional
+frameworks should also be guided by a set of procedural principles to be observed by
+governments and private organizations that play a role on the governance of all layers of
+the Internet 3) The current IG institutions should be reformed to address a set of both
+human rights and democratic procedural principles, but in order to maintain a transparent,
+democratic, multistakeholder, decentralized and coordinated IG ecosystem, we also
+highlight the need for: a) implementing a multistakeholder coordination mechanism to
+work as a "router", providing communication and coordination among IG institutions, and
+b) reforming and empowering the IGF.
+Document
+The undersigned Brazilian civil society organizations, committed to the development of
+the Internet and its use for advancing social and economic justice, propose that following
+concepts should be taken into account while developing a roadmap for the further
+evolution of the internet governance ecosystem:
+General statement
+Any evolution of the internet governance ecosystem should aim to foster institutional
+arrangements that respect:
+1) Human rights principles. Human Rights principles should be the core of the Internet
+Governance ecosystem and should be enforced globally. The discussion of emerging
+problems, such as mass surveillance, and of the institutional mechanisms to cope with
+them should be guided by these principles (these were listed in our contribution for
+Section 1 of NetMundial). Nevertheless, there is need to develop institutional frameworks
+that help to ensure that human rights principles are observed.
+2) Besides human rights principles, the development of these institutional frameworks
+should also be guided a set of procedural principles which contribute to building
+legitimate, participatory and effective governance arrangements. It is important that these
+principles are observed by governments and private organizations that play a role on the
+governance of all layers of the Internet.
+transparence;
+wide, open and diverse participation of all the stakeholders in decision
+making processes;
+effectiveness;
+accountability and
+enforcement.
+Regarding the evolution of the current IG institutions
+Internet Governance should be transparent, democratic, multilateral and
+multistakeholder, with the full envolvement of governments, civil society, the technical
+and academic communities and the business sector. It should serve as a catalyst for
+development and for the promotion of human rights.
+Internet Governance institutional frameworks should be decentralized, aim to
+involve all stakeholders on decision-making, be adaptable and ensure that stakeholders
+with adequate expertise are called to address a particular set of problems. The outcomes
+of discussions should be effective and enforceable and be aligned with Human Rights
+principles. To strike such balance there is need for:
+An effective framework for Internet policy-making
+A transparent and accountable multistakeholder decision making process
+that promotes the participation of actors from developed and developing
+countries across all stakeholder groups.
+Decisions made should be efficient and enforceable. Depending on the
+nature and stage of the discussions, sometimes decisions should be
+embodied in multilateral agreements.
+In cases in which hard international law is not the best solution, soft law
+approaches, best practices, self-regulation and technical solutions might
+be considered, as they can sometimes be more efficient.
+The respect for fundamental human rights should be ensured.
+There is need for a mechanism to provide communication and coordination among
+IG institutions. This mechanism should ensure that distribute governance does not lead
+to disjoint and fragmanted policy-making.
+A multistakeholder council* should assume such function, working as
+both an executive committee and a router to distribute tasks/emerging
+issues to be dealt by either the existing institutions or by an ad hoc
+mechanisms;
+Participants of the council should mirror the diversity of views in their own
+stakeholder group. Participation of actors from developed and developing
+countries should be ensured across all stakeholder groups.
+This mechanism should receive inputs from the IGF;
+This council could be hosted under the Commission on Science and
+Technology for Development (CSTD).The United NationsEconomic and
+Social Council (ECOSOC) became politically responsible to oversee the
+UN system-wide follow-up of WSIS and it does that through CSTD.
+According to Resolution 2006/46, CSTD should review and assess
+progress made in the implementation of WSIS outcomes and make
+advices. To do so, CSTD seeks inputs from international organizations,
+the private sector, civil society and other entities, therefore it has a
+established record of communicating with governmental and nongovernmental
+organizations;
+A multistakeholder council created under CSTD should have the mandate
+to a) consult with other UN organizations or other institutions outside the
+UN system, such as technical institutions (ICANN, IETF, etc); b) in it's
+router function, make recommendations on issues to address and possible
+approaches to organizations within the UN system or to non-governmental
+organizations; c) take decisions which could take the form of soft law,
+identifying good practices, guidelines for self-regulation, etc; d) Send the
+outcomes of its discussions for appreciation in CSTD, if appropriate.
+These outcomes could be taken to ECOSOC and to the UNGA.
+The Internet Governance Forum should be reformed and empowered and the
+quality of its outcomes should be improved. The IGF could work as a clearing house
+that feeds inputs into other existing internet governance spaces, and, eventually, to any
+mechanism to be created. Some proposals for IGF improvement were already indentified
+on the Report of the Working Group on Improvements to the Internet Governance
+Forum, created under the auspices of the Commission on Science and Technology for
+Development (http://bit.ly/1dZvoDn).
+Some of this points were:
+The IGF should develop more tangible outputs, based on public policy
+related questions.
+The IGF should have a more propositive role for agenda setting in the
+international arena, being able to indicate politicy options identified by the
+multistakeholder community regarding a particular issue
+Stakeholders should foster transparency in their selection process to the
+MAG. The selection process should provide more diversity, especially
+regarding groups which have been underrepresented in the MAG.
+The secretariat should be strengthened
+Predictable, stable and neutral funding should be guaranteed
+The IGF should function in close cooperation with regional IGFs
+Proposed by:
+Article 19
+Centro de Tecnologia e Sociedade - CTS/FGV
+Coletivo Digital
+Instituto Brasileiro de Defesa do Consumidor - IDEC
+Instituto Intervozes
+Instituto de Tecnologia e Sociedade - ITS
+Knowledge Commons*
+Movimento Mega
+Partido Pirata do Brasil
+GPOPAI
+PROTESTE
+ps. * Knowledge Commons presented a reservation regarding this paragraph.

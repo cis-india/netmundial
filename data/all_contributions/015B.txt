@@ -1,0 +1,55 @@
+Document
+
+Offline rights apply equally online. 
+
+ 
+
+This is a general legal principle whose origin can be traced back to telegraphy and that is well established by law and precedent in numerous jurisdictions, see for example section 2 of Hill, Richard, 2014, “The Internet, its governance, and the multi-stakeholder model”, Info, Vol. 16 No 2.  An early version of that section is available at:
+
+ 
+
+  http://www.apig.ch/Internet%201-paradigm.doc
+
+ 
+
+The principle that offline rights appy equally online is enshrined in two recent UN Resolutions which affirm that the same rights that people have offline must also be protected online.  Those resolutions are A/HRC/RES/20/8, The Promotion, protection and enjoyment of human rights on the Internet; and A/RES/68/167, The right to privacy in the digital age.  These resolutions are available at:
+
+ 
+
+  http://ap.ohchr.org/documents/dpage_e.aspx?si=A/HRC/RES/20/8
+
+ 
+
+  http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/68/167
+
+ 
+
+Article 21 of the Universal Declaration of Human Rights and Article 25 of the International Covenant on Civil and Political Rights provide that everyone has the right to take part in the conduct of public affairs, directly or through freely chosen representatives.  That is, everyone has the right to take part, directly or through freely chosen representatives, in public policy decisions, where “public policy decisions” refers to decisions that affect public affairs.
+
+ 
+
+This human right of course also applies to public policy decisions regarding the Internet, by virtue of the principle that offline rights apply equally online.
+
+ 
+
+Thus the principle that people, either directly or through their freely chosen representatives, have the right to make public policy decisions also applies to public policy decisions regarding the Internet.  This principle is correctly embodied in 39(a) of the Tunis Agenda, which states that policy authority for Internet-related public policy issues is the sovereign right of States.
+
+ 
+
+Various calls for non-government entities to participate on an equal footing or on an equal status with governments in decision-making regarding public policy matters would appear to be inconsisent with fundamental human rights, because such non-government entities may not be democratic and would likely weaken the right of people to take part in the conduct of public affairs through their chosen representatives.
+
+ 
+
+Indeed private companies are not democratic entities and most people do not have any influence in the choice of the people who represent private companies in a multi-stakeholder process.  Civil society organizations are typically membership organizations and, again, most people do not have any influence in the choice of the people who represent civil society organizations in a multi-stakeholder process.
+
+ 
+
+A system in which public policy decisions are made by direct democracy, that is, by directly consulting all people, would be consistent with the human rights cited above, but it is hard to see how to create such a system, in particular because it has to allow all people, not just Internet users, to influence the decision-making process.  And this because the Internet affects non-users as well as users, and its use should be extended to all of the world’s people.
+
+ 
+
+We therefore propose the following fundamental and over-arching principle for Internet governance:
+
+ 
+
+1) The same rights that people have offline must also be protected online, including the right to take part, directly or through freely chosen representatives, in public policy decisions.  Consequently, as stated in paragraph 39(a) of the Tunis Agenda, policy authority for Internet-related public policy issues is the sovereign right of States.

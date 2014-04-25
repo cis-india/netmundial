@@ -1,0 +1,61 @@
+#WorkInProgress: Internet Freedom Declaration for Nigeria
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: 'Gbenga Sesan
+Region: Nigeria
+Organization: Paradigm Initiative Nigeria
+Sector: Civil Society
+Keywords: Internet Freedom Declaration Nigeria Citizens
+Abstract
+The purpose of the Internet Freedom Declaration for Nigeria is to articulate public
+expectations on internet freedom in Nigeria that is subscribed to by stakeholders, and
+most importantly, the citizens of the country.
+Document
+PREAMBLEThe purpose of this declaration is to articulate public expectations on internet
+freedom in Nigeria that is subscribed to by stakeholders, and most importantly, the
+citizens of the country.
+GENERAL PRINCIPLES
+The exercise of human rights on the Internet is an issue of increasing interest and
+importance as the rapid pace of technological advancement and the constant evolution of
+pervasive digital mediums give rise to novel legal rights, obligations and scenarios.
+We believe that the same rights that citizens have offline, in accordance with the
+Constitution of the Federal Republic of Nigeria 1999 (as amended), must also be
+protected online, and should not be held to different standards.
+INTERNET SURVEILLANCE AND LAWFUL INTERCEPTION
+Citizens and lawful residents of Nigeria should be able to send electronic communications
+to one another free from the fear of surveillance, monitoring, interception or any other
+violation of privacy. Where interference is unavoidable for the purpose of security, such
+interference must follow clearly defined processes as laid down by law.
+DATA AND INFORMATION PRIVACY
+1. We believe that there should be clarity on the means by which the private data of
+individuals, stored by intermediaries can be accessed. Requests for private data should
+follow legally stipulated procedures and court warrants should be necessary in order for
+an intermediary to honour a request for private data. This data request must be reported
+to the concerned individual.
+2. Every private entity in Nigeria holding citizen data - personal details of private
+individuals - should release periodic reports detailing the nature and frequency of
+government requests.
+3. All entities that collect, store and/or process personal data in the course of their
+activities should have data privacy policies that are readily and easily accessible to the
+public.
+4. The National Assembly should pass a Data and Information Privacy Law to codify the
+rights of citizens in connection with data gathered about them.
+ACCESS AND CONTENT
+1. The right of citizens to access the Internet for the purposes of information gathering or
+sharing, conducting business and/or expressing personal opinion must be guaranteed. It
+should be illegal for government or any entity to deny or censor access to the internet
+without providing adequate and acceptable reasons.
+2. Individuals and institutions have the right to create and access content on the Internet,
+and such content should not be subject to censorship. Notwithstanding the provisions of
+this paragraph, the relevant laws shall apply in cases where the content infringes on the
+rights of another citizen.
+FREEDOM OF EXPRESSION
+1. Pursuant to the foregoing general principles, we believe that freedom of expression and
+association as guaranteed by section 39 of the constitution also apply to the internet
+activities of Nigerian citizens and are thus sacrosanct, to the extent that they do not
+infringe on the rights of other citizens or constitute offences as stipulated by the
+constitution.
+2. The forms of speech protected shall extend to novel forms of conversation introduced
+by digital mediums which include but are not restricted to "retweets", "likes", "favourites",
+"shares", online comments, joining groups on social networking sites and so on. All of
+these constitute speech and should enjoy the protected status of fundamental human
+rights.

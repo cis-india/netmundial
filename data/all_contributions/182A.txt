@@ -1,0 +1,48 @@
+Short Comment on Internet Universality: Basic
+Interoperability as a Prior Principle
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Seth Johnson
+Region: United States, New York
+Organization: Independent Coordinator, Internet Distinction
+Sector: Other
+Keywords: Interoperability, Flexibility, Openness, Impacts on the Internet
+Abstract
+A short but very important principle to apply in relation to the notion of "Internet
+Universality."
+Document
+Short Comment on “Internet Universality:”
+Basic Interoperability as a Prior Principle
+by Seth Johnson
+UNESCO proposes a catchphrase of "Internet Universality" as an Internet Principle1,
+presenting the term as encapsulating and representing the interdependent way the
+concerns of Rights, Openness, Accessibility and Multistakeholderism interact with each
+other in addressing issues. Another contribution from UNESCO proposes to study Internetrelated
+issues with reference to the same rubric2.
+I offer this comment simply to encourage understanding that a simple general appeal to
+the notion of universality should be considered with great care. Implementing "universal"
+policy solutions by establishing rules that apply between networks can easily interfere with
+the flexibility of the Internet platform.
+This is particularly important given that the WSIS project fails to distinguish between the
+Internet and other IP-based networks, including Next-generation networks3. The ITU's
+proceedings instead refer to ICT applications, supported by IP-based networks, as means
+for addressing various public policy concerns. If we are speaking of the universality of IP
+addresses for designating endpoints, the term Internet Universality presents few
+problems. But if universality is seen to be something that more greatly supports a policy
+purpose and that may be implemented by means of particular policies that apply between
+autonomous networks, the notion will serve to undermine the flexibility and openness of
+the Internet.
+It is far better to stress a principle of first recognizing how the great flexibility and
+interoperability of the Internet derives from the way the Internet Protocol enables
+interoperability between autonomous networks, and then to consider various functions
+proposed to be implemented as "universal" principles in terms of their impact on the
+Internet platform.
+1http://content.netmundial.br/contribution/internet-universality-a-means-towards-buildingknowledge-
+societies-and-the-post-2015-sustainable-development-agenda/151
+2http://content.netmundial.br/contribution/unesco-comprehensive-study-on-internetrelated-
+issues-draft-concept-paper-proposed-by-the-secretariat-for-consultations/149 and
+http://content.netmundial.br/contribution/unesco-comprehensive-study-on-internet-relatedissues-
+draft-concept-paper-proposed-by-the-secretariat-for-consultations/155
+3See http://internetdistinction.com/wsisimpacts/2013/11/25/cybersecurity-ict-applicationsip-
+based-impacts-on-the-internet/#Intro and
+http://internetdistinction.com/wsisimpacts/2013/11/25/cybersecurity-ict-applications-ipbased-
+impacts-on-the-internet/#ITUInternet

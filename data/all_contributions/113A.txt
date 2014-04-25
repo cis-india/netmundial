@@ -1,0 +1,128 @@
+An inclusive Internet
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Gunela Astbrink
+Region: Australia/Asia Pacific
+Organization: Internet Society of Australia
+Sector: Civil Society
+Keywords: disability, diversity, people with disability, digital divide
+Abstract
+An inclusive Internet as part of the Set of Internet Governance Principles means not only
+accommodating diversity in language, culture, economic levels but people with disability.
+People with disability form the world's largest minority as according to the World Health
+Organisation there are one billion people with disability and 80% live in developing
+countries. An inclusive Internet will empower people with disability to participate equitably
+in education, employment and in the community as a whole.
+Document
+Introduction
+The Internet offers an opportunity for inclusiveness – to view the global community of its
+users as one while recognising its rich diversity. Internet technologies have the potential
+to give persons with disabilities the means to live on a more equitable basis within the
+global community in a manner that previously was not possible.
+Key drivers are:
+Persons with disabilities form the world's largest minority according to the
+United Nations. One billion people are estimated by the World Health
+Organisation to have a disability with 80% living in developing countries.
+Persons with disabilities can equally participate in society and make
+substantial contributions to the economy if the appropriate Internet tools
+are available.
+Over 100 Governments have signed and ratified the UN Convention on
+the Rights of Persons with Disabilities. Obligations include implementing
+measures to design, develop, produce and distribute accessible ICT at an
+early stage, so these become accessible at minimum cost for persons with
+disabilities.
+W3C's Web Content Accessibility Guidelines (WCAG) are increasingly
+mandated by governments and used by industry to make websites more
+accessible for people with disabilities.
+More governments are starting to incorporate accessibility criteria in their
+public procurement policies.
+What is accessibility?
+For persons with disabilities, accessibility means being able to use a product or service as
+effectively as a person without a disability. This means using inclusive design principles to
+make products and services usable by a wider section of the population. In some cases,
+this is not possible, and assistive technologies may be called upon to fill the gap. If so,
+mainstream technologies should enable the software or hardware connection of the
+assistive device seamlessly, in terms of both interoperability and data portability.
+Changing peoples' attitudes to disability is fundamental to achieving greater accessibility.
+The traditional view of disability is through the medical model, that is, attempting to “fix” or
+rehabilitate a person to society's norms. The social model of disability aims to dismantle
+barriers so that a person with a disability can fully participate in the community. This more
+contemporary model emphasises a person's abilities rather than disabilities and
+encourages a person's independence and capacity by decreasing environmental barriers.
+Persons with disabilities face as many different barriers as there are types and degrees of
+disability. For example, people with a visual impairment who use screen-reading software
+may be confronted by websites that have confusing navigation, or that lack descriptions of
+images; while people with a hearing impairment may be unable to participate in online
+conferencing because it lacks captioning.
+Through removing barriers, persons with disabilities will be better able to use and
+contribute to the richness of the Internet by participating independently in the communities
+of their choice. While making websites accessible is vital, solutions for accessibility are
+needed to deliver any product or service over the Internet and to accept content or
+services created by persons with disabilities regardless of the equipment or medium of
+input. This includes websites, databases, browsers, multimedia applications, mobile
+phones, computers and their auxiliary equipment.
+Apart from accessibility, other barriers need to be overcome so that persons with
+disabilities can gain benefit from the Internet and contribute value to the Internet. These
+are:
+Affordability
+Many persons with disabilities have low incomes and limited educational opportunities.
+This applies in developed countries and even more in developing countries. Using the
+Internet is expensive especially in developing countries. When assistive technologies are
+required, the barrier can be even higher.
+Cultural
+Persons with disabilities are perceived with pity or shame in many countries. They may be
+restrictively “protected” by family for any of a number of rationales, ranging from a lack of
+suitable educational facilities to a lack of appropriate government services.
+Availability
+In isolated areas, there may be limited availability of the Internet. Encouraging and
+meeting the needs of persons with disabilities may be a relatively low priority under such
+conditions.
+Lack of awareness by community at large
+People in the broader community have limited understanding of how persons with
+disabilities use technology and of the significant benefits the Internet can bring. Making
+products and services accessible can therefore mistakenly be considered difficult and
+costly.
+International actions
+The United Nations Convention on the Rights of Persons with Disabilities states that
+access to information and communications technologies and systems is one element that
+will enable persons with disabilities to participate more fully in all aspects of life. The
+Convention stipulates that governments take appropriate measures for this to occur. Over
+100 countries have signed and ratified the Convention, which brings responsibilities,
+amongst other obligations, to improve accessibility to the Internet for persons with
+disabilities. The Convention also states that international cooperation and sharing of
+resources be done by facilitating access to and sharing of accessible and assistive
+technologies and through the transfer of technologies. Under the Optional Protocol, there
+are remedies available to persons with disabilities to file complaints under the UN
+Convention.
+The concluding document from the United Nations World Summit on the Information
+Society, the Tunis Agenda for the Information Society, states that for equitable access to
+occur, attention should be given to universal design and promotion of assistive
+technologies. Universal design or Design for All is the concept of designing products and
+services for a wider section of the community based on seven key principles. It has the
+benefit that products incorporating these principles may be more accessible for persons
+with disabilities. It also means that devices do not have to be retrofitted for accessibility
+but take that into consideration as part of their original design.
+The Internet Governance Forum (IGF) recognises accessibility to the Internet as a key
+issue and through its Dynamic Coalition on Accessibility and Disability has highlighted
+steps towards an inclusive society. A simple form of inclusion adopted by the IGF itself is
+the use of real-time captions for its workshop and conference sessions, including online
+sessions. This is beneficial for persons from non-English speaking backgrounds but vital
+for persons with hearing impairment.
+The standards arm of the International Telecommunication Union, the ITU-T, places
+significant emphasis on accessibility with regard to particular Study Groups, Questions
+and Recommendations. In 2008, Resolution 70 was accepted at the World
+Telecommunications Standardization Assembly, highlighting many accessibility
+standardisation activities including mechanisms intended to ensure that the needs of
+persons with disabilities are taken into account when developing all ITU standards and
+guidelines.
+Conclusion
+Regardless of the challenges they may face, persons with disabilities can contribute to
+society like any other member of the community when barriers are removed. Increasing
+accessibility to the Internet can help to make that happen.
+Explicitly incorporating inclusion to the Internet for people with disability in the Set of
+Internet Governance Principles is an important step in moving forwards.
+---------------------------------------------------------------------------------------------------------------
+The above content is derived from:
+Internet Accessibility: Internet use by persons with disabilities: Moving Forward
+(An Internet Society Issues Paper written by Gunela Astbrink)
+http://www.internetsociety.org/doc/internet-accessibility-internet-use-persons-disabilitiesmoving-
+forward

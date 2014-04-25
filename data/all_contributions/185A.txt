@@ -1,0 +1,78 @@
+A Collaboratively Developed Set of Principles for Internet
+Governance, 8 March 2014
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Joy Liddicoat
+Region: New Zealand
+Organization: Association for Progressive Communications
+Sector: Civil Society
+Keywords: Human rights, openness, resilience, diversity
+Abstract
+The Internet provides an open, decentralised platform for communication, collaboration,
+innovation, creativity, and economic, cultural, social and political expression and
+development. It is an enabler of human rights, and can contribute to a more peaceful and
+world and greater social equality. This document is an edited compilation of principles
+contained in the following documents, many which have been submitted independently to
+NetMundial. It was developed by a small group of individuals who have been active in
+Internet governance processes for many years.
+Document
+A Collaboratively Developed Set of Principles for Internet Governance, 8 March
+2014
+PREAMBLE
+The Internet provides an open, decentralised platform for communication, collaboration,
+innovation, creativity, and economic, cultural, social and political expression and
+development. It is an enabler of human rights, and can contribute to a more peaceful and
+world and greater social equality.
+This document is an edited compilation of principles contained in the following documents,
+many which have been submitted independently to NetMundial. It was developed by a
+small group of individuals have been active in Internet governance processes for many
+years.
+The documents referred to include statements of principles for Internet governance or
+policy-making from the following networks and institutions:
+Organisation for Economic Cooperation and Development (OECD)
+Council of Europe (CoE)
+Association for Progressive Communications (APC)
+Internet Rights and Principles Coalition (IRPC)
+Internet Society (ISOC)
+United Nations Economic Commission for Europe (UNECE)
+“Necessary and Proportionate” - International Principles on the Application of Human
+Rights to Communications Surveillance
+The Brazilian Internet Steering Group (CGI.BR)
+Global Network Initiative (GNI)
+1. FUNDAMENTAL PRINCIPLES THAT SHOULD UNDERPIN INTERNET
+GOVERNANCE
+Human rights and the rule of law
+The governance of the Internet must be based upon, guided by and respectful of human
+rights, and particularly freedom of expression, association and the right to privacy
+supported by the rule of law. The Internet must remain open and inclusive so that users
+may benefit from all that it offers.
+Resilience and interoperability
+The Internet must remain resilient and interoperable, underpinned by international
+standards and associated technical measures developed in open and inclusive processes
+Diversity
+The Internet is an open and inclusive medium that must respect and promote diversity in
+all its forms.
+A global resource
+The Internet must remain an un-fragmented, scalable and accessible global medium for
+the benefit of all.
+2. PRINCIPLES FOR PROCESSES AND PARTICIPATION IN THE GOVERNANCE OF
+THE INTERNET
+Transparency and accountability
+Decision-shaping and decision-making in Internet governance should be open,
+comprehensible and accountable.
+Openness
+Internet governance processes should be open to interested parties, accessible to all
+including those not present in person and should welcome and encourage participation
+from around the globe.
+Inclusive participation
+Internet governance should be undertaken on a multi-stakeholder basis, enabling the full
+and equal participation of all stakeholders.
+Collaboration and cooperation
+Internet governance should be based on and encourage collaborative and cooperative
+approaches to policy development that reflect the inputs and interests of stakeholders.
+Empowerment of users
+Internet governance should have as a core driver the goal of enabling users around the
+globe to realize their human rights and to access the Internet to realize their social and
+economic potential.
+Distributed governance
+The Internet’s global reach is best served by governance characterized by decentralized
+and multi-stakeholder mechanisms and organizations.

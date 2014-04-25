@@ -1,0 +1,48 @@
+Statement of Principles Submitted to NETMundial by the
+Internet Governance Caucus
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Mawaki Chango
+Region: Cote d'Ivoire
+Organization: Internet Governance Caucus
+Sector: Civil Society
+Keywords: transparent, accountable, inclusive, equitable, human rights
+Abstract
+Internet governance processes and decisions should be open and inclusive, bottom-up
+and consensus-based in their approach. All stakeholders from all regions of the world
+should be given equal opportunity to participate. Technical design decisions should be
+weighed against societal implications of the technology so as to minimize erosion of
+individual freedom and liberties.
+Document
+The Internet Governance Caucus (IGC) wishes to thank the organizers of the NETMundial
+meeting, for the invitation to contribute to its proceedings through a written submission
+ahead of the meeting. At this point in time, the IGC is hereby submitting the following
+statement of a few fundamental principles to guide Internet governance processes and
+decisions.
+1- Internet governance institutions and processes should be open and inclusive. They
+should be bottom-up and consensus-based in their approach to policy development.
+Internet governance institutions and processes should be transparent, accountable, and
+enable the meaningful participation of all stakeholders.
+2- All Internet governance decision making processes must ensure the inclusion of not
+just all stakeholders but also all regions of the world in an equitable manner. As a result, a
+special effort must be engaged in order to provide the Less Developed Countries with an
+equitable share of resources to participate in activities related to worldwide internet
+governance.
+3- Any decision to evolve the internet governance institutional field and mechanisms as
+well as any new structure evolving from the current configuration of the implementation of
+the IANA functions and the role of US Government and of the other incumbents in that
+regard, must reflect the effective inclusion of all regions of the world with a view to
+ensuring a truly global cultural diversity in approaches to technical and policy problems.
+4- The technical community working on core protocols and technical standards of the
+Internet should seek a broad understanding of the societal implications of their design
+decisions and carefully weigh the advantages of the technological capabilities they are
+enabling against their potential adverse effects on individual users’ freedom and liberties.
+This should be done with a view to minimizing outcomes that continuously erode said
+freedom and liberties, leaving the Internet user vulnerable to all sorts of abuse.
+5 – Namely, whether it is by virtue of technical design or by policy provisions, on-line
+users must enjoy the same human rights as they are entitled to off-line.
+6- There must not be discrimination in access and contents due to criteria such as
+opinion, religion, race, gender, geography, language, or economic resources.
+7- Services offered in the internet must remain equitable and neutral among service
+providers, without taking unfair advantage of a dominant or privileged position.
+8- Internet availability, deployment, and service conditions must benefit all segments of
+the human society, not just those enjoying richer economic development.

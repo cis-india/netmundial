@@ -1,0 +1,442 @@
+Global Geneva’s Contribution to
+NetMundial Section 2:
+Roadmap for further Evolution
+of the Internet Governance Ecosystem
+By Jean-Christophe NOTHIAS, editor, and chief strategist at Global
+Geneva.
+Global Geneva is a Swiss non profit, based and registered in
+Geneva since 2011. As a think-tank, it dedicates most of its efforts
+observing and thinking beyond international relations, what are
+‘global politics’, and transnational and global governance. Global
+Geneva is a member of the Coalition for a Just and Equitable
+Internet, and a signatory of the Just Net Coalition contribution to
+the Sao Paulo Conference (April 2014) related to Internet
+Governance Principles. Will this contribution be known as the
+JustNet Principles, as we discovered the NetMundial Principles
+edited by 1Net, a new born grouping launched by ICANN in 2013
+and partner of the conference? Having already NetMundial
+Principles even before NetMundial has happened is somehow
+puzzling. Let us assume that the excitement of entering this
+fascinating debate was too high. Reading this contribution by
+Global Geneva, one must keep in mind the Just Net Coalition
+Principles.
+Abstract
+The future of Internet governance cannot be assimilated to the future of
+ICANN. This contribution offers a fresh and thought provocative vision of a
+complete new grand design. Without minimizing the importance of technical
+functions such as IANA, the contribution takes a look at Internet Governance
+through a more “constitutional and universal” perspective. By proposing a 2-
+entity eco-system in order to protect an Internet universal Charter (principles),
+and turn it into reality, this contribution is trying to bring innovation and
+disruptive thinking. This contribution starts with a double assumption. It looks
+at Multistakeholderism and its critic. If it is a smart tool to foster dialogue,
+invented by business schools to serve corporations facing social and policy
+issues, it cannot deal effectively with public policy making and social justice.
+Only Democratic values, principles and processes can deliver a sustainable
+governance for the Internet at a national and global level.
+The Next Best Stage
+for the future of Internet Governance
+Is Democracy
+If ‘multistakeholderism’, initiated and applied by corporate managers and
+consultants in the eighties and later developed by entities like Pr. Klaus
+Schwab’s WEF, is an interesting methodology born in US business schools[1]
+to foster dialogue[2] among “interested parties”, over many complex issues,
+Democracy and its fundamental values, principles and mechanisms are still
+our best bet to ensure an Internet fair and sustainable international
+governance for the common and global good. Only to that double acceptation
+will it be a road ahead for a just, safe, open and distributive Internet. The
+challenge is not about opposing constantly the intergovernmental
+multilateralism to a so-called multistakeholder model: the challenge is
+obviously to establish a governance that will primarily have in mind all
+citizens, and all the users who pay their access to the Internet. The benefits to
+shareholders/stakeholders are important, but we need to change our angle of
+vision, and to have in our long view common values that will address a more
+global understanding of why and how the Internet can benefit to all in a social
+justice framework, and not just a for profit logic, in respect of Democratic
+process and principles, still making the Internet technically robust, diverse
+and operational. It is a difficult task, but the world has dealt successfully with
+challenge of greater magnitude. As the tenants of the current eco-system are
+simply trying to make a 2.0, or 3.0 Internet governance software with old and
+dated, sometimes vague concepts, we believe that time has come for a fresh
+thinking.
+The editors of this contribution being French citizens, the way this submission
+is conceived is necessarily molded out of their origins and culture. We
+apologize for that. It is therefore neither an anglo-saxon thinking nor dress-up,
+and the author apologized for twisting any reader's mind due to this franc and
+opinionated élan. This submission was made out of any concern to collect
+“+1” or self approval by partisans, to accommodate any grouping or factions,
+and with no desire to please or not to please any entity or authority. It is a
+contribution to the debate. Not a campaigning initiative. After a “Wrong Turn
+in the Internet Governance” in the late nineties as described, by Pr. Milton
+Mueller, it is today a great challenge for all citizens and honest politicians to
+be back thoughtfully in Internet Governance. A technical approach (“make it
+work, document it later" or a business approach (multistakeholderism) is not
+what governance is about. Today Internet is fully related to politics. This is
+good news for politics, as this future Internet governance will influence the
+making of better global politics.
+The author’s choice was not to address a specific ICANN/IANA issue, which is a
+serious but rather small part of the current challenge. The conference,
+organized by Brazil and ICANN, is about the “future of Internet Governance”,
+not the future of ICANN itself. A ‘big picture’ approach seemed to be
+appropriate to deliver a more universal and balanced proposition. A grand
+design is sometimes a good way to assess the entire scope of concern, and,
+indeed, it has often delivered better lasting solution. Reforming the League of
+Nations was a much too difficult task – what can be done when an American
+president launched an idea that his US Congress refused to ratify? In that a
+very complex case, creating a full new entity, with a grand design wit, was a
+much greater success, and ultimately has kept until now warmongers mostly
+deprived of their globalizing dark temptation.
+1_Critics to the current state of Internet
+governance
+Internet governance is transiting a difficult time, and there is now an
+unavoidable necessity for Democracies to stand for their citizen rights, wellbeing
+and prosperity.
+The global critic to the current state of Internet system of governance, which
+is largely characterized as “asymmetric”, has roots into a few major concerns
+such as:
+_1.1 : When it comes to governance, the ‘multiskateholder’ model has proved
+that it does not exist. Everyone can enjoy and understand what a MS
+approach is, which can be assimilated to a process convening or selfconvening
+as many stakeholders, if not all, to engage an open and respectful
+dialogue. But this qualification doesn’t make a ‘model’, and does certainly not
+bring new systemic concepts within the corpus of political science, even
+though some stakeholders can’t help but putting this terminology in every
+sentence, and at every corner and crossroad when passing over some
+difficulty to convince others about their view on Internet governance. To this
+day, there is no known or agreed definition by political science or law
+academics over a so-called multistakeholder model when it comes to public
+policy making. This terminology is over-played by people who pretend
+Internet governance owes everything to multistakeholderism, which
+appearance is often dated in 2004. Therefore critics are legitimate to
+challenge conceptually, ideologically, historically and politically
+multistakeholderism as THE core principle to rule over Internet governance.
+_1.2 : The need for the technical community that keeps inventing the Internet
+is to be able to work, not through command, but by code consensus. Only
+when the result and reality show resilience, comes time to document these
+efforts. This methodology has certainly defined part of the cultural behavior of
+the tech communities, as in the meantime prevented innovation and
+disruption in the governance of the Internet. Can anyone test treaties,
+regulation before documenting it? That would be really innovative and
+disruptive but he cost for such testing would probably be politically and
+socially unbearable. This successful techie approach is not appropriate to
+establish a sustainable governance. Still, this is what happened when it comes
+to understand the so-called “multistakeholder model”. It became documented
+afterward by the tenants of the Internet’s system of governance. It is not
+difficult to understand why a post-justification became a high priority as the
+Internet governance was coming under scrutiny by civil society and
+governments. Discussion papers edited in 2011, in partnership with Google –
+the editor is currently an ICANN board member- came very late to justify and
+explain why the system was the way it was i.e. ‘multistakeholder’. Amusingly,
+the paper identifies a former UN Secretary General as the ‘one’ who inspired
+the multistakeholder model back in 2004. It would be worth asking the
+renowned Ghanaian diplomat his views on this: did he though of a model of
+governance, or did he simply convene stakeholders in order to have
+governments back in the discussion? Most of all content published regarding
+multistakeholderism is directly linked to neo-liberal organization such as the
+WEF, or to partisans of the current system of governance of the Internet.
+Neutral and independent academics work is still to be conducted to establish
+the fundaments and reality of that “model of governance”.
+_1.3 : The need for the “Siren Servers” - as Jaron Lanier labels them - to
+maintain their constant growing benefits, technical supremacy and expertise
+at all level, would it be architecture, software, infrastructure, encryption, IP
+development, rooting, marketing services, advertising services, lobbying,
+metadata mining, monetization, is also a challenge to any alternative
+thinking. What works for the “Siren Servers” is often what the big players
+impose to smaller players or simple users to preserve competitive advance
+and advantage, and their monopolistic position.
+_1.4 : The unachieved objective set by the Tunis agenda to “re-embed”
+governments in the system of governance of the Internet at a global level,
+and not just over their respective national law space, when it comes to public
+policy making (infrastructure development, transnational agreements and
+liberalization, social benefits and empowerment, social justice to all citizens,
+collecting due tax, regulating unfair competition, avoiding concentration and
+abuse, protection of rights and laws) is a source of tension at the international
+level. The Tunis agenda has called for each stakeholder role to be recognized,
+including civil society and users. With already 10 years gone with the wind,
+the UN WSIS process has to either die or come to rebirth. With the strong
+opposition of the current tenants of the internet economic system, the
+narrative has gone out of control, characterizing the UN or governments as a
+danger, a risk or a threat to the so-called “ungoverned, ungovernable
+Internet”. It is hardly conceivable that governments, in particular those of
+Democratic extraction, or the UN are to be considered as negative forces
+ready to refrain or destroy the Internet wonder. Refusing to consider the
+potential dangers of cyber-crime and cyber-war would be irresponsible as
+well. All of that is fueling critics against the current system of governance, if
+one might call it a system.
+_1.5 : Today’s asymmetric governance in the Internet space is also amplified
+by the difficulty of a majority of citizens in the world with no, limited or
+expensive access to the Internet to be heard, or only through the channel of
+civil society entities, having themselves limited funds to bring their case and
+cause to the general acknowledgement, and therefore raising more and more
+voices from that corner of the world. In addition to that, most of the main
+stream media are so far no following seriously the Internet governance issue
+and debate, leaving it to a small group of “usual suspects”.
+_ 1.6 : Mass surveillance, in particular by one major democratic country, also a
+leading force in the field of Internet technology, and online and offline
+services, shocked many global citizens and their representatives over the
+planet, bringing many to question the sincerity of a government that
+champions Freedom of expression, flagging it as a constant inspiration to
+conduct its international policy making, and obviously consistent with the
+defense of its legitimate interest. But as Internet belongs and participates to
+the creation of global politics, such a pro-domo behavior looks rather selfish,
+on top of full infringement of citizen rights.
+_ 1.7 : Funding of investment to support infrastructure development and
+digital empowerment around the world is a constant source of conflict
+between most non US telecom operators and their US counterparts, digital
+service providers, and US authorities. This is adding to the asymmetry
+condemned by many. It is also obvious that the infrastructure gap is of high
+concern in terms of justice between developed and developing countries.
+_ 1.8 : Multistakeholderism could help each participant to come to a better
+understanding. Reality is that this mehtodology has now driven the Internet
+Governance debate in a dead end, polarizing parties and not being able to
+define a common language. Many supporters of the Multistakeholder
+approach have opposed the creation of common definitions, although a very
+necessary step to have any fruitful dialogue.
+It is fair to salute all of those who made the Internet what it is today. Still
+Internet cannot prosper and impact societies any further without facing a
+crisis, if the global community of users, players and policy makers does not
+recognized that Internet governance is not anymore a simple technical
+challenge allowing both business to prosper, and military and police forces to
+act under their respective governmental will with no respect to global citizens
+rights and treaties of mutual cooperation and peace between nations. It would
+not even be fair to respond to President Rousseff call in front of all nations, in
+September 2013, by focusing a Brazilian multistakeholder meeting about
+Internet Governance, over the single issue of an internationalization of ICANN
+and IANA. ICANN is himself a co-organizer of that meeting, according to its
+own website indications. To ask ICANN to reset by itself its own relation to the
+US government and to IANA function– indeed a critical issue to all encryption
+certifications (data-mining of algorithmic keys)- would be more or less like
+asking the US to think for the US how to best reset the US asymmetric role.
+For 10 years this option brought no result.
+Due to the magnitude of its transformative ability to change our societies in
+all of its aspects, we have to recognize that the Internet has now to face its
+political endeavor, its global commons aspects and its obligation to rely on
+various public policy arrangements, in the name of public interest, as global
+and as consensual could they be. Internet has definitely step a foot into the
+world of Global Commons, as it brings social justice challenges at the forefront
+of a globalized world. This implies a coordinated effort at a public policy and
+political level in a true democratic fashion, in order to deliver sustainable
+benefits to all citizens, protecting their rights, and still making sure that
+technological innovation keeps flooding the interconnectivity of more
+networks, more root zones and more citizens. It cannot be accepted that in
+terms of public policy making, the “equal footing” championed by the
+multistakeholder approach could imply that the voice of a state equates the
+voice of a corporation, be it a successful one making billion of profits - larger
+than the GDP of that many states - without paying its due tax to the
+communities that contribute to the private benefit of a its shareholders.
+The asymmetric governance of the Internet cannot survive in its current form.
+Global Geneva’s contribution is opting for a full new grand design that will
+allow Internet principles to be fully understood and implemented, and not just
+adapted to an evolution of what is currently the limited and asymmetric form
+of the Internet governance eco-system. New thinking is the key word. Let’s be
+innovative and disruptive.
+2_A new system of governance for the
+Internet
+We are of the opinion that there are three levels of understanding to further
+articulate the next system of governance related to the Internet, and its many
+issues and challenges:
+- A: intergovernmental level, (binding agreements, national and
+international public regulation, international law)
+- B: global citizens level, (Internet principles, consensus, best
+practices, empowerment, fair competition, innovation, capacity building)
+- C: arbitrage and justice level (unlocking deadlocks, dispute
+settlement and court decision).
+_2.1 : Intergovernmental level
+Establishment of a World Internet Organization (WIO) able to legitimize
+common public policies, regulations and standards related to interconnectivity
+issues. Some of them could be of ‘soft power’ essence – commonly accepted
+but recognized by treaties -, some of ‘hard power’ – new regulations or new
+policies. WIO would have full legitimacy, with the largest constituency among
+States, their signatures duly apposed to each other. WIO would be part, and
+contributive to, the international law and policy making framework. Each
+opportunity to vote by WIO constituency (governments) could be vetoed once,
+and only once, by the WIF (see below). In the latter case, a new round of
+discussions and negotiations should take place.
+The WIO executive board would have a mandate to bring initiative and
+suggest reforms for approval and implementation by its constituencies, and
+would have to forward, document and submit any suggestion approved by the
+WIF (see below) on both the Internet public policy level, WIO bylaws or
+Internet governance level. To enter the Internet governance law framework,
+all of these suggestions would be approved by the WIO constituency, with a
+75% majority, if not vetoed by the WIF (see below), or after a second round of
+negotiations within WIO, if primarily vetoed. WIO would not enter daily
+operations of the Internet governance. Still it would be the referring authority
+to IANA, due to its role with regard to DNS/root zone management, encryption
+and IPs. It cannot be that an entity responsible for such critical functions could
+be regulated, or place under an authority supposed to be regulated or having
+just a technical perspective; putting IANA under the control of TLD registries
+and root servers operators sounds even more dangerous. IANA functions
+would be handled in a independent fashion.
+Thinking of innovation, would it be more than one root zone, the WIF, and not
+WIO, would create a board to oversight their setting, ruling, and interconnectivity
+in full transparency and independence. Once set, this board
+would be handled and managed with the same precaution as for IANA, under
+WIO authority but not under its direct handling. The check and balance would
+still be into the WIF’s hands.
+WIO would be the right entity to handle tax avoidance issues.
+_2.2: Global citizens level
+Establishment of a World Internet Forum (WIF) able to defend values,
+(see Internet Charter or Internet Principles), public concerns and support a
+just, capable and thriving interconnected space. The WIF would be the venue
+for a permanent dialogue between global citizens and all players in the field
+starting with accredited civil society representatives. The WIF would suggest
+and promote ideas, programs, policies (to WIO and governments), working in
+close relation with the other UN entities from Human Rights to Climate
+Change, Environment, Development, Trade, Intellectual Property to fund and
+support approved initiatives by the WIF. The WIF would be the ‘natural’ entity
+able to deliver empowerment and capacity building to any stakeholder, in
+particular to public authorities and public servants expressing such a need.
+The WIF would also be able to update the Charter if needed.
+ICANN would be able to pursue its role for collective service fees, edit new
+TLDs, under the supervision of the WIF. I would not handle global public policy
+matters.
+Regulatory proposal to WIO or initiative driven by grouping international
+entities (public private partnership, public or private) should be endorsed by a
+75% majority of the forum constituencies. No unanimity would be required. No
+veto would be allowed to one single governments – no Security council here!
+The dialogue within the forum would be of multistakeholder essence, but
+profit-oriented participants would be excluded from voting with respect to
+regulatory proposal to WIO and changes to the Internet Charter – no doubt,
+the for profit participants would keep their capacity to express their view,
+thanks to their powerful means.
+The exact setting of the WIF constituency would be discussed thoroughly
+during the preparatory period (see roadmap).
+The WIF would be part of the UN system, but its constituencies would not be
+governments (see WIO), but global citizens and civil society recognized
+players of the field. All continents should be equally represented.
+When values would be at stake, the WIF would address an official request to
+the entity, government or stakeholder responsible for not respecting the
+Internet Charter. This could lead to a resolution by the UN, and possible
+sanctions.
+The location of IANA at WIO, and ICANN at the WIF, have probably to do with
+the fact that ICANN should be assimilated to a domain development and
+service entity when it comes to domain name. IANA would be the technical,
+safety and security entity. IANA should have a special link/status/contract with
+WIO in order to avoid un-wanted interferences from governments. A 75%
+majority at WIO would be requested to act/modify/contest a IANA decision,
+making it difficult for governments to go beyond reasonable and consensual
+demands. Again the WIF could veto a potential decision by WIO, once.
+Among the WIF constituencies, there should be room for an online/remote
+participation of global users and global citizens. A citizen initiative should be
+considered, if able to embrace 5 continents, and criteria to be define during
+the preparatory process (see roadmap) in order to suggest program or
+regulation at the WIF level, then possibly at WIO level. The preparatory work
+(see roadmap) should take this into account, so that for the very first time
+citizens would have a chance to voice directly their concern. The digital
+wonder of today allows the lawmakers to think of this democratic and
+inclusive process to be part of the new Internet Governance eco-system. Such
+an initiative could not be vetoed and the WIF would have to finalize a
+proposal/initiative.
+_2.3 Arbitrage and justice level to address deadlocks and disputes.
+Establishment of a double system of arbitrage/settlement and
+justice/constraint, taking into account the positive lessons from WTO and
+WIPO. The arbitrage operandi would be placed under WIF scrutiny, in a
+transparent, accountable and responsible fashion. If no arbitrage/settlement
+could be concluded at the WIF by a specific board, the case would be brought
+to the appreciation of the court of justice, seated at WIO.
+The WIF board of settlement could be called in on issues/conflict related to
+actions by stakeholders.
+Action against the WIF could be taken to WIO.
+As the UN system offers many different models of governance – see ILO, WTO,
+ISO, WIPO, UNDP, UNEP… - it offers a lot of opportunity to adapt any
+governance to the specifics of any major field of concerns. The UN system is
+flexible enough to envision a new system of governance, taking the lessons of
+other systems of governance, and considering the specifics of the Internet.
+The UN system can bring legitimacy to new entities or mandates, having to
+combine both international binding agreements and treaties with efficiency
+and a required speed to cop with the extension of the Internet space, impact
+and outcomes.
+3_An innovation in international
+governance of the Internet could impact
+many other field of interests.
+Since 1945, after a year of preparation and 4 months of intensive discussions
+in San Francisco, the UN Charter was signed by 50 future member states on
+June 26, the UN being installed on October 24, the same year. A fascinating
+new governance product of the largest war ever, the second world war, a
+globalized one. As an innovative political space, the UN even though it has
+been often criticized has face many new challenges and ‘invented’ many
+innovative entities and programs, related to both immediate and long term
+issues. One major innovation within the Internet new system of governance
+would be the fact that WIO and WIF would both have strong capacities to act,
+but would also be linked through a check and balance relation. As the WIF
+would be the “guardian” of a charter/framework of the Internet principles, it
+would be legitimate to censor an agreement at WIO level, which would not be
+in agreement with the Internet charter. A WIF veto would oblige any such
+agreement at WIO level to go through one additional round of negotiations.
+One possible option would be having the WIF as a member of WIO, the only
+one with no voting rights, but a veto rights on first round. A second
+negotiation would have to be conducted, in a fair understanding that the
+same proposal could not be run again without some serious amendments. An
+opposition between the WIF and WIO would lead to a major crisis which makes
+this new system of governance interesting if citizens and leaders wish to keep
+it aloft.
+Any dispute against WIO should be taken to the UN general secretariat.
+4_Funding of the new system of
+governance for the Internet
+4_1: WIO would be funded by its constituencies.
+4_2: The WIF would be funded for its most part by service charges for Internet
+unique identifiers (domain naming – extension) collected globally by ICANN,
+and in addition, specifically by ISOC/PIR for .net, .org, .com, .ngo.... That
+supposed that the ISOC/PIR capacities would be transferred to the WIF. ISOC
+being a community based organization would, like any other civil society
+organization, have to fund itself within its membership, or any other
+appropriate system. The PIR expertise and staff could be incorporated as a
+WIF department, but at reasonable cost. Such a funding for the WIF would be
+more or less similar to the way WIPO is getting the majority of its funding.
+4_3: The work over Internet Charter would be secure by the UN.
+It seems consistent to think that the WIF will require more budget support
+than WIO, which needs a secretariat but a rather small staff.
+5_Roadmap for implementing the new
+system of governance for the Internet
+Democracies and members of the United Nations are now facing the major
+challenges. As NetMundial will come to a conclusion on April 26, 2014, the
+Brazilian government should call for the UN to launch the following process,
+and suggest to help and participate in the preparation and Sao Paolo followups
+with a few other major governmental partners (Germany, France, Saudi
+Arabia, India, China, South Africa and the US). In 1944 and 1945, 4 countries
+prepared the draft of a UN Charter (China, United Kingdom, the Soviet Union
+and the United States) after representatives of 26 countries pledged their
+Governments to continue fighting together the Axis Powers on January 1st,
+1942, when the term ‘United Nations’ was first used by Franklin D. Roosevelt.
+Such a call to the United Nations, following Brazilian president speech in front
+of the UN General Assembly and the Sao Paulo meeting would show obvious
+and strong consistency at both local and international level by the Brazilian
+head of State following the Brazilian conference. The call would require to:
+_5.1 : Set a process to finalize an “Internet Charter” by convening civil society,
+users and their representatives, the technical and researching community,
+and governmental and UN delegations in limited number. Many interesting
+contribution are already there to start with, including the Just Net Coalition
+Principles. No corporations or business associations should directly participate
+to establishing that Charter - they already have enough power to voice their
+views and try to influence the writers of such an Internet Charter.
+_5.2 : Set a common process to precisely define the two new bodies (WIO &
+WIF), their linkage, including check and balance between them, transparency
+and accountability, and their common adequate roadmap. The US will have to
+accommodate these requests, in order to end the asymmetric governance
+and market dominance of the Internet. This will take away the risks that the
+Internet is facing today. A non digital war treaty ratification should be a
+natural complementary objective to that process through the WCIT/ITRs
+channel. A Cyber war non proliferation treaty would be welcome.
+_5.3 - Set a technical advisory group to best assess the core functions of the
+Internet, and see how to adequately transform them, or not, and how and
+where to position them in the framework of a WIO –WIF system. This process
+would be supported by a neutral group of engineers able to assist and advice
+the first two process in their reflection and capacities at a technical level.
+Clear criteria are needed to select the participants.
+_5.4 – Such a global project needs leadership, under the neutral oversight
+and arbitrage of the UN general secretariat. A special appointment is
+necessary to have a high level diplomat or a former foreign affair minister, a
+former prime minister, or a personality of undisputable command, a
+man/woman of high reputation able to handle that process with the support of
+a small group of special assistants. He/she would have the support of a small
+multistakeholder advisory board to help him/her cope with the spirit of the
+overall process (WIF_WIO) and philosophy.
+It seems reasonable to think that 5.1, 5.2, 5.3, 5.4 could be achieved over a 1-
+year time frame, paving the way to another 6 months to found, fund and
+constitute the proposed entities and system of arbitrage and justice, and do
+the switch from the old system. Until then, the current system would basically
+be stable.
+[1] Strategic Management : A stakeholder approach by R. Edward
+Freeman, 1984, Boston, Pitman.
+[2] Stakeholder Theory and Organizational Ethics by R. Phillips, 2003,
+Berret-Koehler Publishers

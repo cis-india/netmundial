@@ -1,0 +1,908 @@
+Introduction
+This paper offers a brief introduction to some of the Internet organizations and processes that
+shape naming and addressing, shared global services and operations, and open standards
+development in the Internet ecosystem. It builds on the Internet Society’s well-received
+graphic: The Internet Ecosystem:
+http://www.internetsociety.org/who-makes-internet-work-internet-ecosystem1
+This paper looks at many of the key organizations and processes that shape Internet policy,
+with a focus on how any interested stakeholder can get involved in their work. It is not
+exhaustive; nor does it cover all aspects in detail. It is recommended that readers use this
+document as a starting point in their exploration of the Internet ecosystem, its players and
+policy processes. Extensive hyperlinked references are provided throughout to assist anyone
+seeking deeper understanding or involvement.
+As a discussion paper, “Exploring the Internet Ecosystem” will remain a work in progress.
+Readers who wish to suggest improvements are invited to send suggestions to the Internet
+Society at isoc@isoc.org.
+1 This presentation of the Internet ecosystem is not the only way to look at all or part of the complex environment that
+supports the global Internet. See also the following examples:
+http://www.internetsociety.org/sites/default/files/is-internetresources-201308-en.pdf
+http://www.icann.org/sites/default/files/assets/governance-2500x1664-21mar13-en.png
+The Importance of Participation
+A diverse set of players has shaped the Internet and continues to contribute to its future
+success. Yet the Internet is not a static thing. Since it was established as a research network
+more than 40 years ago, it has evolved from a small government-run network of researchers to
+a network of networks that is the cornerstone for the global economy and an indispensable
+tool for individuals worldwide.
+These phenomenal changes pose significant challenges for policy processes and actors in the
+Internet policy field. The organizations and processes that shape Internet policy have proven
+to be resilient and adaptable in large part because they have assumed that change is a
+constant and because they recognize that the best solutions to new issues that arise stem
+from willing collaboration between informed stakeholders.
+The Internet Society encourages all stakeholders to become involved in the policy and
+standardization processes that support the ongoing evolution of the Internet and the equally
+evolving management of Internet resources.
+Within the Internet ecosystem, various organizations have responsibilities for the protocols and
+standards that enable basic end-to-end communications (such as the Internet Protocol); the
+resources that direct these communications (such as IP addresses and the Domain Name
+System); the provision of reliable connectivity that ensures the communications reach their
+intended destinations, thus linking end-users (such as global telecommunication, satellite and
+cable system operators, Internet Exchange Points, etc.); and the policies, frameworks and
+educational activities necessary to ensure the Internet’s openness, continuity and flexibility.
+These technologies, resources and services are all highly interdependent and require a
+significant amount of coordination. The organizations responsible for standardization,
+coordination, administration and day-to-day management in the Internet sphere include the
+IETF, ICANN, the IANA function, the RIRs, and many others that will be touched upon in this
+paper. Each organization has a specific role and provides fundamental value to the overall
+functioning of the Internet.
+These organizations have a proven, long-standing relationship with one another in
+coordinating the technical infrastructure of the Internet and have contributed to its incredible
+growth and stability. They make use of well-established mechanisms, including open, public
+meetings, mailing lists and bottom-up policy development processes that enable direct
+participation by any interested party. This way of working ensures that policies are defined by
+those who require them for their operations. It also gives the system the flexibility to respond
+and adapt to the Internet’s rapidly evolving technology and to the changing needs of the
+Internet community. It has resulted in the creation of a significant body of knowledge and
+experience in the successful administration and management of the technologies, resources
+and services that make the Internet the success it is today.
+The development, governance and coordination of the Internet result from discussions,
+debates and policy development processes in many specialized forums. Active participation by
+end users, governments, business, civil society and technical experts (whether as individuals
+or organizational representatives) is essential to make the policies, approve the procedures
+and write the standards, etc., that make the Internet the efficient and effective system it is
+today.
+The Internet Society is pleased to offer this guide to the Internet stakeholders, their policy
+processes and participation mechanisms related to naming and addressing, shared global
+services and operations and open standards development within the Internet Ecosystem. It is
+hoped that this paper helps encourage and facilitate participation in these important areas of
+Internet policy development.
+The Internet Ecosystem
+Internet ecosystem is the term used to describe the organizations and communities that have
+organically evolved to guide the operation and development of the technologies and
+infrastructure that comprise the global Internet. These organizations share common values
+and a shared commitment to the open development of the Internet.
+The term Internet ecosystem implies a Darwinian evolution focusing on the rapid and
+continued development and adoption of Internet technologies and which is characterized by
+the involvement of a broad range of actors; open, transparent, and collaborative processes;
+and the use of products and infrastructure with dispersed ownership and control.
+Organizations that comprise the Internet Ecosystem include:
+! Technical standards bodies such as the Internet Engineering Task Force (IETF), the
+World Wide Web Consortium (W3C), and the Institute of Electrical and Electronic
+Engineers (IEEE)
+! Organizations that manage resources for global naming and addressing capabilities such
+as the Internet Corporation for Assigned Names and Numbers (ICANN), including its
+operation of the Internet Assigned Numbers Authority (IANA) function, Regional Internet
+Registries (RIR), and Doman Name Registries and Registrars
+! Companies that provide network infrastructure services such as Domain Name Service
+(DNS) providers, network operators, cloud and content delivery network providers, and
+Internet Exchange Points (IXPs)
+! Individuals and Organizations that use the Internet to communicate with each other and
+offer services and applications, or develop content, and
+! Organizations that provide education and build capacity for developing and using Internet
+technologies, such as multilateral organizations, educational institutions, and
+governmental agencies.
+This paper looks at each component of the Internet ecosystem in turn.
+Naming and Addressing
+Focus Areas:
+! Internet Protocol (IP) Addresses
+! Generic Top Level Domains (gTLDs)
+Internet Protocol Addresses (IP Addresses)
+Background
+Internet Protocol (IP) addresses are unique numeric identifiers that are needed by every
+device that connects to the global Internet. The numeric identifier is assigned to a device or
+end point that enables data to be accurately transported between origination and destination
+points within a network or networks. IP addresses are a shared common resource that must
+be managed carefully and consistently to ensure the continued growth and stability of the
+Internet.
+Players
+IANA
+The Internet Assigned Numbers Authority (IANA) maintains registries of unique
+codes and numbers that are used in the technical standards (“protocols”) that drive
+the Internet. IANA’s activities can be broadly grouped in to three categories:
+Domain Names
+IANA manages the Domain Name System (DNS) Root zone, the .int and .arpa
+domains, and an Internationalized Domain Names (IDN) language table registry.
+http://www.iana.org/domains
+Number Resources
+IANA coordinates the global pool of unicast IP addresses and Autonomous System
+(AS) numbers, providing them to Regional Internet Registries.
+http://www.iana.org/numbers/
+Protocol Assignments
+Other numbers, names and resources for Internet protocols developed by the
+Internet Engineering Task Force (IETF) are maintained in IANA-managed registries
+under the direction of the IETF. http://www.iana.org/protocols
+The IANA function is performed by ICANN under contract with the United States
+Department of Commerce.
+ICANN
+The Internet Corporation for Assigned Names and Numbers (ICANN) has
+responsibility for unicast Internet Protocol (IP) address space allocation (through
+IANA), and the operation and evolution of the Domain Name System, along with the
+coordination of policy development reasonably and appropriately related to these
+technical functions. http://www.icann.org/en/about
+ASO
+The ICANN Address Supporting Organization (ASO) was established by means of a
+Memorandum of Understanding (MoU) between the Numbering Resource
+Organization (NRO) and ICANN. This MoU establishes that the NRO fulfills the role,
+responsibilities, and functions of the ASO as defined within the ICANN Bylaws.
+The functions of the ASO are carried out by the ASO Address Council (ASO AC),
+whose members are elected and appointed by their respective RIR communities. Its
+purpose is to review and development of recommendations on Internet number
+resource policy and to advise the ICANN board. http://aso.icann.org/
+NRO
+The NRO is composed of the 5 Regional Internet Registries (RIRs). The purpose of
+the Number Resource Organization is to ensure global coherence of certain RIR
+activities, and to provide a single common interface to all the RIRs where this is
+necessary. The NRO also undertakes joint RIR activities, including technical
+projects and liaison activities. http://www.nro.net/
+RIR
+The five Regional Internet Registries (RIRs) are responsible, within their respective
+regions, for allocating Internet number resources such as globally unique IP
+addresses (IPv4 and IPv6) and autonomous system numbers. These resources are
+required by Internet service providers and users to identify elements of the basic
+Internet infrastructure such as interfaces on routers, switches and computers.2 RIRs
+hold open policy forums to discuss and establish regional policies for number
+allocation.
+The African Network Information Center (AFRINIC): http://www.afrinic.net
+The Asia Pacific Network Information Centre (APNIC): http://www.apnic.net/
+The American Registry for Internet Numbers (ARIN): https://www.arin.net/
+The Latin American and Caribbean Internet Addresses Registry (LACNIC):
+http://www.lacnic.net/
+The Réseaux IP Européens Network Coordination Centre (RIPE NCC):
+http://www.ripe.net/
+NIR
+A National Internet Registry (NIR) primarily allocates address space obtained from
+the relevant RIR, consistent with RIR policies, to its members or constituents, which
+are typically LIRs/ISPs. A limited number of NIRs exist in the Asia and Latin
+American and Caribbean regions.3
+2 http://www.nro.net/about/internet-registries.html
+3 For a full list: http://en.wikipedia.org/wiki/National_Internet_registry
+LIR
+A Local Internet Registry (LIR) is typically an Internet Service
+Provider (ISP), which assigns address space to users of its network services (who
+may be other ISPs, which then assign address space to their own customers).4
+ISPs
+Internet Service providers.5
+IP Address Allocation Process
+The allocation of unicast Internet Protocol addresses is undertaken by IANA, in accordance
+with the IP specification laid out by IETF specifications.
+Requests for IP addresses are typically made by LIRs (usually an ISP) either to the
+appropriate Regional Internet Registry (RIR), or, in limited cases, to the National Internet
+Registry (NIR) – if any such exist in the particular jurisdiction. (The LIRs and NIRs also receive
+their allocations from the RIR in their particular region.) 6
+As an RIR completes allocations from the space it has been given from IANA, the RIR will
+request a new allocation from IANA. Once IANA has determined that the request meets
+various clearly defined conditions (agreed on in global policy), the allocation is made to the
+RIR. IANA does not make allocations directly to ISPs, LIRs and NIRs.
+For an in-depth review of the RIRs and the evolution of address allocation policy:
+http://www.internetsociety.org/fine-balance-internet-number-resource-distribution-and-decentralisation
+Whether an ISP requests addresses from an RIR or an RIR requests a new block of
+addresses from IANA, there must be a demonstrated need for the request to be granted. The
+allocation processes outlined above are clearly defined in policy documents agreed between
+the RIRs and ICANN (as the responsible party for IANA’s operations). These documents are
+listed below.
+Global Policy for Post Exhaustion IPv4 Allocation Mechanisms by the IANA:
+https://www.icann.org/en/resources/policy/global-addressing/allocation-ipv4-post-exhaustion
+4 ibid
+5 http://en.wikipedia.org/wiki/Internet_service_provider
+6 For more information on the operational relationships between NIRs and APNIC:
+http://www.apnic.net/policy/operational-policies-nirs/text
+Internet Assigned Numbers Authority (IANA) Policy for Allocation of ASN Blocks to Regional
+Internet Registries: https://www.icann.org/en/resources/policy/global-addressing/global-policyasn-
+blocks-21sep10-en.htm
+IANA Policy for Allocation of IPv6 Blocks to Regional Internet Registries:
+https://www.icann.org/en/resources/policy/global-addressing/allocation-ipv6-rirs
+Additionally, certain protocol parameter-related technical aspects of IANA’s work, including IP
+addresses, are governed by a MoU between the Internet Engineering Task force (IETF) and
+ICANN: MoU Concerning the Technical Work of the IANA: http://tools.ietf.org/html/rfc2860
+IP Address Policy Processes
+Unicast IP addresses are allocated based on policies that are proposed and agreed through
+bottom-up and open consultation mechanisms. The RIRs, NIRs, ISPs and end users allocate,
+assign and use IP addresses. Two additional policy-focused entities are also involved in policy
+development for IP address distribution: the NRO and the ICANN ASO (Address Supporting
+Organization).
+Regional IP address allocation policy development usually begins when an individual or
+organization submits an idea to an RIR. RIRs host open policy forums and mailing lists to
+discuss these ideas and establish regional policies for Internet number delegation. While the
+RIR policy development processes may differ slightly across the regions, they are based upon
+the principles of openness, transparency and deliberation, and any individual or organization
+can participate.7
+Global policy proposals that affect how the RIRs receive resources from IANA also start as
+policy ideas submitted to the RIR policy forums. For a policy to be declared global, it has to be
+one that affects all five RIRs and IANA.
+Global policy proposals are discussed within each of the RIR communities. When each RIR
+community adopts the same proposal (minor word differences that don’t change the meaning
+are acceptable), the proposal is then forwarded to the ASO. The ASO then communicates the
+proposal to the ICANN Board and, once the Board has accepted, the proposal becomes global
+policy and is formally published on the NRO and ICANN websites.8
+7 http://www.afrinic.net/en/community/policy-development
+http://www.apnic.net/community/policy
+https://www.arin.net/policy/pdp.html
+http://www.lacnic.net/web/lacnic/proceso-de-desarrollo-de-politicas
+http://www.ripe.net/ripe/policies
+8 For more information on the global policy process, see:
+Attachment A: Global Policy Development Process, ICANN Address Supporting Organization (ASO) MoU:
+http://aso.icann.org/documents/memorandum-of-understanding
+The policy development processes (PDPs) for both regional and global policy proposals are
+open and all interested parties and stakeholders are encouraged to participate. This is
+discussed in the following section.
+How to Participate in IP Address Allocation Policy Processes
+Interested individuals and organizations can follow and participate in IP address allocation
+policy development through the RIRs’ open meetings, policy development processes and
+forum mailing lists, ICANN’s public meetings, and through the open ASO9 mailing lists.
+Government representatives are encouraged to participate directly in the RIR policy process,
+and several do. In addition, they can also be informed of recent developments in IP address
+allocation discussions through the ICANN’s Governmental Advisory Committee (GAC) via the
+NRO report: http://gac.icann.org/
+Additionally, government representatives can and do participate in the RIR and ICANN open
+meetings and subscribe to their open mailing lists. Some RIRs also hold specific roundtable
+meetings focused on issues of interest to governments and regulators.10
+While participation in the IP address allocation policy is important, participation in the uptake
+and transition to IPv6 is equally so. Most of the Internet is currently addressed via IP version 4
+(IPv4) addresses. IPv6 addresses are also increasingly used, but not yet to the same extent.
+IPv6 is a more recent protocol, offering a much larger address pool than IPv4. The deployment
+of IPv6 does not mean that the whole Internet switches over to IPv6 on some specified date;
+rather the deployment is a process during which the new protocol will increasingly be adopted.
+During the deployment both protocols will coexist. At some future time, IPv6 is expected to be
+the dominant IP version, and IPv4 use will drop off.
+This deployment of IPv6 is becoming increasingly critical as the IPv4 address pool is running
+out and the time to implement IPv6 in networks is now. The deployment is taking place, thanks
+to a concerted effort that is growing across the Internet ecosystem. For example, with World
+IPv6 Day, hosted by the Internet Society, major web companies and other industry players
+came together to enable IPv6 on their main websites for 24 hours. The goal was to motivate
+organizations across the industry — Internet service providers, hardware makers, operating
+system vendors and web companies — to prepare their services for IPv6 to ensure a
+successful transition as IPv4 address space runs out. In 2012, the World IPv6 Launch took
+place, with many more Internet service providers (ISPs), home networking equipment
+manufacturers, and Web companies around the world permanently deploying IPv6 for their
+Board's Review Procedures for Global Internet Number Resource Policies: http://www.icann.org/en/news/in-focus/globaladdressing/
+review-procedures
+9 http://aso.icann.org/contact/aso-mailing-lists/
+10 2010 RIPE meeting for governments and regulators: http://www.ripe.net/meetings/roundtable/feb2010/
+products and services. Between World IPv6 Day and the World IPv6 Launch, IPv6 use around
+the world doubled, and it doubled again by one year later in 2013. These efforts demonstrate
+what can be achieved through the collective and collaborative action within the Internet
+ecosystem.
+For more information on IPv6 and its importance to the future growth and continuity of the
+Internet see: http://www.worldipv6launch.org/infographic/ or
+http://www.internetsociety.org/what-we-do/internet-technology-matters/ipv6
+The Internet Society is expanding its efforts to catalyze the adoption of IETF standards and
+technologies. Its Deploy360 Programme supports the deployment and use of key Internet
+technologies by bridging the gap between IETF standards documentation and final adoption of
+those standards by the global operations community. Deploy360 provides realworld
+IPv6, DNSSEC, and Routing Resiliency/Security deployment information including
+detailed, technical how-to resources and educational articles, best current operational
+practices, case studies, and other in-depth information.
+http://www.internetsociety.org/deploy360/ipv6/
+http://www.internetsociety.org/deploy360/dnssec/
+http://www.internetsociety.org/deploy360/routing/
+http://www.internetsociety.org/deploy360/about/bcop/
+Generic Top Level Domain Names
+Background
+A generic top-level domain (gTLD) is one of a number of different types of top-level domains
+(TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain
+Name System of the Internet. These categories include, among others, generic top level
+domains (gTLD) and country code top level domains (ccTLD). A domain name is a way of
+making an Internet Protocol address (a series of numbers and dots) more comprehensible to
+users. Typical gTLDs that we are all familiar with include .com, .net, .org, etc.
+Two recent developments that are touched upon in this paper that have been the product of
+extensive policy deliberation are the introduction of new gTLDs and the introduction of
+internationalized ccTLDs and internationalized gTLDs.
+Actors in the ICANN gTLD Policy Process
+GNSO
+The Generic Names Supporting Organization (GNSO) is the main policy-making
+body of ICANN for gTLDs. http://gnso.icann.org/
+CSG
+The GNSO’s Commercial Stakeholder Group (CSG) represents the views of small
+businesses, business organizations, Internet connectivity providers, intellectual
+property owners and intellectual property organizations. CSG is official represented
+at ICANN by the following constituencies: Commercial business users; Intellectual
+property interests, and Internet service providers.
+http://gnso.icann.org/en/about/stakeholders-constituencies/csg
+NCSG
+The Non-commercial Stakeholder Group (NCSG) in the GNSO is the home for civil
+society organizations, individuals and non-for-profit organizations within ICANN.
+NCSG is officially represented at ICANN by the following constituencies: a) Non-
+Commercial Users Constituency (NCUC); and, b) the Non-for Profit Operational
+Constituency. http://gnso.icann.org/en/about/stakeholders-constituencies/ncsg
+gTLD Registries Stakeholder Group
+The gTLD Registries constituency represents those organizations running gTLD
+registries within the GNSO. http://gnso.icann.org/en/about/stakeholdersconstituencies/
+rysg
+Registrar Stakeholder Group
+The registrar constituency represents companies that register domains for Internet
+users for a fee within the GNSO. http://gnso.icann.org/en/about/stakeholdersconstituencies/
+rrsg
+Structure of gTLD Policy Process
+gTLD policy discussions are typically initiated by or within ICANN’s Generic Names Supporting
+Organization (GNSO) following input from its six “stakeholder” communities: the Commercial
+Stakeholder Group (Commercial Business Users, Intellectual Property, Internet Service
+Providers, the Non-Commercial Stakeholder Group (Non-Commercial Users, Not-for-Profit
+Operational Concerns), Registry Stakeholder Group (those that manage the TLDs), Registrar
+Stakeholder Group, Nominating Committee Appointees and Liaisons, Board Appointees and
+NomCom Appointees. Information on the structure of the GNSO can be found at:
+http://gnso.icann.org/en/about/structures/2012
+Each of these stakeholder groups has its respective policy processes to allow positions to be
+submitted to the GNSO Council for review. For further details of memberships and policy
+processes it is recommended that the reader visit the relevant stakeholder group website (see
+above). Each of these stakeholder groups elects representatives to the GNSO Council.
+The GNSO has a policy development process that is outlined in ICANN’s bylaws.11 The ICANN
+Board, the GNSO Council or an ICANN Advisory Committee (GAC, ALAC, SSAC, RSSAC)12
+may raise issues for consideration within the policy development process of the GNSO.
+Typically the GNSO will meet with the Advisory Committees, notably the GAC, during each
+ICANN meeting to inform and encourage discussion. Once the issue has satisfied the
+necessary requirements the policy development process (PDP) can begin.
+Once a proposal has passed through the GNSO’s PDP and has the recommendation of the
+GNSO Council it is submitted to the ICANN Board for approval.
+The New gTLD Policy
+In 2008, agreement was reached in ICANN for the introduction of new gTLDs. The largest new
+gTLD process to date is now in its final stages and some new gTLDs have already been
+added to Root Zone file. ICANN is expected to add many more in 2014 and, after a review of
+the process, may hold additional rounds.
+! A full review of the new gTLD process and updates: http://newgtlds.icann.org/en/
+! Final version of the applicant guidebook: http://newgtlds.icann.org/en/applicants/agb
+How to Participate in gTLD Policy Processes
+The gTLD landscape is changing and the introduction of new gTLDs and Internationalized
+Domain Names should encourage a greater number of stakeholders to participate in the
+associated policy processes.
+As an interested individual one can follow and participate in the policy discussions through
+ICANN’s public comment webpage where all the substantive pieces of work of a policy nature
+(and more) are listed and open to comment.13
+11 GNSO policy development process: http://www.icann.org/en/general/bylaws.htm#AnnexA
+12 ICANN Advisory Committees overview: http://www.icann.org/en/structure/
+13 http://www.icann.org/en/public-comment/
+For a more in-depth engagement, interested individuals can join the constituency representing
+their particular interest. For example, those involved in civil society organizations or not-forprofit
+organizations, or who are interested in participating as individuals could decide to join
+the non-commercial stakeholder group (NCSG): http://gnso.icann.org/en/about/stakeholdersconstituencies/
+ncsg
+Organizations have an opportunity to participate in the various ICANN supporting structures
+(through the constituencies outlined above). This requires a greater level of engagement, but
+for those organizations that are involved in or have a material interest in the domain name
+space participation is important.
+Many representative organizations participate in the ICANN processes. It is not essential,
+therefore, to participate directly, although a decision whether to do so will of course depend
+upon the importance of ICANN deliberations to the organization in question. The International
+Chamber of Commerce in the GNSO’s CSG is an example of a representative association that
+participates in the ICANN GNSO and many other forums.14 Many other national, regional or
+international associations participate in ICANN processes, and these provide a useful first
+entry point for individuals and organizations that are new to the world of gTLD policy.
+And, as with IP address allocation, governments will typically participate directly in ICANN
+gTLD deliberations through the GAC, although GAC representatives are free to participate
+directly in any ICANN constituency.
+It is also essential that interested individuals and organizations monitor related policy initiatives
+or consultations in their home countries. Some national governments may issue updates or
+notices to their citizens and may also hold consultations on Internet policy matters. In these
+cases, it is important that interested parties contribute to those discussions at a national level.
+Input and comments to national governments help shape the positions that their
+representatives will take in the GAC at ICANN. For more on the ways in which individuals and
+organizations can participate in ICANN: http://www.icann.org/en/participate/how-do-iparticipate.
+html
+Shared Global Services and Operations
+Focus Areas:
+! Root Servers
+! Country Code Top Level Domains (ccTLDs)
+Root Servers
+Background
+The root zone file is at the apex of the Domain Name System (DNS) database. It contains
+information only about the authoritative domain name servers for each top-level domain name, and
+is used to ensure a request for information from any client for any top-level domain is directed to
+the correct place. This database is used by almost all Internet applications as part of the process of
+translating globally unique names like internetsociety.org into other identifiers; the web, e-mail and
+many other services make use of the DNS. That is to say, the DNS query for www.example.org
+includes the full name; however, the response from the root server only points to the nameservers
+for .org. In general terms, the root server operator does not typically log, share or analyze the type
+of request except in aggregated form, or even have access to the original source address from
+which the query is sent. While such data could be available under some circumstances, Industry
+best practices for the protection of the security and integrity of the service dictate that it be
+protected in accordance with data privacy laws.
+The root zone file is housed in hundreds of computers known as root servers, located in many
+countries in every region of the world. Root servers contain the IP addresses of all the TLD registry
+name servers, including the gTLDs such as .com and the ccTLDs such as .de (Germany). Root
+servers “translate” names into next-level nameserver IP addresses, allowing the user’s software to
+take the next step to finding desired Internet content. They perform a critical if somewhat “backoffice”
+role in ensuring the continuity and therefore reliability of the Internet.
+Players
+IANA
+IANA is the global coordinator of the DNS root, which is the uppermost part of the
+DNS hierarchy. http://www.iana.org/domains/
+ICANN
+In the context of root servers, ICANN is the responsible party for the operational
+management of IANA under contract with the United States Department of
+Commerce.15 ICANN is also the operator of the L Root.
+Root Server Operators
+The root server operator function is limited to making the data held in the root quickly, securely,
+and reliably accessible to Internet users worldwide through the DNS protocol. Root server
+operators and their organizations do not take part in editorial decisions about the content of the
+DNS root zone, except to advise IANA on strictly technical matters such as management of
+DNSSEC-related records. For a full list of the root server operators and locations:
+http://www.root-servers.org/
+RSSAC
+The Root Server System Advisory Committee advises the ICANN Board and
+community on the operation of the root name servers of the domain name system.
+Its Executive Committee consists of representatives from each root name server; it
+15 http://www.ntia.doc.gov/ntiahome/domainname/iana/ianacontract_081406.pdf
+consults other DNS experts as well in forming its advice.
+http://www.icann.org/en/groups/rssac
+In addition to their work in the RSSAC, the root server operators have maintained a
+loose, informal association that predates ICANN for discussion of operational and
+security matters relating to the service they provide. http://www.root-servers.org/
+The Role of Root Servers and Root Server Operators
+The root zone file is housed centrally and distributed periodically to each of the other root servers
+around the world. At present, Verisign performs this function under a cooperative agreement with
+the U.S government (see below). (Verisign also operates the A-root, but separately from this
+function.) The root zone file is distributed to the root server operators using the same mechanisms
+as any other DNS zone, and then further distributed by the operators using a methodology known
+as anycast. Anycast, also widely used by DNS operators for important zones besides the root,
+makes possible a more geographically distributed and resilient Internet, and provides for more
+local access to the root servers around the world. (Anycast uses standard, well-tested features of
+DNS and internet routing protocols to enable the use of many more operational DNS servers for
+the root zone than the original 13; for example, “f.root-servers.net,” managed by Internet Systems
+Consortium, provides service for the root zone from dozens of locations worldwide.)
+The root server operators are a group of independent and autonomous organizations that are
+responsible for the management and maintenance of the root servers. Each operator is
+responsible for the way in which its particular service is operated. This diversity is one of the
+strengths of the system. Neither the IANA nor ICANN have any executive authority over the
+operation of root name servers. By the same token, the root server operators have minimal
+involvement in setting policy. They do not control what information is in the root zone or the
+process of making changes to the root zone. They do play an important role, drawing on their
+operational experience to share data, and to provide information and advice to one another and to
+the IANA on operational matters and in policy setting; for example, during the deployment of
+DNSSEC (Domain Name Security). This is consistent with the root server operators’ strong
+operational focus.
+To fulfill their role within ICANN, which is set out in that organization’s Bylaws, the root server
+operators participate in the Root Server System Advisory Committee (RSSAC). The RSSAC is to
+advise the ICANN community and Board on matters relating to the operation, administration,
+security, and integrity of the Internet's root server system. The administrative work of the RSSAC is
+carried out by its Executive Committee, while a Caucus of DNS and root server system experts are
+responsible for the essential work of the RSSAC in providing that advice.
+The Internet Architecture Board provides a liaison to the RSSAC, reflecting the fact that the IETF
+has a key role in documenting the technical requirements of the DNS root servers together with the
+root server operators themselves, ICANN and the various stakeholders. The ICANN Security and
+Stability Advisory Committee (SSAC) also provide a liaison to RSSAC to promote discussion of
+issues of mutual interest. The root server operators meet regularly at IETF and ICANN meetings.
+They also participate in IETF processes, such as the DNSOP WG, which develops guidelines for
+the operation of DNS software servers and the administration of DNS zones, and contribute to the
+work on individual Internet drafts where their expertise can be useful.
+Participation in Root Server Related Policy Activities
+Anyone interested wishing to understand or participate in root server operators’ policy
+development activities should explore the opportunities available with each of the root server
+operators directly, because there are considerable differences among them. As a group, the root
+server operators operate transparently and provide information to the public via their web site.
+http://www.root-servers.org
+In addition, some individual operators maintain their own web sites, usually under the letter naming
+the root they operate.
+http://$letter.root-servers.org, e.g. http://k.root-servers.org or http://i.root-servers.org
+For those who are not themselves directly involved in operating a root server, perhaps the most
+appropriate avenue for interacting with the root server operators is through the ICANN process,
+including the RSSAC, or through participation in the IETF.
+Within ICANN, the RSSAC operates in accordance with ICANN community norms of openness,
+and thus conduct open meetings and publish meeting minutes.
+Within the IETF, the root server operators interact in accordance with IETF community norms,
+including inviting open participation in the development of any Internet drafts or RFCs relevant to
+the DNS root name service protocol or the operation and administration of DNS root servers.
+Anycast and Increasing Capacity
+The root server operators are involved at the operational level in many efforts to improve Internet
+capacity throughout the world. Having one or more anycast instances of root servers nearby can
+improve the speed, reliability, and security of internet service for users, so the root server
+operators are generally willing to add anycast capacity wherever there is infrastructure to make it
+possible to operate locally. Root server operators have collaborated with ISPs, Internet exchange
+point (IXP) operators, RIRs, and some governments in order to bring improved DNS service for the
+root as part of improving capacity overall.
+Formal Policy and Documentation
+Historically, because of their operational focus and the fact that their role predates ICANN and
+most formal Internet governance debates, the root server operators have not been major
+participants in formal policy processes. In addition to the informal mechanisms discussed above,
+however, there are a few documents regarding root server operations that have served to describe
+relevant relationships:
+Verisign agreements covering the root with USG:
+http://www.ntia.doc.gov/page/verisign-cooperative-agreement
+ISC “accountability framework” document with ICANN:
+http://archive.icann.org/en/froot/ICANN-ISC-MRA-26dec07.pdf
+An exchange of letters between the root server operators and ICANN, indicating their intention to
+coordinate and collaborate. For example, the exchange between Netnod, operator of the I-root and
+ICANN:
+http://www.icann.org/en/news/correspondence/lindqvist-to-twomey-08may09-en.pdf
+http://www.netnod.se/sites/default/files/ICANN-AUTONOMICA-Iroot.pdf
+Country Code Top Level Domains (ccTLDs)
+Background
+A country code top-level domain (ccTLD) is an Internet top-level domain generally used by
+a country – for example, .de (Germany), .ke (Kenya) and .jp (Japan) – and designated
+according to the ISO two-letter country code standard.16
+ICANN’s introduction of a fast track for internationalized ccTLDs has proven successful and
+popular, while work continues to resolve a range of technical issues.17
+The Players
+IANA
+ICANN
+ccNSO
+The Country Code Names Supporting Organization (ccNSO) is the policy
+development body created for and by ccTLD managers for ccTLD issues within
+ICANN. http://ccnso.icann.org/
+16 http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+17 http://www.icann.org/en/topics/idn/fast-track/
+ccTLD operators
+See the list from the IANA website: http://www.iana.org/domains/root/db/
+Regional ccTLD associations
+There are a number of regional ccTLD organizations:
+AFTLD for Africa http://www.aptld.org
+APTLD for Asia Pacific http://www.aptld.org
+CENTR for Europe http://www.centr.org
+LACTLD for Latin America and the Caribbean http://www.lactld.org
+Structure of ccTLD Policy Processes
+Policies are set by the trustee/operator (formally called “the manager”) for the day-to-day
+management of a particular country’s ccTLD and by the ccTLD community, the regional ccTLD
+associations and the ccNSO within ICANN, for policies relevant to the operation of ccTLDs
+overall.
+Requests for the delegation or redelegation of a ccTLD, as with all TLDs, are handled by the
+IANA function. Basic principles govern the delegation or redelegation of a ccTLD; for example,
+it is required that the manager be a responsible and technically competent trustee of the
+domain on behalf of the national and global Internet communities. In many cases a
+government agency acts as a trustee for the delegation of the ccTLD and may also act as the
+operator of the ccTLD.
+When a delegation or redelegation of a ccTLD is requested, the U.S. Department of
+Commerce, as the Root Zone Administrator, is responsible for verifying that processing
+procedures have been followed, and authorising any related changes to the DNS root zone
+and root zone database.
+Policy that relates to the overall operation of the ccTLDs is set by the ccTLDs through ICANN.
+Any policy proposal would likely start when a proposal is brought forward to the ccNSO by an
+individual ccNSO member (a ccTLD operator) or by one of the regional ccTLD associations
+(CENTR for Europe, for example).
+The policy development process of the ccNSO is described fully in the ICANN Bylaws:
+http://www.icann.org/en/about/governance/bylaws#AnnexB
+Policy changes can also be proposed by the GAC - the government advisory body to ICANN.
+Indeed the ccNSO and the GAC often cooperate within ICANN to propose policy changes. For
+example, the ccNSO and the GAC collaborated to develop policy proposals for the introduction
+of IDN (internationalized domain name) ccTLDs.
+Proposals that will affect the operation of ccTLDs globally are presented to the ICANN Board
+for review and approval. The recent introduction of “fast-track” Internationalized ccTLDs is a
+useful example of the ccNSO’s policy development process and can be found here:
+http://ccnso.icann.org/policy/cctld-idn
+For more information on the IDN ccTLDs fast track: http://www.icann.org/en/topics/idn/fast-track/
+How to Participate in ccTLD Policy Processes
+As an interested individual or organization participation is possible through a number of routes.
+Some ccTLD operators have their own open policy development processes, and it is possible
+to participate in those processes online or through open meetings. For example, Nominet, the
+ccTLD operator for .uk, encourages engagement in its policy development processes:
+http://nominet.com/policy/process/
+ICANN also has open consultations. To be more involved in ICANN interested individuals can
+participate in, for example, the ALAC (At-Large Community) that represents the interests of
+individual Internet users.
+As a government representative or as an affiliated entity (registry, associated business, etc.) it
+is best to contact the appropriate ccTLD first to better understand how to engage in related
+national policy development. With some ccTLD operators it is possible to contribute to policy
+development without being a member, registrar or other associated entity. Mechanisms for
+participation will differ from ccTLD operator to ccTLD operator.
+As of 2013, the ccNSO counts 146 Member ccTLD Registries.
+http://ccnso.icann.org/about/members.htm
+Open Standards Development
+Focus Area:
+! Internet Society affiliated organizations and other Internet standards bodies
+Background
+The Internet is built on technical standards that allow devices, services, and applications to be
+interoperable across a wide and dispersed network of networks. By focusing on interoperability
+for passing traffic between networks, Internet standards describe the protocols without
+prescribing device characteristics, business models, or content.
+The Internet depends on several types of technical standards, developed by a range of
+organizations. These include, among others: standards and protocols developed by the
+Internet Engineering Task Force (IETF), as well as telecommunications infrastructure
+standards developed by the International Telecommunications Union (ITU); hardware
+standards developed by bodies such as the Institute of Electrical and Electronics Engineers
+(IEEE); and application and software standards, such as those developed by the World Wide
+Web Consortium (W3C). A key principle for effective standards development is respectful
+cooperation between standards organizations, with each respecting the autonomy, integrity,
+processes, and intellectual property rules of the others. The leading Internet standards
+organizations have jointly agreed on the essence of the modern paradigm for standards, and
+encourage others to adopt and support these proven principles through the OpenStand
+movement.
+The Players
+ISOC
+The Internet Society (ISOC) is the organizational home of the Internet Engineering
+Task Force (IETF), the Internet Architecture Board (IAB), the Internet Engineering
+Steering Group (IESG), and the Internet Research Task Force (IRTF)18 — the
+standards setting and research arms of the Internet community.
+http://www.internetsociety.org/
+IETF
+The Internet Engineering Task Force (IETF) is a large, open and international
+standardization community comprising network designers, operators, vendors, and
+researchers concerned with the evolution of the Internet architecture and the
+smooth operation of the Internet. The IETF is responsible for developing and
+maintaining the specifications for key Internet protocols such as IP (v4 and v6), as
+well as HTTP (the communication protocol for the World Wide Web).
+http://www.ietf.org/
+IAB
+The IAB (Internet Architecture Board) is chartered as a committee of the IETF. Its
+responsibilities include architectural19 oversight of IETF activities, Internet Standards
+Process oversight and appeal, and the appointment of the RFC Editor. The IAB is
+also responsible for the management of the IETF protocol parameter registries.20
+http://www.iab.org/
+IESG
+The IESG (Internet Engineering Steering Group) is responsible for the technical
+management of IETF activities and the Internet standards process. It is also
+responsible for the actions associated with entry into, and movement along, the
+Internet "standards track", including final approval of specifications as Internet
+Standards. http://www.ietf.org/iesg/
+18 http://www.irtf.org/
+19 The IAB provides oversight of, and occasional commentary on, aspects of the architecture for the protocols and
+procedures used by the Internet.
+20 For more on the protocol parameter registries: http://tools.ietf.org/html/rfc6220
+W3C
+The W3C (World Wide Web Consortium) develops interoperable technologies
+(specifications, guidelines, software, and tools) for the World Wide Web. The W3C
+is an international forum for information, commerce, communication, and collective
+understanding. One of the most important outcomes of the W3C is the standard
+specification of HTML and its successors, which are the publishing languages of the
+World Wide Web. http://www.w3.org/
+IEEE
+The IEEE (Institute of Electrical and Electronics Engineers) is an international
+organization that develops electrical and electronic technology standards. Many of
+the IEEE standards are integral to computing science and networking technologies.
+Some examples of key technologies include Ethernet, WiFi, Bluetooth, and Fiber
+optic connection standards. http://standards.ieee.org/
+ITU-T
+The International Telecommunications Union (ITU) is a specialized agency of the
+United Nations dealing with information and communication technology issues. The
+ITU coordinates the shared global use of the radio spectrum, promotes international
+cooperation in assigning satellite orbits, works to improve telecommunication
+infrastructure in the developing world, and produces recommendations that foster
+the interconnection of communications systems. ITU-T (the telecommunications
+standardization sector of the ITU) produces global telecommunications
+recommendations. The recommendations produced by the ITU-T are not specific to
+the Internet, but because a portion of Internet traffic is carried over
+telecommunication networks, ITU-T is a part of the greater ecosystem.
+http://www.itu.int/ITU-T/
+Structure of Internet Standards Development
+The following offers a brief and necessarily broad-brush outline of the standardization
+processes/structures of the IETF, the W3C and the IEEE-SA. These organizations work to
+ensure that the standards they develop contribute to and further the stability and continuity of
+the Internet. However, these organizations have differing approaches and processes and
+differing membership structures – or none at all in the case of the IETF.
+These organizations have responsibility for different, but complementary, areas of
+standardization. For example, the IETF does not standardize transmission hardware – that is
+the responsibility of organizations like the IEEE. Nor does it standardize specialized World
+Wide Web specifications such as HTML and XML, which are the responsibility of the W3C.
+The IETF does standardize all the protocol layers in between, from IP itself up to general
+applications like email and HTTP.
+Whether infrastructure, hardware or software standards, each plays an important role in
+contributing to the Internet’s success and increasing ubiquity. Ensuring that relevant standards
+organizations cooperate and actively work together to maximize effectiveness, and thereby
+avoid duplication, market confusion and resource inefficiencies, is essential in this increasingly
+converged Internet, computing and telecommunications world.
+IETF
+The Internet Engineering Task Force is a self-organized group of experts who
+contribute to the engineering and evolution of Internet technologies. It is the
+principal body engaged in the evolution of existing Internet standards and the
+development of new Internet standard specifications. The IETF is unusual in that it
+exists as a collection of gatherings, but is not as a corporation. It has no board of
+directors, no members, and no dues.21
+The IETF’s mission includes the following, among others: identifying, and proposing
+solutions to pressing operational and technical problems in the Internet; specifying
+the development or usage of protocols and the near-term architecture to solve such
+technical problems for the Internet; making recommendations regarding the
+standardization of protocols and protocol usage in the Internet; providing a forum for
+the exchange of information within the Internet community between vendors, users,
+researchers, agency contractors, and network managers. The IETF meets 3 times
+a year in locations around the world.22 These face-to-face meetings are
+opportunities for engineers to share knowledge and expertise – whether long time
+participants, or newcomers.
+For an in-depth introduction to the IETF, please see: http://www.ietf.org/tao.html
+The Internet Standards developed by the open processes of the IETF and related
+organizations are published in the Request For Comments (RFC) document series:
+http://en.wikipedia.org/wiki/Request_for_Comments
+Every IETF standard is published as an RFC (a "Request for Comments), and
+every RFC starts out as an Internet Draft (often called an "I-D"). An Internet
+Draft is the working document of the IETF, its work areas23, and its Working
+Groups. Once the Internet Draft has received comments and is considered to
+have achieved sufficient agreement it is given to a work Area Director for
+presentation to the IESG. Further review of the Internet Draft by the wider
+IETF is also recommended.
+21 Much of the text for this section has been excerpted from the introductory document to the IETF:
+http://www.ietf.org/tao.html
+22 http://www.ietf.org/meeting/
+23 List of work areas and Working Groups: http://tools.ietf.org/area/
+The IESG will then announce an IETF-wide Last Call, which invites comment
+from the IETF community prior to further consideration by the IESG and
+possible approval. Once the Internet Draft is approved it is published as a
+Proposed Standard by the RFC Editor.
+An important aspect of the IETF’s process is that decisions are taken on a "rough
+consensus" basis, meaning that a very large majority of those who care about
+whether an Internet Draft is approved must agree and all issues have been
+discussed and addressed. This consensus does not require that all participants
+agree although this is, of course, preferred. In general, the dominant view of the
+working group prevails.24
+The full standards development process can be found here:
+http://tools.ietf.org/html/rfc202625
+The IETF is focused in its activities and does not develop new activities when
+expertise is better represented elsewhere. The IETF is chiefly scoped to work on
+"protocols and practices for which secure and scalable implementations are
+expected to have wide deployment and interoperation on the Internet, or to form
+part of the infrastructure of the Internet." Adhering to this scope also allows the IETF
+to work in partnership with other standards organizations, where appropriate, on
+items of mutual interest: http://www.ietf.org/liaison/managers.html
+W3C
+The World Wide Web Consortium (W3C) is an international consortium that
+develops Web standards and guidelines designed to ensure long-term growth for
+the Web. W3C is administered via a joint agreement among its host institutions: MIT
+in the USA, the European Research Consortium in Informatics and Mathematics
+(ERCIM) in France, Keio University in Japan, and Beihang University in China.
+Sir Tim Berners-Lee, W3C Director and author of WWW and HTML, established the
+W3C in 1994 to ensure compatibility and agreement among industry members in
+the adoption of new WWW standards.26 The W3C’s mission is to lead the World
+Wide Web to its full potential by developing protocols and guidelines that ensure the
+long-term growth of the Web.27
+24 http://tools.ietf.org/html/rfc2418
+25 Portions of RFC2026 have been updated in subsequent RFCs. Please see http://www.rfc-editor.org/info/rfc2026
+26 The Internet is a vast network of networks, interconnected in many different physical ways, yet all speaking a common
+language, specified by standardized protocols. The Web is one – albeit, the most influential and well known – of many
+different applications which run over the Internet.
+27 http://www.w3.org/Consortium/mission#vision
+Membership is open to all types of organizations (including commercial, educational
+and governmental entities) and individuals.28 Individual Web developers and other
+interested stakeholders are also invited to participate in W3C Working Groups and
+Community Groups without taking out formal membership.
+At the W3C, standardization work items start as a Working Draft (not dissimilar to
+the Internet Draft at the IETF) which is subject to W3C and broader review,
+proceeds through a set of stages based largely on the maturity of the work in
+question, including candidate recommendation, proposed recommendation and
+finally W3C Recommendation (a standard reviewed and endorsed by W3C
+members and the Director).
+For the complete W3C standardization process, see:
+http://www.w3.org/2005/10/Process-20051014/
+A list of all W3C Working Groups: http://www.w3.org/Consortium/activities
+IEEE-SA
+The Institute for Electrical and Electronics Engineering (IEEE) undertakes its
+standardization work through the IEEE Standards Association (IEEE-SA). In
+addition to producing the 802 Standards for Local and Metropolitan Area Networks
+and wireless networks such as WiFi, IEEE-SA also develops the standards for:
+! Intelligent highway systems and vehicular technology
+! Distributed generation renewable energy
+! Voting Equipment Electronic Data Interchange
+! Rechargeable Batteries for PCs
+! Components Architecture for Encrypted Shared Media Organic Field Effect
+Technology, and many others29
+The IEEE-SA has many thousands of members from businesses, universities and
+governments as well as members who participate in an individual capacity.30 There
+are three levels of membership: individual, as well as basic and advanced corporate
+membership.
+28 http://www.w3.org/Consortium/membership-faq
+29 http://standards.ieee.org/sa/sa-view.html
+30 IEEE-SA membership: http://standards.ieee.org/sa-mem/ind_overview.html
+In brief, the following is required before the publication of a new IEEE standard:
+1. sponsorship (support) for the proposed standard must be secured from one
+of the technical subgroups within IEEE;
+2. approval of the sponsored work item by the IEEE-SA New Standards
+Committee;
+3. the creation of a Working Group to draft the standard based on the approved
+work item;
+4. a ballot of the membership (and other interested parties) to approve the draft
+standard;
+5. review by the IEEE-SA Standards Review Committee; and 6) approval of the
+draft by the IEEE-SA Standards Board.31
+For the full standards development process:
+http://standards.ieee.org/develop/index.html
+A list of the IEEE-SA Working Group areas:
+http://grouper.ieee.org/groups/index.html
+How to Participate in Internet-Related Standards Development
+IETF
+The IETF is an open organization. There is no formal membership, no membership
+fee, and nothing to sign. By participating (joining a mailing list discussion or a
+meeting), one agrees automatically to accept the IETF's rules, including rules about
+intellectual property (patents, copyrights and trademarks).32
+There are a number of ways of participating in the IETF depending on one’s level of
+interest. Because much of the detailed technical work is done online, primarily via
+email, joining the mailing lists for one or two Working Groups is a good way to get a
+feel for the work and processes. Proposals are made and discussed, issues are
+raised and, ultimately, consensus is established online.
+Another way to participate is to attend an IETF meeting. This allows for a more
+immediate feel for the IETF and also provides for an opportunity to participate in
+some introductory sessions. Following issues of interest through the mailing lists
+can be hugely beneficial prior to going to an IETF meeting.33
+For more information on getting started at the IETF:
+http://www.ietf.org/newcomers.html
+31 http://www.talkstandards.com/wp-content/uploads/2009/05/case-study-ieee-20090505.pdf
+32 http://www.ietf.org/newcomers.html
+33 http://www.itu.int/en/ITU-T/publications/Pages/recs.aspx
+The Internet Society also offers fellowships to the IETF as a part of its Next
+Generation Leadership program: http://www.isoc.org/educpillar/fellowship/index.php
+The Internet Society also recognizes that, although they are very technical, IETF
+working group discussions define the future of Internet-based communications
+protocols. At the same time, policy influences how these technical solutions are
+implemented and used by society at large. To encourage government policy makers
+to understand the importance of these linkages, the Internet Society has established
+the IETF Policy Program. Invited policy makers from both developing and
+developed countries are encouraged to interact closely with IETF participants in an
+environment that supports dialogue, information sharing, and problem solving. The
+goal is to build support among policy makers worldwide for the IETF’s unique model
+of standards development and to provide an opportunity for the IETF to gain a
+better understanding of Internet related policy concerns and priorities in developing
+countries.
+The topics addressed in the program include: technical aspects of the Domain
+Name System; an overview of IP routing, interconnection and traffic exchange;
+security and privacy protocols; and the open standards processes. The program
+also creates an alumni network of past participants to keep in touch and provides a
+networking platform.
+http://www.internetsociety.org/what-we-do/education-and-leadershipprogrammes/
+ietf-and-ois-programmes/internet-society-fellowship-5
+W3C
+Participation in the W3C standardization processes occurs largely through its
+membership, but there are opportunities for non-members and the public at large to
+participate, as well as opportunities for individual experts.
+The “W3C invites the public to participate in W3C via discussion lists, events, blogs,
+translations, and other means described below. Participation in Community and
+Business Groups is open to all. Participation inW3C Working Groups (and other
+types) is open to W3C Members and other invited parties. W3C groups work with
+the public through specification reviews as well as contributions of use cases, tests,
+and implementation feedback.”34
+http://www.w3.org/community/ or http://www.w3.org/Consortium/activities
+Non-members have opportunities to comment on draft standards and other work
+items once they have reached Working Draft status. This outlined here in section
+7.4: http://www.w3.org/2005/10/Process-20051014/tr.html - rec-advance
+Interested organizations should refer to the following:
+http://www.w3.org/Consortium/join
+IEEE-SA
+Participation in the IEEE-SA standardization processes is limited to its individual
+and corporate membership although it does encourage public sector organizations
+to join. Working documents are only available to members.
+Interested organizations should refer to the following:
+http://standards.ieee.org/sa-mem/index.html
+OpenStand Principles for Open Standards Development
+In 2012, five leading global Internet standards organizations announced their agreement on
+jointly developed principles establishing a modern paradigm for standards. The shared
+OpenStand principles grew from their collective experience of standardization processes that
+have made the Internet and the World Wide Web today’s premiere platforms for innovation
+and borderless commerce. The effectiveness and efficiency of these principles and the
+modern paradigm for standards are proven by their ability to foster competition and
+cooperation, support innovation and interoperability and drive market success.
+The OpenStand principles encapsulate that successful standardization model and make it
+extendable across the contemporary, global economy’s gamut of technologies and markets.
+The principles comprise a modern paradigm in which the economics of global markets—fueled
+by technological innovation—drive global deployment of standards, regardless of their formal
+status within traditional bodies of national representation.
+The OpenStand principles demand:
+1. Cooperation
+Respectful cooperation between standards organizations, whereby each respects the
+autonomy, integrity, processes, and intellectual property rules of the others.
+2. Adherence to Principles
+Adherence to the five fundamental principles of standards development:
+! Due Process. Decisions are made with equity and fairness among participants.
+No one party dominates or guides standards development. Standards
+processes are transparent and opportunities exist to appeal decisions.
+Processes for periodic standards review and updating are well defined.
+! Broad Consensus. Processes allow for all views to be considered and
+addressed, such that agreement can be found across a range of interests.
+! Transparency. Standards organizations provide advance public notice of
+proposed standards development activities, the scope of work to be undertaken,
+and conditions for participation. Easily accessible records of decisions and the
+materials used in reaching those decisions are provided. Public comment
+periods are provided before final standards approval and adoption.
+! Balance. Standards activities are not exclusively dominated by any particular
+person, company or interest group.
+! Openness. Standards processes are open to all interested and informed
+parties.
+3. Collective Empowerment
+Commitment by affirming standards organizations and their participants to collective
+empowerment by striving for standards that:
+! are chosen and defined based on technical merit, as judged by the contributed
+expertise of each participant;
+! provide global interoperability, scalability, stability, and resiliency;
+! enable global competition;
+! serve as building blocks for further innovation; and
+! contribute to the creation of global communities, benefiting humanity.
+4. Availability
+Standards specifications are made accessible to all for implementation and
+deployment. Affirming standards organizations have defined procedures to develop
+specifications that can be implemented under fair terms. Given market diversity, fair
+terms may vary from royalty-free to fair, reasonable, and non-discriminatory terms
+(FRAND).
+5. Voluntary Adoption
+Standards are voluntarily adopted and success is determined by the market. Since the
+statement was announced, hundreds of organizations, individuals and firms have
+formally endorsed or expressed their support for the OpenStand principles.
+http://open-stand.org/

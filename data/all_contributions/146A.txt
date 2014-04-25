@@ -1,0 +1,224 @@
+Evolution and Internationalization of ICANN
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Flavio Rech Wagner
+Region: Brazil
+Organization: CGI.br - Brazilian Internet Steering Committee
+Sector: Other
+Keywords: ICANN, internationalization, multistakeholderism,
+accountability, IANA functions
+Abstract
+CGI.br understands that ICANN?s evolution shall be guided by two main tenets: (1)
+ICANN has to be fully internationalized and has to develop a proper framework for both
+vertical and horizontal accountability; and (2) ICANN's institutional evolution shall seek a
+better equilibrium among all stakeholders and among all countries. Instead of specific
+proposals, this document highlights goals to be pursued after the NetMundial meeting and
+posits requirements to be observed and questions to be asked in the course of that quest.
+CGI.br assumes that ICANN shall remain the responsible institution for the assignment of
+names and numbers and understands that keeping ICANN as focal point for those
+activities is the best alternative for the assurance of a unique and global Internet. It does
+not mean that ICANN?s operation and governance system are to remain unchallenged.
+Instead, it means that it is better to count on a fully established system to be enhanced
+than to start a whole new system.
+Document
+Evolution and Internationalization of ICANN
+CGI.br - Brazilian Internet Steering Committee (Note 1)
+Summary
+The Brazilian Internet Steering Committee (CGI.br) understands that ICANN’s evolution
+shall be guided by these main tenets: (1) the organization has to be fully internationalized
+and it has to develop a proper framework for both vertical and horizontal accountability;
+and (2) ICANN's institutional evolution shall seek a better equilibrium among all
+stakeholders, as well as among the different countries. Instead of listing a set of specific
+proposals, this document highlights some objectives to be pursued after the NetMundial
+meeting and posits some requirements to be observed and some questions to be asked in
+the course of that quest. It bears on the assumption that ICANN should be the responsible
+institution within the Internet governance ecosystem for the assignment of names and
+numbers, including the full spectrum of the IANA functions. CGI.br understands that the
+maintenance of ICANN as a focal point for those activities is the best alternative for the
+assurance of a unique and global Internet, for it has the established technical capacity
+and the policy-making mechanisms that can keep the Internet running without
+compromising its availability in the furtherance of current global Internet governance
+discussion fora, such as NetMundial and IGF. It does not mean that ICANN’s operation
+and its governance system are to remain unchallenged. It simply means that it is better to
+count on a fully established system to be enhanced than to start a whole system from
+scratch.
+1. The role for an internationalized ICANN
+CGI.br supports the measures that have been taken in regard to ICANN's
+internationalization, but understands that so far they have been focused mainly on the
+operational level of its mandate (Note 2). Far more important than those efforts is placing
+ICANN under a new international legal-institutional framework that replaces the current
+contract (the Affirmation of Commitments) with the USA government and removes
+ICANN's direct or indirect subordination to the US legal system (Note 3). In realistic terms,
+this goal may be achieved within a 5 to 10 years time frame, following a sequence of
+steps that are still to be devised, following a roadmap for the international Internet
+governance ecosystem that is expected as one of the outcomes of multistakeholder fora
+like NetMundial, IGF, and others.
+One of the main IANA functions is the global coordination of the allocation and registration
+of IP addresses. ICANN is still legally responsible for this function, but its practical
+execution is completely decentralized by the global structure of five different Regional
+Internet Registries (RIRs). These RIRs have in turn created a coordination forum - the
+Number Resource Organization (NRO). The RIRs and the NRO coordinate the process of
+distribution of IPv4 and IPv6 blocks, also taking into account a well designed and
+consensual strategy for the transition of the number resources. CGI.br strongly believes
+that this is a very good example of how other IANA functions can be decentralized and
+delegated, without removing the overall institutional responsibility of ICANN over those
+functions. It also serves as a very suitable model for the internationalization of IANA
+functions.
+The sound solution for the internationalization of ICANN - considering that it should keep
+all its current responsibilities - has to encompass the discussion of adequate solutions for
+the effective internationalization of all IANA functions (not only the allocation and
+registration of IP addresses). In the search of an adequate legal and institutional
+framework that replaces the current contract with the US government, it will be extremely
+relevant to decide which entity, or set of entities, will be made responsible for the
+management of the root zone file, such as to guarantee its stability, security, and
+reliability. An adequate direction for that matter can be the assignment of this task to a set
+of international entities (in a way similar to the RIRs/NRO structure for IP allocation) that
+are already responsible for other aspects of the Internet governance, that operate in a
+well-balanced multistakeholder model, and that bear the required technical qualifications.
+A third aspect of the evolution of ICANN towards its internationalization is its
+accountability. ICANN is currently accountable to the US government, according to the
+goals and mechanisms that are established by the AoC. In theoretical terms, those
+present to the NetMundial meeting shall bear in mind the fact that there are different sorts
+of accountability that depend mostly on the nature of the relations and of the interest of
+the actors in a specific institutional setting (Note 4). Within democratic political institutions,
+for instance, vertical and horizontal accountability are two different components of overall
+accountability (Note 5). Vertical accountability means that each specific organ within the
+ICANN chart has to be fully accountable to its direct constituents. Horizontal accountability
+means that, within the ICANN system, every single organ has to be fully accountable to all
+others as well. And all of the system has to be fully accountable to Internet users in
+general, in a reliable, open and transparent, and timely manner. How can ICANN, in an
+international legal and institutional framework different from the AoC and from the current
+bylaws that guide the corporation, be accountable to the public interest, represented by all
+end users of the Internet, in a way that is consistent with universally accepted principles of
+use and governance of the Internet which respect fundamental human rights and promote
+social, economic, and cultural progress of citizens of all countries?
+An adequate roadmap for the evolution of the global Internet governance ecosystem,
+together with a roadmap for the internationalization of ICANN, must firstly look for this set
+of principles for the use and governance of the Internet, from which the definition of
+accountability mechanisms for ICANN will be possible. In a certain way, the set of
+stakeholder groups that are present in ICANN also represents the international public
+interest, expressed by a set of principles for use and governance of the Internet - or, with
+the appropriate improvements in the structure and operation of ICANN, they may be able
+to represent this public interest. A possible way for improving the accountability of ICANN
+is to assign the oversight responsibility within the new institutional setting to be proposed
+as an outcome of NetMundial to already existent stakeholder groups within the ICANN
+system. Another approach would be the assignment of that oversight to entities outside
+ICANN, as long as they are recognized as representative of the international public
+interest. A clear advantage of this second approach is the avoidance of an overlapping
+reality, in which the organization responsible for policy making is also responsible for the
+oversight of policy implementation.
+2. Leveling the playfield among stakeholders and countries
+In a paper presented at the 8th Annual GigaNet Symposium, Laura DeNardis and Mark
+Raymond classified multistakeholderism according to the type of stakeholders involved
+(States, firms, non-governmental organizations, and/or international organizations) and
+the nature of authority relations enshrined within a specific political community
+(hierarchical, polyarchic, or anarchic). The matrix derived from those two variables yields
+thirty three different forms of multistakeholderism (Note 6). CGI.br has its own model of
+governance - recognized as a best practice within several different fora, including the
+Internet Governance Forum and ICANN itself. It has successfully created a decalogue of
+fundamental principles for the use and governance of the Internet in Brazil. Both CGI.br's
+governance model and its decalogue can inform the way forward for the global
+governance of the Internet, not only because they represent the commitment of all
+stakeholders involved, but also because it expressly deals with cultural and socioeconomic
+developmental issues that can serve the purposes and interests of developing
+and the least developed countries in global governance at large (Note 7).
+A first step on that direction shall be the establishment of a serious and permanent
+discussion about the appropriate contours of multistakeholderism for Internet governance
+in the 21st Century. Bearing in mind the study conducted by DeNardis and Raymond,
+CGI.br believes that the best model comprises all of the relevant actors within their scope
+of action and is polyarchic in form (the one in which authority is neither centralized within
+a single entity nor inexistent).
+Despite being polyarchic in nature, ICANN multistakeholder governance sometimes can
+tilt between anarchy (in which economic and political power outside institutional
+constraints is the enforcing mechanism) and hierarchy (in which the Board or the GAC, for
+instance, imposes restrictions on the action of other stakeholders). In light of that abstract
+reality, analyses of the structure and operation of ICANN have revealed various problems
+regarding an inadequate balance among the various stakeholder groups. Examples of
+problems are: the inadequacy of the mechanism for governments’ participation via the
+GAC; the very small influence of civil society upon the final decisions of the GNSO and
+the Board; and the capture of ICANN by the domain industry (both registries and
+registrars). To these problems we must add the lack of balance among different countries,
+whereby developing countries (both their governments and representatives of their civil
+societies and private sectors) have a very small influence on the policy cycle. The current
+structure of ICANN, including the Board, the SOs and the ACs, with their respective roles,
+and in particular the daily operation of these bodies, do not seem to achieve an adequate
+balance among all stakeholder groups and among all countries (Note 8).
+Although the improvements regarding transparency and accountability suggested by the
+ATRT 1, and revised and enhanced by the ATRT 2, go in the right direction, they lack
+enough generality, since they basically reflect priorities and conditions expressed by the
+AoC. A revision of those recommendations under a much more general framework could
+bring important enhancements to the structure and operation of ICANN.
+In the following, we suggest some specific paths to be followed. This is merely illustrative
+and shall be taken as a point of departure for further discussions:
+1. Even if the GAC keeps its role as an advisory body to the Board, government
+representatives should participate effectively in the policy development processes in
+the GNSO. Governments' influence on those policies only when they are being
+considered by the Board for final deliberation should be avoided, as it represents an
+unduly advantage over other stakeholder groups.
+2. The weight of registries and registrars in the policy development processes should
+be reduced. The current structure of “houses” in the GNSO gives them the same
+weight as all other stakeholder groups together, while, in fact, those other groups
+represent the interests of all other sectors of the society and are thus better placed
+to represent the public interest.
+3. The structure and the role of the ALAC should be revised, since there is a clear
+redundancy among the ALAC and stakeholder groups in the GNSO; also the ALAC
+does not take part in the policy development processes in the GNSO. If the ALAC is
+meant to represent, in theory, the interests of all Internet users, who should be
+considered as very important stakeholders (maybe even the most important ones),
+this seems highly contradictory. Besides, the participation of individuals and entities
+in the ALAC neither follows transparent rules nor guarantees an adequate global
+representation of users.
+4. The composition of the Board should be revised in order to reflect a better balance
+among stakeholder groups, considering the ultimate goals of ICANN, which should
+be materialized by a set of principles adopted by the organization for the use and
+governance of the Internet. In particular, in order to reinforce its multistakeholder
+nature, the number of Board seats allocated by the NomCom could be reduced,
+thus increasing the slots for Board members directly elected by the SOs.
+5. Sufficient funds should be provided to promote and ensure the participation of
+individuals representing stakeholder groups from developing countries.
+Mechanisms should be implemented to ensure their effective participation in the
+different organizations, committees, and working groups of ICANN.
+6. Once an adequate and balanced participation of all stakeholder groups (including
+governments) and all countries in the policy development processes in the GNSO is
+ensured, the role of the Board regarding the final approval of those policies should
+be revised. The Board should have only an oversight role over those processes, in
+a way to guarantee that they follow the adequate balance among all stakeholder
+groups and that the public interest has been served. The guidance for the Board
+shall derive from the overarching set of principles for the use and governance of the
+Internet to which ICANN should be committed. Also the Board accountability and
+transparency mechanisms should be improved, in such a way that the global
+society is able to check that the actions of the Board are consistent with the
+safeguard of those principles.
+Notes:
+1. CGI.br thanks the collaboration of Mr. Diego Rafael Canabarro in the drafting of this
+document. He is a PhD candidate in Political Science and Research Assistant to the
+Center for International Studies on Government (CEGOV) at the Federal University of Rio
+Grande do Sul (UFRGS), Brazil.
+2. ERMERT, M. ICANN CEO Wants To Shift “Centre Of Gravity” Away From US. IP
+Watch, April 9, 2013. Available in: www.ip-watch.org/2013/04/09/icann-ceo-wants-to-shiftcentre-
+of-gravity-away-from-us/.
+3. FROOMKIN, F. Almost Free: An Analysis of ICANN's ‘Affirmation of Commitments’
+(January 20, 2011). Journal of Telecommunications and High Technology Law, Vol. 9,
+2011; University of Miami Legal Studies Research Paper No. 2011-01. Available at
+SSRN: http://ssrn.com/abstract=1744086.
+4. LERNER, J. S.; TETLOCK, P. E. Accounting for the effects of accountability.
+Psychological bulletin, v. 125, p. 255–275, 1999.
+5. O'DONNELL, G. (1999), "Horizontal accountability in new democracies", in Schedler,
+A.G., O Diamond and M F Planner (editors).
+6. DENARDIS, Laura; RAYMOND, Mark, Thinking Clearly About Multistakeholder Internet
+Governance (November 14, 2013). Available at SSRN: http://ssrn.com/abstract=2354377
+or http://dx.doi.org/10.2139/ssrn.2354377. See also DENARDIS, Laura.
+“Multistakeholderism and the Internet Governance Challenge to Democracy,” Harvard
+International Review Vol. XXXIV, N. 4, Spring 2013.
+7. http://www.cgi.br/regulamentacao/pdf/resolucao-2009-003-pt-en-es.pdf
+8. FELD, H. Structured to Fail: ICANN and the Privatization Experiment. Who Rules the
+Net? Internet Governance and Jurisdiction. A. THIERER and C. W. CREWS. Washington,
+DC, USA, Cato Institute, (2003). --- PALFREY, J. G. The End of the Experiment: How
+ICANN's Foray into Global Internet Democracy Failed. Harvard Public Law Working Paper
+No. 93; Berkman Center Research Publication No. 2004-02. Available in:
+<http://ssrn.com/abstract=487644>. --- HUSTON, G. Opinion: ICANN, the ITU, WSIS, and
+Internet Governance. The Internet Protocol Journal, v. 8, n. 15-28, 2012. --- KLEIN, H.;
+MUELLER, M. What to Do About ICANN: A Proposal for Structural Reform. April 5, 2005.
+Available in: <http://Internetgovernance.org/pdf/igp-icannreform.pdf>. --- LACROIX, D.
+(2013a). Governance of Top Level Domains (TLDs): a failed revolution? 1st International
+Conference on Internet Science, Brussels, April 9-11, pages 133-141, 2013.

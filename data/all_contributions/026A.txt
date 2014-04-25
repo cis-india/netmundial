@@ -1,0 +1,165 @@
+Roadmap for the Further Evolution of the Internet
+Governance Ecosystem ? ICANN
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Gabrielle Guillemin
+Region: Global
+Organization: Article 19 and Best Bits
+Sector: Civil Society
+Keywords:
+Abstract
+This is a joint submission principally authored by ARTICLE 19 in consultation with other
+stakeholders and published through the platform of the Best Bits civil society network,
+where it has been endorsed by the organisations and individuals listed at
+http://bestbits.net/netmundial-icann/. It is the third of three such joint submissions, the
+others being on Internet governance principles (at http://bestbits.net/netmundialprinciples/)
+and on other institutional mechanisms in the further evolution of the Internet
+governance ecosystem (at http://bestbits.net/netmundial-roadmap/).
+Document
+Introduction
+On 23-24 April 2014, the Global Multistakeholder Meeting on the Future of Internet
+Governance (NETmundial 2014) will meet in Brazil to discuss a roadmap for the further
+evolution of the governance ecosystem. This submission deals with the place of the
+Internet Corporation for Assigned Names and Numbers (ICANN) in this ecosystem.
+Whilst ICANN has indicated on several occasions that it solely focuses on the technical
+administration of the Domain Name System (DNS) and the coordination of the IP address
+space, it is simply impossible to ignore the broader public policy dimensions of its work.
+This includes, among other things, intellectual property, competition and taxation policy. In
+particular, ICANN defines and enforces intellectual property rules regarding rights in
+domain names, which inevitably has a highly significant impact on the ability of internet
+users to access information and therefore, the meaningful exercise of the right to freedom
+of expression.
+Over the years, however, several concerns have been raised about ICANN’s legitimacy in
+taking policy decisions in certain areas due to its corporate governance arrangements, in
+particular:
+The lack of independence from the US government as regards the IANA
+function;
+The lack of representation of developing countries within ICANN;
+The disproportionate influence of the Government Advisory Committee
+(GAC);
+The lack of accountability of the Board.
+In this submission, ARTICLE 19 and the undersigned organisations offer some
+recommendations with a view to improving ICANN’s current governance structure and
+accountability, as well strengthening the protection of human rights within ICANN. We
+believe that reform of ICANN is inevitable if it is to fulfil its promise as a truly global
+multistakeholder organisation. In order to succeed, we believe that any reform of ICANN
+should be guided by the following principles:
+Multistakeholder, not multilateral
+Human Rights, in particular the rights to free expression, privacy and due
+process.
+Transparency & Accountability
+Inclusiveness & Diversity
+We elaborate on what this means in practice further below. It is hoped that our submission
+will prove valuable for the safeguard of the multistakeholder model of Internet Governance.
+A. ICANN’s legal status
+We believe that, in order to both ensure ICANN’s independence and protect it from the
+disproportionate influence of governments, ICANN’s nongovernmental status should be
+affirmed and formalised. By the same token, it would allow for ICANN’s nature as a
+multistakeholder organisation to be both maintained and strengthened.
+For the same reason, we would oppose turning ICANN into an international intergovernmental
+organisation, which would make the organisation subordinate to the
+interests of Member States.
+B. Mandate
+Although ICANN’s foray in content regulation has been very limited so far (see, for
+instance .xxx controversy), we are concerned that its policy-making powers could in
+principle allow it to engage in these kinds of activities to a greater degree. We therefore
+recommend that ICANN’s mandate should be clarified and narrowed, for example by:
+Introducing a provision in ICANN’s bylaws prohibiting the organisations
+from engaging in content regulation or conduct that would violate the rights
+to freedom of expression or privacy.
+Introducing in ICANN’s bylaws a right of private parties to initiate legal
+challenges to ICANN actions on these grounds, which could be taken
+before the local courts or, in exceptional circumstances before an
+arbitration tribunal.
+The resolution of trademark and other Intellectual Property disputes
+should duly take into account the right to freedom of expression and the
+right to culture as laid down in international instruments such as the
+International Covenant on Civil and Political Rights and the International
+Covenant on Economic Social and Cultural Rights.
+C. Location / Applicable law
+To the extent that ICANN should remain a non-profit public benefit corporate
+organisation, Californian law would appear suitable.
+However, in line with the President’s Strategy Committee (PSC)’s 2009 report, it may be
+desirable for ICANN to delegate some of its functions to subsidiaries that would be
+located elsewhere.
+There are a number of advantages to ICANN not moving its headquarters outside the US:
+it would ensure the stability of current contractual arrangements with
+registries, registrars etc.;
+there would be no need to negotiate with the USG;
+it would not prevent ICANN from expanding its reach beyond the US. To a
+certain extent, that has already taken place through the creation of various
+hub and engagement offices around the world.
+Ultimately, the question whether ICANN should create subsidiaries outside the US is very
+much an operational decision, involving numerous parameters, that is beyond the scope
+of the present document.
+Finally, it is worth noting that the PSC 2009 report suggested that Switzerland and
+Belgium might offer suitable solutions for ICANN to pursue its objective of international
+expansion. If, for example, ICANN were to decide to open a subsidiary in Switzerland, an
+interesting question might be whether the IANA function or one aspect of it could be
+delegated to that entity.
+D. Denationalise the IANA contract
+Acceptable solutions for assignment of the IANA root zone function should meet several
+criteria: (1) protection of the root zone from political or other improper interference; (2)
+integrity, stability, continuity, security and robustness of the administration of the root
+zone; (3) widespread trust by Internet users in the administration of this function; (4)
+support of a single unified root zone; and (5) agreement regarding an accountability
+mechanism for this function that is broadly accepted as being in the global public interest.
+In order to protect the rootzone from political interference, we believe that multilateralisation
+of the IANA contract should be avoided. Rather, to the extent that it is
+functionally feasible, we believe that the IANA function should be delegated to different
+private entities along the lines suggested by the IGP. For instance, there is no reason in
+principle why the IANA functions should be concentrated in ICANN, which already
+performs a wide range of functions. Greater effectiveness and accountability are more
+likely to be achieved through a distributed model of governance here.
+E. Improved representation and participation of developing countries
+This should take place both within ICANN generally and the GAC
+specifically.
+Sufficient fund should be allocated to this end, for instance by redirecting
+some of the revenues from gTLD domain name registrations to developing
+countries.
+In line with the Accountability and Transparency Review Team 2 (ATRT2)
+recommendations, ICANN should translate all its working documents,
+policy, minutes of meetings in the UN official languages.
+F. Making the GAC more inclusive, transparent and accountable
+Following the recommendations of the ATRT 1 and 2, GAC’s proceedings
+should be made open to other stakeholders to observe and participate, as
+appropriate. This could possibly be accomplished through the participation
+of liaisons from other Advisory Committees and Supporting Organisations
+to the GAC, once that mechanism has been agreed upon and
+implemented;
+The GAC’s working methods should be made more transparent along the
+lines recommended by the ATRT 1 and 2;
+There is no reason in principle why GAC’s advice should be given more
+weight than that of other advisory committees. The same privilege should
+be extended to the other advisory groups, e.g ALAC and SSAC, by
+amending ICANN’s bylaws accordingly. More generally, the GAC should
+be on a equal footing with the other advisory committees;
+Granting any additional powers to the GAC should be firmly resisted,
+including the delegation of ccTLDs to governments. Whilst this may seem
+as naturally falling within states’ jurisdictions, it carries with it high risks for
+the right to freedom of expression if used as a means to control content;
+Consideration should be given to mainstreaming government
+representatives participation within supporting organisations, in particular
+the Generic Name Supporting Organisation. A working group could be put
+in place to that effect.
+G. Accountability of the Board
+The decision-making process of the Board should be made more
+transparent in line with ATRT2 recommendations, including the giving of
+reasons for its decisions;
+The Independent Review of Board Actions should be strengthened. At a
+minimum, the Independent Review Process Panel’s decisions should be
+both binding and contain reasons, which should be made public as a
+matter of principle;
+There should be a possibility to call for dissolution of the Board in
+exceptional circumstances;
+If ICANN’s status as a private organisation is to be retained, consideration
+should be given to broadening the scope of the issues that can be taken
+up before the local courts, in particular issues relating to the right to
+freedom of expression. Another possibility would be to include a unilateral
+option clause that would enable a choice between the local courts or
+arbitration proceedings.
+Conclusion
+For ICANN’s reform to be successful, it is vital for the private sector, civil society,
+governments and users to be engaged in conversations about Internet Governance
+because of their inherent value for innovation, protection of rights, stability and security.
+We hope that the above proposal will help stimulate discussion about reform of ICANN.

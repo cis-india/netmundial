@@ -1,0 +1,284 @@
+The Commonwealth Cybergovernance Model
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Lasantha De Alwis
+Region: Commonwealth Telecommunications Organisation
+Organization: Director/Head, Operations Department
+Sector: Government
+Keywords:
+Abstract
+The Commonwealth Telecommunications Organisation (CTO at www.cto.int) is the oldest
+and largest Commonwealth entity in the field of telecommunications and ICTs with
+Commonwealth countries, non-Commonwealth countries and industry as members. The
+Commonwealth, with the CTO as the centre, provides an ideal platform to share good
+practices and, where appropriate, reach consensus on aspects of Cybergovernance.
+Guided by the Commonwealth principles, appreciating the need for inter-Commonwealth
+cooperation and recognizing the capabilities available within membership, the CTO has
+carried out a project to develop a Commonwealth Cybergovernance Model, which the
+members could customize according to their unique situations. The project was launched
+by Commonwealth ICT Ministers on 10th October 2013 in Abuja, Nigeria and the model
+was adopted by the ICT Ministers on 4th March 2014 in London at the Marlborough
+House.
+Document
+Commonwealth ICT Ministers Forum 2014
+Marlborough House, London
+3 - 4 March 2014
+Commonwealth Cybergovernance Model
+1. Introduction
+1.1. Recognising the central importance of the internet to Commonwealth members and
+following the Abuja Declaration of Proposed Commonwealth Cybergovernance Model of 9
+October 2013 and subsequent consultations, the Commonwealth Telecommunications
+Organisation offers this draft set of principles for consideration and adoption during the
+Commonwealth ICT Ministers Forum. The principles are intended to guide
+Commonwealth members to plan and implement practical actions in policy development,
+regulation and legislation, cross-border collaboration, capacity building, technical
+measures and other operational activities.
+2. Cyberspace – the internet and more
+2.1. We are in an era of changing economic circumstances creating both opportunity and
+uncertainty, giving rise to new trade and economic patterns together with unforeseen
+threats to peace and security, and a surge in popular demands for democracy, human
+rights and for broadened social and economic opportunities. Previously unimagined
+access to information and communication between individuals across our planet is driving
+economic and social development in the 21st century. Cyberspace provides this access,
+helping us to bridge the digital divide while influencing every aspect of our economic and
+social activities.Cyberspace is becoming our global central nervous system.Cyberspace
+continues to develop at a pace unparalleled in our history - growth is anticipated from 2bn
+to 4bn users by 2020, many in developing countries. This pace of change necessitates
+urgent action in reaching consensus on Cybergovernance.
+2.2. Its open, decentralised and distributed nature, that empowers the individual, has
+fostered innovation, collaboration and rapid development.Enjoyment of those benefits
+relies upon its safety, security and resilience. Cyberspace can also be a vehicle for crime,
+extremism and other social ills. Governments, industry, civil society and users have a
+shared responsibility to tackle those threats to society. Necessary security measures may
+be in tension with the very features that have made Cyberspace a success and, in
+determining an equitable balance, our behaviour in Cyberspace will benefit from our
+shared Commonwealth values that govern many aspects of our lives.
+3. Applying Commonwealth values in
+Cyberspace
+3.1. The Commonwealth Charter of March 2013 reflects the values and aspirations which
+unite the Commonwealth - democracy, development, human rights and the rule of law.
+The Charter expresses the commitment of member states to the development of free and
+democratic societies and the promotion of peace and prosperity to improve the lives of all
+peoples of the Commonwealth. It also acknowledges the role of civil society in supporting
+the goals and values of the Commonwealth.
+3.2. The principles concerning our use of Cyberspace today and the evolving nature of
+Cyberspace tomorrow should be derived from, should respect and reflect our shared
+Commonwealth values as set out in the Commonwealth Charter. Within the context of the
+Charter as a whole, we identify the key characteristics, which led to our principles, as
+exemplified in Appendix 1. This analysis is based on the principle that what is
+unacceptable off-line is unacceptable on-line. Priorities for practical action, in accordance
+with these principles, will depend on the prevailing circumstances in each country.
+4. Commonwealth principles for the
+use of Cyberspace
+4.1. As we operate in Cyberspace and work with others to shape its continuing
+development, we will use the following principles to guide our decisions, actions and
+demonstrate our progress towards meeting these principles. The principles are best
+considered collectively and not each in isolation without regard to the whole because
+frequently some are in tension with each other. We reiterate the urgency with which these
+issues need to be addressed.
+Principle 1: We contribute to a safe and an effective global
+Cyberspace
+·as a partnership between public and private sectors, civil society and users, a collective
+creation;
+·with multi-stakeholder, transparent and collaborative governance promoting continuous
+development of Cyberspace;
+·where investment in the Cyberspace is encouraged and rewarded;
+·by providing sufficient neutrality of the network as a provider of information services;
+·by offering stability in the provision of reliable and resilient information services;
+·by having standardisation to achieve global interoperability;
+·by enabling all to participate with equal opportunity of universal access;
+·as an open, distributed, interconnected internet;
+·by providing an environment that is safe for its users, particularly the young and
+vulnerable;
+·made available to users at an affordable price.
+Principle 2: Our actions in Cyberspace support broader
+economic and social development
+·by enabling innovation and sustainable development, creating greater coherence and
+synergy,through collaborationand the widespread dissemination of knowledge;
+·respecting cultural and linguistic diversity without the imposition of beliefs;
+·promoting cross-border delivery of services and free flow of labour in a multi-lateral
+trading system;
+·allowing free association and interaction between individuals across borders;
+·supporting and enhancing digital literacy;
+·providing everyone with information that promotes and protects their rights and is
+relevant to their interests, for example to support transparent and accountable
+government;
+·enabling and promoting multi-stakeholder partnerships;
+·facilitating pan-Commonwealth consultations and international linkages in a globally
+connected space that also serves local interests.
+Principle 3: We act individually and collectively to tackle
+cybercrime[5]
+·nations, organisations and society work together to foster respect for the law;
+·to develop relevant and proportionate laws to tackle Cybercrime effectively;
+·to protect our critical national and shared infrastructures;
+·meeting internationally-recognised standards and good practice to deliver security;
+·with effective government structures working collaboratively within and between states;
+·with governments, relevant international organisations and the private sector working
+closely to prevent and respond to incidents.
+Principle 4: We each exercise our rights and meet our
+responsibilities in Cyberspace
+·we defend in Cyberspace the values of human rights, freedom of expression and privacy
+as stated in our Charter of the Commonwealth;
+·individuals, organisations and nations are empowered through their access to knowledge;
+·users benefit from the fruits of their labours; intellectual property is protected accordingly;
+·users can benefit from the commercial value of their own information; accordingly,
+responsibility and liability for information lies with those who create it;
+·responsible behaviour demands users all meet minimum Cyber hygiene requirements;
+·we protect the vulnerable in society in their use of Cyberspace;
+·we, individually and collectively, understand the consequences of our actions and our
+responsibility to cooperate to make the shared environment safe; our obligation is in direct
+proportion to culpability and capability.
+5. Practical application of these
+principles
+5.1. Each Commonwealth member may find it beneficial to develop individually, a whole
+of government strategy, reflecting the many facets in making Cyberspace safe, secure,
+resilient and rewarding, that will address unique local needs of countries with their
+different regions, sectors and industries and deliver their particular economic and social
+priorities.
+Appendix 1: Implications for
+cyberspace of each element of the
+Commonwealth Charter
+a.Democracy
+Our Charter says, “We recognise the inalienable right of individuals to participate in
+democratic processes, in particular through free and fair elections in shaping the society
+in which they live...”Used effectively, Cyberspace supports participative democracy by
+offering multiple channels for citizen’s engagement with the democratic process,
+transparency and accountability of our governments, leading to good governance and a
+fairer society.
+b.Human Rights
+Our Charter says, “We are committed to the Universal Declaration of Human Rights and
+other relevant human rights covenants and international instruments. We are committed
+to equality and respect for the protection and promotion of civil, political, economic, social
+and cultural rights, including the right to development, for all without discrimination on any
+grounds as the foundations of peaceful, just and stable societies...” The operation of
+Cyberspace could and should respect, reflect and protect these rights as they are applied
+both online and offline. Widespread access to information through Cyberspace and the
+network of stakeholders it could help build, equips societies to protect Human Rights while
+supporting individuals in their quest for dignified livelihoods.
+c.International peace, security and economic development
+Our Charter says, “We firmly believe that international peace and security, sustainable
+economicgrowth and development and the rule of law are essential to the progress and
+prosperity of all. We are committed to an effective multilateral system based on
+inclusiveness, equity, justice and international law...”Whilst Cyberspace can give rise to
+some new threats to global peace, it has a significant role to play in engendering
+international peace by promoting understanding across cultures and communities, respect
+for international law andadherence to accepted norms of behaviour. The contribution
+Cyberspace could make to economic development is far more than the already significant
+contribution it is making. The operation of an open and inclusive Cyberspace, while
+recognising legitimate economic, security, cultural and social concerns of members, will
+deliver these Charter outcomes.
+d.Tolerance, respect and understanding
+Our Charter says, “We emphasise the need to promote tolerance, respect, understanding,
+moderation and religious freedom which are essential to the development of free and
+democratic societies, and recall that respect for the dignity of all human beings is critical
+to promoting peace and prosperity. We accept that diversity and understanding the
+richness of our multiple identities are fundamental to the Commonwealth’s principles and
+approach.” Cyberspace provides direct person-to-person social interactions between
+social, ethnic, religious and racial groups and thereby promotes respect for cultural and
+linguistic diversity, encouraging social development. This can help break down barriers of
+ignorance, suspicion and prejudice, help protect the vulnerable poor, disabled and rural,
+supporting these Charter outcomes.
+e.Freedom of Expression
+Our Charter says, “We are committed to peaceful, open dialogue and the free flow of
+information, including through a free and responsible media, and to enhancing democratic
+traditions and strengthening democratic processes.” Cyberspace provides the means for
+unparalleled channels for the free flow of information; its evolution and operation must
+continue to deliver the means for open and responsible dialogue.
+f.Rule of Law
+Our Charter says, “We believe in the rule of law as an essential protection for the people
+of the Commonwealth and as an assurance of limited and accountable government...” Our
+operation and use of Cyberspace must respect the law, the law must comply with
+international norms, and the law must be capable of protecting the people and property.
+As Cyberspace develops, Members must participate in the continued development of
+norms of behaviour and laws.
+g.Good Governance
+Our Charter says, “We reiterate our commitment to promote good governance through the
+rule of law, to ensure transparency and accountability and to root out, both at national and
+international levels, systemic and systematic corruption.”Cyberspace can support good
+governance of our countries through transparency and accountability of government and
+private sector activities.The governance of Cyberspace itself should in turn be inclusive,
+transparent and accountable with the active participation of governments, private sector
+and civil society.
+h.Sustainable Development
+Our Charter says, “We recognise that sustainable development can help to eradicate
+poverty by pursuing inclusive growth whilst preserving and conserving natural ecosystems
+and promoting social equity. We stress the importance of sustainable economic and social
+transformation to eliminate poverty and meet the basic needs of the vast majority of the
+people of the world and reiterate that economic and social progress enhances the
+sustainability of democracy.”
+Cyberspace is a doorway to the global economy and an opportunity for less developed
+states to participate in world markets, to develop new markets, and to commoditise their
+resources, promoting economic development.
+“We are committed to removing wide disparities and unequal living standards as guided
+by internationally agreed development goals. We are also committed to building economic
+resilience and promoting social equity, and we reiterate the value in technical assistance,
+capacity building and practical cooperation in promoting development. We are committed
+to an effective, equitable, rules-based multilateral trading system, the freest possible flow
+of multilateral trade on terms fair and equitable to all, while taking into account the special
+requirements of small states and developing countries.”
+Cyberspace can help find synergies with other development work and thereby bring
+greater coherence to development initiatives. Through more universal access to
+information and to markets, Cyberspace can help remove disparities of opportunity and
+the means to bring these aspirations to fruition.
+i.Protecting the Environment
+Our Charter says, “We recognise the importance of the protection and conservation of our
+natural ecosystems and affirm that sustainable management of the natural environment is
+the key to sustained human development. We recognise the importance of multilateral
+cooperation, sustained commitment and collective action...” The availability of previously
+unparalleled amounts of sensory information, through Cyberspace, helps us better
+manage our environment and can reveal to the public eye any emerging damage.
+j.Access to Health, Education, Food and Shelter
+Our Charter says, “We recognise the necessity of access to affordable health care,
+education, clean drinking water, sanitation and housing for all citizens and emphasise the
+importance of promoting health and well-being in combating communicable and noncommunicable
+diseases.” Access to information, reliable metrics and delivery channels
+offered by Cyberspace form a key part of delivering these outcomes, particularly for rural
+communities.
+k.Gender Equality
+Our Charter says, “We recognise that gender equality and women’s empowerment are
+essential components of human development and basic human rights. The advancement
+of women’s rights and the education of girls are critical preconditions for effective and
+sustainable development.” Cyberspace can contribute significantly to promoting gender
+equality and equity, supporting Millennium 2015 Development Goal 3, though this
+depends upon access to ICT for women and girls, particularly in rural areas. Its nature as
+an open source of information and its ability to empower individuals, make Cyberspace a
+platform to promote gender equality.
+l.Importance of Young People in the Commonwealth
+Our Charter says, “We recognise the positive and active role and contributions of young
+people in promoting development, peace, democracy and in protecting and promoting
+other Commonwealth values, such as tolerance and understanding, including respect for
+other cultures...” Young people, being digital natives, have embraced Cyberspace
+wholeheartedly and come up with numerous innovations that have enriched Cyberspace.
+Through education and guidance on the safe and effective use of Cyberspace, young
+people will channel this dynamism and creativity into higher purposes, fostering wider
+social understanding and triggering valuable innovation.
+m.Recognition of the Needs of Small States
+Our Charter says, “We are committed to assisting small and developing states in the
+Commonwealth, including the particular needs of small island developing states...”
+Cyberspace could help small island states surmount numerous challenges including
+paucity of expertise, geographic isolation and economies of scale. Cyberspace offers a
+gateway to global markets for small scale producers as much as for large scale
+producers, breaking down one of the key barriers to market entry faced by small island
+states.
+n.Recognition of the Needs of Vulnerable States
+Our Charter says, “We are committed to collaborating to find ways to provide immediate
+help to the poorest and most vulnerable including least developed countries, and to
+develop responses to protect the people most at risk.”Cyberspace could help poorest,
+most marginalised and vulnerable by providing access to information and to markets for
+economic development.
+o.The Role of Civil Society
+Our Charter says, “We recognise the important role that civil society plays in our
+communities and countries as partners in promoting and supporting Commonwealth
+values and principles...” Cyberspace offers the means for easier and more effective
+engagement by individuals in society, particularly the rural, the vulnerable and
+marginalised. A more active civil society can help promote our values and principles in
+today’s Cyberspace. A more active civil society can also stimulate further progress in
+support of our values and principles by engaging directly in the development and
+operation of tomorrow’s Cyberspace.
+p.Cyberspace itself
+Our Charter recognises the transformational role of Information and Communication
+Technology, which underpins Cyberspace, and the need to harness its power in a positive
+way: “We also recognise the importance of information and communication technologies
+as powerful instruments of development; delivering savings, efficiencies and growth in our
+economies, as well as promoting education, learning and the sharing of culture. We are
+committed to strengthening its use while enhancing its security, for the purpose of
+advancing our societies.”

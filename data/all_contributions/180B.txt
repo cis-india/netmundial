@@ -1,0 +1,67 @@
+Document
+
+The Internet Governance Working Group of the Information Technology Industry Council (ITI) respectfully submits this paper regarding our recommendations for a Roadmap for Further Evolution of the Internet Governance Ecosystem for consideration at the “Global Multistakeholder Meeting on the Future of Internet Governance” or NETmundial parties. We applaud the Brazilian Government for taking this initiative to bring together stakeholders from around the world to discuss the important subject of Internet governance. ITI is the premier advocacy and policy organization for the world’s leading innovation companies.
+
+ 
+
+Our members pioneer cutting-edge products and services that improve people’s daily lives, and maintain investments, supply chains and operations around the world.  As a result, we have an acute understanding of the impact of international policies can have on the Internet and the World Wide Web. In recent years, some governments have argued that a multilateral, rather than a multistakeholder, model for Internet governance would better serve public policy objectives.  The multistakeholder model approach to Internet governance and technical management has allowed the Internet to grow and flourish into the critical global platform it is today, and we believe it will continue to best serve Internet users far into the future. As we see it, there are two main challenges before us.  First, we must ensure the Internet governance model continues to evolve in a manner that allows all stakeholders to have a voice in critical policy discussions.
+
+ 
+
+The Internet is expected to serve 90-95% of the world’s population by 2030.  Uses of the Internet continue to grow and diversify.  Second, all actors have a common interest in the security, stability and interoperability of the overall infrastructure.  However, no one actor or organization has the capacity to address all of the various public policy and technical issues impacting the Internet and its users. Because Internet governance is multifaceted – spanning technical, political, and policy issues – there is no single organization that manages or has jurisdiction over all Internet governance questions; instead, the Internet’s policies and protocols have rapidly evolved through a set of diverse organizations.  Together, the robust set of multistakeholder Internet institutions – ICANN, IETF, ISOC, etc. – each with different core functions and strengths, address nearly all Internet policy and technical issues.  Nevertheless, there is still room for improvement, and the ICT industry welcomes the opportunity to work with all stakeholders to help create an even more robust, flexible and stable Internet.
+
+ 
+
+Areas for Improvement
+
+ 
+
+The Internet community does not lack for places to discuss key Internet policy and governance questions.  Rather, a critical concern voiced by some stakeholders is that the assortment of organizations and overlapping missions is confusing and difficult to navigate without considerable time and effort.  While these concerns are valid, they should not necessarily lead to the conclusion that all Internet policy discussions must take place in one body.  Rather, we must find a way to take advantage of the richness of the ecosystem while making it easier to navigate, especially for new entrants. It is incumbent on participants within the current governance model to bring new stakeholders whose voices may not be effectively heard into the conversation.
+
+ 
+
+Increased outreach, capacity building and training for regulators.
+
+ 
+
+While many if not all of the technical meetings are inclusive of all participants, the majority of the meetings historically have taken place in the developed world and their processes can be difficult to grasp as a newcomer.  We applaud recent efforts undertaken by the IETF and ISOC to increase the global reach of their meetings as well as offer fellowships to engineers and policymakers from the developing world.  We would support similar efforts in this space in other fora as these present important opportunities to engage thought leaders globally. Increase outreach to and participation of newcomers.  International organizations should make it easier for newer participants to meaningfully engage in their processes.  To do this, these organizations should offer training and newcomer sessions both at their physical meetings and remotely as a means of introducing more people to the organizations and encouraging them to participate in critical Internet governance discussions.
+
+ 
+
+Improve transparency and accountability.
+
+ 
+
+Multilateral organizations whose missions touch the Internet (e.g., UNESCO, OECD, UN, and ITU) should provide better transparency and accountability in their decision-making processes, and how the overall decisions impact the Internet, and appropriately include other stakeholders in those decision making processes.  All Internet governance institutions should strive to make relevant governance and policy documents available to all stakeholders at no cost.  Participation in board and governance meetings of Internet governance organizations should be open whenever possible.  For many participants, it is difficult and often cost-prohibitive to attend meetings in person.  For that reason, Internet governance institutions should strive to improve remote participation opportunities.
+
+ 
+
+Other Potential Risks to the Future of the Internet
+
+ 
+
+We would be remiss if did not also address other factors that could have a negative impact on the future of the Internet and on any nation’s ability to leverage the Internet in order to reap the benefits of the digital economy. These include national policy initiatives that could restrict information flows and require that only in-country data servers be used to process and store the bits and bytes that fuel the digital economy.  We believe that such “solutions” could actually impede a country’s ability to strengthen/uphold privacy protections and security, while also creating significant obstacles to expanding online commerce and digital trade. Data localization mandates could leave nations even more vulnerable to security risks.  Data security is not a question of server location, but rather depends upon the mechanisms and controls in place to safeguard the data.  These mandates would essentially cut off businesses and consumers from the world’s most cutting edge technology and technology solutions.  It would also restrict the ability of local technology companies, technical experts and researchers to partner with entities in other countries, and thereby limit their ability to leverage the Internet to expand job opportunities and business start-ups.
+
+ 
+
+It could also harm the ability to grow its domestic technology dependent industries, such as ICT services, banking, and manufacturing.  Ultimately, the adoption of such policies could embolden other countries to implement reciprocal policies, leading to a fragmented Internet with country after country walling off their digital ecosystems. Data security and privacy issues are very real and urgent; we share these concerns.  However, risks to global commerce and the free flow of information are also very real and urgent.  Commerce and security and privacy do not have to be mutually exclusive.  With balanced and thoughtful policies, developed via increased bilateral, multilateral, and multistakeholder cooperation, nations can achieve both, and create a digital ecosystem that enables their businesses and citizens to thrive and grow in our interconnected global economy.  ITI would welcome the opportunity to work with governments and other stakeholders to address these important goals.
+
+ 
+
+Conclusion
+
+ 
+
+The phenomenal success of the Internet is due in no small part to the multistakeholder governance model that guides technology and policy decisions.  A variety of organizations that include participation from businesses, civil society organizations, government representatives and technical experts have followed this de facto blueprint to manage the exponential growth of the Internet throughout the world, creating a flexible infrastructure that has successfully absorbed new technologies and demands in a seamless and cost-effective manner.  This multistakeholder collaboration has produced a stable, predictable environment that has helped facilitate continuing innovation and attract investments that have spread economic benefits around the globe, benefitting developed and developing economies alike.  We believe that the existing system of governance for the Internet is effective and inclusive, and for this reason, it should continue to be improved and reinforced. We welcome inquiries and feedback from all stakeholders regarding our views, and look forward to hearing and considering the views of other stakeholders on this important topic.
+
+ 
+
+Thank your for your consideration.
+
+ 
+
+For Further Information:  +202-737-8888
+
+ 
+
+Ms. Maria Medrano   |   mmedrano(at)itic.org Mr. Ken J. Salaets   |   ksalaets(at)itic.org

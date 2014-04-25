@@ -1,0 +1,32 @@
+Proposal from the Network Operators Group of Latin
+America and The Caribbean
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Ricardo Patara, Arturo Servin, Nicolas Antoniello, Alejandro
+Guzman, Milton Kashiwakura, Christian O'Flaherty, Edmundo Cazarez
+Lopez
+Region: Latin America and The Caribbean
+Organization: Lacnog
+Sector: Technical community
+Keywords: Network Operations, Best Practices, BCOPs, Traffic Exchange,
+Interconnections
+Abstract
+The network operators community from Latin America and The Caribbean (LACNOG)
+agreed on a set of principles related with their business and developed on a consensus
+based process.
+Document
+* The management of Internet Resources (IPs, ASNs, DNS, etc.) must follow a set of
+rules defined by all the parts involved in their utilization including network operators,
+users, content provider, and other organizations that need those Internet resources for
+their operation.
+* The problems and technical practices on the Internet that can be addressed through
+operational changes or network management over the IP networks must be documented
+and agreed by the community as Best Current Operational Practices (BCOPs or BCPs).
+Changes on networking equipment should not be imposed by regulations. Lacnog, as a
+community aimed to discuss Internet operation issues, firmly believe on the open,
+cooperative and collaborative development of such documents and processes.
+* The interconnection of Networks and Internet traffic exchange among network operators
+should be encouraged, promoted and agreed between the interested parties. Regulations
+should be minimised or avoided in order to promote interconnections and intervention is
+only advisable when there are barriers fo such interconnections.
+* The groups and Internet governance bodies to be created should include appropriate
+representation from network operator groups.

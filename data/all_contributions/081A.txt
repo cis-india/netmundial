@@ -1,0 +1,100 @@
+Ten Principles of the Web
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Vagner Diniz
+Region: Brazil
+Organization: W3C Brazil
+Sector: Civil Society
+Keywords: Web, principles, open, universal platform
+Abstract
+The Internet is a set of equipment, means of transmission, protocols, computer programs,
+data and information that, connected to each other, establishes a big net on planetary
+scale. But the magic that fascinates us all is known as the Web, a set of services allowing
+to open documents located anywhere in the globe, and through hyperlinks, to navigate
+around pages with a wide range of content ? videos, images, effects ? and interact in
+social networks. So, we can define the web as a mean to: expose, reference and link. All
+in digital network.The Web also takes the risk of becoming a zone of disputes, closing
+corporate and proprietary services, invasion of privacy. This W3C Brasil contribution, the
+?Ten Principles of the Web?, is an invitation to reflection, so we can reach consensus
+around principles and guidelines in order to keep the Web as an open and universal
+platform. The Web for all requires a debate from all parties involved.
+Document
+Ten Principles of the Web
+The Internet is a set of equipment, means of transmission, protocols, computer programs,
+data and information that, connected to each other, establishes a big net on planetary
+scale. But the magic that fascinates us all is known as the Web, a set of services allowing
+to open documents located anywhere in the globe, and through hyperlinks, to navigate
+around pages with a wide range of content – videos, images, effects – and interact in
+social networks. So, we can define the web as a mean to: expose, reference and link. All
+in digital network.
+The Web also takes the risk of becoming a zone of disputes, closing corporate and
+proprietary services, invasion of privacy. This W3C Brasil contribution, the “Ten Principles
+of the Web”, is an invitation to reflection, so we can reach consensus around principles
+and guidelines in order to keep the Web as an open and universal platform. The Web for
+all requires a debate from all parties involved.
+WEB FOR ALL.
+The main value of the Web is the social value. The Web is more than a technological
+environment: is an environment of human communication, business transactions and
+opportunities to share knowledge. These Web contents should be available to everyone,
+regardless of hardware, software, network infrastructure, culture, geographical location,
+physical or mental skills, socioeconomic status or education level of each individual.
+WEB IN EVERYTHING.
+The number of devices able to access the Web grows steadily. This is not the
+environment suited to desktop computers anymore. We can navigate via cell phones,
+digital TVs, cars and even through home appliances. This comprehensiveness requires
+the Web content to provide the possibility of being accessed from any of these devices,
+including remotely or while in motion.
+WEB ORGANIZED BY STANDARDS.
+Standardization means create a universal environment, where everyone could know what
+to do, how to do it, and where they could be able to do it. That´s why the standards should
+be opened, internationally accepted and discussed in organizations that could host all
+those interested in developing the Web, assuring the independence of providers and
+proprietary technologies. Standardized and publicly documented specifications are critical
+for the freedom of publishing Web content and to provide the continuous and steady
+keeping of those contents.
+ACCESSIBLE WEB.
+Ensure persons with visual, hearing, mobility and mental impairments, or any other
+disabilities, the conditions to understand, navigate, interact and develop themselves in the
+Web environment, are a prerequisite for the Web to evolve into a universal, inclusive
+design. Inclusion must also reach the new generations and the elderly, taking into account
+the required education to generate new digital competences.
+RELIABLE WEB.
+More than transform the way we communicate, the Web changed the nature of our social
+relations. The Web is an environment with new meeting places. Business transactions
+and personal relationships often take place without personal meetings. The confidence in
+the Web is directly related to the full right of freedom of speech, research and navigation,
+by adopting new technological standards and models that assure the users privacy and
+safety.
+WEB WITH MULTIPLE AUTHORS AND READERS.
+The Web is more than a reading and researching environment. As a communication tool,
+it allows everyone, at any time, and from anywhere, to share knowledge. Provide Web
+contents isn´t a one-way action anymore. Nowadays, Web publishing is the meeting point
+where the hyperlinks with multiple authors interact. Keep this architecture and adopt
+universal standards are also a guarantee of the Web´s diversity.
+WEB TO SERVE DEMOCRACY.
+The Web went beyond the stage of a gigantic document collection. Nowadays, it is a set
+of referenced services and data reused and combined in many applications for different
+purposes. The access to open data, especially public government data, enables the
+interaction between citizens and community, and between community and government, in
+its many spheres and instances. Ensure the free development of applications on Web
+based on open data is, nowadays, one of the pillars of a democratic society.
+WEB FOR SOCIOECONOMIC DEVELOPMENT.
+The wide use of the Web with e-commerce and e-government best practices fosters the
+local economic development. Extend those benefits to the different social layers,
+particularly those in need or in remote places, through digital inclusion policies and the
+use of mobile technology resources, will provide solutions that will increase the access to
+public health, education and assistance services.
+WEB THAT PRESERVES ITS MEMORY.
+Defining strategies and policies to select contents in order to preserve the Web´s memory,
+the biggest information repository created by the human kind, will enable the future
+generations to access the culture depicted on the Web, and will make it feasible as a
+subject of study and research, plus contributing to the Web´s evolution. Resources must
+be dedicated to the preservation of the Brazilian Web and its memory, in all aspects of its
+culture.
+WEB OF ALL.
+The universality and diversity of the Web must be sustained and deepened through the
+governance of the Brazilian Internet, carried out based on a democratic, transparent and
+pluralistic model, where the participation of different sectors of our society is ensured. A
+governance that is also guided by the principles of collaboration, collective creation, ethics
+and human rights.
+Take part! Create your own hyperlinks! Link to the open and universal Web:
+www.w3c.br/decalogue

@@ -1,0 +1,202 @@
+EUROPEAN COMMISSION
+Directorate-General for Communications Networks, Content and Technology
+NETMUNDIAL (SAO PAULO, 23-24 APRIL 2014)
+INPUT ON "ROADMAP FOR THE FURTHER EVOLUTION
+OF THE INTERNET GOVERNANCE ECOSYSTEM"
+(This contribution is based on the Communication of the European Commission "Internet Policy and
+Governance - Europe's role in Shaping the Future of the Internet", COM(2014) 72/4, as well as a number of
+discussions and positions on Internet governance, including inter alia the OECD Principles on Internet
+Policy-making, and the G8 Deauville Declaration. This contribution is the sole responsibility of the
+European Commission.)
+In preparation of the forthcoming Global Multistakeholder Meeting on the Future of
+Internet Governance ("NETmundial") which will take place in Sao Paulo (Brazil) on
+23-24 April 2014, this is the second of two contributions of the European Commission in
+response to the open call for contributions.
+The second topic of the call for contributions is "Roadmap for the Further Evolution of
+the Internet Governance Ecosystem":
+"There is a broad view about the need to continue evolving the Multistakeholder Internet
+Governance Ecosystem. The goals are to energize discussion and to achieve greater
+consensus of the community including a broader range of stakeholders to provide
+possible means for developing solutions to specific problems faced by
+governments/stakeholders. There are several ongoing initiatives trying to contribute with
+that objective. The meeting and related discussions will be an important milestone to
+support the developing multistakeholder consensus on important governance issues. It
+could serve as valuable inputs to other forums, seek for more clarification and pursue
+agreements for the way forward."
+The working definition of "Internet governance",1 agreed as part of the conclusions of the
+2002-2005 World Summit on the Information Society (WSIS),2 was carefully designed,
+following extensive multi-stakeholder discussions within the ad hoc Working Group on
+Internet Governance,3 as a dynamic concept that could be adapted to the evolving
+challenges and opportunities of a growing Internet.
+1 WSIS Tunis Agenda, paragraph 34: "A working definition of Internet governance is the development
+and application by governments, the private sector and civil society, in their respective roles, of
+shared principles, norms, rules, decision-making procedures, and programmes that shape the
+evolution and use of the Internet".
+2 See http://www.itu.int/wsis.
+3 See http://www.wgig.org/About.html.
+2
+Indeed, a number of parallel discussions and conversations on the possible evolution and
+future of global Internet governance frameworks are taking place throughout the world.
+Although such variety of discussions can be beneficial in ensuring that a diversity of
+viewpoints can contribute to the reflection, there is a clear risk that a multiplicity of fora
+may lead to duplication of efforts and, most importantly, to the exclusion and
+disenfranchisement of persons and organisations with less resources. This is precisely the
+opposite of what should happen if we want the future of the global Internet and of its
+governance to be seen as truly legitimate.
+Therefore, the European Commission welcomes the objective of NETmundial to act as a
+catalyser in finding commonalities and a shared understanding of the most important
+steps in front of us. The most useful result of the NETmundial meeting would be for the
+Internet community to clearly identify risks and opportunities as well as work-streams,
+relevant actors and corresponding mandates for action. NETmundial should be seen as an
+essential milestone in the context of the several discussions and processes that are taking
+place, including within the UN Working Group on Enhanced Cooperation, the WSIS+10
+review, the Internet Governance Forum process and the 2014 ITU Plenipotentiary
+conference.
+In this spirit, the European Commission would like to offer a number of concrete and
+operational suggestions towards a shared roadmap for the evolution of the Internet
+governance ecosystem. These concrete suggestions are based on the core principles that
+guide the activities of the Commission when it comes to Internet – the Internet
+COMPACT, which has been outlined in the separate submission on "Internet principles":
+1. In order to further strengthen the multi-stakeholder model, operational guidelines
+should be developed, based on an exchange of best practice, in order to ensure
+that multi-stakeholder processes in relation to Internet policies fulfil – beyond
+their consistency with fundamental rights – at least the following requirements:
+a. Transparency. All stakeholders must have meaningful access to and
+information on the organisational processes and procedures under which
+the body operates. This should prevent in particular any proxy activity for
+silent stakeholders.
+b. Inclusiveness and Balance. Those responsible for an inclusive process
+must make a reasonable effort to reach out to all parties impacted by a
+given topic, and offer fair and affordable opportunities to participate and
+contribute to all key stages of decision making, while avoiding capture of
+the process by any dominant stakeholder or vested interests.
+c. Accountability. There should be clear, public commitments to give
+regular account to its stakeholders or independent supervisory bodies, and
+to allow any party to seek redress through effective dispute resolution
+mechanisms.
+Appropriate leeway should be left to each relevant organisation, process or forum
+to identify the most suitable way to decline the general approach to their specific
+challenges and constraints, in a spirit of subsidiarity.4
+As part of this reflection, it is essential to come to a shared understanding and
+clear definition on the roles of actors in the governance process, including the
+4 The European Commission – under the "Community of Practice" initiative - has already developed a set
+of principles to facilitate better self- and co-regulation in a multi-stakeholder model. For further
+information please refer to: http://ec.europa.eu/digital-agenda/en/principles-better-self-and-coregulation-
+1
+3
+role of public authorities to fulfil their public policy responsibilities consistent
+with human rights online. The European Commission is ready to work with other
+stakeholders in order to develop such guidelines.
+2. Stronger interactions between stakeholders involved in Internet governance
+should be fostered via issue-based dialogues, instead of through new bodies.
+This would allow relevant stakeholders to address specific challenges across
+structural and organisational boundaries. Often, similar discussions on Internetrelated
+policies take place across these different organisations, with a
+considerable overlap of people and topics. This leads both to a "silo" mentality
+and to a "discussion fatigue". In addition, this tends to exclude people and groups
+which do not have the necessary resources (in terms of time, knowledge,
+funding) to follow all of them.
+A different "cross-cutting" approach, through which the focus is on the
+specific topic of discussion (e.g. privacy, security, consumer protection, human
+rights) rather than on the organisation / forum which is assumed to be the "right"
+place to hold that discussion, should be sought. Appropriate supporting tools
+should be developed, allowing interested parties to be involved on specific topics
+discussed in multiple fora at the same time.
+The European Commission is launching the technical development of the
+Global Internet Policy Observatory (GIPO) in 2014 as one such tool and as a
+resource for the global community;5 the Commission further welcomes the
+cooperation of all interested parties in this initiative.
+3. The Internet has become a key infrastructure with global dimensions. It works
+well without structural oversight by international intergovernmental bodies. At
+the same time, greater international balance within the existing structures can
+increase the legitimacy of current governance arrangements.
+Accordingly, concrete and actionable steps, including a clear timeline, should
+be identified in order to:
+a. Globalise the IANA functions, whilst safeguarding the continued
+stability and security of the domain name system.
+b. Globalise ICANN, including its Affirmation of Commitments.
+In carrying this out, the continued stability and security of the Domain Name
+System shall be safeguarded.
+The European Commission is optimistic, given the positive signals from leading
+national actors, that a shared vision to achieve the above goals can be validated at
+the NETmundial meeting. The Commission believes that although all
+stakeholders, including governments and public authorities, should contribute to
+the debate in all relevant fora, the natural place to take these action forward from
+an operational point of view would be ICANN itself and the communities
+working within and with ICANN.
+4. Mutually respectful dialogues between all stakeholders on the future development
+of global Internet governance are essential given the global economic and
+societal importance of the Internet. The Internet Governance Forum (IGF) has
+emerged from the World Summit on Information Society (WSIS) to facilitate
+5 See http://ec.europa.eu/digital-agenda/en/news/commission-plans-guide-through-global-internetpolicy-
+labyrinth.
+4
+forward-looking discussions amongst all stakeholders, many of whom had not
+cooperated closely before. It is important, however, to improve the quality and
+format of IGF outcomes to enhance its impact on global Internet governance and
+policy. The European Commission is confident that a strengthened IGF will
+progressively become an important driver of successful Internet governance;
+however, these necessary improvements should not be a reason to delay other
+urgently needed activities.
+Accordingly, the IGF should be strengthened, taking account of the
+Recommendations of the Working Group on Improvements to the IGF.6 The
+Commission is already a key financial contributor to the IGF Secretariat and to
+the general activities of the IGF, and stands ready to cooperate with all other
+stakeholders to strengthen the IGF along the above-mentioned lines.
+5. Technical details of Internet protocols and other information technology
+specifications can have significant public policy implications. Even where the
+technical discussion process is open, key decisions are frequently made by
+technical experts in the absence of broad stakeholder representation. An effective
+multistakeholder approach to specification setting on the internet will be based
+on efficient mutual interactions between technical and public policy
+considerations7 so that technical specifications more systematically take into
+account public policy concerns. This is particularly important when legal rights
+of individuals, especially their human rights, are clearly impacted. The
+implications of this evolution in norm setting in relation to the Internet require an
+open public debate with all concerned.
+The Commission proposes to convene, together with interested parties, a series
+of workshops with international experts in law, ethics8, social sciences,
+economics, international relations and technology, in order to develop concrete
+and actionable recommendations to ensure coherence between existing
+normative frameworks and new forms of Internet-enabled norm-setting.
+Furthermore, all stakeholders should strengthen (and where appropriate create)
+structured mechanisms to allow regular, early and truly inclusive upstream
+participation, review and comment in technical decisions. These structured
+mechanisms should also strive towards consistency of technical decisions with
+human rights. The Commission stands ready to discuss with relevant
+stakeholders the best options to achieve this objective.
+6. Like other cross-border activities, the Internet poses a series of challenges for the
+application of laws. While such challenges are not always specific to the Internet,
+the sheer quantity of cross-border transactions of various types which take place
+online, call for a more thorough reflection on how existing rules apply on the
+Internet. Furthermore, many activities on the Internet are increasingly governed
+by contractual arrangements between private companies and users on the
+Internet. Non-contractual obligations of e-commerce traders and intermediaries
+are also relevant in this context. The complexity and, in some cases, the
+opaqueness of these arrangements, including for what concerns provisions on
+6 See http://unctad.org/meetings/en/SessionalDocuments/a67d65_en.pdf
+7 See Regulation 1025/2012 of 25.10.2012 on European standardisation, Commission Decision of
+28.11.2011 setting up the European Multistakeholder platform on ICT standardisation, see
+https://ec.europa.eu/digital-agenda/en/european-multistakeholder-platform-ict-standardisation
+8 See also the opinion of the European Groups on Ethics in Science and New Technologies,
+http://ec.europa.eu/bepa/european-group-ethics/docs/publications/ict_final_22_february-adopted.pdf
+5
+applicable jurisdiction and law, may give rise to a certain degree of legal
+uncertainty.
+The European Commission plans to launch an in-depth review of the risks, at
+international level, of conflicts of laws and jurisdictions arising on the
+Internet and assess all mechanisms, processes and tools available and
+necessary to solve such conflicts. Cooperation with existing or planned
+initiatives would help identifying globally shared solutions in the mid- to longterm.
+The Commission sees the above steps as key elements of a concrete roadmap for the
+evolution of the Internet governance ecosystem. For the European Commission, the end
+goal is an Internet that should remain a single, open, free, unfragmented network of
+networks, subject to the same laws and norms that apply in other areas of our day-to-day
+lives. Its governance should be based on an inclusive, transparent and accountable
+multistakeholder model of governance, without prejudice to any regulatory intervention
+that may be taken in view of identified public interest objectives such as to ensure the
+respect for human rights, fundamental freedoms and democratic values as well as
+linguistic and cultural diversity and care for vulnerable persons. A safe, secure,
+sound and resilient architecture is the basis for trust and confidence of Internet users.
+At the same time, the innovation power of the Internet must be maintained. This
+requires careful yet robust stewardship.

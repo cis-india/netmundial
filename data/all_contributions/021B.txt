@@ -1,0 +1,64 @@
+? Area: Internet Governance Ecosystem
+? Entitled by: Roy Balleste, J.S.D.
+? Region: USA / Poland
+? Organization: St. Thomas University / University of Lódz
+? Sector: Academia
+? Keywords: Internet governance, Internet freedom, human rights
+ABSTRACT
+This contribution highlights the Roadmap for the Further Evolution of the Internet Governance Ecosystem. This roadmap is well represented by the growing need to internationalize the current Internet process of governance. The following paper notes how legitimacy is tied to the safeguarding of the human being and respecting his or hers innate dignity, under clear and already established principles enshrined in the universal principles of human rights.
+Human Rights as Essential Parts of the Internet Governance Ecosystem: Contribution to Netmundial
+March 4, 2014
+Professors Roy Balleste, J.S.D. and Joanna Kulesza, Ph.D. appreciate the opportunity to share observations with the Global Multistakeholder Meeting on the Future of Internet Governance and respectfully submit this contribution. We thank the Brazilian government, the Brazilian Internet Steering Committee, and the 1net Initiative organizers for the opportunity to contribute to the global internet governance dialogue. This contribution highlights the Roadmap for the Further Evolution of the Internet Governance Ecosystem. This roadmap is well represented by the growing need to internationalize the current Internet process of governance. We note that the effective management of the Internet needs to be protected within a meaningful participatory process because of the multilayered architecture of the network requiring equal participation of various stakeholders. The process, however, must gain legitimacy by safeguarding the human being and respecting his or hers innate dignity, under clear and already established principles enshrined in the Universal Declaration of Human Rights and the human rights system accompanying it, including numerous treaties and the rich body of customary and soft law.
+Although there has always been governance from the very beginning of the Internet, today it seems that this governance is experiencing another major step in its evolution. Any participant in the Internet governance process must recognize that this governance works not as a top-down power relationship, or an attempt to equate it with “control,” but rather as a bottom-up approach that creates a sustainable relationship among stakeholders. One will also note that inclusive governance is further clarified by the language of the WSIS Tunis Agenda for the Information Society (paragraph 35) where it is stated that governance “encompasses both technical and public policy issues and should involve all stakeholders.” In the other hand, most individuals assume that the ecosystem has proper safeguards to protect human rights both offline and online.
+Unfortunately, human rights all too often represent a secondary consideration in the online
+world, giving way to reasons of state security and the economic interest of states, influential
+lobbies or multinational corporations. The debate on human rights obligations of non-state actors
+and the effectiveness of executing states’ obligations in that domain gains momentum when
+confronted with the cyberrealm. As noted recently by the UN Human Rights Council “the same
+rights that people have offline must also be protected online” while acknowledging “the global
+and open nature of the Internet as a driving force in accelerating progress towards development
+in its various forms.” The UN Human Rights Council Resolution on the promotion, protection
+and enjoyment of human rights on the Internet calls upon states “to promote and facilitate access
+to the Internet and international cooperation” with the perspective of safeguarding human rights.
+There are policy concerns to be found in the threats to freedom of access to information,
+openness, and the dangers that accompany over-restrictive governance of the Internet. In these
+cases, management of the Internet could become detrimental to the world community. The
+critical element—cooperation—is unambiguous and straightforward. It is rooted in the language
+of the Charter of the United Nations, which states as its purpose the achievement of international
+cooperation in the resolution of international problems, and in the promotion of respect for
+human rights and fundamental freedoms for all. It is also rooted in the language of the Tunis
+Agenda, where the concept of “cooperation” is used in 32 places. In particular, the Tunis Agenda
+supports regional and international integration efforts aimed at building the Information Society,
+reiterating “strong cooperation within and among regions” to support knowledge-sharing.
+International cooperation is also an element of the principles of sustainable development and
+good neighborliness which are well established in international law. States, unlike other Internet
+governance stakeholders, have therefore an international law obligation to engage in
+multinational cooperation in good faith and with the aim of achieving effective results. This
+obligation exists also when it comes to the positive responsibility of states to protect individuals
+within their jurisdiction from any human rights abuses, also ones originating from third parties,
+private or governmental. International cooperation is therefore instrumental to identifying the
+ways and means for effective human rights protection online, an aim all states are legally
+obligated to pursue. This intergovernmental cooperation must be exercised also in the
+multistakeholder environment of the Internet governance ecosystem, recognizing the various
+actors and their roles. States therefore must revise their position and rather than “control” the
+network, they ought to stimulate the multistakeholder dialogue among the various actors.
+Therefore we support the fundamental principles delineated by the United States government that
+“existing multistakeholder institutions deserve significant credit” within the Internet governance
+ecosystem. We further note that instead of replacing existing mechanisms or institutions, the
+evolution should build on the existing structures of governance, with further discussion at the
+IGF and other fora. Since 1998, ICANN has supported a positive multistakeholder process. Its
+substitution by a different multilateral system does not seem the feasible solution, although all
+attempts to add transparency to its processes and decision making are welcome.
+Thus, if we are to support the evolution of the Multistakeholder Internet Governance Ecosystem,
+then we must recognize that any model of Internet governance devoid of international
+stewardship will fail. The goal, therefore, should be governance of cyberspace that involves
+international stewardship, and a social contract that simultaneously promotes the concept of
+human dignity as basis for all human rights. There is no doubt that the human person requires freedom and democracy to achieve a dignified life. The Internet governance ecosystem must protect inclusiveness in order to remain legitimate. The opportunity to participate in the process has the potential to recognize the realities of online citizens and avoid the exclusion of regular users from decisions that affect their daily lives.
+Along the way, we discover the origins of the Internet, its geo-political structures, the fundamentals of human rights, the stakeholders in the debate, and a potential governance model that could aim at benefiting humanity’s social process by helping to fulfill the human needs and desires of the Information Society: reformatting and adjusting our fundamental social contract to the Internet age. The Internet has the potential to be a democratizing influence, but only if this future ecosystem includes respect for human rights. It is for these reasons that all stakeholders must take steps to assure users that the decisions made for their benefit, are indeed carried out for that purpose. This goal is not too difficult to reach: deriving individual rights and obligations for the online environment may be done without too much effort by applying the existing rich body of international human rights law to this new context. Numerous such attempts have been successfully undertaken by various civil society groups in recent years. States and multinational corporations alike may benefit directly from their experiences.
+A legal framework of the Internet governance ecosystem may become a tangible solution; a legacy of lasting cooperation that supports the goals of a globalized Internet. The members of the Internet governance ecosystem should dare to aim higher. Ultimately, a workable model must be sustainable, durable, enforceable, and grounded in a bottom-up process involving the participation of all stakeholders with oversight over the future of the Internet. It is up to us to take action: the stakeholders of cyberspace and members of the Information Society, with states acting as shepherds for this new model of global online democracy.
+REFERENCES:
+- Universal Declaration of Human Rights, G.A. Res. 217A (III), U.N. Doc A/810 at 71 (Dec. 10, 1948), available at http://www.ohchr.org/en/udhr/pages/introduction.aspx
+- Tunis Agenda, paragraph 31and 86, available at http://www.itu.int/wsis/docs2/tunis/off/6rev1.html
+- Charter of the United Nations, article 1(3), June 26, 1945, 59 Stat. 1031, T.S. 993, entered into force Oct. 24, 1945, available at https://www.un.org/en/documents/charter/index.shtml
+- United Nations Human Rights Council Resolution on the promotion, protection and enjoyment of human rights on the Internet, 29 June 2012, A/HRC/20/L.13.
+- U.S. Government Submission for NETmundial, Department of State.

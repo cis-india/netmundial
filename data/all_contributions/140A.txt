@@ -1,0 +1,60 @@
+DSCI Submission on Roadmap for the Further Evolution of
+Internet Governance Ecosystem
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Rahul Sharma
+Region: India
+Organization: Data Security Council of India (DSCI)
+Sector: Private Sector
+Keywords: Internet Governance ICT Multistakeholder DNS
+Abstract
+The proposition, if diligently implemented, would help evolve global Internet Governance
+model and help formulate a solution acceptable to all the stakeholders, building pros of
+multi-stakeholder model whilst suggesting practical and amicable solutions that can
+resolve IG issues. Data Security Council of India promises to actively participate in the
+global dialogue in reforming current IG model.
+Document
+Data Security Council of India (DSCI) proposes a roadmap for further evolution of the
+Internet Governance model to ensure a single interoperable Internet. Steps are:
+1. A multi stakeholder model with defined roles of relevant stakeholders on all matters
+needs to be evolved. The conference should ensure participation that is
+proportional to Internet population. Topics and issues, be it policy, technical or
+administrative, where representation of a set of stakeholders is mere ceremonial
+and not participatory, should not act as bottleneck in effective decision making.
+2. Global governance norms be evolved that separate DNS maintenance from policies
+on TLDs, as well as public policies that intersect with nations’ rights to make them.
+3. Industry’s participation from developing countries in standards making be ensured
+by changes such as making IETF open without having to pay for seat in committees
+and the Board (as is the current practice).
+4. For ICT sector to flourish, and contribute more to socio economic development,
+propositions such as localization of ICT within territorial boundaries of regions etc.
+should not be encouraged.
+5. Effective participation of stakeholders from developing and least developed
+economies should be encouraged and facilitated, with focus on capacity building.
+6. National governments role in law and order, content regulation and national security
+within their territories be accepted; else international clashes will continue.
+7. Countries should be asked to send nominees of all stakeholders, rather than ICANN
+directly selecting people without any transparency.
+Given that all stakeholders (including all nation states) would not effectively be
+represented in the Netmundial meeting, and the committees that have been formed do not
+ensure adequate representation of right set of stakeholders, DSCI views it as a platform
+that can carry forward the dialogue on evolving Internet governance model that is
+currently underway at numerous platforms. Further, the outcome of the meeting can be
+used as platform to further propose solutions that can be considered by global community
+to evolve Internet Governance model.
+About DSCI
+DSCI is a focal body on data protection in India, set-up as an independent Self Regulatory
+Organization (SRO) by NASSCOM®, to promote data protection, develop security and
+privacy best practices & standards and encourage the Indian industries to implement the
+same.
+DSCI is engaged with the Indian IT/BPM industry, their clients worldwide, Banking and
+Telecom sectors, industry associations, data protection authorities and other government
+agencies in different countries. It conducts industry wide surveys and publishes reports,
+organizes data protection awareness seminars, workshops, projects, interactions and
+other necessary initiatives for outreach and public advocacy. DSCI is focused on capacity
+building of Law Enforcement Agencies for combating cyber crimes in the country and
+towards this; it operates several cyber labs across India to train police officers,
+prosecutors and judicial officers in cyber forensics.
+Public Advocacy, Thought Leadership, Awareness and Outreach and Capacity Building
+are the key words with which DSCI continues to promote and enhance trust in India as a
+secure global sourcing hub, and promotes data protection in the country.

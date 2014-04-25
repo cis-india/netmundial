@@ -1,0 +1,41 @@
+Microsoft submission for NETmundial
+March 7, 2014
+Microsoft welcomes the opportunity to offer input to the upcoming Global Multistakeholder Meeting on the Future of Internet Governance in Brazil. We extend our thanks and appreciation to Brazil for hosting this important meeting.
+Microsoft is a worldwide leader in providing devices, services, and solutions that help people and businesses realize their full potential. Our “Putting People First” business model, which includes more than 600,000 partners worldwide, and our commitment to investing in R&D have generated millions of jobs and have helped make the IT industry one of the most vibrant sectors of the global economy. Since Microsoft’s inception, we have worked to democratize computing by making IT more affordable and accessible. We are committed to putting our customers, our partners, and our communities first, investing in innovation, addressing the world’s most pressing challenges, and advancing global prosperity through technology.
+This meeting presents a vital opportunity for discussion that can advance the multistakeholder model of governance that has contributed to making the Internet the transformative and global resource that it is today. Where railroads and steamships were the enabling technologies for economic growth and the exchange of ideas in the 19th century, the Internet is the key technology today. The Internet has transformed nearly every aspect of human society from education, and healthcare, to agriculture and manufacturing, to social discourse, and academic research.
+These benefits extend to all countries, including developing and least developed countries. In 2000 there were only 361 millioni Internet users worldwide. Today, nearly 3 billion are connected globally. This unprecedented growth rate has been accompanied by increased capacity and declining prices, and has been facilitated by the unique distributed bottom-up multistakeholder governance model that has encouraged investment in fiber and wireless facilities and allowed entrepreneurs to launch new services from anywhere on the planet. There is more work to do to connect the entire planet and, in our view, principles for Internet governance must start with the premise of strengthening what is working well and serve to accelerate access and inclusion in developing and least developed countries.
+Internet Governance Principles
+We note that there have been numerous efforts to craft principles for Internet governance, including the EU Commission COMPACT, the Principles for the Governance and Use of the Internet by CGI.br, the OECD Principles for Internet Decision-Making, the Global Network Initiative Principles, and the APC Code of Practice on Internet Governance. There are many points of agreement across these previous efforts, and we submit that they should be carefully considered as part of the NETmundial discussions. For the discussions to be fruitful, we would urge that discussion focus on points of agreement – where meaningful progress could be made in the short timeframe of the meeting.
+In our view it is imperative that all stakeholders work together to ensure the availability, stability, and vibrancy of a single, global, interconnected Internet – and to ensure that all the world’s citizens are able to take advantage of it. Accordingly we support the following principles which we believe are essential:
+? All the world’s citizens must have access to and be empowered to realize the benefits and
+transformative nature of the Internet. All stakeholders must work together to accelerate access
+and inclusion for those not yet connected. At the same time policies adopted must facilitate
+and encourage the needed investments in infrastructure to make such access and inclusion a
+reality.
+? Internet policy related decision-making activities by governments should be open and inclusive
+to all stakeholders and consistent with these principles which have led to the success of the
+Internet.
+? The Internet’s technical engineering standards should continue to be developed in a voluntary,
+open, transparent, efficient, and consensus-based manner, with opportunity for all interested
+stakeholders to contribute.
+? The transparent, multistakeholder approach to governance, enabling all stakeholders to
+participate, should be strengthened and supported at all levels, including by intergovernmental
+organizations. The stability, security, interoperability, and functionality of the Internet should
+be reinforced and promoted by all stakeholders.
+? Universal human rights apply online just as they do offline and all citizens have the right to the
+free flow of information and content and the right to freedom of expression. All stakeholders
+should work together to promote and uphold universal human rights.
+The Internet ecosystem is complex and multifaceted and must deal with technical, political, and social
+issues. This complexity has resulted in the numerous, multistakeholder organizations and institutions
+that have evolved as the Internet itself has evolved. We also note the important role that the Internet
+Governance Forum (IGF) plays in providing a global, accessible platform and forum for capacity building,
+awareness raising, and discussion of key issues. We strongly urge all stakeholders to continue to
+support and help improve the IGF.
+The multistakeholder model of Internet governance which is inclusive of all stakeholders including
+business, the technical community, academics, civil society, and governments has proven to be
+effective. We believe this model should continue to evolve as the Internet itself continues to evolve
+with new technologies and the creation new opportunities. Together, governments and other
+stakeholders should ensure that this single, global, and interoperable Internet continues to flourish
+globally, reaching all of the world’s citizens.
+We look forward to participating in this important discussion with all stakeholders in Brazil
+i www.internetworldstats.com

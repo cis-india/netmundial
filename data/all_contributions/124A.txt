@@ -1,0 +1,76 @@
+Open Stand: Modern Paradigm for the Global Standards
+Development Principles
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Raquel Gatto
+Region: Global
+Organization: Internet Society (ISOC)
+Sector: Technical community
+Keywords: Open Standards; Collaboration; Transparency; Innovation;
+Principles.
+Doc Attached: Click here to see the doc 1
+Abstract
+The shared OpenStand principles grew from the collective experience of standardization
+processes that have made the Internet and the World Wide Web today?s premiere
+platforms for innovation and borderless commerce. The effectiveness and efficiency of
+these principles and the modern paradigm for standards are proven by their ability to
+foster competition and cooperation, support innovation and interoperability and drive
+market success. The OpenStand principles encapsulate that successful standardization
+model and make it extendable across the contemporary, global economy?s gamut of
+technologies and markets. The principles comprise a modern paradigm in which the
+economics of global markets?fueled by technological innovation?drive global deployment
+of standards, regardless of their formal status within traditional bodies of national
+representation.
+Document
+Introduction
+In 2012, five leading global Internet standards organizations, namely IAB, IEEE, ISOC,
+IETF and W3C announced their agreement on jointly developed principles establishing a
+modern paradigm for standards. The shared OpenStand principles grew from their
+collective experience of standardization processes that have made the Internet and the
+World Wide Web today’s premiere platforms for innovation and borderless commerce.
+The effectiveness and efficiency of these principles and the modern paradigm for
+standards are proven by their ability to foster competition and cooperation, support
+innovation and interoperability and drive market success.
+The OpenStand principles encapsulate that successful standardization model and make it
+extendable across the contemporary, global economy’s gamut of technologies and
+markets. The principles comprise a modern paradigm in which the economics of global
+markets—fueled by technological innovation—drive global deployment of standards,
+regardless of their formal status within traditional bodies of national representation.
+Since the statement was announced, hundreds of organizations, individuals and firms
+have formally endorsed or expressed their support for the OpenStand principles.
+http://open-stand.org/
+Principles of the Modern Paradigm for Global Standards Development
+1. Cooperation. Respectful cooperation between standards organizations, whereby each
+respects the autonomy, integrity, processes, and intellectual property rules of the others.
+2. Adherence to principles. Adherence to the five fundamental principles of standards
+development:
+Due process. Decisions are made with equity and fairness among
+participants. No one party dominates or guides standards development.
+Standards processes are transparent and opportunities exist to appeal
+decisions. Processes for periodic standards review and updating are well
+defined.
+Broad consensus. Processes allow for all views to be considered and
+addressed, such that agreement can be found across a range of interests.
+Transparency. Standards organizations provide advance public notice of
+proposed standards development activities, the scope of work to be
+undertaken, and conditions for participation. Easily accessible records of
+decisions and the materials used in reaching those decisions are provided.
+Public comment periods are provided before final standards approval and
+adoption.
+Balance. Standards activities are not exclusively dominated by any
+particular person, company or interest group.
+Openness. Standards processes are open to all interested and informed
+parties.
+3. Collective empowerment. Commitment by affirming standards organizations and their
+participants to collective empowerment by striving for standards that:
+are chosen and defined based on technical merit, as judged by the
+contributed expertise of each participant;
+provide global interoperability, scalability, stability, and resiliency;
+enable global competition;
+serve as building blocks for further innovation; and
+contribute to the creation of global communities, benefiting humanity.
+4. Availability. Standards specifications are made accessible to all for implementation
+and deployment. Affirming standards organizations have defined procedures to develop
+specifications that can be implemented under fair terms. Given market diversity, fair terms
+may vary from royalty-free to fair, reasonable, and non-discriminatory terms (FRAND).
+5. Voluntary adoption. Standards are voluntarily adopted and success is determined by
+the market.

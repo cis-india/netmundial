@@ -1,0 +1,157 @@
+Bottom-up Oversight in Multistakeholder Organizations
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Avri Doria
+Region: USA
+Organization: Independent Researcher
+Sector: Technical community
+Keywords: Bottom-up Oversight
+Abstract
+One of the barriers to accepting free standing multistakeholder governance organizations
+is oversight. Accountability requires that there be oversight. This contribution discusses
+how can oversight be achieved in in a bottom-up multistakeholder organization without the
+need for external control, a so-called new space. the discussion build on experiences in
+the IETF and in ICANN.
+Document
+One of the barriers to accepting free standing multistakeholder governance organizations
+is oversight. Accountability requires that there be oversight. But how can oversight be
+done in a bottom-up multistakeholder organization without inflicting external control, for
+example the so-called new space, upon the bottom up multistakeholder organizations.
+Often, as soon as the word ‘oversight’ is mentioned governments jump in and assert
+themselves as the ultimate overseers of all things related to Internet public policy. From
+the point of view of the multistakeholder models of international participatory democracy,
+it is impossible to accept government oversight of multistakeholder organizations. If one
+stakeholder group is solely responsible for oversight, the group becomes a unistakeholder
+entity, no matter what appearance those running around at the bottom of the organization
+might give. Government oversight of multistakholder organizations would destroy their
+multistakeholder character.
+There are, however, methods by which organizations do create bottom-up oversight.
+Some like the IETF have multiple levels of appeal on every decision; where the decisions
+of working groups are can be appealed to the Internet Engineering Steering Group
+(IESG), a group chosen by a multistakeholder Nominating Committee (Nomcom) and
+approved by the Internet Architecture Board (IAB), itself having been chosen by the
+multistakeholder Nomcom and approved by the Internet Society (ISOC) Board of
+Trustees. The dissatisfied appellant can further appeal a decision by the IESG to the
+IAB. Since the IESG and the IAB have very different mandates from the community, it
+would be a mistake to think that the IAB rubber stamps the decisions of the IESG; anyone
+who has observed the relations between these groups only has to recall IETF history to
+know that relations have not always been warm or even cordial.
+In case the appeals process is somehow perverted, the IAB decision can be further
+appealed to the Board of Trustees of ISOC on process issues, a group that is chosen by a
+combination of nominating committees and votes in the various stakeholder groups that
+make up the Internet Society. Each of these appeals and results is published
+transparently for the entire Internet community to read, in a manner that allows comment
+on the IETF list. Each of these appeals can be discussed in the open plenaries held three
+times a year, if so desired by the community. Anyone who has ever followed the IETF list
+or an IETF plenary knows how vox populi can be quite persuasive in this environment.
+The history of the IETF shows that, on occasion, it has persuaded either the IESG or the
+IAB to reconsider its decisions. It should be noted that there are also methods within the
+IETF for recall of the members of the IESG and the IAB. A chain of transparent appeals
+such as this, with a strong public voice is one form of bottom-oversight that has been
+shown to work. A series of public and transparent appeals are, in fact, one of the tools
+that any organization can use to provide oversight.
+The Affirmation of Commitments between the US Department of Commerce and the
+Internet Corporation for Assigned Names and Numbers (AOC) establishes a new method
+for bottom-up oversight of a multistakeholder organization. This process is entering its 4th
+year. I had the privilege of being part of the second Accountability and Transparency
+Review Team (ATRT2) that is stipulated in the process and write the following from my
+personal experience as a member of that group.
+As outlined in the AOC, each of the Support Organizations and Advisory Committee
+nominates several members to the various review teams: transparency and
+accountability, the security and stability of the names and number systems, competition
+and consumer trust, and registrant directory operations compliance with international laws
+and norms (aka WHOIS). From the candidates presented by the various stakeholder
+groups, the Chair of the Board or the CEO, depending on the team, and the Chair of the
+Government Advisory Committee (GAC) pick a review team. To this group they add a few
+experts to balance out the mix of skills. While not everyone is happy about the selection
+process and it does seem to favor governmental actors, at last in terms of the ATRT, it is
+by and large a process accepted by the community. The groups work together for
+approximately a year to produce their reports. They are served by a group of professional
+ICANN staff and are constrained by an ICANN Board determined budget. The ATRT2
+report discusses how this is occasionally an impediment to the group being able to do as
+complete a job as might be hoped.
+These reviews run in a 3 year cyclical manner with the ATRT running every third year, for
+a year. Currently ICANN is in the second cycle of AOC reviews. Each of these reviews
+provides the opportunity for multiple public consultations and several public reviews of the
+work in progress. The final reports are published in multiple languages and opened for a
+final public review before the ICANN Board receives them. The Board then reviews the
+reports, and the comments and, with the advice of Staff, decides how it will respond to the
+reports. By the time the Board acts, the review teams have been disbanded. The results
+of Board and Staff actions are reviewed by the next review teams.
+In addition to reviewing the state of transparency and accountability in ICANN, ATRT is
+responsible for reviewing the way in which ICANN had responded to the previous AOC
+reviews and for reviewing any changes that had been made in response to the previous
+ATRT review. It should be noted that review team reports only recommend actions to the
+Board, which the Board is able to accept or not to accept. Any refusal by the Board or
+ICANN staff to implement the changes requested is subject to review by the next review
+team as the cycle repeats. That is, ATRT3 will review the changes made since ATRT2,
+just as ATRT2 reviewed the changes since ATRT1.
+The ATRT2 report gives a very detailed description in its review of both the state of the
+organization and the degree to which ICANN complied with the first cycle’s reviews. The
+determination was mixed, with many changes only being made as the ATRT2 review was
+ongoing. Some progress had been made, but not as much as the first ATRT review had
+recommended. As ATRT2 second report is still in review until 15 March 2014, the Board
+has not had much opportunity to act on it yet, though to its credit it has started working on
+some of the items in anticipation.
+For a bottom-up review mechanism like the AOC to work, those responsible for the
+organization must take the report and the obligation to accept and implement the
+recommendations seriously. Whether this is the case for ICANN, remains to be seen, and
+will be part of the proof of whether this is a workable method. According to a blog piece
+by the President of ICANN, Staff has every intention of completing the necessary changes.
+There are other requirements for such a bottom-up review process to work. One of the
+handicaps ATRT2 experienced was the need to start its review process from a blank
+sheet. We had to request reports from ICANN on every issue, including those that had
+been documented in the first ATRT report. We were also unable to build upon any of the
+research and data collection that had been done by the first review and in the intervening
+reviews as that data had not been retained and processes had not been continued.
+During the ATRT2 review, several research efforts, for example, research on the policy
+development process and on measurement practices were undertaken. It is to be hoped
+that that the data from these will be available to ATRT3 so that the team will not need to
+again start from a blank page and will be able to look at longitudinal trends in ICANN’s
+transparency and accountability. Continuity of bottom-up oversight enables a better view
+of an organization and thus better accountability.
+To do a complete and thorough review, a review team needs full access to organization
+data. This is sometimes difficult as the team needs to know what data is available in
+order to ask for it. In order to do an adequate review it is better to have an organization
+anticipate and offer the necessary information as opposed to having a gate in the process
+that only gives the team information when it is correctly requested and the request has
+been approved up the corporate and legal chain of command. ICANN has tended toward
+the gating methodology as opposed to an anticipatory and open method of offering data,
+though for the most part after a bit of pushing and pulling, the necessary information was
+obtained.
+ICANN is settling into the process of ongoing AOC reviews. The process needs
+improvement, and the ATRT2 report contains recommendations for how this can be
+done. For a more in depth review, readers can consult the ATRT2 Transparency and
+Accountability review. In my view the method shows promise yet to be fully delivered on.
+The strongest bottom-up oversight would be achieved by combining the methods of the
+IETF and ICANN. IETF offers a strong appeals mechanism and the ability to remove
+officers from their roles if they do not fulfill the responsibilities. ICANN has a very weak
+appeals mechanism, in fact an review and repair of that mechanism was recommended
+by both ATRT1 and ATRT2. ICANN processes allow for review of Board decisions, but
+only for process infractions, there is no means of request a review within ICANN of a
+decision on a substantive basis as can be done in the IETF. And while there is an
+Independent Review Process for Board decisions and Staff actions, it is reputed to require
+a deposit in the order of a million dollars and can only deliver a decision in favor of the
+appellant if malfeasance of some other bad faith effort can be proven. ICANN has no
+mechanism for removing Board members for the manner in which they fulfill their
+responsibilities other than not to renew their 3 year terms for a second or third time
+(ICANN Board members can serve a maximum of 9 consecutive years).
+ICANN on the other hand offers an innovative set of bottom up community reviews,
+whereas the IETF only initiates reviews of its processes when there is an indication that
+the process is somehow broken using the ‘if it isn’t broken don’t fix it’ philosophy. It has,
+over the years initiated several working groups to review its processes when the
+community felt there was a problem. I had the opportunity of chairing one of its
+Nominating committee review working groups. The recommendations of this WG were
+accepted and implemented.
+Bottom-up oversight of multistakeholder organizations is possible. No method is perfect
+and use of several methods, the so-called belt and suspenders method, gives an
+organization its best chance of being accountable to its community without needing to
+resort to a governmental and hierarchical form of oversight. An additonal element that
+might be consdered as part of any bottom-up oversight mechansim is affordable access to
+an independent mediation borad for issues that can't be resolved in any other manner.
+Moving forward, no new spaces are required to oversee organizations such as IETF and
+ICANN, though both can improve their bottom-up methodologies by borrowing elements
+from the other. An activity that would be helpful would be for workshops to be held within
+the IGF context on the various methodologies of bottom-up multistakeholder oversight
+and review so that organizations would be able to learn from each others experiences.
+The practice of bottom-up multistakeholder review is young, but has a promising future.

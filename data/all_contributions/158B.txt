@@ -1,0 +1,100 @@
+Document
+
+As the result of an analysis of the existing charters or statements on Internet governance principles, the undersigned Brazilian civil society organizations, committed to the development of the Internet and its use for advancing social and economic justice, have identified both APC Internet Rights Charter (2006) and Internet Rights and Principles Coalition Charter (Charter of Human Rights and Principles for the Internet - 2011) as the more comprehensible and important compilation of principles to address the need to reinforce the protection of fundamental human rights in the internet.
+ 
+Both letters re-endorse the government commitments from reached during the WSIS process, and clearly expressed in the Tunis Agenda and in the Geneva Declaration of Principles and Plan of Action, both considered fundamental to address the need to "build an inclusive development-oriented Information Society." They also can be endorsed as a clear exercise on how to relate the Universal Declaration of Human Rights (UDHR) to the Internet and its governance. Therefore should serve as the basis to address the challenge proposed by NETmundial to "identify a set of universal Internet Governance Principles to be promoted as a global inspiration for the evolution of the Internet worldwide".
+ 
+Nevertheless, it is important to highlight that all this rights can only be implemented and enforced if the institutional environment for Internet Governance enables not only a transparent, accessible and accountable decision making process - including those pertaining technical standards - but also allows effective participation of representatives from all the different stakeholder groups, in it's wide diversity, concerning region, culture, gender, etc. Further developments on this institutional framework for the evolution of Internet Governance Ecosystem will also be presented by this group in that particular section for content submission at this same platform from NetMundial.
+ 
+To move forward in the debate of principles, we have been doing an exercise to merge both Charters of principles and also update them, concerning current challenges for "the perspective of the Internet as a global platform for social, economic and human development and a catalyzer to exercise human rights."
+ 
+The result of this merging exercise is just as follows:
+ 
+Set of Universal Internet Governance Principles to be promoted as a global inspiration for the evolution of the internet worldwide
+ 
+1. Right to digital inclusion and access to internet
+Access is an enabler of fundamental human rights, and it should be seen beyond the right to have connectivity, it should include the idea of digital inclusion, which means have the right to develop skills to shape the internet to meet people’s need, which should be achieved by securing the:         
+right to universal access, including the right to access to infrastructure irrespective of where you live;
+right to quality of service: standard minimum speed, signal or connection stability, same bandwidth for uploads and downloads, net neutrality, reliably customer services;
+right to affordable access, addressing monopoly practices and final users taxes;
+right to public access, such as “telecentros” or digital cities practices;
+right to internet at the workplace, without content restrictions and privacy guarantee;     
+right to integrated and inclusive public policies on education, culture and training on technology, which should not mean training just for a specific software or application;
+ 
+2. Right to net neutrality and openness
+The principle of net neutrality implies that all Internet traffic is treated in an isonomic way, ie, without discrimination based on content, device, author, source or destination of the content, service or application. Connection providers or governments should not be allowed to use its control over the Internet infrastructure or its market power to block, prioritize, slowing access to certain content, applications or services, such as the transmission to peer-to-peer. That means we should ensure:
+right to end-to-end principle: no inspection on content packs should be allowed;
+right to open architecture: the internet as a ‘network of networks’ is made up of many interconnected networks, based on the key underlying technical idea of open architecture networking, in which any type of network anywhere can be included and made publicly available;
+right to open standards;     
+right to decentralized, collaborative and interoperable internet.
+ 
+3. Access to Knowledge and Right to Culture
+The internet has enabled the access to cultural good and knowledge in a way never seen before, a characteristic that can serve as basis for sustainable human development. As such, we should protect the:
+Right to education through and about the Internet;
+Right to knowledge commons and public domain: publicly funded research and intellectual and cultural work must be available freely to the general public;
+Right to share information and knowledge in a way consistent with an open and free participation in scientific and cultural life of the community;
+Right to free and open source software (FOSS) choice;    
+Right to open technological standards;    
+Right to benefit from the convergence of media technologies.
+ 
+4. Freedom of expression and association
+The right to Freedom of expression is to seek, receive and impart information and ideas through the internet,to guarantee it online, everyone should have the:
+Right to freedom from censorship;
+Right to freedom of the media;    
+Right to safe harbor for intermediaries in order to avoid censorship;    
+Right to engage in online protest;
+Right to freedom from hate speech;
+Right to participation in assembly and association on the internet;
+Right to access of public information, which should be available in compatible, open     and interoperable formats;
+Right to online participation in public affairs and electronic government;
+ 
+ 
+5. Privacy, surveillance and encryption
+Privacy is a recognized fundamental right that must be protected, any eventual surveillance practice shall be abide by principles of necessity and proportionality. 
+Right to National Legislations on Data Protection;
+Right to no mandatory data retention;
+Right to safe and secure storage of data;
+Right to privacy of metadata;
+Right to transparent and comprehensive privacy policies and settings of all services;
+Right to Freedom from Surveillance and from bulk collection of Internet communication records;     
+Right to use Encryption;
+Right to anonymity;
+Right to standards of confidentiality and integrity of IT-Systems (no backdoors).
+ 
+6. Diversity and Non-Discrimination
+Although the internet is a only one net, it should be open and inclusive, respecting the:
+Right to access and create content that is culturally and linguistically diverse;
+Right to equal access for men and women;
+Right to accessibility: interfaces, content and applications     accessible to all, including people with physical, sensory or cognitive disabilities, people who are not literate an people who speak minority languages;
+Right to equal access for marginalized groups, including elderly, young people,     ethnic minorities;
+Right to equal access to public electronic services.
+ 
+7. Realization of Rights
+Internet is a platform for communications, business transactions but also a platform to foster realization of rights. That means:
+Right to rights protection, awareness and education;
+Right to recourse when rights are violated;
+Right to fair trial and due process in relation to legal claims regarding the internet.
+ 
+Proposed by:
+ 
+Article 19
+ 
+Centro de Tecnologia e Sociedade - CTS/FGV
+ 
+Coletivo Digital
+ 
+Instituto Brasileiro de Defesa do Consumidor - IDEC
+ 
+Instituto Intervozes
+ 
+Instituto de Tecnologia e Sociedade - ITS
+ 
+Knowledge Commons
+ 
+Movimento Mega
+ 
+Partido Pirata do Brasil
+ 
+GPOPAI
+ 
+PROTESTE

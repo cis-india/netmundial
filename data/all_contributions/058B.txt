@@ -1,0 +1,102 @@
+Document
+
+1. Why a concept of “Internet Universality”?[1]
+
+UNESCO has long recognized that the Internet has enormous potential to bring the world closer to peace, sustainable development and the eradication of poverty.[2]As an international intergovernmental organization that operates with a global remit and promotes values that are universal, UNESCO has a logical connection to the Internet’s “universality”. This “universality” can be understood as the common thread that runs through four key social dimensions pertaining to the Internet, namely the extent to which this facility is based on universal norms of being: (i) Human Rights-based (and therefore free); (ii) Open; (iii) Accessible to All; and (iv) Multi-stakeholder Participation. The four norms can be summarized by the mnemonic R – O – A – M (Rights, Openness, Accessibility, Multi-stakeholder).
+
+ 
+
+Various stakeholders have characterized the Internet according to what they perceive as its essential features, highlighting one or other aspects such as freedom of expression, open architecture, security issues, online ethics, etc.[3] What this range of conceptualizations illustrates is both the diversity of concerns and interests, as well as the multi-faceted character of the Internet itself.  In turn, this prompts the question as to the possibility of understanding how the various considerations and dimensions relate to each other and to the wider whole. As a method to conceptualize this bigger picture, UNESCO is now canvassing the concept of “Internet Universality”, which could serve as a macro-concept. The purpose is tocapture the enduring essentials of the vast, complex and evolving Internet, and which facilitates a comprehensive understanding of where and how different parties, and especially UNESCO, relate to the Internet. The concept could particularly serve as an enabling perspective in the context of the increasing centrality of Internet to societies, and specifically the increasing “Internetization” of education, the sciences, culture and communication-information.
+
+ 
+
+As well as identifying four distinctive principles and norms that have special interest to UNESCO, the concept of “Internet Universality” groups these under a single integrated heading in a way that affords recognition of their mutually reinforcing and interdependent character. Without such a comprehensive intellectual device, it would otherwise be hard to grasp interconnections amongst UNESCO’s Internet-related work and how it contributes to Knowledge Societies and the Post-2015 Sustainable Development Agenda.
+
+ 
+
+As regards UNESCO’s involvement in global debates, the concept of “Internet Universality” can be considered for its potential as a unifying, consolidated and comprehensive framework.  On the one hand, it highlights the freedom and human rights principles as shared by those existing notions such as “Internet freedom”; on the other hand, it also provides an umbrella to address the intertwined issues of access and use, as well as the matters of technical and economic openness. In addition, the concept also encompasses multi-stakeholder engagement as an integral component. In this inclusive way, the “Internet Universality” concept can therefore be a bridging and foresighted framework for dialogue between North and South and among different stakeholders. As such, it could also make a unique contribution to shaping global Internet governance discourse and the post-2015 Sustainable Development Agenda.
+
+ 
+
+2. Unpacking the concept of “Internet Universality”
+
+The linking of four normative components of the “universality” of the Internet builds closely upon prior UNESCO thinking about the Internet which includes:
+
+- Recommendation on the Promotion and Use of Multilingualism and Universal Access to Cyberspace (2003).[4] (This document particularly points to the accessibility norm, as well as the need to balance rights).
+
+- Reflection and Analysis by UNESCO on the Internet (2011).[5] (This document highlights normative work in relation to UNESCO’s programmes, and multi-stakeholder participation).
+
+- Final Recommendations of WSIS+10 review event, and the Final Statement of the WSIS+10 review event (2013) which was endorsed by UNESCO member states at their General Conference in 2013.[6] (These documents cover rights, access, openness, and multi-stakeholder issues).
+
+- UNGIS (UN Group on the Information Society) Joint Statement on the Post-2015 Sustainable Development Agenda (2013).[7] (This document highlights the importance of the social conditions for Information and Communication Technologies in general, and the Internet in particular, to contribute to inclusive Knowledge Societies).
+
+ 
+
+“Internet Universality” integrates a range of existing UNESCO insights and shows the link between the Internet and what UNESCO has already recognized[8] as the underlying key principles of Knowledge Societies: freedom of expression, quality education for all, universal access to information and knowledge, and respect for cultural and linguistic diversity. In this way, the concept highlights what is needed for the Internet to be a means towards achieving Knowledge Societies. It serves as a heuristic to highlight that the Internet’s character and utility entail technical, social, legal, economic and other arrangements which in turn depend on particular norms that underpin the positive potentiality of this facility. Considered in more depth, the R – O – A – M norms constitutive of “Internet Universality” (Rights, Openness, Accessibility, Multi-stakeholder) can be understood as follows:
+
+ 
+
+(i)            By identifying the Internet’s connection to Human Rights-based norms as constituents of freedom, “Internet Universality” helps to emphasize continued harmony between the growth and use of the Internet and human rights.  A free Internet in this sense means one that respects and enables the freedom to exercise human rights.[9] In this regard, “Internet Universality” enjoins us to consider the gamut of interdependencies and inter-relationships between different human rights and the Internet – such as freedom of expression, privacy, cultural participation, gender equality, association, security, education, etc.
+
+ 
+
+(ii)           “Internet Universality” also highlights the norm of the Internet based on the principle of Openness. This designation recognizes the importance of technological issues such as open standards, as well as standards of open access to knowledge and information. Openness also signals the importance of ease of entry of actors and the absence of closure that might otherwise be imposed through monopolies.
+
+ 
+
+(iii)          Accessible to All as a principle-based norm for “Internet Universality” raises issues of technical access and availability, as well as digital divides such as based on economic income and urban-rural inequalities. Thus it points to the importance of norms around universal access to minimum levels of connectivity infrastructure. At the same time, “accessibility” requires engaging with social exclusions from the Internet based on factors such as literacy, language, class, gender, and disability. Further, understanding that people access the Internet as producers of content, code and applications, and not just as consumers of information and services, the issue of user competencies is part of the accessibility dimension of “Universality”. This highlights UNESCO’s notion of Media and Information Literacy which enhances accessibility by empowering Internet users to engage critically, competently and ethically.
+
+ 
+
+(i)            The Internet in this sense cannot only be seen from the “supply side”, but needs a complimentary “user-centric” perspective. The Participatory, and specifically the Multi-stakeholder engagement, dimension of “Internet Universality” facilitates sense-making of the roles that different agents (representing different sectors as well as different social and economic status, and not excluding women and girls) have played, and need to continue to play, in developing and governing the Internet on a range of levels.  Participation is essential to the value that the facility can have for peace, sustainable development and poverty eradication.  In bridging contesting stakeholder interests, participative mechanisms contribute to shared norms that mitigate abuses of the Internet. “Universality” here highlights shared governance of the Internet.
+
+ 
+
+These norms for these four aspects are distinct, but they also reinforce each other. Rights without accessibility would be limited to the few; accessibility without rights would stunt the potential of access. Openness allows for sharing and innovation, and it complements respect for rights and accessibility. Multi-stakeholder participation helps guarantee the other three norms. Overall, an Internet that falls short of respecting human rights, openness, accessibility or multi-stakeholder participation would by definition be far less than universal. 
+
+ 
+
+3. How the concept of “Internet Universality” is relevant to UNESCO
+
+ 
+
+UNESCO has a unique role in promoting “Internet Universality”. It is the UN agency with a mandate that spans social life at large and, within this, has programs that involve the Internet in education, culture, science, social sciences and communication-information.  By using “Internet Universality” as an umbrella concept, UNESCO can position more specific concerns such as mobile learning, education for girls, cultural and linguistic diversity, media and information literacy, research into climate change, freedom of expression, universal access to information, bioethics and social inclusion, etc. In this way, “Internet Universality” can also support the priorities of Gender Equality and Africa. It can serve as an over-arching, integrating framework for Internet-related work across UNESCO, establishing a common frame of reference for all. Operationally the concept can elevate a range of work to the status of initiatives that jointly advance “Internet Universality”. It can encourage synergies and inter-sectoral co-operation and joint programming. In particular, the concept can enhance understanding of the mid-term strategy of 2014-2021 (37/C4) and the quadrennial program (37/C5).
+
+ 
+
+4. Conclusion
+
+ 
+
+“Internet Universality” accords with the Organization’s service to the wider international community in the following respects:
+
+    Laboratory of ideas, including foresight – elaborating the concept is directly relevant to UNESCO’s creative and think-tank potential;
+    By stimulating global debate, “Internet Universality” illustrates how UNESCO can be a catalyst for international cooperation, with a holistic and inclusive approach.
+    Standard-setter – if the concept gained traction broadly, it could inform the development of standards for monitoring progress in “Internet Universality”
+    As a normative framework that can inform policies, and draw in public and private, civil society and decision-makers, “Internet Universality” can help UNESCO fulfill its role as a capacity-builder in Member States.
+
+Looking ahead, “Internet Universality” could follow in the footsteps of previous influential intellectual work by UNESCO such as the concepts of “Intangible cultural heritage” and “Knowledge Societies”. Because “Internet Universality” represents an updated conceptualization of the era, the concept could become a valuable contribution to the global discussion about this complex and dynamic human creation and serve to enhance Internet’s continued contribution to humanity’s shared future.
+
+ 
+
+ 
+
+[1] An integral version of this paper is online at
+
+ http://www.unesco.org/new/en/communication-and-information/resources/news-and-in-focus-articles/all-news/news/open_consultation_on_unesco_new_concept_internet_universality/
+
+[2] For example: “Reflection and Analysis by UNESCO on the Internet: UNESCO and the use of Internet in its domains of competence” (2011).http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ED/ICT/pdf/useinternetdomains.pdf
+
+[3] For example, there have been different emphases at the Stockholm Forum, the Freedom Online Coalition on Cyberspace, Wilton Park, and the London and Budapest conferences on Cyberspace. Similarly, the Internet has been analyzed diversely by international organizations. Examples here are: the Council of Europe’s “Recommendation CM/Rec(2011)8 of the Committee of Ministers to member states on the protection and promotion of the universality, integrity and openness of the Internet” (2011), the OECD Council Recommendation on Principles for Internet Policy Making (2011), the OSCE Representative on Freedom of the Media Recommendations from the Internet 2013 Conference (2013); the ICC Policy Statement on “The freedom of expression and the free flow of information on the Internet”, and the Internet Rights and Principles Coalition’s “Internet Rights & Principles Charter” (2010).
+
+[4]http://www.unesco.org/new/en/communication-and-information/about-us/how-we-work/strategy-and-programme/promotion-and-use-of-multilingualism-and-universal-access-to-cyberspace/
+
+[5] http://unesdoc.unesco.org/images/0019/001920/192096e.pdf;
+
+[6] Documents from the First WSIS+10 Review Event, “Towards Knowledge Societies for Peace and Sustainable Development”, Paris 25-27 February, 2013:  http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/wsis/WSIS_10_Event/wsis10_recommendations_en.pdf;  http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/wsis/WSIS_10_Event/wsis10_final_statement_en.pdf
+
+[7] http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/wsis/ungis_joint_statement_wsis_2013.pdf
+
+[8] Reflection and Analysis by UNESCO on the Internet, http://unesdoc.unesco.org/images/0019/001920/192096e.pdf
+
+[9] In this manner, “Internet Universality” accords with the Report of UN Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression and also echoes the first resolution on “promotion, protection and enjoyment of human rights on the Internet” passed by UN Human Rights Council in 2012.

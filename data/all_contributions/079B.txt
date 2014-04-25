@@ -1,0 +1,159 @@
+EUROPEAN COMMISSION
+Directorate-General for Communications Networks, Content and Technology
+NETMUNDIAL (SAO PAULO, 23-24 APRIL 2014)
+INPUT ON "INTERNET GOVERNANCE PRINCIPLES"
+(This contribution is based on the Communication of the European Commission "Internet Policy and
+Governance - Europe's role in Shaping the Future of the Internet", COM(2014) 72/4, as well as a number of
+discussions and positions on Internet governance, including inter alia the OECD Principles on Internet
+Policy-making, and the G8 Deauville Declaration. This contribution is the sole responsibility of the
+European Commission)
+In preparation of the forthcoming Global Multistakeholder Meeting on the Future of
+Internet Governance ("NETmundial") which will take place in Sao Paulo (Brazil) on
+23-24 April 2014, this is one of two contributions of the European Commission to the
+open call for contributions.
+The first topic of the call for contributions is "Internet Governance Principles":
+"The NETmundial meeting aims to identify a set of universal principles to be promoted as
+a global inspiration for the evolution of the Internet worldwide. Those principles should
+be viewed from the perspective of the Internet as a platform for social, economic and
+human development and a catalyzer to exercise human rights of all people of the world."
+Following the conclusions of the 2002-2005 World Summit on the Information Society
+(WSIS),1 a number of organisations and groups came forward with various statements of
+principles applying to substantive and/or procedural elements of Internet policies and
+governance. In most cases, each of these statements was supported by a limited set of
+stakeholders, or limited in geographical scope.2
+The Commission is of the view that a process leading towards a more broadly supported
+and coherent set of principles for Internet governance would be helpful in finding
+common ground at the global level.
+Such a coherent set of principles should serve as an agreed, high-level guidance to
+identify the priorities, constraints and objectives of policy and operational activities
+related to the future of the Internet and of its governance. Accordingly, such principles
+should feed into the concrete roadmap for the further evolution of the Internet
+governance ecosystem, both from a procedural / institutional and from a substantive point
+1 See http://www.itu.int/wsis.
+2 Examples include the OECD Principles on Internet Policy-Making and the 2011 G8 Deauville
+Declaration. The organisers of NETmundial have helpfully collected a broad range of Internet
+governance principles at http://content.netmundial.br/internet-governance-principles/. An analysis of a
+broad number of Internet principles, mostly related to "Internet freedom", is available at
+http://bestbits.net/issue-comparison-of-major-declarations-on-internet-freedom/.
+2
+of view. The Commission is providing its views on the possible elements of a roadmap
+separately.
+For over two years, the Commission has advocated an approach summarised by the
+COMPACT acronym:3 the Internet as a space of Civic responsibilities, One
+unfragmented resource governed via a Multistakeholder approach to Promote democracy
+and Human Rights, based on a sound technological Architecture that engenders
+Confidence and facilitates a Transparent governance both of the underlying Internet
+infrastructure and of the services which run on top of it.
+More concretely, the Internet COMPACT is based on the following core beliefs:
+1. The Internet is an ecosystem in which every participant must take up its
+social responsibilities. Having due regard to applicable legislation concerning
+the responsibilities of Internet intermediaries, in order to ensure the sustainability
+of the Internet from both a technological and a societal point of view it is
+necessary for the global community to work together towards a common
+understanding both of corporate social responsibility across the whole Internet
+value-chain and of the appropriate approaches to self- and co-regulation on the
+Internet, as a complement to regulation – which should always remain as an
+option but be used carefully and mindful of possible negative effects on
+innovation. In any case, it is essential to ensure that fundamental rights are duly
+respected and enforced.
+2. The Internet should remain one single unfragmented space, where all
+resources should be accessible in the same manner, irrespective of the
+location of the user and the provider. Even when faced with complex
+regulatory or political challenges, filtering traffic at borders or other purely
+national approaches can lead to fragmentation of the Internet and could
+compromise economic growth and the free flow of information. This does not
+exclude increased efforts towards diversification of the underlying infrastructure
+such as local internet exchange points and transmission capacity, which can
+strengthen the resilience and robustness of the Internet, as well as measures
+necessary to protect fundamental rights and to address concerns raised by
+revelations of large-scale surveillance and intelligence activities.
+3. Internet-related discussions and decisions should be based on a strengthened,
+genuine multi-stakeholder model. This implies that the necessary intergovernmental
+discussions are anchored in a multistakeholder context in the full
+understanding that the Internet is built and maintained by a variety of
+stakeholders, as well as governments. Furthermore, all decisions should be taken
+on the basis of principles of good governance, including transparency,
+accountability, and inclusiveness of all relevant stakeholders. Appropriate efforts
+should be made in order to counter the significant differences in the ability to
+participate across the various stakeholder groups to better ensure
+representativeness. Furthermore, it should be recognised that different stages of
+decision making processes each have their own requirements and may involve
+different sets of stakeholders. A sustainable model needs to clearly define the
+roles of actors in the governance process, including the role of public authorities
+to fulfil their public policy responsibilities consistent with human rights online.
+For the sake of clarity, this does not necessarily imply that the role of public
+3 First presented at the occasion of the OECD's High-Level Meeting on the Internet Economy,
+28.06.2011, http://ec.europa.eu/commission_2010-2014/kroes/en/blog/i-propose-a-compact-for-theinternet.
+3
+authorities should be strengthened; on the contrary, it is quite possible that in
+certain well-defined cases the role of public authorities should be limited.
+4. The Internet should be a space subject to the same laws and norms that
+apply in other areas of our day-to-day lives; and where individuals can
+benefit from their rights, and from judicial remedies when those rights are
+infringed. An open and free Internet in which all rights and freedoms that people
+have offline also apply online facilitates social and democratic progress
+worldwide. Some states, quoting security concerns, attempt to curb global
+connectivity of their citizens by censorship and other restrictions. This is not
+acceptable. Blocking, slowing down or discrimination of content, applications
+and services goes against the open nature of the Internet4.
+5. The technical architecture of the Internet should be able to evolve to cope
+with new and often unforeseen challenges. This ability, which is based inter
+alia on the open and distributed nature of the Internet, based on non-proprietary
+standards which create low barriers of entry, should be preserved. At the same
+time, research, innovation and experimentation, both in the core and at the edges
+of the Internet, should be promoted. Furthermore, Technical details of Internet
+protocols and other information technology specifications can have significant
+public policy implications. Their design can impact on human rights such as
+users' data protection rights and security, their ability to access diverse knowledge
+and information, and their freedom of expression online. It also affects other
+stakeholders, including companies conducting business online. An effective
+multistakeholder approach to specification setting on the internet will be based on
+efficient mutual interactions between technical and public policy considerations5
+so that technical specifications more systematically take into account public
+policy concerns. This is particularly important when legal rights of individuals,
+especially their human rights, are clearly impacted.
+6. Confidence in the Internet and its governance is a prerequisite for the
+realisation of the Internet's potential as an engine for economic growth and
+innovation. A rising number of activities online directly contravene the exercise
+of fundamental rights. Cybercrime, including online child abuse, identity theft,
+cyber-attacks and non-cash payment fraud, and other forms of unlawful
+processing of personal data pose a serious threat to confidence in the use of the
+Internet. Large-scale surveillance and intelligence activities have also led to a loss
+of confidence in the Internet and its present governance arrangements. All these
+challenges need to be addressed urgently, with the full involvement of all
+stakeholders. The role of the technical community is crucial, including by
+ensuring confidence in IP based communications and the resilience of
+cryptosystems to increase the trustworthiness of IP-based communications. This
+would support an effective fight against cyber-crime and ensure the privacy of
+users.
+7. Transparent, inclusive, balanced and accountable governance of the Internet
+(concerning both its infrastructure and the activities which take place on top
+of it) is paramount for the sustainability of the Internet as a single,
+4 COM(2013)627. Proposal for a Regulation of the European Parliament and of the Council laying down
+measures concerning the European single market for electronic communications and to achieve a
+connected continent.
+5 See Regulation 1025/2012 of 25.10.2012 on European standardisation, Commission Decision of
+28.11.2011 setting up the European Multistakeholder platform on ICT standardisation, see
+https://ec.europa.eu/digital-agenda/en/european-multistakeholder-platform-ict-standardisation
+4
+unfragmented resource. Sound multistakeholder processes remain essential for
+the future governance of the Internet. However, the fact that a process is claimed
+to be "multi-stakeholder" does not per se guarantee outcomes that are widely seen
+to be legitimate. Multistakeholder processes in relation to Internet policies must
+fulfil, beyond their consistency with fundamental rights, at least the following
+requirements: (a) transparency; (b) inclusiveness and balance; (c) accountability.
+Furthermore, the ability of public authorities that derive their powers and
+legitimacy from democratic processes to fulfil their public policy responsibilities
+- where those are compatible with universal human rights - should be ensured.
+This includes their right to intervene with regulation where required.
+The Commission sees the Internet COMPACT as the guiding principles that will guide
+its efforts towards an Internet that should remain a single, open, free, unfragmented
+network of networks, subject to the same laws and norms that apply in other areas of our
+day-to-day lives. Its governance should be based on an inclusive, transparent and
+accountable multistakeholder model of governance, without prejudice to any regulatory
+intervention that may be taken in view of identified public interest objectives such as to
+ensure the respect for human rights, fundamental freedoms and democratic values as
+well as linguistic and cultural diversity and care for vulnerable persons. A safe,
+secure, sound and resilient architecture is the basis for trust and confidence of
+Internet users. At the same time, the innovation power of the Internet must be
+maintained. This requires careful yet robust stewardship.

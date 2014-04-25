@@ -1,0 +1,254 @@
+Document
+Insufficiencies of ICANN present legal and accountability framework
+
+ICANN is a nonprofit private organization legally operating within the State of California (US) jurisdiction with the responsibility of technical coordination of the global Internet system of unique identifiers (DNS – Domain Name System) and ensuring its stable and secure operation.
+
+ 
+
+It initiated activities on the basis of a Memorandum of Understanding (MoU) signed by the US government and ICANN in 1998 for a two year period, aiming to privatize and develop a system of bottom-up technical management of part of the DNS tasks previously performed by or on behalf of the US government, “in a manner that reflects the global and functional diversity of Internet users and needs”, while “increasing competition” and “facilitating international participation in its management”.
+
+ 
+
+The MoU was extended by six successive Amendments up to 2006, when it was replaced by a Joint Project Agreement (JPA) for a three year period, and, later, by an Affirmation of Commitments (AOC), signed in 2009 by the US government and ICANN, institutionalizing the technical coordination of the Internet DNS by ICANN, through an accountable and transparent Multistakeholder bottom-up policy development model reflecting the public interest.
+
+ 
+
+The development of an international Multistakeholder Model of policy development by ICANN has been an obvious success and ICANN operation has proved effective for ensuring a scalable, secure, stable and resilient DNS management. However, two important issues stand unsolved:
+
+ 
+
+             (i)     The US government has a relationship with ICANN boldly asymmetrical when compared with other nations,as it remains the sole entity to which ICANN is formally bound through the AOC;
+
+ 
+
+           (ii)     The ICANN remains an organization under Californian jurisdiction, in striking contrast with the objective of accountability to multistakeholders worldwide.
+
+Both need swift fixing.
+
+ 
+Promote the signature of AOCs with others
+
+ 
+
+Issue (i) can be practically overcome by promoting the signature of similar AOCs with other nations willing to do it, in particular those who are current members of ICANN GAC – Governmental Advisory Committee, as well as with others who may wish to join, and of appropriate AOCs with nongovernmental and intergovernmental organizations of the Internet ecosystem with which ICANN engages. Naturally, this should be an open and flexible process allowing for different timings and accommodating reasonable specificities – it is very natural that no one size fits all!
+
+ 
+Institutionalize ICANN according to international law
+
+ 
+
+Issue (ii), on the other hand, requires an innovative solution. Due to its worldwide reach it is clear that ICANN should stand on international law, with international arbitration and with statutes institutionalizing accountability to worldwide multistakeholders.  
+
+ 
+
+This objective cannot be achieved within intergovernmental organizations, but it is feasible and practical within the established international legal framework, similarly to international research labs but with statutes explicitly stating accountability to worldwide multistakeholders and the associated regimes of engagement.  Such a step has the additional merit of providing a possible legal mechanism to institutionalize the engagement of worldwide multistakeholders and ICANN’s accountability to them.
+
+ 
+
+This action will bring institutional stability to an arrangement that several parties in the world challenge and confront every year, while reinforcing and institutionalizing the Multistakeholder Model that has proved so valuable for Internet policy development and management.
+
+ 
+
+Maintaining ICANN functions performed by a US-California law organization is contradictory to its worldwide public interest and one-Internet objectives. Thus, it requires a consistent solution within the international law framework as proposed (see the final note on globalization versus internationalization).
+
+ 
+Accountability of Root-Zone and IANA functions to worldwide multistakeholders
+
+ 
+
+In the same vein as the US government took the initiative with the 1998 MoU of initiating the privatization of the Internet DNS technical management to ICANN and entrusted it to develop a bottom-up management system (later explicitly acknowledged as the Multistakeholder Model) “in a manner that reflects the global and functional diversity of Internet users and needs”, as a matter of principle and coherence it should, as well, initiate a process of privatization and accountability to worldwide multistakeholders  for the IANA functions. In fact, it is contradictory for the US to secure command-and-control of IANA functions given their important role in the one-Internet worldwide multistakeholder system of now-a-days.
+
+ 
+
+Some voices have called for such a development, asking for the creation of a new organization on the basis of a presumed need for separation policy development from operations. However, it is not understandable why such a separation is necessary in this case. On the contrary, it does not appear to exist any possible conflict of interests involved, and most likely entrusting policy development and operations to the same accountable organization would improve effectiveness and efficiency. So, the privatization of IANA functions and their accountability to worldwide multistakeholders can be entrusted to ICANN and its institutionalization within international law would accomplish the needed evolution of responsibility for IANA functions.
+
+ 
+A web of organizations layer
+
+ 
+
+It is common place to look at the Internet architecture as a layered structure. Layered structures, web of interactions, loose coupling, neutrality of flows, end-to-end communications are essential characteristics of evolving robust complex systems, natural or human made. It is not by accident that throughout biological evolution such characteristics surfaced as a result of “survival of the fittest”. In human made systems open standards and protocols are an additional requirement that is implicitly assured in nature.
+
+ 
+
+For robustness, effective sustainable operation and future evolution of the Internet it is paramount to nurture an organizational layer as an open web of organizations standing on the same characteristics as enunciated above for the Internet and complex systems in general. What is needed is to strengthen the flows between web nodes – as usually in networks, the flows are much more important than the nodes. Regular flows require open communication/engagement protocols, and this holds for organizations as it does for technical infrastructure.
+
+ 
+
+For organizations, the communication/engagement protocols assume the form of a set of agreements between groups of two or more organizations, which must be open in the sense of being crafted appropriately for the engagement needs of each pair or related group of involved organizations and being known to all. Such agreements should be centered in specifying the concrete nature of the mutual relationships and flows and the associated simplified protocols of communication and joint work.
+
+ 
+
+Examples of obvious nodes for such a web of organizations layer are the more than 20 organizations identified in the recently published Draft Report of ICANN’s Strategy Panel on the Role in the Internet Governance Ecosystem as part of the descriptions of this ecosystem. Such a web of organizations must be seen as an open and evolving network like the Internet itself that can be joined by other organizations or rearranged throughout time.
+
+ 
+
+To materialize this web of organizations layer it is necessary to establish the communication/engagement protocols between such organizations, making them explicit, simple and openly known to all. This will materialize effective relationships of Enhanced Cooperation between nodes of this web of organizations.
+
+ 
+
+The robustness and evolutionary strength that this sort of web of organizations layer can bring to Internet governance is similar to those already demonstrated by the Internet operation itself.
+
+ 
+
+* * *
+Final note: On globalization versus internationalization
+
+ 
+
+It has been voiced that it would be desirable that ICANN globalizes and not internationalizes. According to the established understanding of these terms, such a call is difficult to understand and conveys confusing signals: when a self-interested corporation owned by individuals of some nation reaches out to do business worldwide for exploiting opportunities of self-profit we say the corporation is globalizing. Also, the current so-called “globalization process” is generally recognized as being associated with the opening of international trade agreements.
+
+ 
+
+Neither of these two meanings are acceptable for ICANN reaching out worldwide and be accountable to worldwide multistakeholders in the public interest!
+
+ 
+
+Clearly, the meaning of international organization does not imply that its nature must be just between Nation States, and it is fully compatible with the involvement of worldwide multistakeholders of all possible organizational or individual origins, as desirable for ICANN.
+
+ 
+
+International law and international arbitration procedures provide an appropriate framework for the evolution of ICANN institutional nature and the strengthening of its accountability to worldwide multistakeholders. So, it appears most appropriate to internationalize ICANN. 
+
+ 
+
+___________________________________________________________
+
+ 
+
+(VERSÃO EM PORTUGUÊS/PORTUGUESE VERSION)
+
+ 
+três questões de “como fazer?” sobre o futuro do ecosSistema de governação da internet
+
+ 
+
+A governação e gestão da Internet envolve variadas organizações que interagem em vários papéis e funções. Esta breve contribuição foca-se em três questões relacionadas de “Como Fazer?”:
+
+ 
+
+(1) Como pode evoluir o actual quadro da ICANN para responder perante multistakeholders de todo o mundo e operar num quadro legal internacional em vez da jurisdição de um estado em particular?
+
+ 
+
+ (2) Como podem a Gestão da Zona-Raiz do DNS e das Funções IANA responder perante multistakeholders de todo o mundo em vez de só perante o governo dos EUA?
+
+ 
+
+(3) Como podem as múltiplas organizações do ecossistema de governação e gestão da Internet incorporar uma camada institucional robusta com eficaz Cooperação Reforçada?
+
+ 
+Insuficiências do presente quadro legal e de prestação de contas da ICANN
+
+ 
+
+A ICANN é uma organização privada sem fins lucrativos constituída no âmbito da jurisdição do Estado da Califórnia (EUA) com a responsabilidade da coordenação técnica do sistema global de identificadores únicos da Internet (DNS – Domain Name System) e de assegurar a respectiva operação estável e segura.
+
+ 
+
+Iniciou actividades com base num Memorando de Entendimento (MoU – Memorandum of Understanding) assinado pelo governo dos EUA e pela ICANN em 1998 para um período de dois anos, com o objectivo de privatizar e desenvolver um sistema bottom-up para a gestão técnica de parte das tarefas do DNS anteriormente desempenhadas pelo ou por parte do governo dos EUA “de uma maneira que reflecte a diversidade global e funcional dos utilizadores e das necessidades da Internet”, “aumentando a concorrência” e “facilitando a participação internacional na respectiva gestão” (traduções literais de frases no MoU em inglês).
+
+ 
+
+O MoU foi estendido por seis Emendas sucessivas até 2006, quando foi substituído por um Acordo de Projecto Conjunto (JPA – Joint Project Agreement) para três anos e, mais tarde, por uma Afirmação de Compromissos (AOC – Affirmation of Commitments), assinada em 2009 pelo governo dos EUA e a ICANN, que institucionalizou a coordenação técnica do DNS da Internet pela ICANN,através de um Modelo Multistakeholder bottom-up de desenvolvimento de políticas transparente e com prestação de contas que reflicta o interesse público.
+
+ 
+
+O desenvolvimento de um Modelo Multistakeholder internacional de desenvolvimento de políticas pela ICANN tem sido um óbvio sucesso e a operação da ICANN tem provado ser eficaz para assegurar uma gestão do DNS escalável, segura, estável e resiliente. Contudo, mantêm-se sem ser resolvidos dois importantes assuntos:
+
+ 
+
+             (i)     O governo dos EUA tem com a ICANN uma relação assimétrica quando comparada com outras nações,dado que permanece a única entidade face à qual a ICANN está formalmente obrigada através da AOC;
+
+ 
+
+           (ii)     A ICANN permanece uma organização sob jurisdição Californiana, em chocante contraste com o objective de prestação de contas perante multistakeholders de todo o mundo.
+
+ 
+
+Ambos necessitam de correcção rápida.
+
+ 
+Promover a assinatura de AOCs com outras entidades
+
+ 
+
+O assunto (i) pode ser ultrapassado de forma prática pela promoção da assinatura de AOCs com outras nações que o queiram fazer, em particular as que são membros correntes do GAC – Governmental Advisory Committee da ICANN, assim como com outros que pretendam juntar-se, e de AOCs apropriados com organizações não-governamentais e intergovernamentais do ecossistema da Internet com quem a ICANN se relaciona. Naturalmente, este processo deve ser aberto e flexível, permitindo diferentes temporizações e a acomodação de especificidades razoáveis – é muito natural que nenhuma medida única sirva a todos!
+
+ 
+Institucionalizar a ICANN no âmbito de legislação internacional
+
+ 
+
+O assunto (ii), por outro lado, requer uma solução inovadora. Devido ao alcance mundial das actividades da ICANN, é claro que a ICANN deve existir na base de legislação internacional, com arbitragem internacional e com estatutos que institucionalizem a prestação de contas perante multistakeholders de todo o mundo. 
+
+ 
+
+Este objectivo não pode ser atingido no âmbito de organizações intergovernamentais, mas é realizável e de froma prática no âmbito do quadro legal internacional estabelecido, de modo semelhante a laboratórios internacionais de investigação, mas com estatutos que estipulem explicitamente a prestação de contas a multistakeholders de todo o mundo e os associados regimes de envolvimento. Este passo tem o mérito adicional de facultar um mecanismo legal possível para institucionalizar o envolvimento de multistakeholders de todo o mundo e a responsabilização da ICANN perante eles.
+
+ 
+
+Esta acção trará estabilidade institucional a um esquema que é desafiado com confrontação todos os anos, ao mesmo tempo que permite reforçar e institucionalizar o Modelo Multistakeholder que tem provado ser tão valioso para do desenvolvimento de políticas e a gestão da Internet.
+
+ 
+
+Manter as funções da ICANN a serem realizadas por uma organização estabelecida no enquadramento legal de EUA-Califórnia é contraditório com os objectivos de interesse público em todo o mundo e de uma-Internet. Logo, requer uma solução consistente no quadro da legislação internacional proposto (ver a nota final sobre globalização versus internacionalização).
+
+ 
+responsabilização da Zona-Raiz e das funções IANA perante multistakeholders de todo o mundo
+
+ 
+
+Na mesma linha em que o governo dos EUA tomou a iniciativa com o MoU de 1998 de iniciar a privatização da gestão técnica do DNS da Internet à ICANN e confiou-lhe o desenvolvimento de um sistema de gestão bottom-up (mais tarde explicitamente reconhecido como Modelo Multistakeholder) “de uma maneira que reflecte a diversidade global e funcional dos utilizadores e das necessidades da Internet” (tradução literal de frase no MoU em inglês), por razões de princípio e coerência deveria, de igual forma, iniciar um processo de privatização e responsabilização perante multistakeholders de todo o mundo das funções IANA. Na verdade, é contraditório para os EUA manter o comando-e-controlo das funções IANA dado o importante papel que desempenham no sistema actual de uma-Internet e multistakeholders de todo o mundo.
+
+ 
+
+Algumas vozes têm defendido este tipo de desenvolvimento, clamando pela criação de uma nova organização na base de uma presumida necessidade de separação do desenvolvimento de políticas e das operações. Contudo, não se compreende porque é necessária uma tal separação neste caso. Pelo contrário, não parece estar envolvido qualquer possível conflito de interesses, e muito provavelmente atribuir desenvolvimento de políticas e operações a uma mesma organização que preste rigorosas contas melhoraria eficácia e eficiência. Logo, a privatização das funções IANA com a respectiva prestação de contas perante multistakeholders de todo o mundo pode ser atribuída à ICANN e a institucionalização desta no âmbito da legislação internacional concretizaria a necessária evolução da responsabilidade pelas funções IANA.
+
+ 
+Uma camada de rede de organizações
+
+ 
+
+É um lugar comum ver a arquitectura da Internet como uma estrutura em camadas. Estruturas em camadas, rede de interacções, acoplamento leve, neutralidade de fluxos, comunicações ponto-a-ponto são características essenciais de sistemas complexos robustos em evolução, naturais e feitos pelo homem. Não é por acidente que através da evolução biológica tais características tenham emergido como resultado da “sobrevivência dos mais aptos”. Em sistemas feitos por humanos normas e protocolos abertos são um requisito adicional, que na natureza está implicitamente garantido.
+
+ 
+
+Para robustez, operação eficaz sustentável e evolução futura da Internet é da maior importância constituir uma camada organizacional formada por uma rede aberta de organizações e suportada nas mesmas características acima enunciadas para a Internet e sistemas complexos em geral. O que é preciso é reforçar os fluxos entre os nós da rede – como é usual em redes, os fluxos são muito mais importantes do que os nós. Fluxos regulares requerem protocolos abertos de comunicação/envolvimento, e tal aplica-se às organizações como à infraestrutura técnica.
+
+ 
+
+Para organizações, os protocolos de comunicação/envolvimento tomam a forma de um conjunto de acordos entre grupos de duas ou mais organizações, que tem de ser aberta no sentido de ser concebida apropriadamente para as necessidades de envolvimento de cada par ou grupo relacionado de organizações envolvidas e seja conhecido de todos. Tais acordos devem centrar-se na especificação da natureza concreta das relações e fluxos mútuos e dos associados protocolos simplificados de comunicação e trabalho conjunto.
+
+ 
+
+Exemplos óbvios de nós para essa camada de rede de organizações são as mais de 20 organizações identificadas no recentemente publicado Draft Report of ICANN’s Strategy Panel on the Role in the Internet Governance Ecosystem como parte da descrição deste ecossistema. Uma tal rede de organizações deve ser vista como uma rede aberta em evolução como a própria Internet, a que se podem associar outras organizações ou que se pode reconfigurar ao longo do tempo.
+
+ 
+
+Para materializar esta camada de rede de organizações é necessário estabelecer os protocolos de comunicação/envolvimento entre tais organizações, tornando-os explícitos, simples e abertamente conhecidos por todos. Este desenvolvimento materializará relações eficazes de Cooperação Reforçada entre nós desta rede de organizações.
+
+ 
+
+A robustez e capacidade evolutiva que este tipo de camada de rede de organizações pode trazer à governação da Internet é semelhante às já demonstradas pela operação da própria Internet.
+
+ 
+
+* * *
+Nota final: Sobre globalização versus internacionalização
+
+ 
+
+Tem sido falado que seria desejável que a ICANN se globalizasse em oposição a internacionalizar-se. De acordo com o entendimento estabelecido destes termos, esta proposta é difícil de compreender e transmite sinais confusos: quando uma empresa com interesses próprios e pertencente a indivíduos de uma nação se estende para fazer negócios em todo o mundo para explorar oportunidades de lucro em benefício próprio dizemos que a empresa está a globalizar-se. Também, o corrente chamado “processo de globalização” é generalizadamente reconhecido como estando associado à abertura de acordos internacionais de comércio.
+
+ 
+
+Nenhum destes dois significados é aceitável para o processo de ICANN se estender no mundo e ser responsável perante multistakeholders de todo o mundo no interesse público geral!
+
+ 
+
+Claramente, o significado de organização internacional não implica que tenha de ser entre Estados Nação, e é totalmente compatível com o envolvimento de multistakeholders de todo o mundo, de todas as possíveis origens organizacionais ou individuais, como desejável para a ICANN.
+
+ 
+
+A legislação internacional e os procedimentos de arbitragem internacional fornecem um quadro apropriado para a evolução da natureza institucional da ICANN e o reforço da responsabilização e prestação de contas perante multistakeholders de todo o mundo. Logo, é muito apropriado internacionalizar a ICANN.

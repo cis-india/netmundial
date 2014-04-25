@@ -1,0 +1,113 @@
+Document
+Draft roadmap for the further evolution of the internet governance ecosystem
+Shortcomings of the current internet governance ecosystem
+1. Certain issues that are not adequately addressed in the current system
+
+A variety of internet-related public policy issues are not being adequately addressed in the current internet governance ecosystem. A non-exhaustive list of pressing substantive issues that we, the undersigned members of civil society, believe are not being adequately addressed and that have important global dimensions include:
+
+ 
+
+    Universal and affordable high-quality access
+
+    Protection of the right of freedom of expression
+
+    Protection of the right to privacy
+
+    Protection of net neutrality
+
+    Access to knowledge
+
+    Enhancing cultural and linguistic diversity
+
+    Cross-border information flow and jurisdiction
+
+2. Institutional shortcomings of the current system
+
+Institutional shortcomings in the current internet governance ecosystem are at the heart of the existing structural failures to address the substantive issues we list above. In our view, these are:
+
+    Lack of multi-stakeholder decision-making forums to address certain internet-related public policy issues: decisions that affect all stakeholders are being made on an ad hoc or arbitrary basis both by governments and the private sector, without proper multistakeholder processes, in a way that impacts the rights of users and encroaches on the global and distributed functioning of the internet.
+
+    Lack of clarity and coordination between existing forums: While there are multiple forums where issues pertaining to internet governance have been addressed, there is a lack of clarity about how and where decisions are made.
+
+    Imbalance of power in existing forums: Many people and groups, in particular from the global south, are marginalised from decision-making processes. There is also insufficient diversity of voices, including with regards to gender and language diversity.
+
+    Digital development agenda as set out during WSIS has failed to fully deliver: The international digital development framework as set out in the Tunis Agenda and the WSIS Action Lines[1] is seen to have done little to address development concerns and the digital divide which remains a pressing issue.
+
+Guiding Principles for Evolving the Internet Governance Ecosystem
+
+We consider the following mutually-supporting criteria to be necessary for the further evolution of the internet governance ecosystem:
+
+a) Underlying Values
+
+    Protection and promotion of Human Rights should be at the core of any governance process and outcomes, guided by international human rights legal frameworks as enshrined in the Universal Declaration of Human Rights, (UDHR), International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social and Cultural Rights ICESCR)[2].
+
+    Preservation of the global nature of the internet should be at the core of any internet governance processes. Maintaining and advancing the interoperable, decentralized, open and global nature of the internet should be a priority over the short-term interest of any particular stakeholder group.
+
+    Operationalization of multistakeholder approaches to governance processes, recognizing that the role of different stakeholder varies according to the issue, venue, and status of discussion. Sections b) and c) below provide minimum guidelines.
+
+b) Decision making processes
+
+    Transparent and comprehensible: it should be possible for anyone to understand how Internet Governance related decision making processes work in the various fora and how decisions are made. Institutions should pro-actively publish data, information and documents in accessible formats in a timely manner.
+
+    Accountable: internal and external accountability processes should exist, including a way of challenging decisions;
+
+    Effective: decisions should be enforceable and meet the policy goals they were meant to tackle;
+
+    Adaptable: able to take account of new innovations and developments in the field, and also be able to accommodate new voices.
+
+c) Participation
+
+    Inclusive and open: not limited to a small exclusive club, but open to many, with all necessary points of view included in order to reach good decisions/agreements;
+
+    Informed: possessing the necessary expertise to make decisions, including reflecting all different geographic regions;
+
+    Meaningful participation: anybody affected by a decision should be able to impact upon decision-making processes. Ensuring gender and regional balance and the inclusion of marginalized voices are particularly important.
+
+Roadmap for the Further Evolution of the Internet Governance Ecosystem[3]
+
+We outline below a proposal to address the shortcomings of the current system that are consistent with the list of criteria highlighted above. These arrangements seek to improve the existing internet governance ecosystem, developing and maintaining a distributed, coordinated, multistakeholder system of internet governance. The gradual implementation of this proposal provides a roadmap for the evolution of the Internet Governance Ecosystem.
+
+ 
+
+While a centralised system might be easier to navigate, a distributed system guided by the principles outlined earlier in this submission addresses far more effectively the shortcomings listed above. The internet is not an fixed issue but an evolving space. Therefore it is a mistake to think that one body, and one set of experts, could possibly be responsible for effective policy making on all Internet-related matters. Rather, a distributed system better enables issue-based expertise, including from civil society from around the world, to engage on specific issues. Therefore the proposals below seek to address the weaknesses and gaps in the current system by strengthening, coordinating and improving the existing distributed system of internet governance.
+
+ 
+1. A new co-ordinating function
+
+In response to the shortcomings underlined above, we propose a new coordinating mechanism, consistent with paragraph 37 of the Tunis Agenda, to facilitate the coherence and effectiveness of existing internet-related policy making mechanisms within a distributed model.
+
+ 
+
+This coordination mechanism, should include all stakeholders and build on work already done (including within the Correspondence Group of the Working Group on Enhanced Cooperation) to seek, compile, review, research and analyze inputs on progress and gaps in international Internet related public policy. Based on this work, it shall also recommend the most appropriate venue or venues to develop further policy as required.
+
+ 
+
+It could [be newly established or] attached to an existing multistakeholder body such the IGF (per paragraph 72 b of the Tunis Agenda), to the UN Commission on Science and Technology for Development (CSTD), or to any comparable venue consistent with the guiding principles outlined earlier in this submission.
+
+ 
+2. Issue-specific multistakeholder working groups
+
+For some specific issues[4] that are not being adequately addressed in the current framework we propose that these should be resolved through ad hoc multi-stakeholder working groups developed on a case by case basis, bringing together relevant actors. The above-mentioned co-ordinating function would aid stakeholders in identifying gaps in the current framework so that ad hoc working groups would only be formed when there is an actual need and help forge collaboration between existing institutions and disband once the issue is addressed.
+
+ 
+
+These groups could, but not necessarily, work within the IGF framework or through flexible, open and inclusive processes and that are consistent with the guiding principles outlined above. Innovative methodologies of broad consultation and participation could be looked into as alternatives when necessary.
+
+ 
+3. Broad participation & role of reformed IGF
+
+While the coordination function can be responsible for designating the venue or venues where issues that are not adequately addressed will be taken forward, the IGF should continue to function as a platform where ongoing policy processes and their outcomes are presented and can receive feedback from a wider audience.
+
+ 
+
+The lGF process of the last five years has enriched our understanding of internet public policy issues, actors, spaces and challenges. Therefore, we view a reformed IGF that, at minimum implements the recommendations of the Working Group on IGF Improvements, as playing a central role for a space where problems are framed and principles are developed. In addition to the recommendations of that report, we also point to a series of concrete recommendations previously proposed by members of civil society, including new approaches to IGF themes, session formats, reforming the Multistakeholder Advisory Group (MAG), funding and online deliberation mechanisms.[5].
+
+[1] http://www.itu.int/wsis/implementation/
+
+[2] A comprehensive list of these values was developed and posted under the topic set of internet governance principles of this consultation.
+
+[3] Note: Reform of ICANN will be addressed in another submission.
+
+[4] Additional comments can be found in Questionnaire response to CSTD Working Group on Enhanced Cooperation.
+
+[5] Additional comments can be found in Submission to IGF on themes and formats for the 2014 meeting.

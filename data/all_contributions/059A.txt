@@ -1,0 +1,45 @@
+The Relevance of Free Software to ensure Internet Freedoms
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Satish Babu
+Region: India
+Organization: International Centre for Free and Open Source Software
+Sector: Civil Society
+Keywords: Internet Freedoms, Free Software, FOSS, Free-Libre-Open-
+Source-Software
+Abstract
+There is increasing acceptance, around the world, of the principle that that the Internet is
+a universal global resource that should be free of restrictive controls in order to for it to be
+utilized by communities and individuals around the world. Further, there is also an
+emerging consensus in many parts of the world that that the most effective way to govern
+this global resource is through the multistakeholder model. This submission argues that in
+order to ensure that the Internet Freedoms are preserved, it is important to ensure that
+Open Standards are followed, and reference implementations based on Free, Libr and
+Open Source Software--which is software owned, developed and maintained by
+communities--are available as a choice for every Standard and Protocol used on the
+Internet. Only this measure will ensure that Internet Freedoms remain inviolate
+irrespective of efforts by governments, lobbies, or corporates.
+Document
+All use of the Internet is intermediated by software--it is impossible to use the Internet
+without using software. While most of us agree about the need for the Internet to be Free,
+little attention is paid to the need for the software and protocols of the Interent to be Free
+as well.
+The emergence and mainstreaming, in the last two decades, of Free, Libré and Open
+Source Software (FLOSS or FOSS) as a distinct model of production, consumption,
+distribution and maintenance of software--in contrast to the Proprietary/Closed Source
+Software (PCSS) model--shows that the values that underpin it are sound and acceptable
+to communities around the world.
+There is general acceptance today that a global resource such as the Internet should be
+governed by Open Standards vis-à-vis its underlying protocols. This submission argues
+that this need for Open Standards is necessary but not sufficient, and that every Open
+Standard must have reference implementations that are FOSS-based, and further, that
+wherever possible, FOSS-based software implementations should be given preference
+over PCSS-based software.
+Apart from other important quality parameters--such as robustness, low-cost, extensibility,
+customizability, security, auditability, and less restrictive licenses--a key differentiator for
+FOSS-based software is that it upholds Freedoms--of developers, users, communities
+and nations--and is consequently a more ethical alternative than PCSS. Thus, FOSS is a
+natural fit in the context of preserving Internet Freedoms.
+Therefore, any discussion on Internet Governance is incomplete without FLOSS, and
+users at large would benefit from utilizing FOSS-based software, at least for reference
+implementations, but even better, for all applications on the Internet.

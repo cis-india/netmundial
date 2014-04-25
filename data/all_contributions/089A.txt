@@ -1,0 +1,97 @@
+The Internet Association?s Internet Governance Principles
+Submission
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Hauwa Otori
+Region: United States
+Organization: The Internet Association
+Sector: Other
+Keywords:
+Doc Attached: Click here to see the doc 1
+Abstract
+The Internet Association, a trade association representing leading Internet companies,
+appreciates the opportunity to provide comments on principles for Internet governance in
+advance of the upcoming Global Multi-Stakeholder Meeting on the Future of the Internet
+Governance. We welcome the Brazilian government, CGI.br, and /1net?s efforts in
+convening all stakeholders to discuss the critical issue of Internet governance. Our
+member companies understand the importance of preserving the Internet?s successful
+multi-stakeholder model and rely on its open, bottom-up model to ensure that global
+citizens are able to access and take advantage of this growing platform.
+Document
+The Internet Association’s Internet Governance Principles Submission
+Global Multi-Stakeholder Meeting on the Future of the Internet Governance
+April 23 - April 24, 2014 (São Paulo, Brazil)
+The Internet Association, a trade association representing leading Internet companies[1]
+, appreciates the opportunity to provide comments on principles for Internet governance in
+advance of the upcoming Global Multi-Stakeholder Meeting on the Future of the Internet
+Governance. We welcome the Brazilian government, CGI.br, and /1net’s efforts in
+convening all stakeholders to discuss the critical issue of Internet governance. Our
+member companies understand the importance of preserving the Internet’s successful
+multi-stakeholder model and rely on its open, bottom-up model to ensure that global
+citizens are able to access and take advantage of this growing platform.
+With almost 3 billion users around the globe, the Internet is a transformative platform for
+technological innovation, democratic discourse, and economic growth. According to a
+March 2012 report by the Boston Consulting Group, small-and medium size businesses
+(SMEs) - proven engines of economic growth - contribute significantly to the Internet
+economy, which will grow to $4.2 trillion in G-20 economies.[2] SMEs have played an
+essential role in the Web’s development as a mechanism for creating jobs and generating
+revenue.[3] For instance, in Brazil, SMEs that rely heavily on the Internet take advantage
+of the Web to engage consumers and drive increased sales.[4]
+In addition to facilitating economic growth, the Internet’s important role as a forum for free
+expression is undeniable. The International Telecommunication Union’s Secretary
+General previously recognized in a draft report that the Internet alters the global economy
+by creating opportunities in local communities and acting as a driver for social change.[5]
+During the Tunisia and Egypt uprising, we witnessed how the Internet’s open and
+decentralized ecosystem allowed citizens to exercise their basic human rights. These
+citizens used Web services to dispel misinformation, organize, and communicate with not
+only each other but also the rest of the world.
+To further promote the Internet’s inclusive, multi-stakeholder model, we highlight the
+following high-level principles for future Internet governance:
+1) Expanding broadband access: The Internet is a gateway to knowledge, cultures,
+services, commerce, and communication. Internet users deserve the ability to freely
+access this information to enjoy the economical and societal benefits available online. In
+the case of SMEs previously mentioned, these businesses in developing countries often
+cite poor access to technology as a significant barrier.[6] Governance should promote the
+expansion of access to broadband networks for all of the world’s citizens to engage in this
+participatory platform.
+2) Promoting the free flow of information: In addition to promoting increased access by
+global Internet users, any model of governance must promote the free flow of information,
+which is critical to the knowledge sharing, self-expression, and assembly that are
+characteristic of the Internet.
+3) Increasing Inclusiveness: Individual users, governments, civil society, businesses,
+academics, and members of the technical community drive the Internet’s decentralized
+model. All of these stakeholders are invested in the continued success of the Internet and
+have a stake in preserving it as a critical platform for communication and information
+exchange. The process of reaching decisions regarding the future model of Internet
+governance must be inclusive of this diverse and knowledgeable group.
+4) Maintaining user trust: Given that the Internet is integral to all aspects of our daily
+lives, stakeholders must preserve its security, stability, and resiliency. Our member
+companies are committed to maintaining Internet users’ trust when they access and
+interact with our companies’ online services. As Internet users access personalized
+services and information online, they trust that their online experience will be secure.
+Governments should recognize limitations on their ability to collect information on Internet
+users’ that respect users’ privacy interests. Internet governance policies should also
+encourage openness, transparency, and accountability.
+The Internet Association believes that maintaining the Internet’s current, open model is
+critical to the continued success of the platform but also to future economic prosperity
+around the globe. Internet governance should foster innovation and technical
+development while creating economic opportunities at all levels. Implementing the
+principles outlined above will ensure that stakeholders preserve the Internet as an
+important platform for commerce, trade, and communication. We look forward to our
+continued engagement on this issue.
+Respectfully Submitted,
+/s/ Michael Beckerman
+President & CEO
+The Internet Association
+[1]The Internet Association represents the world’s leading Internet companies including:
+Airbnb, Amazon, AOL, eBay, Expedia, Facebook, Gilt, Google, IAC, LinkedIn, Lyft,
+Monster Worldwide, Netflix, Practice Fusion, Rackspace, reddit, Salesforce.com,
+SurveyMonkey, TripAdvisor, Twitter, Uber Technologies, Inc., Yahoo!, Yelp, and Zynga.
+[2] The Boston Consulting Group, The Internet Economy in the G-20: The $4.2 Trillion
+Growth Opportunity (Mar. 2012), available at
+http://www.bcg.com/documents/file100409.pdf [hereinafter BCG Report].
+[3] Id. at 14.
+[4] Id.
+[5] ITU, Fourth Draft of the Secretary-General’s Report for the Fifth World
+Telecommunication/Information and Communication Technology Policy Forum 2013
+, released January 10, 2013 at 4.
+[6] BCG Report at 16.

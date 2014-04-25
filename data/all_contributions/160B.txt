@@ -1,0 +1,41 @@
+Document
+
+This submission proposes a new principle for the governance of the Internet.
+
+The principle can be stated as follows:
+
+ 
+
+"Everyone should have the right to express oneself, self-organize and engage in politically-oriented collective action on the Internet, as means of enacting digital citizenship.
+
+ 
+
+No-one should be discriminated on the basis of ideas of political nature expressed and/or shared online. Tactics of collective action which include disruption of services but do not damage the infrastructure should be tolerated as legitimate and democratic practices of digital citizenship. Arbitrary or indiscriminate censorship, generalized, unjustified or dispropotionate surveillance on contents and users, and practices aimed at restricting access to the Internet and its contents shall not be tolerated."
+
+ 
+
+The principle is intended to support and protect the expression of political opinions and preferences by individuals and groups and the resulting online collective action dynamics against the forms of blanket surveillance, censorship and discrimination enacted by States across the globe.
+
+ 
+
+Internet, in its quality of global resource of public interest, is an inexpensive and user-friendly instrument to enact democratic citizenship in the digital domain. As a malleable, flexible, and constantly evolving space for interaction and aggregation, it is gradually becoming the “largest public space mankind has ever seen” [1]. It offers tools to facilitate direct participation of citizens in the cultural and political life of their own country and of the world as a global village. For the above reasons, the Internet can be a vehicle for emancipation and the promotion of fundamental freedoms; at the same time, it can foster democratization processes, contributing to create a more equitable society.However, in order to empower people to take full advantage of the opportunities for exchange and self-expression that Internet makes available, we must safeguard their right to freedom of expression and self-organization through and on the Internet, both as expression of bottom-up democratic participation and mechanism of social innovation.
+
+ 
+
+In a time in which States increasingly invade the private sphere of citizens with the complicity of the corporate sector turned into a regulatory agent at the service of security and enforcement agencies, it appears crucial to safeguard the right of individuals and groups to organize and collectively take action in the digital domain.  
+
+ 
+
+Self-organization is an answer to the contemporary surveillance overreach and to the current State-centric approach that considers citizens as potential suspects. The latter is a negative and prejudicial approach to security, one that harms citizens, distorts the mechanism of due process, and weakens the very same security measures States intend to promote.
+
+ 
+
+We would like to propose a different approach that puts citizens and their rights at the centre of security measures: an approach able to empower people on the Internet, instead of disempowering them, and that returns to people the right to defend themselves online. In this way we would put at the center of the definition of security and of its measures the human rights to freedom of expression and privacy, and the principle that security means primarily the protection of the rights of many above potential partial interests.
+
+ 
+
+This approach would promote mutual restraint and oversight amongst the many actors invested in people’s surveillance (States, business actors, etc.), and would shift the current cybersecurity model from a State-centric to a people-centric approach.
+
+ 
+
+[1] Stefano Rodotà, 2006

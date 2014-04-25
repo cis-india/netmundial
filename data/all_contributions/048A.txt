@@ -1,0 +1,211 @@
+TELECOM ITALIA GROUP's SUBMISSION for NETmundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: LORENZO PUPILLO
+Region: Italy, Brazil
+Organization: TELECOM ITALIA GROUP
+Sector: Private Sector
+Keywords: Dynamic Internet, Multi-stakeholder model with variable
+geometry
+Doc Attached: Click here to see the doc 1
+Abstract
+Telecom Italia Group is pleased to provide this submission on Global Internet Governance
+Principles and a Roadmap for the further evolution of the Internet governance ecosystem
+to the Global Multistakeholder Meeting on the Future of Internet Governance, to be held
+23-24 April 2014 in San Paolo, Brazil
+Document
+Telecom Italia Group’s Submission for NETmundial
+(7 March 2014)
+Abstract:
+Telecom Italia Group is pleased to provide this submission on Global Internet
+Governance Principles and a Roadmap for the further evolution of the Internet
+governance ecosystem to the Global Multistakeholder Meeting on the Future of Internet
+Governance, to be held 23-24 April 2014 in San Paolo, Brazil
+Introduction
+Telecom Italia Group (hereafter TI) welcomes the opportunity to participate to the “Global
+Multi-stakeholder Meeting on the Future of Internet Governance “or NETmundial.
+We acknowledge the leading role that, since the WTPF of 2013, the government of Brazil
+is playing, in the Internet governance arena, by calling this meeting. We would like to
+contribute to this event through our participation to the discussion of Internet Governance
+Principles and of the evolution of the multi-stakeholder model for the future of Internet
+governance.
+The meeting’s agenda is focused on two issues:
+1. Internet Governance Principles
+2. Roadmap for the Further Evolution of the Internet Governance
+Telecom Italia submits contributions on both issues.
+Internet Governance Principles
+Internet is today at the center of the economic activity and social life of enterprises and
+citizens. Every day it becomes more important and more pervasive thanks to the massive
+investment in infrastructure made by the telcos, the hundreds of thousands of applications
+and services made available by the internet ecosystem of companies and developers, the
+development of high speed mobile internet access, cloud computing and ubiquitous
+computing. We no longer need to go on the internet because we live in the Internet.
+Internet has been a remarkable success and Telecom Italia believes that this historical
+result has been to a large extent a consequence of the unregulated nature of this
+technology.
+Contrary to the past, the economics and the technology of Internet call today for more
+variety and Internet differentiation. While this process has been present for quite some
+time, it is today more visible, for instance, in the multi-lingual diversification of Internet.
+Recently, the Internet Corporation for Assigned Names and Numbers (ICANN) announced
+that the first new generic Top-Level Domains (gTLDs) in Arabic, Cyrillic and Chinese from
+its new gT LD Program were delegated.
+A more heterogeneous and diversified Internet might alarm many in the Internet
+community. Instead this process is quite desirable. Quite often we talk about the Internet
+as an ecosystem, but we forget that in any ecosystem a high degree of diversity is vital for
+the overall health and resilience of the system.
+At the same time, TI believes that the Internet needs to be governed by a coherent set of
+principles shared by all stakeholders from various sector- business, government and civil
+society.
+These principles should be based on a broad and open debate characterized by a
+constitutional effort and should encompass an overarching framework of universal values
+shared by the internet community. The San Paolo meeting could be a step in this
+direction. There is already a significant amount of work done to develop Internet
+governance principles by different organizations and players. The OECD Council
+Recommendations on Principles for Internet Policymaking or the Brazilian Internet
+Steering Committee’s (CGI.br) are some good examples.
+Among these principles, TI particularly supports:
+Promoting safe, secure, open, reliable and interoperable Internet
+Strengthening consistency and effectiveness in privacy protection at a
+global level
+Promoting policies that stimulate sustainable investments and deployment
+of Internet networks
+Endorsing policies that increase transparency, openness , accountability
+and inclusiveness in the Internet Governance process
+Possibly, one of the goals of San Paolo’s meeting should be the recognition that these
+principles should be shared and considered as common principles by all the
+stakeholders of the meeting.
+Roadmap for the Further Evolution of the Internet Governance
+The technological and economic environment of Internet has dramatically changed since
+the mid-1990s, making Internet much more diverse and dynamic than in the past.
+According to the most recent literature[1] four major changes have forced the networks to
+evolve since then:
+1) Increase in the number and diversity of end users: from a small population of
+scientists and researchers to a user base much larger, more diverse and less
+technologically sophisticated;
+2) Increase in the diversity and intensity of applications: from low intensity
+bandwidth applications such as email and web?browsing to videoconferencing, to online
+gaming which is much more bandwidth intensive;
+3) Increase in the variety of technologies: while in the mid?90s access to the
+Internet was granted through dial?up modems, now access is guaranteed through a
+variety of technologies such as cable modems, digital subscriber lines (DSL), fiber to the
+home and wireless solutions. These new technologies have different characteristics in
+terms of bandwidth, reliability and mobility, bringing a substantial degree of heterogeneity
+in the Internet world compared to the uniformity of the wireline solutions of the mid?90s
+4) The emergence of more complex business relationships. In the mid?90s, the
+topology of the Internet was characterized by a strict three?level hierarchy: backbones,
+regional Internet service providers and last mile access providers. Now the Internet, as a
+network of networks, is characterized by a set of much more diverse business
+relationships such as, for instance, private peering and content delivery networks.
+These technological and economic changes have placed increasing pressures on the
+Internet and in, particular, are leading, among other characteristics, towards:
+1) changes in the optimal level of standardization to match the greater demand for
+heterogeneity;
+2) the shift towards more formal governance to manage the increase in the number
+and heterogeneity of end users;
+3) the migration of functions into the core of the network for a better management
+of security and congestion;
+4) the growing complexity of internet pricing to support the new business relations
+of today Internet.
+These technological and economic changes over the past fifteen?plus years have made
+Internet a much more dynamic and heterogynous environment and are placing
+increasing pressures on the Internet to develop new architectural principles to cope with
+these new dynamics and to the Internet governance process to envisage new models
+able to better match governance issues with the right governance institutions.
+The diffusion of cross layers architecture for the mobile Internet is a case in point that
+shows that when circumstances have changed sufficiently, the network architecture needs
+to change.
+Protocol layering has always been at the heart of Internet and coherence with the layered
+stack has always characterized Internet architecture. Protocol layering has also find an
+ad hoc space into the discussion of Internet Policy when, it has been suggested that lower
+layers of the Internet should be subjected to regulation while upper layers should be
+exempted from it. The weakness of this approach has been later on shown by the
+regulatory intervention on some parts of the networks only such as the last mile but not
+the backbone or by the recent awareness that market power is also possible in the upper
+layers as the latest antitrust cases against Microsoft and Google have demonstrated.[2]
+It is clear the need to diverge from the traditional protocol layering assumptions in order to
+face the challenges from a more dynamic and heterogynous Internet driven by mobile
+applications.
+Against this backdrop, TI believes that it is necessary to examine the current status of the
+Internet governance, of the institutions currently involved in this process and assess
+how the Internet governance should evolve capitalizing on the strength of the past
+experiences and aiming at fostering an open and inclusive Internet.
+Towards a multi-stakeholder model with variable geometry
+TI recognizes that the multi-stakeholder model has been an important factor for the
+success of the Internet. However, TI believes that the multi-stakeholder model while
+worked efficiently in ad hoc technical organizations, it requires a completely different effort
+to be successful when it is applied to global policy making.[3] The open nature of the multistakeholder
+process does not guarantee by itself an effective participation of all
+stakeholders. Indeed, participation today has become the main principle of any form of
+Internet governance. This process, sometimes called “participatory evangelism”, offers
+people opportunities to get involve but not to really count in the decision making process.
+Indeed “there is an important distinction between making your views known and making
+your views counts”. Analogous considerations can be made regarding the transparency of
+the multi-stakeholder process. Quite often information overload characterizes meetings
+and fora of the multi-stakeholder process creating real difficulties in identifying really
+important issues. Furthermore, different risks of capture by different groups (“Internet
+evangelists” or representatives from developed countries in the IGF or in the GAC within
+ICANN, or the private sector) have been suggested in the current process. Therefore, a
+stronger effort is required by all parties to improve and make more successful this process.
+At the same time, TI believes that it is necessary to recognize that today new dynamics
+exist among the stakeholders of the Internet governance process. There are few
+significant examples of such a change. The more active role that governments want to
+play on internet governance issues is a recent trend that is here to stay. The powerful
+role multiple stakeholders can play in the internet governance arena; it suffice to mention
+the massive online boycott launched by Internet technologies companies and civil society
+as a response to the two proposed bills in the US, the SIPA and the PIPA.[4]
+This new dynamic among stakeholders associated with an overall increase of Internet
+differentiation brought by the economic and technological changes of the Internet of the
+last 15 years, suggest that it is increasing difficult that one single governance regime
+could address the broad range of concerns associated with today’s Internet.
+Searching for a unitary governance framework could lead only towards an undesirable
+least common denominator. What is needed is to allow for a better match between
+governance issues and the best governance institutions available. Therefore, TI suggests
+that the current system of governance should allow for a stronger interplay among the
+different actors in the internet governance arena. Therefore, TI envisages the evolution of
+the current multi-stakeholder model towards a multi-stakeholder model with variable
+geometry.
+This approach should be seen as an evolution from the current institutions. In the current
+multi-stakeholder model a distinction between the concepts of shared and equal
+responsibility, should be made. While all stakeholders need to participate in the multi
+stakeholder model on equal footing when the different governance issues and governance
+institutions are envisaged and discussed, then in the implementation of the governance
+process one stakeholder or a coalition of stakeholders (variable geometry) could take
+the lead in this process according to the nature of the governance issue at stake:
+standards (the private sector), Internet issues relevant to particular communities (civil
+society), human rights (government).
+The matching process could also be facilitated by the creation of an ad hoc committee
+that, based on a multi-stakeholder membership, could suggest the most suitable
+governance institution.[5]
+Therefore, this process, based on the variable leading role of the different actors, should
+allow for a better match of each type of governance challenge with the best governance
+institution.
+Elements of a roadmap from the San Paolo Meeting
+TI recommends that the San Paolo‘s meeting makes concrete steps towards:
+1) A roadmap for the revision and the reinforcement of the multi-stakeholder model
+according to the previously suggested variable geometry approach.
+2) A clear timeline to globalize ICANN and IANA functions that safeguards the stability,
+security and resilience of the Internet.
+3) A commitment to strengthen the role of the Global Internet Governance Forum
+according to:
+a. Mainstreaming the content and the proposals discussed at the Global Forum to the
+other Internet Governance institutions to enhance its impact on global Internet
+governance and policy.
+b. Making stronger the interactions between the Global IGF and the national and
+regional IGF to allow for a more inclusive process of participation and discussion.
+c. Designing mechanisms for a better funding of the Global IGF.
+[1] See on this Christopher Yoo (2012), “The Dynamic Internet:How technologies, Users
+and Businesses Are Transforming the Network”, AEI .
+[2] Today, to ensure reliability modern wireless broadband network increasingly deploy
+network-based reliability systems, such as Automatic Repeat request(ARQ), that shift
+functions traditionally performed by the transport layer into either the data-link layer or
+routers operating in the core, clearly diverging from the TCP/IP reference model. See on
+this : Christopher Yoo, “Protocol Layering and Internet Policy”, University of Pennsylvania
+Law School Research Paper n.18, 2013
+[3] See on this, Bertrand de la Chapelle (2011), Internet Policy Making, MIND .
+Furthermore, see IGP (2009)”ICANN, Inc: Accountability and participation in the
+governance of critical Internet Resources “
+[4] Stop Online Piracy Act” (SOPA) and the “Preventing Real Online Threats to Economic
+Creativity and Theft of Intellectual Property Act” (PROTECT IP Act or PIPA). See on this
+Laura De Nardis (2014) , “The Global War for Internet Governance”, Yale University
+Press, pag 6. SOPA:Stop
+[5] This idea has been mentioned at the IGF in Bali (2013) in workshop n.41

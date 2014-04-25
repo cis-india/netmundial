@@ -1,0 +1,84 @@
+ABRANET - Contribution - Principles and Multistakeholder
+Governance for Internet - Worldwide digital age values.
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Eduardo Neger
+Region: Brazil
+Organization: Abranet - Associacao Brasileira de Internet
+Sector: Private Sector
+Keywords: Principles and Multistakeholder Governance for Internet
+Abstract
+ABRANET - Brazilian Internet Association - Principles and Multistakeholder Governance
+for Internet. Worldwide digital age values. 1. Freedom, privacy, human rights, 2.
+Democratic and collaborative governance, 3. Universality, 4. Diversity, 5. Innovation, 6.
+Net Neutrality, 7. Unaccountability of the Network, 8.Functionality, Security and Stability,
+9.Standardization and Interoperability, 10. Legal and Regulatory Environment.
+Document
+ABRANET - Contribution - Principles and Multistakeholder Governance for Internet
+ABRANET - Brazilian Internet Association - Principles and Multistakeholder Governance
+for Internet. Worldwide digital age values. 1. Freedom, privacy and human rights, 2.
+Democratic and collaborative governance, 3. Universality, 4. Diversity, 5. Innovation, 6.
+Neutrality of the Network, 7. Unaccountability of the Network, 8.Functionality, Security and
+Stability, 9.Standardization and Interoperability, 10. Legal and Regulatory Environment.
+1. Internet Principles
+Abranet proposes the adoption of the principles listed below, which summarize the values
+??selected by CGI.br, multistakeholder governance body of the Internet in Brazil, for the
+continued development of civil liberties and the network, and that can contribute on a
+global level, not only to its continuing expansion, but also and especially for the realization
+of human rights in the digital age.
+The defended adoption of such principles will still be a great achievement for the user’s
+protection from any nationality against violations and abuses of law, an issue that has
+faced considerable difficulty in standardization around the world because of political
+interferences.
+The principles, for establishing core values, establish a state to be sought, and will
+provide guidance to the rules issued by countries as well as the rules established by each
+user in their own environment. Selected such values??, it will be possible, in the end,
+spread their protection effectively at a national level, adopting them as stony values ??the
+user and the network, turning them into universal legal right to be safeguarded at all
+different scales of network:
+1. Freedom, privacy and human rights The use of the Internet must be driven by the
+principles of freedom of expression, individual privacy and the respect for human rights,
+recognizing them as essential to the preservation of a fair and democratic society.
+2. Democratic and collaborative governance Internet governance must be exercised in
+a transparent, multilateral and democratic manner, with the participation of the various
+sectors of society, thereby preserving and encouraging its character as a collective
+creation. 3. Universality Internet access must be universal so that it becomes a tool for
+human and social development, thereby contributing to the formation of an inclusive and
+nondiscriminatory society, for the benefit of all. 4. Diversity Cultural diversity must be
+respected and preserved and its expression must be stimulated, without the imposition of
+beliefs, customs or values. 5. Innovation Internet governance must promote the
+continuous development and widespread dissemination of new technologies and models
+for access and use. 6. Neutrality of the network Filtering or traffic privileges must meet
+ethical and technical criteria only, excluding any political, commercial, religious and
+cultural factors or any other form of discrimination or preferential treatment.
+7. Unaccountability of the network All action taken against illicit activity on the network
+must be aimed at those directly responsible for such activities, and not at the means of
+access and transport, always upholding the fundamental principles of freedom, privacy
+and the respect for human rights. 8. Functionality, security and stability The stability,
+security and overall functionality of the network must be actively preserved through the
+adoption of technical measures that are consistent with international standards and
+encourage the adoption of best practices. 9. Standardization and interoperability
+The Internet must be based on open standards that facilitate interoperability and enable
+all to participate in its development. 10. Legal and regulatory environments
+The legal and regulatory environments must preserve the dynamics of the Internet as a
+space for collaboration.
+[1]
+[1] Resolution CGI.br/Res/2009/03/P, with the Principles for the Governance and Use of
+the Internet.
+2. Internet Governance Model
+Abranet argues that Internet Governance follows "multistakeholder" model adopted by
+CGI.BR – Comitê Gestor da Internet no Brasil. Abranet understands that in order to
+achieve the desired effects with such a model, it is elementary that the government
+involvement in the governance framework is minority, increasing the participation of
+society organizations (academia, technical, private sector and civil society) in the taken
+decisions:
+“Multistakeholder processes could and should enhance democracy by increasing
+opportunities for effective participation by those most directly impacted by decisions and
+particularly those at the grassroots who so often are voiceless in these processes. It
+should enhance democracy by ensuring that decisions made are reflective of and
+responsive to local concerns and to the broadest range of those who must bear the
+consequences. It should enhance democracy by making democratic processes more
+flexible and responsive, able to adjust to changing contexts circumstances, technologies,
+impacted populations.” [1]
+[1] Gurumurthy, Anita. IT for Change, WSIS plus 10 review by UNESCO, 27th February,
+2013 in http://en.wikipedia.org/wiki/Multistakeholder_governance_model

@@ -1,0 +1,58 @@
+JPNIC's contribution to NETmundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Shigeki Goto
+Region: Japan
+Organization: Japan Network Information Center (JPNIC)
+Sector: Technical community
+Keywords: pragmatism, well-informed, verifiability, catalyst
+Abstract
+Regarding Internet Governance Principles, JPNIC suggests "pragmatism", "well-informed
+decision based on evidence" and "verifiability" especially important among a number of
+principles which are considered important.Regarding the further evolution, JPNIC
+suggests to have a new role which catalyzes enhanced cooperation among entities which
+have been responsively handling Internet Governance issues in their respective areas in
+order to address complex and emerging issues.
+Document
+Section 1. Internet Governance PrinciplesThere are a number of principles which are
+considered to be important for Internet governance. From those principles, we would like
+to submit the following principles which we believe are especially important:The first is
+pragmatism. As expressed by the widely quoted phrase in the Internet Technical
+Community “We believe in rough consensus and running code” which is described in Tao
+of IETF, internet technical standards are developed by requiring standards which actually
+are able to operate, accepting the existence of multiple standards, as well as by leaving
+the choice and its deployment to users of such standards. This has successfully
+suppressed unrealistic specifications to be standardized, and is achieving development of
+pragmatic standards. For stakeholders affected by policies, it is important not only in
+technical spheres but also in policy spheres that policies to be developed are
+pragmatic.The second is well-informed decision based on evidence. In either technical or
+political spheres, the issues of the Internet Governance are specialized in many cases
+and often require highly expertized knowledge in making judgment. Therefore, it is
+important that people with high expertise make considerations based on various
+evidences. In addition, in cases where people without expertise are involved in making a
+judgment, they should make judgments based on the experts’ consideration with
+evidence.The last is verifiability of policy deliberation process. In the tradition of the
+Internet, anyone can verify discussions and decisions made in policy or standard
+development process , as materials, proposals and discussion to develop policies or
+standards are recorded and are made publicly available. This accommodates dynamic
+and timely discussions to adjust to rapid changes in technological advancement and
+markets, while at the same time, enables to make modifications as needed by later
+reviewing the discussions, including the adequacy of the discussions process. This is
+important for further evolution of the policy process for the Internet for the future.Section
+2. Roadmap for the Further Evolution of the Internet Governance Ecosystem
+The Internet Governance as a whole covers a wide range of issues, ranging from
+technical developments to public policies. In developing standards and policies for these
+issues, there are various entities responsible for a particular area of the issues, and they
+are engaged in working on issues which are under their responsibilities, based on their
+expertise.While the existing entities have been handling issues in their respective areas
+successfully until today, it is possible to have a complex set of issues or new issues to
+arise as the Internet becomes increasingly sophisticated.To deal with such issues
+effectively, and to maximize the expertize which has been built by each entity until today,
+there may be a need to have a new function catalyzing among each of the entities, to
+coordinate collaborative efforts and enable a coordinated set to multiple activities, which
+address complex and emerging issues. We believe it is important for each entity to
+pursue further efforts in its respective areas of responsibilities, and through clarifications
+of role of each entity, respect and make good use of expertise of other entities. In order to
+find new approach of addressing emerging issues which cannot be fully covered by each
+entity’s expertise, the catalyst function will be needed, as well as enhancement of highlevel
+cooperation among these entities.

@@ -1,0 +1,36 @@
+Supporting Experimentation in the Decentralization of
+Internet Resources
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Eli Dourado
+Region: USA
+Organization: The Mercatus Center at George Mason University
+Sector: Academia
+Keywords: peer-to-peer, DNS, experimentation
+Abstract
+In parallel to its discussions about the future of centralized Internet resources,
+NETmundial participants should support continued experimentation with peer-to-peer
+technologies that could potentially decentralize some of those resources in the future.
+Document
+Much of the debate over Internet governance is a consequence of the fact that some
+resources, especially the Domain Name System (DNS), are centralized and hierarchical.
+These resources raise questions of fairness, accountability, and power that are not easily
+resolved. This contribution does not directly address these difficult questions.
+Rather, this contribution urges NETmundial participants to support continued
+experimentation in the decentralization of critical Internet resources through peer-to-peer
+systems. Such systems have the potential to improve name resolution security, provide
+censorship-resistance, and protect end-user privacy online. In addition, as peer-to-peer
+technologies mature, they raise the possibility of cutting the Gordian knot with respect to
+questions of control raised by centralized resources.
+Existing peer-to-peer decentralized name systems use pseudo Top-Level Domains
+(TLDs) (such as .onion, .bit, and .gnu) that do not yet exist in the DNS in order to avoid
+any unintended conflicts. Over 100,000 domain names are already in use in the .bit space
+alone. An Internet-Draft RFC by Grothoff et al. entitled “Special-Use Domain Names of
+Peer-to-Peer Systems” proposes to normalize the use of some pseudo-TLDs by reserving
+them for special use in the DNS per the procedure defined in RFC 6761.
+While the Internet community must ultimately face the thorny questions relating to
+centralized Internet resources, we should also, on a parallel track, support continued
+experimentation in the decentralization of those resources through peer-to-peer
+technologies. One way to do this would be to express support, in principle, for the
+normalization of some peer-to-peer pseudo-TLDs as envisioned in the Grothoff Internet-
+Draft.

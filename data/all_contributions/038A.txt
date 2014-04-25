@@ -1,0 +1,183 @@
+An extended role for the IGF in filling the gaps in the Internet
+governance ecosystem
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Jeremy Malcolm
+Region: Malaysia
+Organization: Personal submission
+Sector: Civil Society
+Keywords: IGF, multi-stakeholderism, stakeholders, roles, consensus
+Abstract
+This submission builds on the joint civil society submission developed through the Best
+Bits platform, taking as a starting point the distributed model of Internet governance put
+forward in that submission. But it adds two notes of caution that the Best Bits submission
+does not cover, and proposes possible solutions to these, based around an extended role
+for the Internet Governance Forum.
+Document
+This submission takes as its starting point the submission from participants of the Best
+Bits network on “Roadmap for the Further Evolution of the Internet Governance
+Ecosystem – institutional mechanisms” (http://bestbits.net/netmundial-roadmap/), which I
+participated in drafting and generally agree with (“the Best Bits submission”).
+In particular, I take for granted the following points that are either drawn from, or at least
+are fully consistent with the Best Bits submission, and I will not explain them further here:
+There are certain policy issues that cannot be addressed within the current Internet
+governance ecosystem in a way that adequately fulfils basic procedural criteria, due to
+underlying institutional deficits.
+1.
+In addressing these deficits certain criteria must be fulfilled, including a rights-based
+approach, preservation of the global nature of the Internet, and the use of multistakeholder
+democratic processes.
+2.
+To redress these deficits requires a new coordinating mechanism to direct
+stakeholders towards the appropriate existing fora to deal with policy issues, as well
+as one or more new multi-stakeholder working groups to address issues that have
+no existing home.
+3.
+The new multi-stakeholder working groups referred to would in most cases develop
+soft law only, rather than binding rules such as treaties, though they could in
+appropriate cases make recommendations to external treaty bodies or to the UN
+General Assembly.
+4.
+It would be appropriate for the Internet Governance Forum (IGF) to take a key role
+in the operationalisation of these required changes, which would require the most
+significant reforms to the IGF since its establishment.
+There are however two problems that the Best Bits submission does not explicitly
+acknowledge, nor suggest a way to overcome, which are the subject of this submission:
+(1) There remains a substantial disagreement between (and even within) stakeholder
+groups, over whether governments should have a preeminent role and responsibility over
+international public policy issues pertaining to the Internet, or whether the roles of all
+stakeholder groups in Internet policy development processes should be equal. Practically
+speaking, there is no likelihood that NETmundial will see any resolution of this
+fundamental disagreement.
+In the narrower context of ICANN, the GAC is an unsuccessful attempt to compromise
+between these two demands, by giving governments certain rights in the policy
+development process that no other stakeholder group has (which upsets those who
+demand equality between the stakeholder groups), but by making its recommendations
+purely advisory (which upsets those who demand government sovereignty).
+It may seem that this problem is irreconcilable, in that any governance institution must
+choose either one or the other – either making all stakeholders equal, or giving
+governments sovereign rights. But counter-intuitively, it may be possible to satisfy both
+demands, and to do so without creating any new body or process, other than those
+referred to in the Best Bits submission. The solution involves the following two elements:
+(1a) First, there are some issues and contexts in which, as a factual matter, governments
+do not claim a primary role in policy development, nor ever have (and the same is true in
+other governance domains also). As these typically involve technical issues, the drafters
+of the Tunis Agenda accounted for this fact by drawing a (simplistic) division between
+“international public policy issues pertaining to the Internet” and “day-to-day technical and
+operational matters, that do not impact on international public policy issues”.
+A less simplistic approach requires a case-by-case analysis: whenever the coordinating
+function as described in the Best Bits submission is exercised, it should consider not only
+whether and where policy is being developed, but also what the appropriate roles of
+stakeholders are for that issue. Factors relevant to that determination include agreed highlevel
+global Internet governance principles (if any), roles and responsibilities historically
+exercised in respect of that issue, andthe governance mechanisms that are likely to be
+effective in dealing with the issue.
+To give some possible examples, it may be found that governments are entitled to take a
+leading role in developing global rules on money laundering via the Internet, but that they
+should take a back seat in the development of spam filtering standards, and should
+participate as equals with other stakeholders in the development of policy for transnational
+intellectual property enforcement policies.
+By engaging in this analysis (which would itself be conducted by a multi-stakeholder
+deliberative body), a more reasoned determination can be made of the appropriate roles
+of governments and other stakeholders in a given issue area, than can be had by
+resorting to fixed descriptions of stakeholder roles, or an arbitrary demarcation between
+“public policy” and “technical and operational” issues. The result will be that the
+appropriate role of governments in determining any given policy issue can be defined with
+more particularity than simply making a blanket claim of sovereignty.
+(1b) Second, for areas in which the coordinating function assesses that governments do
+have an appropriate role to play along with other stakeholders, the only way in which to
+resolve the disagreement mentioned above is if the multi-stakeholder policy development
+process is so designed that the stakeholder groups are formally equal – but allows
+governments to veto decisions. Logically the only way in which both those conditions can
+both be true is if all stakeholder groups can veto decisions.
+This describes a consociational multi-stakeholder process, where a consociation is a
+power-sharing arrangement comprising a coalition of stakeholder groups who cooperate
+in making decisions together, but who share a right of mutual veto allowing any
+stakeholder group to block a joint decision,if there is consensus to do so within that group.
+Note that governments, having a legal monopoly on the use of force, have a de facto right
+of veto in any multi-stakeholder policy development process anyway; the consociational
+structure simply formalises this and grants the other stakeholder groups the same right
+(Malcolm 2008, pp.293-294, 466-467, 478-482).
+Does this mean that the power of veto would always be exercised, so that nothing would
+ever be agreed? Of course it is possible, as it is in any organisation that depends upon
+consensus. But by adopting deliberative democratic processes, the likelihood of a veto
+power being used strategically become less likely,especially as the social capital invested
+by the stakeholders into the IGF compounds. A stakeholder group will not use its power of
+veto lightly if this may damage its own longer-term prospects of using the IGF to advance
+its own interests later on.
+(2) Whilst I support the decentralised model of Internet governance put forward in the Best
+Bits submission, there is a second problem that the submission does not acknowledge.
+The problem lies in the fact that it allows for the fact that there are a multiplicity of existing
+fora where global Internet public policies are developed, but also demands that all of them
+adopt (afresh, any many cases) a multi-stakeholder policy development process. Although
+absolutely sound in theory, there are two practical faults with this:
+(2a) It is very optimistic, to say the least, to call for these existing multiple fora to be
+transformed into multi-stakeholder formats. In many cases – the ITU, for example – it will
+only take one member state to object to multi-stakeholder reforms in order to close down
+such transformation. Therefore in practical terms, this ideal is likely to be impossible to
+achieve.
+(2b) Even if the previous objection were somehow overcome and there were a multiplicity
+of fully accessible and multi-stakeholder fora dealing with Internet policy issues, the task
+of addressing all these fora would massive exceed the scope of civil society's limited
+financial and human capacity. As the least well resourced stakeholder group, this would
+put civil society at a further disadvantage when compared to governments and the private
+sector.
+To correct for these faults requires a slight gloss upon the recommendations in the Best
+Bits submission, that I outline here. Essentially, it involves allowing for a broader role for
+the Internet Governance Forum, at least in the short term, whereby the IGF – as the most
+accessible, central policy forum for Internet policy discussion – would be tasked with
+developing recommendations for other institutions in the Internet governance ecosystem,
+if those institutions do not themselves yet have a similar multi-stakeholder process.
+This conforms with the IGF's existing mandate to “promote and assess, on an ongoing
+basis, the embodiment of WSIS principles in Internet governance processes” (Tunis
+Agenda paragraph 72(i)), and to “identify emerging issues, bring them to the attention of
+the relevant bodies and the general public, and, where appropriate, make
+recommendations” (paragraph 72(g). It is also consistent with its mandate to be nonduplicative
+(paragraphs 72(b) and 77), since a multi-stakeholder recommendation to an
+external institution is not to be considered duplicative of that institution's less inclusive
+decision-making process, even if they both concern the same subject matter (Malcolm
+2008, p.439).
+Thus notwithstanding that there may be a plethora of other Internet governance bodies,
+the development of high-level principlesto guide the work of bodies that are not multistakeholder
+in their own right remains an appropriate activity for a reformed IGF.
+Whilst the Best Bits submission does contend that “it is a mistake to think that one body,
+and one set of experts, could possibly be responsible for effective policy making on all
+Internet-related matters”, this is not what I propose. The IGF would continue to have a
+very broad mandate, yes. But so too does the General Assembly of the United Nations,
+and we do not hear complaints that it lacks expertise to cover all subject areas. This is
+because the principal contribution of the General Assembly is not its expertise, but its
+legitimacy – and, so it is with the IGF, only extending to other stakeholder groups besides
+governments.
+Naturally the operational decision making that takes place by reference to the high-level
+principles that the IGF develops will remain the responsibility of more specialised bodies,
+just as the implementation of resolutions of the General Assembly falls to national
+parliaments and specialised agencies, in accordance with the principle of subsidiarity.
+In summary and conclusion, I fully accept the merits of a distributed model of Internet
+governance as set out in the Best Bits submission. But I also caution as to two limitations
+that the submission does not cover.
+The first is that it does not address the fundamental and irreconcilable disagreement over
+whether governments should or should not have greater policy authority than other
+stakeholders.I suggest a way of overcoming that disagreement by firstly engaging in a
+more thorough analysis of the claims of each stakeholder stakeholder group to participate
+in policy development in a given issue area. For issue areas in which governments are
+found to have a role, I suggest that the concerns of governments that their sovereignty is
+threatened could be addressed by structuring the policy development process according
+to a consociational model, that would give governments (and other stakeholder groups) a
+right of mutual veto over recommendations that they cannot support.
+My second caution is that trying to retro-fit multi-stakeholder democratic legitimacy to a
+multitude of existing bodies, in the short term, is likely to prove a quixotic endeavour. It is
+also unnecessary when there is already a multi-stakeholder Internet governance
+institution – the IGF – thatpossesses a UN mandate to make recommendations across a
+broad range of Internet public policy issues, already has the trust and support of all nongovernmental
+stakeholders, and is much more accessible to civil society than that
+plethora of other bodies could ever be.
+In this way the IGF, with its proposed coordinating function, can act as a proxy to receive
+multi-stakeholder input into the development of high-level principles for the guidance of
+other, less multi-stakeholder institutions. At the same time, the IGF can host multistakeholder
+working groups to develop policy on issues for which there is no existing body
+to deal with them. In both cases, significant reforms to the IGF would be required – but
+these are much more achievable than the similar reforms required to transform the entire
+ecosystem of Internet governance institutions.
+Bibliography:
+Malcolm, Jeremy. Multi-stakeholder Governance and the Internet Governance Forum.
+Terminus Press, 2008, available at http://books.google.com/books?id=G8ETBPD6jHIC.

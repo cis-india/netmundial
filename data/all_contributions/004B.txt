@@ -1,0 +1,26 @@
+Document
+
+February 19, 2014
+ 
+ISOC-Yemen welcomes the opportunity to participate in the Global Multistakeholder Meeting on the Future of Internet Governance.  As a [discussion nature of organization and interest in the multistakeholder model], [organization or organization’s members] rely on an open, stable, secure, resilient, and interoperable Internet every day.  We believe that preserving the multistakeholder model of Internet governance is essential to ensuring that global citizens are able to take advantage of this transformative platform both now and in the future.
+ 
+Below we highlight some high level principles for Internet governance going forward.  We believe that these principles will both allow the global Internet community to preserve the open Internet for the billions who currently rely on it in their daily lives, and bring its advantages to the 5 billion people who are presently unconnected.
+ 
+Substantive Principles: Any Model of Internet Governance Should Promote the Following Principles.
+ 
+? The world deserves the access to knowledge, services, commerce, and communication, the accompanying benefits to economic development, education, and health care, and the informed discussion that the Internet provides.  Governance should promote expanding access to broadband networks so that these benefits can reach all of the world’s citizens.
+? The Internet’s importance as a platform for commerce, for education, for information and knowledge sharing, for self-expression, and for organization and assembly, depends on the global free flow of information.  Any model for governance must promote this free flow of information.
+? Governance should promote the ability to innovate, to develop technical capacity, and to create and take advantage of economic opportunities.  To achieve this end, any model of Internet governance must promote the open, distributed, interoperable, and interconnected nature of the Internet.
+? Because the Internet is an integral part of the global economy, its security, stability, and resiliency must be preserved.
+? Individuals should be able to exercise their human rights, both online and offline.
+? Governments should recognize limitations on their ability to collect information on Internet users based on users’ reasonable privacy interests and the impact on trust in the Internet.
+ 
+Governance Principles: Any Model of Internet Governance Should Have the Following Characteristics.
+ 
+? All stakeholders -- individual users, governments, civil society, businesses, and members of the academic and technical community -- have a stake in preserving the Internet as a critical platform for communication and information exchange, and therefore all stakeholders should be included in governance decisions.  All of these stakeholders have contributed to the development of the Internet to date, and working together, they have driven unprecedented growth in access to, uses of, and innovation on the Internet.  They must continue to be involved in any future model of Internet governance.
+? Any policy-making associated with the Internet must promote openness, transparency, and accountability, and must be grounded in respect for the rule of law.
+ 
+ 
+Walid Al-Saqaf
+President
+ISOC-Yemen

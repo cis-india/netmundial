@@ -1,0 +1,198 @@
+NetMundial Content Submission - Endorsed by NIC Mxico
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Manuel Haces-Avia
+Region: Mexico
+Organization: NIC Mexico
+Sector: Technical community
+Keywords: Challenges Principles Roadmap Governance
+Doc Attached: Click here to see the doc 1
+Abstract
+We briefly introduce presenting current challenges, further going to describing what we
+believe should be the Internet Governance Principles endorsed and the Roadmap for the
+further evolution of Internet Governance.
+Document
+NetMundial Content Submission
+Endorsed by NIC México
+The current challenges the Internet is facing
+There is no doubt that Internet has revolutionized without precedent several aspects of
+human life: since becoming a facilitator of daily basis activities up to enabling the exercise
+of basic human and civil rights. Notwithstanding, Internet is currently facing several
+challenges that constitute a permanent treat and that harness its further development.
+Among these, we can find the several:
+Internationalization of ICANN and IANA functions: This non-lucrative, non-governmental
+organization for the coordination and supervision of technical parameters of Internet
+through a multistakeholder participation model, is currently facing the challenge of
+positioning itself as a real multicultural organization, lessening its linkage to California law
+and deepening the globalization of the IANA functions it currently performs under contract
+with the US Government (Department of Commerce / NTIA). Even though several efforts
+have been made, as the opening of several contact offices throughout in Beijing, Brasilia
+and Montevideo, the cultural diversification of its employees, summed up to the very
+symbolic coronation of these efforts by choosing a Lebanese CEO, and the linguistic
+diversification of the DNS; it is evident that “de-occidentalization” and further
+Internationalization of the corporations and functions that coordinate Internet resources
+must keep on going further in order to achieve legitimation with the non-Occidentalized
+world, keeping in mind that the next generation of Internet users will come from non-
+Occidentalized countries.
+Increased governmental participation on Internet Governance: it is evident that worldwide
+governments are seeking to increase their participation on Internet Ecosystem, something
+that throws in serious questionings on the balance of power as well as on the future
+impossibilities of exercising fundamental rights through this medium. Since several years,
+the United Nations, through the International Telecommunications Union (ITU) had been
+pushing further with resolutions on several international forums that tend to increase the
+role of these institutions and their governments adhered on Internet, under the argument
+of reducing the digital divide. Specifically, several Governments are pushing for ITU to
+take the technical coordination functions currently delegated to ICANN, which formalized
+in the matter of multilateral treaties will pave the way for governments to control their local
+Internet Ecosystems through aggressive regulatory measures. ITU being and international
+organization its eminently State-centric and only gives voice and vote to the Governments
+affiliated, the rest only given the status of observatory participants. The risk this poses is
+to give Governments wide abilities to impose their own policies via unilateral ways and not
+through multistakeholder participation, even given the chance to violate fundamental
+Internet principles (neutrality, free flow of data, descentralized administration, free and
+voluntary adoption and coordination, transjurisdiccional). On other fronts, these
+multilateral treaties are not only aimed to move the technical coordination abilities, but
+rather are focused on very specific topics such as intellectual property and Internet
+regulation, such as the Transpacific Partnership Agreement (TPP) being currently
+negotiated.
+Developing countries participation on Internet Governance: In line with reducing the digital
+divide, and increasing the integration of developing countries individuals to the Information
+Society, several regional specific strategies must be followed and endorsed by the
+organizations of the global Ecosystem to increase the digital inclusion of these individuals.
+The UN through the WSIS process, ICANN and several countries have started regional
+and country specific strategies aimed at this objective.
+Widespread Governmental espionage: Edward Snowdens revelations shed light on
+something widely known but never spoken before: no Internet user is safe from espionage
+on the Internet and thus security has taken widespread relevance, as the user struggles
+not to lose confidence on Internet.
+On Internet Governance Principles
+On a general basis, the next principles should be endorsed:
+1. Wide protection of Human Rights in the digital era. Recognizing the Internet’s
+contribution to self-expression and information sharing, we call for Internet governance
+models to promote this free flow of information as recognized by the Joint Declaration on
+Freedom of Expression and the Internet[1]and the United Nations Human Rights Council.[2]
+2. Non-discriminatory and inclusive access to the Internet as stated in the
+Declaration of Principles: Building the Information Society: a global challenge in the new
+Millennium (WSIS).[3]
+3. The right of access to information and freedom expression where no law or
+authority may establish censorship, restricting freedom of dissemination.
+4. Promote effective competition in telecommunications and ICT services and
+promote anti-trust policies and regulations.
+5. Strengthen the integration to the Information Society.
+6. Consider telecommunications as a worldwide public service of general interest,
+understanding that Internet does not fall within the realm of Telecommunications
+regulation principles, and therefore needs a multi-stakeholder approach to its governance,
+while recognizing its open, distributed, interoperable, and interconnected nature. Internet
+is rather something entirely different, a logical mechanism of data-packet commutation
+based on the utilization of TCP/IP protocol which uses the Telecommunications
+infrastructure as a physical mean disregarding the type of infrastructure involved or the
+physical borders between these, and that according to the ‘layers principle’, works as a
+superior layer mounted above an inferior telecommunications layer and therefore
+operates with a separate set of rules for its engagement by the several stakeholders.
+7. Inviolability of the private communications, recognizing the necessary and
+proportionate principles upon which governments should design and limit their ability to
+collect information on Internet users based on users’ reasonable privacy interests and the
+impact on trust in the Internet.[4]
+8. Multistakeholder participation on the basis of equal footing, equal voice and equal
+participation in recognition of each stakeholder's role and responsibility that this model of
+decentralized administration confers and considering that the multi-stakeholder model
+approach to Internet governance and technical management has allowed the Internet to
+grow and flourish into the critical global platform it is today. We recognize that
+all stakeholders should be included in governance decisions as stated in the
+Montevideo Statement on the Future of Internet Cooperation[5]and the Declaration of
+Principles: Building the Information Society: a global challenge in the new Millennium
+(WSIS).[6]
+9. Protecting consumers and encourage users to organize themselves for the better
+care of their interest.
+Roadmap for the Further Evolution of the Internet Governance Ecosystem
+The following must be followed to enhance Internet Governance landscape:
+1. IGF shall be kept as the main forum where all stakeholders can participate and
+disseminate the good practices and lessons learned. Similar efforts at regional and
+national level should be a practical recommendation.
+2. United Nations System through the Internet Governance Forum (IGF), appointed by
+the United Nations General Assembly through the Tunis Agenda, should be continuously
+following and monitoring the emerging issues where a global public policy could be
+necessary to be adopted, and address the appropriate body to handle with each matter,
+and their measures that facilitate the multistakeholder involvement should be improved. In
+this sense, we encourage the UN to renew the IGF mandate for another 10 years, in
+addition to the permanent evolution and continuity of the Multistakeholder Advisory Group
+(MAG), in recognition of the thorough, objective and inclusive representation of the wide
+diversity of stakeholders involved on the Internet.
+3. The Internet Corporation for Assigned Names and Numbers (ICANN) should evolve
+to comprise a more internationalized organization under the most suitable regime for multistakeholder
+participation, on the basis of equality, openness, bottom-up and rough
+consensus, on the understanding that the proper application of these within the
+organizational structures will avoid control by any particular stakeholder. The same should
+be endorsed for the internationalization of the Internet Assigned Numbers Authority
+(IANA) functions currently under ICANN administration by contract with the US
+Department of Commerce (US DoC), on the common understanding that these
+characteristics should be aimed on maintaining the technical stability and resilience of the
+root, prevailing the notion that due to its technical complexity the technical community
+should continue their activities on the above supervision of IANA, disregarding to which
+superior organization this function is endorsed. As Internet policy discussions become
+more global in nature, stakeholders should continue to rely on the existing structures to
+develop global policies that benefit all users rather than relying on either the creation of
+another governance body or on multilateral means.
+4. All of the stakeholders involved should increase their accountability and transparency
+practices in favor of the global Internet community public interest. Recognizing necessary
+improvements within the current governance model, we propose bringing new
+stakeholders whose voices may not be effectively heard into the conversation. For
+example, through the offer of fellowships to engineers and policymakers from the
+developing world to attend multi-stakeholder meetings, as well as improving transparency
+and accountability, calling on all involved organizations to make relevant governance and
+policy documents available to all stakeholders at no cost and opening governance
+meetings to equal participation whenever possible.
+5. International organizations and governments should enhance their cooperation in
+order to mitigate any conduct contrary to the use of the Internet for the economic and
+social development, taking into account the potential for improvements in the international
+mechanisms of cooperation among stakeholders. In addition, considering that in some
+cases of Internet Governance, private mechanisms aimed at specific expertise areas and
+non-State forms of cooperation are currently undergoing and working properly among the
+stakeholders involved, we recommend that these should be recognized, endorsed, and
+not duplicated within other State cooperation mechanisms in order to avoid effort
+duplication and regulation spheres.
+6. The technical community and International Organizations should continue improving
+their mutual cooperation for the elaboration of the standards in favor of the
+interoperability, security and stability of the Internet. We encourage the internet
+governance community to maintain and endorse the Internet Governance Principles
+defined by the Technical Community,[7] as follows:
+a. Open and inclusive participation.
+b. Consensus-based.
+c. Permission-less innovation.
+d. Collective stewardship and empowerment.
+e. Transparency.
+f. Pragmatic and evidence-based approach.
+g. Voluntary adoption.
+[1]Joint Declaration on Freedom of Expression and the Internet: “Freedom of expression
+applies to the Internet, as it does to all means of communication. Restrictions on freedom
+of expression on the Internet are only acceptable if they comply with established
+international standards, including that they are provided for by law, and that they are
+necessary to protect an interest which is recognised under international law”; “There
+should be no discrimination in the treatment of Internet data and traffic, based on the
+device, content, author, origin and/or destination of the content, service or application”
+[2]United Nations Human Rights Council: “Affirms that the same rights that people have
+offline must also be protected online, in particular freedom of expression, which is
+applicable regardless of frontiers and through any media of one’s choice, in accordance
+with articles 19 of the Universal Declaration of Human Rights and the International
+Covenant on Civil and Political Right”
+[3]Declaration of Principles: Building the Information Society: a global challenge in the new
+Millennium (WSIS): “Connectivity is a central enabling agent in building the Information
+Society. Universal, ubiquitous, equitable and affordable access to ICT infrastructure and
+services, constitutes one of the challenges of the Information Society and should be an
+objective of all stakeholders involved in building it.”
+[4]Report of the Special Rapporteur on the promotion and protection of the right to
+freedom of opinion and expression, Frank La Rue: “Legislation must stipulate that State
+surveillance of communications must only occur under the most exceptional
+circumstances and exclusively under the supervision of an independent judicial authority”
+[5]Montevideo Statement on the Future of Internet Cooperation: “ (...) identified the need
+for ongoing effort to address Internet Governance challenges, and agreed to catalyze
+community-wide efforts towards the evolution of global multistakeholder Internet
+cooperation”.
+[6]Declaration of Principles: Building the Information Society: a global challenge in the new
+Millennium (WSIS): “Governments, as well as private sector, civil society and the United
+Nations and other international organizations have an important role and responsibility in
+the development of the Information Society and, as appropriate, in decision-making
+processes. Building a people-centred Information Society is a joint effort which requires
+cooperation and partnership among all stakeholders.”
+[7] Internet Collaboration Group (2014). Available at:
+http://www.internetcollaboration.org/ig-recommendations-itcg/

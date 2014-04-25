@@ -1,0 +1,139 @@
+NRO contribution to NETmundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Adiel Akplogan
+Region: Mauritius
+Organization: The NRO ( for AFRINIC, APNIC, ARIN, LACNIC, RIPE-NCC)
+Sector: Technical community
+Keywords: IGF, Multistakeholder, 1Net, IANA function and ICANN
+Globalisation
+Doc Attached: Click here to see the doc 1
+Abstract
+The Number Resource Organization (NRO), on behalf of the five Regional Internet
+Registries(RIRs), AFRINIC, APNIC, ARIN, LACNIC, and RIPE NCC offers this submission
+to the?NETmundial?1, addressing each of the two submission topics: ?Internet
+GovernancePrinciples?, and ?Roadmap for the Further Evolution of the Internet
+Governance Ecosystem?.
+Document
+NETmundial: Response to Call for Submissions
+The Number Resource Organization (NRO)
+7 March 2014
+The Number Resource Organization (NRO), on behalf of the five Regional Internet
+Registries (RIRs), AFRINIC, APNIC, ARIN, LACNIC, and RIPE NCC offers this
+submission to the “NETmundial”[1], addressing each of the two submission topics: “
+Internet Governance Principles”, and “Roadmap for the Further Evolution of the Internet
+Governance Ecosystem”.
+Section 1. Internet Governance Principles
+· The “working definition” of Internet Governance[2], established by the Working Group
+on Internet Governance[3], is now well accepted and should remain in place for the
+purposes of the NETmundial meeting, and for the future. We believe that there is no need
+to revise this definition.
+“We support the existing definition of Internet Governance”
+· The subject of Internet Governance is the Internet as we know it and its core values,
+including a set of essential evolutionary and identifiable, technical, operational and
+organizational features which have been critical to its success.
+“The subject of Internet Governance discussions is the Internet as we know it and
+its core values”
+· Among these features is the “multistakeholder model” of governance and
+cooperation, which was also identified during the World Summit on the Information
+Society (WSIS) process. While not named as such, this model has been in operation
+since the earliest days of the Internet, in various forms and instances. These include open
+and consensus-based processes for standards and policy development, cooperative
+operational forums active at various levels of infrastructure and service, and widespread
+distribution of functions among diverse and autonomous cooperating organizations.
+“The multistakeholder model has been and continues to be fundamental to the
+success of the Internet”
+· General principles of Internet Governance have been discussed many times and can
+be approached in various ways. A group of Internet technical community organizations
+and individuals have agreed on a set of observations and recommendations, known as
+“Internet Governance Observations and Recommendations from Members of the Internet
+Technical Community"that were submitted to NETmundial. In referring to this document,
+we stress the importance of a sustainable and effective bridge between Internet technical
+coordination and public policy processes.
+· An expert panel which examined “ICANN’s Role in the Internet Governance
+Ecosystem”[4] has also produced a valuable report which articulated “5 Rs” – the
+principles of Reciprocity, Respect, Robustness, Reasonableness and Reality – which
+have been applied in a variety of Internet Governance processes such as those facilitated
+by the RIRs, the Internet Engineering Task Force (IETF)[5] and others. We support this
+formulation, but also agree with the Panel that we do not seek a “single constitutional
+moment” for Internet Governance.
+“There is no one set of Internet Governance principles; however we highlight the
+report of the ICANN Strategy Panel on ‘ICANN´s Role in Internet Governance
+Ecosystem’, and the NETmundial submission by members of the technical
+community”.
+· Importantly, as identified by the WSIS process, Internet Governance must be
+advanced through suitable processes that respect and enhance the multistakeholder
+model. Such processes already exist for certain governance issues in various
+communities and jurisdictions. The Internet Governance Forum[6] (IGF) was established
+as the foremost open and inclusive, non-decision-making global forum in which Internet
+Governance matters can be discussed and advanced. The IGF has become the central
+element of the global Internet Governance environment, even while it matures to better
+meet evolving challenges.
+“The Internet Governance Forum should remain a central element of the global
+Internet Governance environment”
+· The NETmundial is understood to be a one-time event, that should address questions
+of how Internet Governance issues are handled (whether individually or in aggregates),
+the applicability and quality of multistakeholder governance activities, and the evolution of
+the governance model. How Internet Governance is conducted is itself an Internet
+Governance issue, and as such, fits clearly within the mandate of the IGF. To create a
+competing forum would only cause confusion and fragmentation in a set of processes that
+should operate with maximum accessibility, inclusion and convergence.
+“NETmundial and any other initiatives should be coordinated and complementary
+to the IGF.”
+Section 2. Roadmap for the Further Evolution of the Internet Governance Ecosystem
+We make the following recommendations for the future of Internet Governance. Our
+recommendations are not exhaustive, but are essential to successful Internet Governance
+in the future.
+First, on the question of ICANN and the associated IANA activities we would assert that
+governance of these functions must be undertaken consistently with accepted principles
+of Internet Governance, as outlined in the 2013 Montevideo Statement[7]. That statement
+called for accelerating the globalization of ICANN and the IANA functions towards an
+environment where all stakeholders, including all governments, participate on an equal
+footing. Aside from these broad principles, the details of any transition and any new
+arrangements should not be a primary focus for NETmundial.
+Secondly, we would like to make the following recommendations on the Internet
+Governance Forum (IGF):
+1. Internet Governance will remain important to the global community for as long as the
+Internet continues to grow and evolve. Therefore we propose a renewal of current IGF
+arrangements for a further 10 years after the current 5-year cycle. A longer-term
+renewal of the IGF mandate should not preclude an evolutionary transition of the IGF
+to a more sustainable model. This will promote a clearer understanding of its
+importance, legitimacy and longevity.
+2. The IGF must continue as a “non-binding” forum, and produce useful outputs
+, through appropriate participatory and consensus-based decision-making processes.
+These may take the form of reports from IGF meetings and processes, informational
+papers resulting from emerging working groups, and non-binding recommendations based
+on case studies and emergent best practices.
+3. The IGF needs to evolve and be strengthened. Some evolutionary changes may
+gain impetus from external processes, such as NETmundial. They must be subject to
+review through the IGF process itself to ensure that multistakeholder legitimacy is
+continually maintained and enhanced.
+4. The IGF’s Multistakeholder Advisory Group (MAG)[8] has played an important role in
+the IGF. It is essential that the MAG receive strong support from the IGF Secretariat.
+Some MAG processes could also improve, including transparency and predictability of
+selection of members.
+5. Further improvement of the IGF requires a strong, stable Secretariat
+, with the human and financial resources to effectively meet a range of administrative
+tasks, including IGF site selection, negotiation with hosts, design of the event, funding and
+fundraising, reporting, planning and resourcing.
+6. The IGF has benefited greatly from intersessional activities, including national and
+regional IGF events[9]. These IGF-related events have proven to very beneficial in
+increasing the reach and impact of the overall IGF process. There is a need for
+ongoing support to inter-link them with an overall IGF process in a way that increases
+their value for all participants.
+7. In addition and complimentary to these IGF events, ongoing multi-stakeholder
+discussions are occurring online in a number of forums. These discussions have tended
+to be specific to stakeholder communities rather than encompassing all stakeholders.
+We recommend that “/1net” be recognized as one encompassing multistakeholder
+forum for holding intersessional IGF related discussions in an open and
+constructive manner and for building consensus to be channeled through IGF.
+[1]http://www.netmundial.br
+[2] http://www.wgig.org/docs/WGIGREPORT.pdf
+[3] http://www.wgig.org/About.html
+[4] http://www.icann.org/en/about/planning/strategic-engagement/governanceecosystem/
+report-23feb14-en.pdf
+[5] http://www.ietf.org
+[6] http://www.intgovforum.org
+[7] http://www.nro.net/news/montevideo-statement-on-the-future-of-internet-cooperation
+[8] http://www.intgovforum.org/cms/magabout
+[9] http://www.intgovforum.org/cms/igf-initiatives

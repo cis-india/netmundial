@@ -1,0 +1,162 @@
+Contribution of Telefonica to NETmundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Chistoph Steck
+Region: Spain
+Organization: Telefonica, S.A.
+Sector: Private Sector
+Keywords: sustainability, level-playing, open, trust
+Abstract
+Telefonica believes that finding a global consensus on Internet Governance would be
+crucial to restore trust and confidence of users and states in the Internet and create a
+basis for a sustainable growth of the Internet. Such growth is needed to get everyone
+connected to the Internet based on interconnected Internet infrastructures and networks.
+Document
+Contribution of Telefonica to NETmundial
+March 7th, 2014
+First of all, Telefónica wants to express its support for NETmundial and congratulate the
+Government of Brazil for this good effort to evolve the existing model of Internet
+Governance through holding a multistakeholder conference and by inviting a range of
+influential other governments.
+Telefónica, S.A. is an active stakeholder in the Internet Governance debate and wants
+with these comments help to build a solid base for the discussions at NETmundial and to
+help bridging the divergent views to make the conference a success on the way to a more
+inclusive and better Internet Governance.
+1. Internet Governance Principles
+The electronic communications industry has made possible the unparalleled expansion of
+Internet connections and penetration worldwide. A very significant proportion of total
+broadband and other Internet connections are made using mobile networks, and that
+growth – nurtured and stimulated by competition – is accelerating. Today, Internet users
+are mainly from emerging economies and access the Internet via mobile devices, this
+should also be reflected in the way the Internet is governed. To maintain this pace and
+give access to those still unconnected, to be able to provide them with education, vital
+medical and governmental services and open unprecedented opportunities for new job
+creation and economic growth, it is crucial that Internet policy allows also
+telecommunications operators to provide innovative services and encourages them to
+continue to invest in new networks and infrastructure.
+Competition and a regulatory and policy framework that attract investments are needed to
+provide Internet for all and the necessary private investments to roll-out new
+infrastructures worldwide. Also, long-term broadband and communication investments
+need stable and predictable regulatory regimes, based on a level-playing field for all
+actors and free from uncertainty at national and international levels. Today, the level and
+intensity of regulation differs considerably between various parts of the Internet value
+chain. Going forward, the sustainability of the Internet will also depend on finding a levelplaying
+field for all actors across the Internet value chain.
+We recognize the efforts made during the last years to define a common set of principles
+for the Internet. There are already many principle documents agreed by various
+international fora and institutions (OECD, G8, European Commission) regarding the
+Internet.NETmundial should built on these,but focus on finding principles for the
+Governance of the Internet (in contrast to: General Internet Principles), but obviously
+such principles for the Governance of the Internet need to be aligned with the more
+general Internet Principles.
+The outcome would be a global set of Internet Governance Principles, which could serve
+as a global reference point and a guiding light for all stakeholders about the Governance
+of the Internet. NETmundial should try to get agreements between all stakeholders on
+such a key set of governance principles that have made the Internet a global success.
+Telefonica believes that this will be rather few than many principles and that they need to
+capture broad consensus between all stakeholders and involved parties.
+The Internet has become such a fantastic success because it was based on a governance
+structure that was open to all interested stakeholders, global in reach and guided by a
+cooperative spirit between all involved parties. This is a basis which is not found in any
+other area of international policy and governance and should be respected simply due to
+the fact that it was the basis of the growth of the Internet up to now and has overall
+worked considerably well. However, the amazing growth of the Internet is putting stress
+on this model of Internet Governance. While in 2005 two-thirds of all Internet users were
+from the developed world, in 2015 two-thirds will stem from emerging economies. This
+brings all challenges of international Public Policy to the Internet and makes its
+governance more challenging due to an increased diversity of views, morals and interests.
+NETmundial should therefore be an important step to evolve the Internet Governance
+model by building on its existing foundations and without endangering its growth,
+resilience and stability.
+Telefonica believes that finding such global consensus on Internet Governance would be
+crucial to restore trust and confidence of users and states in the Internet and create a
+basis for a sustainable growth of the Internet. Such growth is needed to get everyone
+connected to the Internet based on interconnected Internet infrastructures and networks.
+Telefonica therefore believes that NETmundial should considerthe following key
+principles and outcomes for the Internet and its Governance:
+(1) Promote an Internet which is economically sustainable, interconnected,
+secure, stable and resilient and thereby able to build confidence for all its users
+globally.
+(2) Protect Human Rights and fundamental principles like the rule of law for
+Internet users in the same way online as they are protected offline
+(3) Commit to a collaborative, inclusive and open Internet Governance where no
+single stakeholder or group of stakeholder dominates but all stakeholders work
+together and can engage on equal footing and in accordance with their respective
+roles; this includes also governments in their recognized role as representatives of
+societies for the definition of Public Policy on national and international level.
+(4) Acknowledge that the current government mechanisms for technical and
+operational matters of the Internet have proved to make it a remarkably stable and
+resilient system and that the technical community and private sector should retain
+their leading roles for the day-to-day management of a global, interconnected
+Internet.
+(5) Ensure that Internet Governance processes are improved and defined to be
+fully transparent, inclusive and easily accessible, but also accountable for their
+decisions and flexible enough to adapt to the fast-changing nature of the Internet.
+2. A roadmap for the further evolution of the Internet Governance System
+For Telefónica, any roadmap for the evolution of the Internet Governance System should
+ensure that all affected parties are included in this process on equal footing, in their
+respective roles and in an open, transparent and accessible way. We congratulate
+NETmundial and the Brazilian government for their efforts to achieve this in the
+organization of the conference.
+We also recognize that the existing governance mechanisms and organizations dealing
+with Internet Governance have worked considerably well and allowed the fantastic
+development of the Internet to a global, interconnected network of networks. This by itself
+gives these governance mechanism and institutions the legitimacy to be listened to and
+heard in the current debate. Institutions like the I-Stars (ICANN, IETF, ISOC, etc.) and
+also platforms like the UN IGF have great merits for the development of the Internet as we
+know it.
+Internet Governance has today developed to be a global governance model sui generis
+and is much more than any other governance mechanism based on collaboration
+between stakeholders. Especially private actors and technical entities lead and ensure the
+day-to-day management of its core functions and do the investments needed in
+infrastructure and services to create what is referred to as “The Internet”.
+Telefonica believes that traditional governance models, which are based on top-down
+decision making processes and multilateral agreements between governments, usually
+agreed in lengthy negotiations, cannot be the most adequate for governing the fastchanging
+Internet with its global reach and private, interconnected networks. However, we
+also acknowledge that due to the increasingly global and diverse user base of the Internet
+and its key role for the economic developments of all nations and states, Internet
+Governance processes need to better involve Public Policy concerns from governments
+and states and need to evolve accordingly.
+Telefónica therefore believes that NETmundial should set out the areas where an
+evolution of Internet Governance is deemed necessary and where there is the most
+urgent need to evolve the currently existing governance mechanism. Once these areas
+are defined, a roadmap to address such changes should be agreed.
+We believe that this review needs to distinguish carefully between different areas and
+issues of Internet Governance as not all have the same impact on Public Policy. At the
+same time, not all issues need the same involvement and same set of stakeholders,
+institutions and partiesto define solutions: to give an example, setting standards and
+agree technical protocols for the Internet has worked considerably well under the existing
+governance mechanisms which are lead by private companies and entities. However, how
+to protect privacy and security of Internet users on a global level is a much more difficult
+and controversial issue and has a much higher impact on Public Policy and clearly need
+to involve governments in a leading role. At the same time the example of Online Privacy
+also shows that it might also be necessary to distinguish between global and local (or
+regional) levels, and to use the concept of subsidiarity to decide on what level decisions
+need to be taken, because many national states protect already privacy online, but there
+is no global agreement and protection. In general the principle of subsidiarity could be
+considered to be able to determine which issues need to be solved at global level and
+which ones can be dealt with by stakeholders at local levels.
+Democratically-elected governments are the representatives of the people and therefore
+are an important source of democratic legitimation regarding Public Policy issues affecting
+the Internet. They should ensure the existence of open, inclusive and transparent
+mechanisms for Internet Governance, respect Human Rights and the rule of law, and
+guarantee the right policy frameworks for competitive digital markets with fair rules for all
+players(level-playing-field) which are necessary to safeguard increased investments and
+innovation across all layers of the commercial Internet Ecosystem. They should also
+engage in relevant processes of Internet Governance and policymaking, especially when
+and where there is a relevant impact on Public Policy, e.g. in issues like online privacy
+and cyber-security. In such areas solutions without leading involvement of governments,
+engaging with other stakeholder like the technical community, private sector, civil society
+and academia, will not be possible to achieve.
+The IGF has played a very important role in bringing together stakeholders. As already
+proposed by the UN working group on improvements of the IGF in 2012, it should be
+intended to integrate and link its outcomes better to other existing governance
+mechanisms. The IGF needs to be better funded and
+interactions between the global IGF and the national and regional IGFs should also be
+strengthened.
+Finally, due to the completely changed nature of today´s Internet, with its global usage
+and with most users in the emerging world, also the key Internet resources, especially
+ICANN and the IANA function, need to be globalized. The appropriate process and ways
+to achieve that goal as soon as possible from a legal and technical point of view and
+without endangering the stability of the Internet should be defined by NETmundial as well.

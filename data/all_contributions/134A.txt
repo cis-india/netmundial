@@ -1,0 +1,194 @@
+WHAT DO WE ALL MEAN BY ?ROADMAP TO FURTHER
+EVOLVE THE MULTISTAKEHOLDER INTERNET
+GOVERNANCE ECOSYSTEM??
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Bertrand de La Chapelle and Paul Fehlinger
+Region: France
+Organization: Facilitators of the Internet &Jurisdiction Project, in their
+personal capacity
+Sector: Other
+Keywords: Common Understanding, Governance Framework, Process
+Design, Governance ON the Internet
+Abstract
+A roadmap is a process intended to achieve a particular goal. Discussions at NETmundial
+regarding a roadmap to further evolve the multistakeholder Internet governance
+ecosystem should therefore: 1) foster a common understanding of this goal among all
+participants and 2) sketch out a possible process to move forward with corresponding
+milestones. This contribution addresses these two elements as input into the Sao Paulo
+discussions on this topic.
+Document
+The key prerequisite for any fruitful policy-making discussion is a shared vernacular
+among participants, i.e. all actors put the same meaning behind the same words.
+This contribution is therefore an issue-framing input to advance the collective
+understanding of NETmundial participants of the expression “roadmap for the further
+evolution of the Internet governance ecosystem”. It will analyze each component of it in
+turn and propose a few questions to help shape the discussion during the meeting
+regarding the way forward.
+Hereby, an important point of reference is the definition of Internet governance agreed
+during the WSIS Tunis Summit: “the development and application by governments, the
+private sector and civil society, in their respective roles, of shared principles, norms, rules,
+decision-making procedures, and programmes that shape the evolution and use of the
+Internet” (Art.34 of the Tunis Agenda).
+1. INTERNET GOVERNANCE IS ABOUT THE ELABORATION AND IMPLEMENTATION
+OF REGIMES
+a) Regimes. The Tunis Agenda definition clearly echoes the widely accepted definition of
+a regime as: “sets of implicit or explicit principles, norms, rules, and decision-making
+procedures around which actors’ expectations converge in a given area of international
+relations” (Krasner, 1983).
+Internet governance is therefore about the various arrangements or regimes (“shared
+principles, norms, rules, decision-making procedures, and programmes”) that allow
+concerned stakeholders to address specific issues regarding the Internet.
+b) Elaboration and implementation. The Tunis definition mentions the “development and
+application” of such arrangements or regimes as two complementary dimensions of
+Internet governance. This means appropriate processes to develop standards and
+policies and - when needed - dedicated institutions to implement them operationally.
+Experience demonstrates that stakeholders that will be needed for the implementation of
+standards or policy frameworks need to actively participate in their elaboration.
+2. THE MULTISTAKEHOLDER INTERNET GOVERNANCE ECOSYSTEM
+a) Involvement of all stakeholders. Internet governance is described in the Tunis Agenda
+as the responsibility of “governments, the private sector and civil society, in their
+respective roles”. Although this is generally considered as the endorsement of the
+multistakeholder approach by the Heads of State gathered in Tunis, the term “respective
+roles” was voluntarily ambiguous and widely divergent interpretations remain.
+We believe however that it should not be understood as a pre-established and rigid
+structural separation of responsibilities between stakeholder groups. Rather, there is a
+need to identify and engage, on an issue-by-issue basis, the relevant stakeholders from
+each group, who either have a direct influence on the issue or are impacted by it and must
+thus be associated with developing a solution.
+Furthermore, in a multistakeholder approach, the respective roles are not set in stone: the
+involvement of the different stakeholders can vary according to the issues addressed, the
+venue where they are discussed and the stage of the discussion. There is not a single
+way to implement a multi-stakeholder model.
+b) The existing institutional ecosystem. A distributed set of institutions and processes
+(including IETF, W3C, the RIRs or ICANN) already exists to handle the different issues
+related to the governance of the Internet as a system. This existing ecosystem produces
+many types of arrangements, from a distributed repartition of responsibilities in the
+allocation of resources (the RIRs), to voluntary technical standards (IETF and W3C), to
+enforceable contracts (ICANN).
+Although their modus operandi is highly variable, these processes and institutions are
+open to all willing participants and their multi-stakeholder nature was essential to enable
+the network to successfully grow and serve close to 3 billion users.
+3. EVOLVING THE SYSTEM FURTHER
+If the multi-stakeholder Internet governance ecosystem is the set of mechanisms and
+institutions that allow the development and implementation of shared issue-based regimes
+by different stakeholders, what needs to be “evolved further” in this ecosystem?
+Discussions so far seem to have identified three complementary tracks in that regard:
+Track 1: The first task in front of us is to continue to improve the existing system in terms
+of inclusion, transparency and accountability. NETmundial will help actors understand
+where discussions on these aspects are currently under way and how they can engage.
+Track 2: A second discussion concerns the globalization of ICANN and in particular the
+current role played by the US Department of Commerce in the workflow of the so-called
+IANA function. Evolution seems now possible in a topic that was considered taboo for a
+long time and NETmundial will naturally address it.
+Track 3: However, a third dimension is essential and deserves close attention during
+NETmundial: How to handle governance ON the Internet? This is the one we would like to
+focus upon here.
+The Tunis definition of Internet governance covers “the evolution and use of the Internet”,
+a distinction that can be referred to as: governance OF the Internet and governance ON
+the Internet. Governance OF the Internet deals with the Internet as a network system,
+while governance ON the Internet deals with the rules applicable to how people use the
+network.
+Contrary to what many might believe, this distinction is not a separation between technical
+and policy issues: there are policy dimensions to technical issues and technical aspects in
+policy decisions. What is at stake is rather a distinction between two different challenges:
+on the one hand ensuring the interoperability, security and resilience of the network itself;
+and on the other hand managing the coexistence of different norms in cross-border
+spaces. The Internet is based on a layered architecture and its governance should be
+layered too.
+The current ecosystem of multi-stakeholder institutions mainly deals with the governance
+OF the Internet as a system (protocols and standards, allocations of addresses, and
+names policy). But governance ON the Internet lacks similar multi-stakeholder processes
+and structures to handle challenges related to the use of the network, i.e. on the
+application, content and social layers.
+A key meaning of “further evolving the multistakeholder internet governance ecosystem”
+is therefore: how to develop global processes and - if needed - institutions to handle
+issues related to the use of the Internet, such as privacy, freedom of expression,
+cybercrime, etc… In other terms: what could be the overarching framework that can
+produce multi-stakeholder, distributed and issue-based regimes to address these issues?
+A key aspect of this discussion will be how any evolving multi-stakeholder Internet
+governance ecosystem integrates existing policy-making structures at the local and global
+level, including nation-states and intergovernmental organizations. Another important
+question is the evolution of the role and responsibilities of the Internet Governance Forum
+(IGF).
+4. DEFINING THE COMPONENTS OF A ROADMAP
+NETmundial is not a stand-alone event and it will not finalize decisions. It is rather the
+starting point of a process to foster convergence of visions and ultimately produce an
+improved institutional framework. This is particularly true for the important third track topic
+(governance ON the Internet).
+It is useful here to remember that any development of policy or institution goes through
+three stages: issue-framing to define shared objectives; an iterative process to develop a
+draft framework; and ultimate validation by the relevant stakeholders, either through
+formal agreement or voluntary adhesion. The post-Sao Paulo roadmap could be built on
+these three stages.
+The Internet & Jurisdiction Project is facilitating since 2012 a global multi-stakeholder
+dialogue process on a limited but cross-cutting issue: the development of a due process
+framework for transborder requests regarding domain name seizures, content takedowns
+and access to user data. Based on this experience, the facilitation team would like to
+propose here, in their personal capacity, three methodological questions that, if discussed
+at NETmundial, could help define the next steps in a roadmap.
+a) What high-level common objective?
+Discussions in Sao Paulo in the sessions dedicated to the roadmap will naturally reveal a
+diversity of proposals regarding the ultimate objective and potential institutional
+architectures to “further evolve the multistakeholder Internet governance ecosystem”.
+A key ambition of NETmundial should however be to identify a common formulation
+defining a high-level overarching objective acceptable by all participants. This is
+necessary to open the subsequent discussion of the various options under at least a
+common aspiration.
+Operational questions are:
+How to document discussions in Sao Paulo in a synthetic manner to
+identify the areas of convergence and the various options?
+How and by whom should such a synthesis be prepared during (or after)
+the meeting?
+b) What process to develop a recommendation?
+The international agenda is already dense and numerous events gather the different
+stakeholders in various formats. However, a series of independent events is not sufficient
+to develop such a comprehensive institutional reform. A bounded in time, transparent and
+inclusive dialogue process allowing all categories of stakeholders to participate is most
+probably needed.
+In this perspective, NETmundial could discuss the following operational questions:
+Which combination of actors can/should initiate such a dialogue process?
+Who can participate and how?
+Who can provide a neutral support function?
+How can existing meetings be leveraged?
+c) How to validate the results of the process?
+Irrespective of the ultimate framework proposal that the dialogue process would produce,
+it would require endorsement by a general consensus of actors, or at least a critical mass
+of them, to be implementable.
+It is too early to discuss how formal such an endorsement would need to be. The
+discussions at NETmundial should therefore focus on setting the timeframe for such a
+process and the venue where it could be finalized.
+5. POSSIBLE ROADMAP MILESTONES
+In this contribution, we argued that there are several tracks towards the further evolution
+of the multi-stakeholder Internet governance ecosystem. We highlighted in particular the
+importance of Track 3, i.e. the development of a framework for the governance ON the
+Internet and the need for a dedicated dialogue process to do it.
+Numerous discussions indicate a growing consensus towards setting 2015 as the target
+deadline for this discussion. The post-Sao Paulo roadmap should leverage existing
+milestone events to structure the work:
+The September 2014 IGF in Istanbul will be a natural moment to review
+the results of NETmundial after all stakeholders have had time to consult
+and discuss. It could thus catalyze agreement on how to organize the
+dialogue process to develop an improved ecosystem. The IGF
+consultations in May could decide to include dedicated workshops and a
+plenary session on that topic in the agenda.
+Great uncertainties remain on the format of the WSIS+10 review in 2015
+and consultations are underway in that regard. But, whatever its format or
+location, this event appears as a potential natural target milestone for the
+end of the process.
+An open question is whether an additional event (NETmundial 2015?)
+should - or not - be inserted in an already dense agenda of international
+meetings, in order to facilitate the discussions and the preparation of the
+WSIS+10 review
+Finally, many other events, including local and regional IGFs or
+conferences by existing international organizations, will naturally provide
+opportunities for further exchanges and outreach along the work of the
+dialogue process.
+The discussions about the evolution of the Internet Governance ecosystem have reached
+an unprecedented level of international interest and the initiators of the NETmundial event
+should be thanked for providing the opportunity for serious discussions on this topic.
+The time between NETmundial and the WSIS +10 constitutes a rare window of
+opportunity to build up a common governance framework that our increasingly connected
+societies need in the 21st century.
+We hope this contribution will help participants in NETmundial map the way forward in an
+efficient and productive manner.

@@ -1,0 +1,141 @@
+Nominet submission on Internet Governance Principles and
+the Roadmap
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Lesley Cowley
+Region: UK
+Organization: Nominet
+Sector: Private Sector
+Keywords: principles, governance, roadmap, multistakeholder, safeguards
+Abstract
+We make some general comments about the development of principles and then look at
+the roadmap for the evolution of the Internet governance ecosystem from the viewpoint of
+a ccTLD. We look briefly at the advantages of the multi-stakeholder model and at the
+need to identify and develop consensus on the objectives for the ecosystem. We identify a
+key step in the further globalisation of ICANN and the IANA is in the development of
+accountability and trust in the model and suggest some practical considerations that
+should be addressed by the roadmap.
+Document
+Set of Internet governance Principles
+We welcome the discussion on the development of a coherent set of international
+principles for the Internet. Such work should, where possible, use existing international
+principles and agreements, and not seek to apply a special framework for the Internet that
+could not be justified in the physical world.
+Similarly, we should not seek to establish international Internet governance principles for
+issues where there is already an accepted framework for such discussions.
+Any framework of principles should be at a sufficiently high level and should be
+appropriate for international applicability: we should not try to solve national or regional
+issues through an international framework. A framework of principles needs to reflect true
+global consensus.
+In particular, principles should not include what would more appropriately be addressed
+by guidelines, which are operational decisions, or which are too detailed or specific: this
+could constrain innovation and the framework would quickly become outdated.
+This may lead to a limited number of agreed principles. However, if they are genuinely
+agreed, accepted and adopted, this will provide a better framework to guide the
+development of the Internet, and of Internet governance, than a longer or more detailed
+list that is mainly ignored.
+Roadmap for the Further Evolution of the Internet Governance Ecosystem
+We endorse the importance of multi-stakeholder engagement, which received global
+recognition through the WSIS process and which continues to provide a successful
+framework for the development and growth of the Internet. Since Tunis there has been
+considerable progress to improve and broaden engagement, and the model has
+underpinned the rapid uptake of the Internet and the work done in tackling barriers to
+Internet access.
+We recognise that further work needs to be done to continue to improve engagement.
+The multi-stakeholder model continues to evolve in response to the changing Internet
+environment. The many organisations responsible for essential tasks associated with the
+Internet have developed engagement strategies appropriate to their needs, ensuring the
+greatest benefit from the partnership and cooperation relevant to their specific
+circumstances. We believe that the multi-stakeholder model will continue to develop and
+adapt to the changing Internet environment, but would caution against identifying a single
+model as the “correct” approach for all situations or all organisations: one size does not fit
+all.
+The Internet Governance Forum, perhaps the most successful output from the WSIS
+process, continues to play a vital role in improving understanding of issues associated
+with the Internet. Those who have engaged actively in the IGF benefit from their
+involvement through the wealth of knowledge and support that their involvement unlocks:
+sharing information about good practice and solutions that have worked is an effective
+way of capacity building.
+Again, we recognise the need for the IGF to continue to develop to respond to real
+interests and needs: we believe that the IGF has shown remarkable ability to evolve over
+the relatively short period it has been in existence. This has been driven by the
+participants themselves and we welcome an approach that focuses on user needs and
+interests to shape the development of the IGF model.
+We recognise the need for a roadmap for the further evolution of the Internet governance
+ecosystem and, in particular to maintain and develop global engagement and
+accountability. In particular, we welcome the reaffirmation in the I* Montevideo
+Communiqué, to accelerate the globalisation of ICANN and IANA functions towards an
+environment in which all stakeholders participate on an equal footing.
+As noted above, the multi-stakeholder model to addressing the management of key
+Internet functions has shown itself as successful, resilient and open to evolution and,
+since the WSIS Tunis Agenda, it has developed significantly. However, we also
+recognise the importance of ensuring clear accountability between the organisations
+responsible for the essential tasks associated with the Internet and the communities that
+they serve. This is a vital step in the development of improved globalisation.
+In particular, we would note ICANN’s Affirmation of Commitment with the US
+government: the introduction of a regular review process was a major step towards
+increasing internationalisation of the organisation by making ICANN directly accountable
+to all its stakeholders.
+The US Government currently does appear to have the final say, should ICANN not
+maintain reasonable processes of accountability and responsibility. A clear process to
+ensure that ICANN does meet its obligations is needed: we would be concerned if there
+were ambiguity about the legal jurisdiction for the company, given the policy, operational
+and contractual functions that it exercises.
+We would welcome wider engagement in the AoC processes as an important step in
+developing this clear accountability.
+We would also note the importance of improving stakeholder engagement between
+communities in ICANN. In particular, the role of the Governmental Advisory Committee
+and the way it works with other parts of ICANN needs to be addressed by the GAC in
+discussion with the wider community of stakeholders in ICANN.
+The IANA function, carried out under contract to the US Government, is of particular
+importance to Nominet as a country-code top-level domain registry and, in the future, as a
+geographic community gTLD registry. Our interest is in that part which looks after the
+management of changes to the root-zone file. This is essentially an administrative and
+technical function, based on policy developed elsewhere (in ICANN, the IETF or ISO).
+However, it is a vital function and needs to be managed very carefully.
+We were pleased to see the development of the current contractual arguments for the
+IANA. In particular we welcome the increased transparency of the process and the
+emphasis on the management of the IANA as a service introduced in the recent contract
+between ICANN and the US Government. We also welcome the increased automation in
+the operation of the process, which allows the registry maximum autonomy in the
+management of its TLD. This opens the way to a direct relationship with the national
+organisation, without the involvement of other parties.
+While current responsibility for the IANA is with the US Government, we would note the
+underlying commitment to the Tunis Agenda, and in particular to paragraph 63 that says
+that, “countries should not be involved in decisions regarding another country’s countrycode
+Top-Level Domain.” We would interpret this as meaning that only the country
+served by a ccTLD should be involved. (In most cases governments do not feel any need
+to be involved individually or collectively in the operation of their ccTLD. However,
+ccTLDs, along with many of the new geographically-focussed gTLDs, have the primary
+duty of serving their local community.)
+The circumstances associate with the IANA in relationship with ccTLDs does not lend
+itself to simple solutions – again, one single model does not fit all. There is ongoing work
+in ICANN on clarifying the policy basis for delegation and revocation of a ccTLD and this
+might provide a basic framework for administrative and technical decisions. This should
+make it easier to allow the manager of the IANA to be globally accountable for its
+stewardship and directly accountable to the registry and country in the case of a ccTLD.
+In summary, we believe that a roadmap should:
+· Identify and develop consensus on the direction of travel and objectives for the
+community for each of the organisations in the Internet governance ecosystem. This
+should include inter-governmental organisations like the ITU, as well as international
+organisations like ICANN and the RIRs. Multi-stakeholder engagement needs to be seen
+as the main process for developing and maintaining accountability, relevance and
+appropriate decision making.
+· For the IGF, the processes of accountability and for developing the model are
+already in place and generally effective. Attention needs to be given to increasing
+engagement in the IGF and encouraging the development of national and regional
+structures to support this. Improving the funding model also needs to be a major priority.
+· For ICANN, the basis processes for assuring wider accountability and transparency
+have been put in place in the Affirmation of Commitments. Widening ownership of, and
+engagement in, this process is important. Similarly, ensuring better processes for
+reaching consensus (while recognising the specific interests, responsibilities and
+accountability of different stakeholders) will be needed as we move forward, especially
+given the massive increase in the number of contracted parties in ICANN and the
+continued growth in the number of other stakeholders who are becoming more interested
+and active in shaping the discussions.
+· For the management of the IANA, developing improved globalisation in the
+management of the root-zone file is not a trivial objective, given the different relationships
+that exist. The ccTLD community needs to be closely involved in this process to ensure
+national as well as global accountability. A first step needs to be to reach consensus on
+the policy framework for the delegation and revocation of ccTLDs, work currently
+underway in ICANN’s ccTLD community in close cooperation with the GAC.

@@ -1,0 +1,47 @@
+Document
+
+The process of expansion and rapid growth of the Internet use by the private sector, governments, civil society organizations and an increasing number of people has raised new issues and challenges related to the protection of the civil and political rights and to the Internet development and access. Since the early 2000s laws and policies have been proposed, in a disorganized matter and without a clear reference, which most of the times lacked of knowledge on Internet basic features and operation. By then it was already evident the need of fundamental principles to properly address technical and political disputes between all stakeholders and to guarantee Internet quality, reliability and security for multiple kinds of users. In this context, CGI.br believed that it was crucial to establish essential and minimum standards to ensure, in the future, the free and open Internet use, as well as to allow continuous innovation, economic and political development, and the emergence of a culturally vibrant society.
+
+ 
+
+In order to do so, in 2009 the Brazilian Internet Steering Committee (CGI.br), after a period of two years of intense debate, adopted a resolution entitled "The principles for the Internet governance and use" (Resolution CGI.br / RES / 2009/003/P). Recently, these principles, which were the result of a multistakeholder dialogue process and were approved by consensus among the representatives of the various sectors in the Committee, have inspired national legislation (e.g. The Civil Rights Framework for the Internet) and have been subsidizing the debate on the need for Internet governance international principles. These principles are listed below. As we can see, they are sufficiently accurate and complete to enable Internet good governance:
+
+ 
+
+1. Freedom, privacy and human rights The use of the Internet must be driven by the principles of freedom of expression, individual privacy and the respect for human rights, recognizing them as essential to the preservation of a fair and democratic society.
+
+ 
+
+2. Democratic and collaborative governance Internet governance must be exercised in a transparent, multilateral and democratic manner, with the participation of the various sectors of society, thereby preserving and encouraging its character as a collective creation.
+
+ 
+
+3. Universality Internet access must be universal so that it becomes a tool for human and social development, thereby contributing to the formation of an inclusive and nondiscriminatory society, for the benefit of all.
+
+ 
+
+4. Diversity Cultural diversity must be respected and preserved and its expression must be stimulated, without the imposition of beliefs, customs or values.
+
+ 
+
+5. Innovation Internet governance must promote the continuous development and widespread dissemination of new technologies and models for access and use.
+
+ 
+
+6. Neutrality of the network Filtering or traffic privileges must meet ethical and technical criteria only, excluding any political, commercial, religious and cultural factors or any other form of discrimination or preferential treatment.
+
+ 
+
+7. Unaccountability of the network All action taken against illicit activity on the network must be aimed at those directly responsible for such activities, and not at the means of access and transport, always upholding the fundamental principles of freedom, privacy and the respect for human rights.
+
+ 
+
+8. Functionality, security and stability The stability, security and overall functionality of the network must be actively preserved through the adoption of technical measures that are consistent with international standards and encourage the adoption of best practices.
+
+ 
+
+9. Standardization and interoperability The Internet must be based on open standards that facilitate interoperability and enable all to participate in its development.
+
+ 
+
+10. Legal and regulatory environments The legal and regulatory environments must preserve the dynamics of the Internet as a space for collaboration

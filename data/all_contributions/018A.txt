@@ -1,0 +1,98 @@
+Submission by Government of Sweden on Internet
+Governance Principles
+Area: SET OF INTERNET GOVERNANCE PRINCIPLES
+Entitled by: Government of Sweden
+Region: Sweden
+Organization: Government of Sweden
+Sector: Government
+Keywords: Empowerment of Internet users; Universality of the Internet;
+Security of the Internet; Architectural principles; Open Internet;
+Doc Attached: Click here to see the doc 1
+Abstract
+Our core message: we must safeguard a free, open and secure internet and the
+globalmulti-stakeholder model for internet governance.A global agreement on the
+following core issues are intended to safeguard the open and secure internet,
+characterised by freedom and innovation without restrictions, continuously developing
+through a global multi-stakeholder model for internet governance, with the purpose to
+ensure continued productivity and global economic growth, social prosperity and benefits
+for all.
+Document
+Human rights and the rule of law
+The same rights that people have offline must also be protected online.
+Freedom of expression is a cornerstone in a democratic society and its full enjoyment on
+the Internet is of paramount importance. The right to share opinions on the Internet forms
+an essential part in increasing individuals’ ability for effective participation in public as well
+as private discourse.
+Internet governance arrangements must ensure the protection of all fundamental rights
+and freedoms and affirm their universality, indivisibility, interdependence and interrelation
+in accordance with international human rights law. They must also ensure full respect for
+democracy and the rule of law and should promote sustainable development. All public
+and private actors should recognise and uphold human rights and fundamental freedoms
+in their operations and activities, as well as in the design of new technologies, services
+and applications. They should be aware of developments leading to the enhancement of,
+as well as threats to, fundamental rights and freedoms, and fully participate in efforts
+aimed at recognising newly emerging rights.
+The rule of law must be the foundation for legislation and normative development for all
+conduct online. States must ensure full compliance with their obligations under
+international law.
+Government surveillance of electronic communication must be carried out with respect for
+human rights at all times and in line with a body of fundamental principles including
+legality, legitimate aim, necessity, proportionality, judicial authority, transparency and
+public oversight.
+Multi-stakeholder governance
+The development and implementation of Internet governance arrangements should
+ensure, in an open, transparent and accountable manner, the full participation of users,
+civil society, the private sector, the technical community and governments. The
+development of international Internet-related public policies and Internet governance
+arrangements should enable full and equal participation of all stakeholders from all
+countries.
+Responsibilities of states
+States have rights and responsibilities with regard to international Internet-related public
+policy issues. In the exercise of their sovereignty rights, states should, subject to
+international law, refrain from any action that would directly or indirectly harm persons or
+entities outside of their territorial jurisdiction. Furthermore, any national decision or action
+amounting to a restriction of fundamental rights should comply with all obligations in
+international law and in particular be based on law, be necessary in a democratic society
+and fully respect the principles of proportionality and the right of independent appeal and
+surrounded by appropriate legal and due process safeguards.
+Empowerment of Internet users
+Users should be fully empowered to exercise their fundamental rights and freedoms,
+make informed decisions and participate in Internet governance arrangements, in
+particular in governance mechanisms and in the development of Internet-related public
+policy, in full confidence and freedom.
+Universality of the Internet
+Internet-related policies should recognise the global nature of the Internet and the
+objective of universal access. Policies should not adversely affect the unimpeded flow of
+transboundary Internet traffic.
+Security of the Internet
+The security, stability, robustness and resilience of the Internet as well as its ability to
+evolve should be the key objectives of Internet governance. In order to preserve the
+integrity and ongoing functioning of the Internet infrastructure, as well as users’ trust and
+reliance on the Internet, it is necessary to promote national and international multistakeholder
+co-operation.
+Security concerns must be addressed from a growth- and freedom-oriented, participative,
+bottom-up perspective that has human rights at its core. Security and freedom should be
+seen as mutually reinforcing concepts, not as a balancing act.
+Decentralised management
+The technical community as well as the private sector should retain their leading role in
+the day-to-day management of technical and operational matters in the management of
+the Internet, decentralised in character.
+Architectural principles
+The open standards and the interoperability of the Internet as well as its end-to-end
+nature should be preserved. These principles should guide all stakeholders in their
+decisions related to Internet governance. There should be no unreasonable barriers to
+entry for new users or legitimate uses of the Internet, or unnecessary burdens which could
+affect the potential for innovation in respect of technologies and services.
+Open Internet
+Users should have the greatest possible access to Internet-based content, applications
+and services of their choice, whether or not they are offered free of charge, using suitable
+devices of their choice. Traffic management measures which have an impact on the
+enjoyment of fundamental rights and freedoms, in particular the right to freedom of
+expression and to impart and receive information regardless of frontiers, as well as the
+right to respect for private life, must meet the requirements of international law on the
+protection of freedom of expression and access to information, and the right to respect for
+private life.
+Cultural and linguistic diversity
+Preserving cultural and linguistic diversity and fostering the development of local content,
+regardless of language or script, should be key objectives of Internet-related policy and
+international co-operation, as well as in the development of new technologies.

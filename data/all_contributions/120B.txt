@@ -1,0 +1,104 @@
+Context
+The Internet technical community consists of individuals and organizations from around the
+world that understand the global Internet as a complex interaction of technology, standards,
+implementation, operation and application. They bring this expertise when working with
+governments, national and international organizations, educational institutions, civil society
+organizations, and private sector entities to maintain a technically viable Internet that can also
+respond to societal needs. While participants have a wide range of missions and roles to play,
+the Internet technical community shares a common culture that is grounded in a clear
+understanding of the unique technical characteristics of the Internet. These
+characteristics are essential to the Internet’s past, present, and future success as a platform
+for advancing the economic and social well-being of all of its users.
+In a remarkably short period of time, the Internet has evolved from a research effort to test the
+then-new theories of computer networking to a powerful, pervasive, and now indispensable
+tool for global communication, business innovation, government, social networking and the
+activities of daily life. Even those who were responsible for the technical choices that provided
+the foundation for that evolution have different perspectives on how much of today's Internet
+and its impact were anticipated and intentional, and how much was fortunate and
+unplanned. Regardless of how this history is interpreted, many of the early technology and
+architecture choices that created the Internet that we know today were made as integral,
+original elements of the network itself. They remain essential to the Internet as a complex,
+multi-dimensional system. In particular, the network operates with only the minimal central
+authority required for essential coordination, allowing for the autonomy and growth of
+constituent networks.
+To avoid compromising the Internet’s technical core functions and processes, the policy
+debates of Internet governance would benefit from being informed by the experience and
+insight of those who have been directly responsible for developing and operating it. The
+principles that have promoted and sustained the development of the Internet since its
+inception — the open and inclusive process for developing Internet protocols and standards,
+the impartial stewardship of Internet naming and addressing resources, and the decentralized
+cooperation and collaboration of network operators around the globe — are the Internet
+technical community's critical contribution to these debates.
+The Internet technical community is an indispensable stakeholder and contributor to the
+global Internet governance dialogue. The organizations and individuals in this community have
+had over four decades of cumulative experience in creating, improving, deploying, and
+managing the Internet in almost all countries of the world, under a wide variety of legal,
+administrative, and regulatory regimes. We are concerned that the technical viability of the
+global Internet is at risk unless the current Internet governance discussions lead to a
+consensus that preserves the essential principles that have contributed to making the Internet
+we have today.
+The impact of different governance regimes on the Internet as a robust and remarkably
+generative connectivity infrastructure may not be evident to those who are not familiar with its
+history, do not have an expert understanding of its technology, or have not had direct
+experience with its deployment and operation. As a contribution to the global Internet
+governance dialogue, the following recommendations are made by individuals and
+organizations to whom, by virtue of their involvement in the technical development and
+deployment of the Internet those potential impacts are evident.
+Recommendations
+The openness and transparency of Internet policy and technical development processes are
+intrinsic to the success of the Internet itself, which depends on a global and interoperable
+fabric of information and communications technology and the people who operate and use it.
+We recognize that the multi-stakeholder model of decision-making, articulated around the
+following principles and practices, has proven to be the most effective model of governance for
+the Internet’s technical development, and has the potential to enhance and reinforce future
+Internet evolution:
+A. Open and inclusive participation: Participation in Internet technical
+development and operation, including technical standards development and allocation
+of the Internet number resources, is open to all interested and informed parties. This
+has been key for the Internet’s success. Participation of all interested and informed
+stakeholders in governance processes is necessary to ensure that outcomes are
+accepted as legitimate and that solutions are effective.
+B. Consensus-based: The development of Internet technical standards and
+processes is done on the basis of open consensus. This allows for all views to be
+considered, and agreement to be found across a range of interests. Internet
+governance decisions should also be grounded on open, transparent, and collaborative
+work. Policy-making processes should be informed by individual and collective
+expertise and practical experience, and decisions should be arrived at by open
+consensus rather than as a result of a voting process.
+C. Permission-less innovation: The remarkable growth of the Internet, the
+fostering of innovation and its uses follows directly from the open model of Internet
+connectivity and standards development. No central authority should be established, as
+part of any future Internet governance arrangement that would constrain or regulate the
+ability of individuals or organizations to create and use new standards, applications, or
+services.
+D. Collective stewardship and empowerment: Strong notions of equity and
+fairness among participants mark the technical development of the Internet. The
+success of Internet development and operation is secured by the recognition of
+respective roles and responsibilities by Internet community members who cooperate,
+respectful of each organization’s autonomy, integrity, and processes. To ensure the
+continued security, stability, and resilience of the Internet, governance structures and
+principles must be developed in an environment of strong cooperation among all
+stakeholders, each contributing a perspective informed by their respective roles and
+responsibilities.
+E. Transparency: Internet technical standards bodies and operating entities function
+in a transparent way. They provide advance public notice of proposed activities, which
+describes the scope of work to be undertaken and the conditions for participation. The
+principle of transparency assures that all interested stakeholders can directly observe
+the work being done and have access to its results.
+F. Pragmatic and evidence-based approach: In the technical world, solutions
+are chosen and defined based on technical merit, judged according to the collective
+expertise of all participants. Processes are driven by the ability to devise practical
+solutions to concrete problems, based upon informed discussion. We observe that lack
+of clarity in emerging issues in Internet governance results in incomplete agreement
+about how to address the problem. In this spirit, Internet governance discussions and
+debates must be informed by and depend upon objective and empirical information.
+G. Voluntary adoption: Internet standards and processes are voluntarily adopted by
+network operators, equipment manufacturers, and other infrastructure participants, and
+their success is determined in the marketplace. In the realm of Internet technical policy
+development, the principle of voluntarism means that success is determined by users
+and the public at large rather than by any central authority.
+As the Internet evolves in the future, its continued security, stability, accessibility and
+usefulness will grow to be even more important to support most critical aspects of human
+activity. The above recommendations are our contribution to this effort, based upon the
+Internet technical community’s long term and intensive involvement in the technical
+development, deployment and operation of the Internet.

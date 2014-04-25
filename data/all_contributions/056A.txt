@@ -1,0 +1,96 @@
+ETNO contribution to NetMundial
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Caroline Greer
+Region: Belgium
+Organization: ETNO [European Telecommunications Network Operators'
+Association]
+Sector: Private Sector
+Keywords:
+Abstract
+ETNO, a leading European trade association representing forty of the largest electronic
+communications operators, welcomes the opportunity to provide input to the NetMundial
+meeting. The Brazil gathering is an excellent occasion to bring together all actors in the
+Internet governance space to discuss how best we can evolve the global governance
+model for the benefit of all, by building on its existing foundations and without endangering
+its growth, resilience and stability. We find it extremely encouraging that this debate will
+be based on a multi-stakeholder approach and will be held in an open and transparent
+manner, and we applaud the Brazilian Government for its leadership in organizing this
+meeting. Having been actively involved in the Internet governance debate across many
+different fora for many years, ETNO looks forward to contributing to this particular
+discussion.
+Document
+Internet Governance Principles
+ETNO fully supports the move towards a universal set of principles on Internet
+governance and for the NetMundial conference to address such an initiative.
+The process to conclude such a framework will undoubtedly be complex, as such
+principles may reflect values and values across different cultures tend to vary, however
+we see the process of developing a global set of principles as being an important step
+towards understanding the various stakeholderneeds and issues that we see emerging
+today. Although many argue that there can be no one global framework for the Internet
+nor one defined set of rules/norms, it is also the case that this lack of a normative
+reference architecture also significantly weakens any arguments against certain
+behaviours and can frustrate any debate around how to move forward with improvements.
+As constituents in different parts of the world grapple with current policy issues, different
+answers may emerge depending on different reference frameworks. One of the goals of
+the Brazil meeting should be recognition that these principles should be shared and
+considered as common principles by all stakeholders of the meeting.
+ETNO believes that NetMundial should build on work that has been carried out by
+organisations such as the OECD and the European Commissionbut that the primary focus
+in Brazil should be on establishing Principles for the Governance of the Internet
+as opposed to General Internet Principles. This is an important difference that we wish to
+underline. Moreover, ‘few rather than many’ principles should be the guideline, if
+NetMundial wishes to see success and acknowledging the complexity of the task that we
+have before us. Global consensus on Internet Governance principles will be critically
+important for the restoration of trust and confidence of Internet users and to allow for the
+continued growth of the Internet.
+Against this background, ETNO suggests the following as guiding Internet governance
+principles:
+1. The global Internet governance modelshould involve all necessary stakeholders
+on an equal footing and in accordance with their respective roles. Reflecting the
+societal importance of the Internet, it is recognised that Governments have a role,
+as representatives of society, in the elaboration of Internet public policy.
+2. Internet Governance processes should be transparent, inclusive and accessible and
+all actors must be held accountable for their decisions.
+3. The Internet should be economically sustainable, interconnected, safe, resilient and
+secure.
+4. Respect for human rights and fundamental principles, such as privacy and security,
+are of paramount importance and the same rule of law should apply online as it
+does offline.
+Further Evolution of the Internet Governance Model: Roadmap
+ETNO believes that the roles and responsibilities of each participating Internet
+governance organisation and process should be made clear and, to the greatest extent
+possible, not be over-lapping. No one governance body should be seen as competing with
+another and all parts can be equal in contributing to the global Internet governance
+debate. We should have the ambition to have a system that clarifies which organisation
+has the authority to act on which subject matter, or which organisations collaborate with
+each other, and we believe this to be an important step in the roadmapping process.
+We also draw attention to the the European Commission’s plans to launch the Global
+Internet Policy Observatory (GIPO), which will serve as a valuable resource on Internet
+policy/regulation, actors and and technology, and better enable emerging economies in
+particular to engage on Internet governance and policy matters.
+Democratically-elected governments are the representatives of the people and therefore
+their role in the development of public policy must be recognised. When it comes to high
+impact public policy issues such as the protection of privacy and the security of Internet
+users, Governments arguably have a leading role to play in navigating the debate with
+their citizens. However, in other areas such as standards setting and the development of
+technical protocols, the private sector should continue to take the lead. The checks and
+balances for such a governance model should come from a multi-stakeholder
+accountability mechanism for all actors involved in any decision making process.
+Whilst the US Government’s oversight of the IANA functions has been a suitable model to
+date, ETNO believes that the ever increasing globalization of the Internet needs to be
+reflected in appropriate governance mechanism and institutions. A central part of that
+debate between all relevant stakeholders needs to be the question around whether the
+IANA functions should continue to be subject to an US Government procurement contract.
+ETNO very much welcomed the Montevideo Statement on the Future of Internet
+Cooperation which calls for “accelerating the globalization of ICANN and IANA functions,
+towards an environment in which all stakeholders, including all governments, participate
+on an equal footing.” As such, we believe this to be an important topic for discussion in
+Brazil. Notwithstanding the need to consider a new model, ETNO also recognises the
+importance of continuing to ensure the stability and security of the Internet and the need
+for any alternative options to guarantee same.
+Finally, and as business representatives, our primary interest is be to ensure that no new
+barriers to the growth of the Internet as a global platform for economic and social
+development are introduced as a result of the NetMundial discussions. Any outcomes of
+the Brazil meeting should seek to foster the continued development of the Internet and
+recognise its dynamic nature.

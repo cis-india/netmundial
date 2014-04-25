@@ -1,0 +1,235 @@
+Towards an open, free and robust Internet for the future
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Walid Al-Saqaf
+Region: Yemen
+Organization: ISOC-Yemen
+Sector: Civil Society
+Keywords: robust, strong, open, safe, transparent, resilient, free, future
+Abstract
+In order to keep the Internet free, open and robust, we believe in a vision that maintains a
+strong multistakeholder approach that takes into account representations from diverse
+sectors of the world community. We believe in an approach that keeps the Internet as a
+network with a global mission and a global perspective without jeopardizing security and
+privacy of its users. Hereby, we present the points that we feel strongly about for Internet
+governance principles and the road-map for the future.
+Document
+March 5, 2014
+1) Internet Governance Principles
+ISOC-Yemen and ISOC-BD welcome the opportunity to participate in the Global
+Multistakeholder Meeting on the Future of Internet Governance. As organizations
+concerned with expanding Internet access and promoting a strong, open and resilient
+Internet, we rely on an open, stable, secure, resilient, and interoperable Internet every
+day. We believe that preserving the multistakeholder model of Internet governance is
+essential to ensuring that global citizens are able to take advantage of this transformative
+platform both now and in the future.
+Below we highlight some high level principles for Internet governance going forward. We
+believe that these principles will both allow the global Internet community to preserve the
+open Internet for the billions who currently rely on it in their daily lives, and bring its
+advantages to the 5 billion people who are presently unconnected.
+Substantive Principles: Any Model of Internet Governance Should Promote the
+Following Principles.
+? The world deserves the access to knowledge, services, commerce, and communication,
+the accompanying benefits to economic development, education, and health care, and the
+informed discussion that the Internet provides. Governance should promote expanding
+access to broadband networks so that these benefits can reach all of the world’s
+citizens.
+? The Internet’s importance as a platform for commerce, for education, for information and
+knowledge sharing, for self-expression, and for organization and assembly, depends on
+the global free flow of information. Any model for governance must promote this free flow
+of information.
+? Governance should promote the ability to innovate, to develop technical capacity, and to
+create and take advantage of economic opportunities. To achieve this end, any model of
+Internet governance must promote the open, distributed, interoperable, and
+interconnected nature of the Internet.
+? Because the Internet is an integral part of the global economy, its security, stability, and
+resiliency must be preserved.
+? Individuals should be able to exercise their human rights, both online and offline.
+? Governments should recognize limitations on their ability to collect information on
+Internet users based on users’ reasonable privacy interests and the impact on trust in the
+Internet.
+Governance Principles: Any Model of Internet Governance Should Have the
+Following Characteristics.
+? All stakeholders -- individual users, governments, civil society, businesses, and
+members of the academic and technical community -- have a stake in preserving the
+Internet as a critical platform for communication and information exchange, and therefore
+all stakeholders should be included in governance decisions. All of these stakeholders
+have contributed to the development of the Internet to date, and working together, they
+have driven unprecedented growth in access to, uses of, and innovation on the Internet.
+They must continue to be involved in any future model of Internet governance.
+? Any policy-making associated with the Internet must promote openness, transparency,
+and accountability, and must be grounded in respect for the rule of law.
+2) Roadmap for the Further Evolution of the Internet Governance Ecosystem
+Introduction
+ISOC-Yemen and ISOC-BD thank the Brazilian government, CGI.br, and the Executive
+Multistakeholder Committee for the opportunity to participate in the Global
+Multistakeholder Meeting on the Future of Internet Governance. The Internet and the
+World Wide Web have generated an unprecedented explosion in commerce and
+creativity. According to a May 2011 study by the McKinsey Global Institute (“Internet
+Matters: The net’s sweeping impact on growth, jobs, and prosperity”), nearly eight trillion
+dollars of online commerce occurs each year through e-commerce. The same report
+states that the Internet accounts for 21 percent of gross domestic product growth in the
+last five years in mature countries, and that the benefits are not reserved for Internet
+companies – in fact, 75 percent of Internet economic impact benefits companies that are
+not pure Internet players.
+A March 2012 report by the Boston Consulting Group – entitled “The Internet Economy in
+the G-20: The $4.2 Trillion Growth Opportunity” – provides policy makers more data
+about the impact of the Internet on economic growth and job creation. According to the
+report, Internet-savvy small- and medium-sized enterprises (SME) across eleven of the G-
+20 countries have experienced 22 percent higher revenue growth over the last three years
+than comparable businesses with no Internet usage. The report also found that SMEs
+that have an Internet presence generate more jobs. In Germany, for example, 93 percent
+of companies that were heavy users of the Internet and web services increased
+employment over the past three years, compared with only 50 percent of their offline
+competitors.
+Despite the significant positive impact of the Internet on the world’s economy, this
+transformative technology stands at a crossroads. Some governments want to replace
+the existing multi-stakeholder model of Internet governance, through which governments,
+civil society, industry, the engineering community, and users all recognize a shared
+responsibility and role in the continued advancement of the Internet. These governments
+instead are advancing a regulatory approach that strengthens their role at the expense of
+other stakeholders -- effectively excluding those who have conceptualized, built, operated,
+and contributed to the Internet’s success.
+The entire Internet community -- including governments, businesses, civil society,
+academic and technical experts, and individual users -- must continue working together if
+we want the Internet to remain an open, vibrant platform for innovation, growth, and the
+free exchange of ideas, and if we want to expand the reach of this technology to those
+who remain unconnected.
+Issue Statement
+In recent years, some governments have argued that a multilateral, rather than a
+multistakeholder, model for Internet governance would better serve public policy
+objectives. The multi-stakeholder model approach to Internet governance and technical
+management has allowed the Internet to grow and flourish into the critical global platform
+it is today, and we believe it will continue to best serve Internet users far into the future.
+However, there are two main challenges before us. The first challenge is ensuring the
+Internet governance model continues to evolve in a manner that allows all stakeholders to
+have a voice in critical policy discussions. The Internet is expected to serve 90-95% of
+the world’s population by 2030. Uses of the Internet continue to grow and diversify.
+Second, all actors have a common interest in the security, stability, and interoperability of
+the overall infrastructure. However, no one actor or organization has the capacity to
+address all of the various public policy and technical issues impacting the Internet and its
+users. Further to this point, Internet technology and the ways in which people use the is
+advancing at such a rapid pace that any regulation imposed on the system would never
+be able to keep up and remaining effective over the long term. This means the rubric of
+organizations that currently make up the Internet governance process are both
+multifaceted and narrow in mission and scope and also nimble in order to meet both the
+demands of today and the needs of tomorrow. Therefore, no one organization can
+address or should address every concern related to global Internet policy. While this
+arrangement creates resiliency and brings needed expertise to any decision, it can be
+confusing to navigate. Therefore, the current governance structure could do a better job
+in assisting stakeholders in navigating the various organizations and entities that address
+particular issues.
+Existing Internet Governance Bodies or Fora Tackling These Issues
+Because Internet governance is multifaceted -- spanning technical, political, and policy
+issues -- there is no single organization that manages or has jurisdiction over all Internet
+governance questions; instead, the Internet’s policies and protocols have rapidly evolved
+through a set of diverse organizations. Together, a robust set of multistakeholder Internet
+institutions, each with different core functions and strengths, address nearly all Internet
+policy and technical issues.
+A few such examples include:
+? The Internet Engineering Task Force (IETF), which develops global standards and
+protocols;
+? The Internet Corporation for the Assignment of Names and Numbers (ICANN), which
+manages the global system for Internet naming, numbering, and addressing;
+? The Internet Governance Forum (IGF), which brings together academia, governments,
+civil society, and industry as a means of fostering the discussion or critical Internet issues;
+and
+? The Internet Society (ISOC), to which we as chapters are affiliate, a technical
+organization, which seeks to promote the open development, evolution, and use of the
+Internet for the benefit of all people throughout the world.
+The above are a few examples of the high-level organizations whose missions cover a
+wide range of technical and policy issues; however, because of the Internet governance
+process’ inherent flexibility, it is able to adapt to the changing Internet environment. In
+several situations, issue-specific organizations have developed over time to address key
+Internet issues. A few examples include:
+? The Messaging, Malware and Mobile Anti-Abuse Working Group (MAAWG), which is a
+global member-driven organization that works collaboratively to address various forms of
+messaging abuse (such as spam, viruses, denial-of-service attacks and other messaging
+exploitations) through industry collaboration, technology, and public policy initiatives;
+? The Forum for Incident Response and Security Teams (FIRST), which brings together a
+variety of computer security incident response teams from government, commercial, and
+educational organizations and aims to foster cooperation and coordination in incident
+prevention, to stimulate rapid reaction to incidents, and to promote information sharing
+among members and the community at-large; and
+? Global Computer Incident Response Teams (CERTs), which are global organizations
+responsible for leading efforts to improve cybersecurity online, coordinate cyber
+information sharing, and proactively manage cyber risks.
+When a cyber incident occurs, it often happens in real time and across borders and the
+response needs to be coordinated and immediate, which is why the inherent flexibility
+within the Internet governance process is so critical. The attacks may be sophisticated,
+and require special subject-matter expertise to understand and counter. Global
+cybersecurity mandates imposed through governments are not an effective response to
+the dynamic threats posed by cyberattacks. Cybersecurity attacks such as the Conficker
+Botnet or the Stuxnet Virus required private sector actors, academic researchers,
+governments and NGOs to work together in close coordination to combat these attacks.
+As Internet policy discussions become more global in nature, we believe stakeholders
+should continue to rely on the existing structures to develop global policies that benefit all
+users rather than relying on either the creation of another governance body or on
+multilateral means.
+Areas for Improvement
+As is demonstrated above, there are numerous organizations that manage Internet policy
+and technical issues. The Internet community does not lack for places to discuss key
+Internet policy and governance questions. Rather, a critical concern voiced by some
+stakeholders is that the rubric of organizations and overlapping missions is confusing and
+difficult to navigate without considerable time and effort. While these concerns are valid,
+they do not necessarily counsel in favor of directing all Internet policy discussions into one
+body. Rather, we must find a way to take advantage of the richness of the ecosystem
+while making it easier to navigate, especially for new entrants.
+In that vein, we believe the definition of Internet governance that was coined in 2005 at
+the close of the World Summit on the Information Society (WSIS) in the Tunis Agenda is
+important to note:
+Internet governance is the development and application by Governments, the private
+sector and civil society, in their respective roles, of shared principles, norms, rules,
+decision-making procedures, and programmes that shape the evolution and use of the
+Internet.
+This definition, endorsed, at the time, by more than 180 governments, set the path for how
+stakeholders can engage in the Internet governance process. The cornerstones of the
+Tunis Agenda mirror the decentralized, open, and collaborative nature of the Internet itself:
+? Multilateral: There is no single entity “in charge” of Internet governance. Instead,
+governments, industry, and civil society work together.
+? Transparent: Policy processes should be open and clearly articulated to all.
+? Democratic: The development of Internet governance arrangements should enable full
+and equal participation of all stakeholders. Unlike traditional intergovernmental processes
+that put strict limits on what can be on the agenda, Internet governance issues are raised
+from the bottom-up and solved through self-organizing, consensus-driven arrangements.
+It is incumbent on participants within the current governance model to bring new
+stakeholders whose voices may not be effectively heard into the conversation.
+? Increased outreach, capacity building and training for regulators. While many if not all
+of the technical meetings are inclusive of all participants, the majority of the meetings
+historically have taken place in the developed world and their processes can be difficult to
+grasp as a newcomer. We applaud recent efforts undertaken by the IETF and ISOC at
+increasing the global reach of their meetings as well as offering fellowships to engineers
+and policymakers from the developing world. We would support similar efforts in this
+space in other fora as these present important opportunities to engage thought leaders
+globally.
+? Increase and diversify newcomer sessions. International organizations should make it
+easier for newer participants to meaningfully engage in their processes. To do this, these
+organizations should offer training and newcomer sessions both at their physical meetings
+and remotely as a means of introducing more people to the organizations and
+encouraging them to participate in critical Internet governance debates.
+? Improve transparency and accountability. Multilateral organizations whose missions
+touch the Internet (e.g., UNESCO, OECD, UN, and ITU) should provide better
+transparency and accountability in their decision-making processes and how the overall
+decisions impact the Internet. All Internet governance institutions should strive to make
+relevant governance and policy documents available to all stakeholders at no
+cost.Participation in board and governance meetings of Internet governance organizations
+should be open whenever possible. For many participants, it is difficult and often costprohibitive
+to attend meetings in person. For that reason, Internet governance institutions
+should strive to improve remote participation opportunities.
+How These Improvements Address the Noted Concerns
+The suggestions above would serve three principal goals:
+? They will make the existing Internet governance institutions more accessible to new
+participants.
+? They will help all stakeholders in navigating the complex interplay between the various
+organizations that have a role in Internet governance
+? They will help ensure that all Internet governance institutions operate transparently and
+openly, facilitating meaningful participation, and accountability to all stakeholders.
+Conclusion
+We believe that the existing system of governance for the Internet is effective and
+inclusive, and for this reason, it should continue to be improved and reinforced. This
+bottom-up process dates back to the beginnings of the Internet, whose founders believed
+that openness would be more secure and encourage innovation. The Internet governance
+model allows for the representation of all stakeholders - governments, engineers,
+businesses, academics, and civil society – and ensures all participants to have a voice in
+the continued evolution and growth of the Internet.
+Walid Al-Saqaf of ISOC-Yemen & Jahangir Hossain of ISOC-BD

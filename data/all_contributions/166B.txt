@@ -1,0 +1,307 @@
+Document
+
+EBU position on net neutrality , on radio spectrum and on freedom of expression.
+
+ 
+
+I.NET NEUTRALITY
+
+ 
+
+The EBU supports a strong regulatory framework for net neutrality, reflecting the fact that the openness and non-discriminatory features of the Internet are key drivers for innovation, economic efficiency and safeguarding media freedom and pluralism. Thus, EBU and its members require the introduction of net neutrality provisions in the future Internet Governance Principles. The EBU :
+
+ 
+
+-Clearly recognizes that the open Internet is a key driver for innovation, economic efficiency but also for safeguarding media freedom and pluralism
+
+ 
+
+-Clarify the definitions of an “Internet access service” and a “specialised service” in order to guarantee a dynamic co-existence between these different services
+
+ 
+
+-Clarify the relationship between an “Internet access service” and a “specialised service”: the open Internet should remain the norm, not become the exceptionand specialised (managed) services cannot be offered by ISPs at the expense of the development of the open public Internet
+
+ 
+
+-Address the uncertainty regarding the rule on Assured Service Quality connectivity products
+
+ 
+
+-Strengthen and simplify the rule according to which no blocking nor throttling of content on the Internet is allowed
+
+ 
+
+-Improve transparency and facilitate monitoring by end-users
+
+ 
+
+1.Recognize that the open Internet is a key driver for innovation, economic efficiency but also for safeguarding media freedom and pluralism
+
+ 
+
+National regulatory authorities shall closely monitor and ensure the effective ability of end users to benefit the continued availability of non-discriminatory internet access services at levels of quality that reflect advances in technology and that are not impaired by specialised services. They shall, in cooperation with other competent national authorities, also monitor the effects of specialised services on cultural and linguistic diversity, media freedom and pluralism and innovation.
+
+ 
+
+The openness and non-discriminatory features of the Internet are key drivers for innovation, economic efficiency as well as safeguarding media freedom and pluralism and cultural diversity.
+
+ 
+
+    Clarify the definitions of an “Internet access service” and a “specialised service”
+
+ 
+
+"internet access service" means a publicly available electronic communications service that provides connectivity to the internet, and thereby connectivity between virtually all end points connected to the internet, irrespective of the network technology used; It enables end-users to run any application utilising an electronic communications network based on the best effort principle;
+
+ 
+
+ "specialised service" means an electronic communications service or any other service that provides the capability to access specific content, applications or services, or a combination thereof, and whose technical characteristics are controlled from end-to-end or provides the capability to send or receive data to or from a determined number of parties or endpoints. It is provided using the Internet Protocol and operated within closed electronic communications networks that rely on admission control. A specialised service is shall not be marketed or used as a substitute for internet access service;
+
+ 
+
+ End-users shall also be free to agree with either providers of electronic communications to the public or with providers of content, applications and services on the provision of specialised services operated in closed electronic networks with an enhanced quality of service.
+
+ 
+
+ Vertically integrated providers of electronic communications to the public shall not discriminate against traffic from providers of content, applications and services which provide contents, services  or applications competing with their own services or with services provided on the basis of exclusive arrangements.  
+
+ 
+
+ ISPs have clear incentives to engage in differentiation practices. Addressing the risk of anti-competitive arrangements and preventing new forms of traffic discrimination should stand out clearly in a provision aimed at safeguarding net neutrality. These risks are particularly high in case of vertically integrated companies, which have an obvious incentive to offer better access to their own content offers than those of others.
+
+ 
+
+    Clarify the relationship between Internet access services and specialised services 
+
+ 
+
+ EBU supports the principle that specialised services shall not impair Internet access services.
+
+ 
+
+The best effort open Internet should not be undermined by the development of specialised services or traffic with a guaranteed quality of service. The open internet should remain the norm, not the exception.
+
+ 
+
+The internet has developed over the past decades as an open platform for innovation with low access barriers for end-users, content and application providers and internet service providers.
+
+ 
+
+There is a need for clarity in the relationship between an Internet access service and a specialised service. The open Internet should remain the norm, not become the exception.  
+
+ 
+
+    Address uncertainty regarding the Assured Service Quality (ASQ) connectivity product
+
+ 
+
+ EBU wants to promote the availability of connectivity products with assured service quality (ASQ) that enable communication paths across network domains and across network borders both within and between States. IP interconnection agreements have developed so far without any significant regulatory intervention and that today’s arrangements reflect thebest effort principle and have so far been crucial for the Internet’s contribution to growth and innovation and for end-users to reach alldestinations on the Internet.
+
+ 
+
+    Strengthen and simplify the ‘no blocking/no throttling’ rule
+
+ 
+
+ The EBU points out that end-users are currently already free to enter into agreements on data volumes and speeds with providers of Internet access services. And so suggests that
+
+ 
+
+ Providers of internet access services shall not block, slow down, degrade or discriminate against specific content, applications or services, or specific classes thereof, except in cases where it is necessary to apply reasonable traffic management measures. Reasonable traffic management measures shall be transparent, non-discriminatory, proportionate and necessary to:
+
+ 
+
+a) implement a legislative provision or a court order, or prevent or impede serious crimes;
+
+ 
+
+b) preserve the integrity and security of the network, services provided via this network, and the end-users' terminals;
+
+ 
+
+c) prevent the transmission of unsolicited communications to end-users who have given their prior consent to such restrictive measures;
+
+ 
+
+d) minimise the effects of temporary or exceptional network congestion provided that equivalent types of traffic are treated equally.
+
+ 
+
+ Reasonable traffic management shall only entail processing of data that is necessary and proportionate to achieve the purposes set out in this paragraph.
+
+ 
+
+ Any blocking, slowing down or discriminatory practice against specific content, applications or services is not allowed except for the stated exceptions.
+
+ 
+
+ Any price discrimination or discriminatory conditions on volumes and data rates against specific content, applications or services should be prohibited. Reasonable traffic management measures should be transparent, proportionate and non-discriminatory. Reasonable traffic management encompasses prevention or impediment of serious crimes, including voluntary actions of providers to prevent access to and distribution of child pornography. Minimising the effects of network congestion should be considered reasonable provided that network congestion occurs only temporarily or in exceptional circumstances.
+
+ 
+
+Discrimination against specific content, applications or services can take various forms.
+
+ 
+
+5. Improve transparency and facilitate monitoring by end-users  
+
+ 
+
+EBU asks that providers of electronic communications to the public shall, save for offers which are individually negotiated, publish transparent, comparable, adequate and up-to-date information on:
+
+ 
+
+e) internet access services, where offered, specifying the following: 
+
+ 
+
+actually available data speed for download and upload in the end-user's State of residence, including at peak-hours; and the means for end-users to monitor at any moment the current available data speed for download and upload and a breakout of the actual delivered data speed during the contractual period;
+
+ 
+
+Speeds and traffic shaping should be verifiable and measurable for end-users. 
+
+ 
+
+II.            SPECTRUM
+
+ 
+
+    Recognize the role of spectrum for radio and TV broadcasting as well as States’ competence to safeguard cultural diversity and media pluralism
+
+ 
+
+The EBU suggests that the Internet Governance rules will take in account the need to use the radio electric spectrum primarily for public interest and in particular request to:
+
+ 
+
+-       Recognise the role of spectrum for radio and TV broadcasting as well as Member states’ competence to safeguard cultural diversity and media pluralism
+
+ 
+
+-       Take existing use of spectrum as well as the costs of vacating spectrum into account
+
+ 
+
+-       Address potential interference issues
+
+ 
+
+Radio spectrum is a public good and an essential resource for sectors and services including mobile, wireless broadband, satellite communications and TV and radio broadcasting. Development of wireless broadband communications contributes to the aim of securing access to broadband for all citizens and of providing citizens with the highest possible broadband speed and capacity.
+
+ 
+
+Currently, Digital Terrestrial Television (DTT) is the most popular means of receiving TV in the world. Its value must be referenced. So EBU requests to organise and use radio spectrum for public order, public security, defence purposes and to pursue general interest objectives, in particular with regard to audiovisual and media policies.
+
+ 
+
+In particular suggests to take account particular general interest objectives such as cultural diversity and media pluralism still apply.
+
+ 
+
+    Clarify the notion of “harmonised spectrum”
+
+ 
+
+"harmonised radio spectrum for wireless broadband communications" means radio spectrum for which the conditions of availability,  efficiency and primary use serves for electronic communications services other than broadcasting;
+
+ 
+
+The decision to allocate or harmonise radio spectrum is a political decision, so it has to guarantee that certain general interest objectives such as cultural diversity and media pluralism are taken into account.
+
+ 
+
+Coordination and consistency of rights of use for radio spectrum should be improved,  for the bands which have been harmonised for wireless fixed, nomadic and mobile broadband communications. This includes the bands identified at ITU level for International Mobile Telecommunications (IMT) Advanced systems, as well as bands used for radio local area networks (RLAN) such as 2.4 GHz and 5 GHz. It could also extend to bands harmonised in the future for wireless broadband communications
+
+ 
+
+    Take existing users of spectrum as well as the costs of vacating spectrum into account
+
+ 
+
+When determining the amount and type of radio spectrum to be assigned in a given procedure for granting rights of use for radio spectrum, the national competent authorities shall have regard to the following:
+
+ 
+
+(a) the technical characteristics and the current and planned use of different available radio spectrum bands,
+
+ 
+
+(b) the efficient use of the bands already granted to wireless broadband communications;
+
+ 
+
+(c) the nature of market demand justifying the assignment of additional spectrum for wireless broadband communications
+
+ 
+
+2. When determining whether to specify any minimum or maximum amount of radio spectrum, which would be defined in respect of a right of use in a given band or in a combination of complementary bands, national competent authorities shall ensure:
+
+ 
+
+(a) the most efficient use of the radio spectrum, taking into account the characteristics and the current and planned use of the band or bands concerned;
+
+ 
+
+3. National competent authorities shall ensure that the fees for rights of use for radio spectrum, if any:
+
+ 
+
+(a) appropriately reflect the social, cultural and economic value of the radio spectrum, including beneficial externalities;
+
+ 
+
+(b) take account of costs of vacating existing users of the radio spectrum, if any;
+
+ 
+
+(c) avoid under-utilisation and foster investment in the capacity, coverage and quality of networks and services;
+
+ 
+
+(d) avoid discrimination and ensure equality of opportunity between operators, including between existing and potential operators;
+
+ 
+
+EBU stress the fact that existing users of the radio spectrum needs have to be taken in account, while, very often, national authorities don’t consider the current use of spectrum before it is allocated/harmonised for wireless broadband.
+
+ 
+
+This has an impact on the costs of vacating spectrum and on a new interference situation which needs to be handled. There is no obligation imposed when defining the spectrum requirements in terms of the amount of radio spectrum to be assigned. Regulators should, for example, ensure that the spectrum already allocated to mobile services is used in an efficient way.
+
+ 
+
+Finally, it is important to also take into account the nature of actual market demand justifying the assignment of additional spectrum for wireless broadband communications. It cannot be assumed that more spectrum for wireless broadband is always the right answer to the need for more connectivity. For example, most media services are used indoors and it is more efficient to provide indoor coverage by means of fixed broadband combined with WiFi than by mobile networks, even though the services may be used on mobile and portable devices, such as smartphones and tablets. 
+
+ 
+
+    Address potential interference issues
+
+ 
+
+Very often national governments fail to adequately address situations where potential interference between different spectrum users may occur. So EBU suggests requiring national competent authorities for radio spectrum to take account of potential interference issues as a regulatory principle when establishing authorisation conditions and procedures for rights of use for radio spectrum. And so EBU requests that future global regulation will be able to prevent any harmful interference, including the possibility to impose obligations to solve cases of interference with other users of the radio spectrum and to cover the costs incurred.
+
+ 
+
+III.           Freedom of expression includes the right of world citizens to access contents in their own language and relevant for their own culture.
+
+ 
+
+"To promote a diverse media landscape that recognises the distinctive contribution to democracy by all three tiers of broadcasters – public service, community and commercial; to transform state and government media into public service media outlets with guarantees for full independence; including inserting this principle in the constitutions of societies in democratic transition"
+
+ 
+
+Media freedom and diversity of contents, which are essential elements of any democratic society, are both values embedded in the mission of the Public Service Broadcasting. One of the very purposes of the PSB is defined as being to contribute, in the field of broadcasting, to "enhancing the freedom and pluralism of the media, the free flow of information and ideas, and the free formation of opinions".
+
+ 
+
+For these reasons EBU strongly supports the immediate adoption in all countries in transition to democracy by their Constitutional Assembly of the principle of protecting media freedom and public service at Constitutional level.
+
+ 
+
+In this contest journalist safety plays an essential role in freedom of media and EBU fully support UNESCO pledge:
+
+ 
+
+"To continue to combat impunity, particularly by implementing the UN inter-agency Plan of Action on The Safety of Journalists and the Issue of Impunity; To continue to request States to report on the status of investigation of cases of violence against media personnel and others contributing to public interest journalism, and ensure the transparency of this reporting"

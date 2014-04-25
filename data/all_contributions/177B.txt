@@ -1,0 +1,327 @@
+Contribution from the ICANN Cross Community Working
+Group on Internet Governance
+Part I: Introduction
+The ICANN Cross Community Working Group (CCWG) on Internet Governance drafted
+this contribution using multistakeholder principles. The CCWG is an ad-hoc group
+comprised of members of ICANN’s Supporting Organisations (Address Supporting
+Organisation - ASO; Country Code Domain Name Supporting Organization - ccNSO;
+Generic Names Supporting Organization - GNSO) and Advisory Committees (At-Large
+Advisory Committee - ALAC; Governmental Advisory Committee - GAC; and Security
+and Stability Advisory Committee - SSAC) as well as GNSO Stakeholder Groups and
+constituencies. This bottom-up process involved up to five people from each of these
+groups that comprise ICANN’s volunteer community. The concepts expressed in this
+paper resulted from discussion on the CCWG’s mailing list, input provided through the
+CCWG Wiki space,1 and weekly conference calls from January - March 2014.
+Due to time pressures, the proposals expressed in this contribution have not yet been
+reviewed by the respective SOs, ACs and SGs of ICANN. They are therefore the
+opinions solely of the authors. Further communication will advise the NetMundial
+Organizing Committee if such ratification occurs before the meeting in Brazil.
+As the CCWG is commenting on ICANN, and on ICANN's role within the larger Internet
+Governance Ecosystem in preparation for a contribution to the NETMundial
+Conference, these comments should be viewed as preliminary and focused on the
+entities within the IG Ecosystem that we have been able to consider in the short
+timeframe for preparing this submission. It is possible that further collaboration may
+lead to changes and enhancements to the CCWG views.
+Part II: Internet Principles
+Declarations
+2.1 The ICANN multistakeholder, bottom-up, consensus-based model best serves
+the Internet community.
+A multistakeholder model allows all stakeholders – whether individual citizens,
+businesses, Internet Service Providers, intellectual property owners, governments,
+1
+https://community.icann.org/display/CPMMB/ICANN+Community+Preparation+for+the+Multistakeholder+
+Meeting+in+Brazil+Home
+intergovernmental institutions, registrars and registries, civil society organizations, or
+technical experts – to have a say in shaping the future of Internet governance.
+Because all members of the Internet community are affected by Internet governance,
+we should all contribute to its development. Moreover, the multistakeholder model has
+enabled and fostered the astonishingly rapid growth of the Internet as a critical platform
+for innovation, creativity, commerce, and the exchange of information and ideas. If we
+continue to refine and improve the multistakeholder model, we will ensure that the
+Internet continues to grow and flourish in the future. Again, within the multistakeholder
+model different stakeholders will take the lead on particular matters based on their
+competency and mandate, but transparency and dialogue are key to the success of
+multistakeholder processes.
+Within ICANN, the multistakeholder model works in a bottom-up, consensus-based and
+inclusive manner that lets every participant be heard and taken into consideration in the
+decision-making process. Most initiatives emerge in the communities of stakeholders
+and the ICANN Advisory Committees and are supported by ICANN staff. The public
+comment process plays a very important role for this model, not only because it gives
+transparency to the work done by the different communities and stakeholder groups,
+but because it provides the essential feedback loop that is key to bottom-up,
+consensus-based, multistakeholder governance.
+ICANN has continuously improved its multistakeholder model and should continue to do
+so. There should be no barriers for participation and outreach efforts should continue to
+include under-represented groups.
+Numerous other multistakeholder mechanisms exist. We offer two examples below:
+The Regional Internet Registries (RIRs) also use a multistakeholder model to manage,
+distribute and register Internet resources within their respective regions. There are five
+RIRs:
+? AFRINIC : Providing services in Africa
+? APNIC : Providing services in Asia Pacific
+? ARIN : Providing services in North America and the Caribbean
+? LACNIC : Providing services in Latin America and the Caribbean
+? RIPE NCC : Providing services in Europe, the Middle East and parts of Central
+Asia
+RIR Communities develop the policies for how resources should be delegated within
+their respective regions. The RIR Policy Development Processes are documented and
+are openly accessible by everyone. All policies, as well as the discussions that led to
+their developments, are documented and archived in the respective RIR web pages. In
+order to carry out their work, RIRs also support and work with technical communities
+that understand infrastructure issues first hand.
+The Internet Governance Forum (IGF) also exemplifies multistakeholder collaboration.
+It was created to be a space for policy dialogue, where participants from all stakeholder
+groups engage on an equal footing and have an equal opportunity to express
+themselves. The IGF mandate encompasses, among other things, facilitating the
+exchange of information and best practices, discussing public policy issues and
+dialogue among bodies and actors dealing with Internet governance, strengthening and
+enhancing the engagement of stakeholders, and contributing to capacity building. The
+creation of the IGF was important to the development of the Internet governance model,
+as it contributed to breaking down the silos among stakeholder groups, to the
+emergence of a common language and common terms that facilitated understanding,
+and to the identification of best practices that inspired concrete action at the regional
+and at national levels.
+2.2 The CCWG supports an Internet with a single root.
+A single root is needed to ensure global uniqueness regarding names in the namespace
+created by the delegated administration and allocation of unique names. Proposals by
+certain other organisations contemplate the possibility of shared or multiple roots. The
+CCWG believes that only a single root will guarantee global uniqueness and deter
+fragmentation of the Internet.
+2.3 The CCWG supports a unique Internet.
+The Internet is made up of hundreds of thousands of networks. These networks
+connect to each other thanks to a globally unique IP address space. Without this, the
+Internet would be fragmented. Only parties connected to the same IP based network
+with a globally unique IP address space can communicate with each other.
+2.4 The CCWG supports best practices that enhance Internet security.
+We support best practices that improve Internet security. For example, Domain Name
+System SECurity (DNSSEC) makes it possible for a person receiving a response from a
+DNS query to validate that the response is authoritative and that the signed data has
+not been changed during transport. However, these policies should be developed in a
+multistakeholder context with adequate input from all stakeholders, especially the
+technical experts, the business community and civil society, each of which play a key
+role in development and implementation of these best practices. Moreover, the
+participation of all stakeholders is important to ensure that measures designed to
+protect the security, stability, resiliency, and interoperability of the Internet do not get
+overly politicized.
+2.5 The CCWG supports transparency in Internet governance discussions.
+The CCWG supports transparency in Internet governance discussions. All discussions
+on aspects of Internet governance should be supported by full, inclusive and
+transparent consultation with all affected stakeholders.
+Part III: Future Evolution of the Internet Governance Ecosystem
+Roadmap Contributions
+3.1 Evolution of ICANN: principles by which ICANN should evolve.
+ICANN plays a key role in keeping the Internet operational, by managing globally
+unique identifiers. The Internet is a trans-border and shared resource, and ICANN
+should contribute to its stability, robustness and interoperability, acting in a way that is
+consistent with the common good. This means that ICANN should carry out its
+stewardship role “caring more for the good management, use and evolution of this
+shared resource than for any individual stake in it” (CERF at al., 2014).
+ICANN is deeply connected to the web of relationships among institutions and actors
+that are part of the Internet governance ecosystem. The functions it performs are
+fundamental to the work carried out by other organizations and, ultimately, to keeping
+the Internet running. This is a great responsibility and ICANN is constantly striving to
+improve its governance model to better carry out its mission. The recent launch of the
+Strategy Panels -- on ICANN Multistakeholder Innovation; on ICANN’s role in the
+Internet Organizations’ Ecosystem; on the Public Responsibility Framework; and on
+Identifier Technology Innovation -- demonstrate these efforts, as do the accountability
+and transparency reviews. ICANN seeks to keep evolving together with the Internet
+governance ecosystem.
+In order to ensure that this evolution happens in the best possible manner, some
+general principles need to be observed:
+? Evolution must be driven by the ICANN Community. ICANN has a unique
+multistakeholder model and a bottom-up process of decision-making. The
+evolution of the organization must be based on input from the community.
+ICANN’s board should perform its tasks in ongoing consultation with the
+community.
+? Evolution should support the participation of a broader range of actors from all
+sectors, especially those from developing regions.
+? Transparency and accountability are key to all actions by the ICANN Board,
+ICANN Staff, and the ICANN community.
+? Globalization plans for ICANN must be developed with stakeholder support and
+take into account impact on stakeholders.
+? Negotiations with the US Department of Commerce on the future of ICANN
+should take into account input received from the community.
+3.2 Evolution of ICANN: Globalization of ICANN
+Non-governmental administration of the DNS has been a long-standing goal that has
+not yet been fully realized. Since 1999, ICANN has been a contractor with the United
+States government for performing the IANA functions, while the National
+Telecommunications and Information Administration (NTIA) is tasked with the function
+of “administrator” under this contract. Although important steps towards increasing
+ICANN’s independence were taken with the Affirmation of Commitments (AoC), an
+agreement between ICANN and the US Department of Commerce, the US Government
+still maintains an oversight role over ICANN’s compliance with the AoC and takes that
+into account at the time of IANA contract renewal. While some actors believe that the
+relationship with the US Government has brought stability, concerns have also been
+raised, based on concerns of trust and lack of equality among countries. So far, the
+proposal that has garnered the most support has been the “globalization” of ICANN,
+keeping it accountable to all stakeholders, although there is disagreement on what that
+would entail, other than replacement of the US Government as IANA contract
+counterparty. The bottom line is that the way forward for the organization must be
+discussed with the ICANN community and carried out after careful reflection.
+ICANN is currently subject to the laws of the State of California. The Affirmation of
+Commitments requires ICANN to remain headquartered in the United States of
+America. The AOC can be canceled by either party upon provision of 120 days’ notice.
+Some nation-states and some members of the ICANN community have called for the
+globalization of the IANA function part of ICANN.
+Administration of the root zone function should meet several criteria: (1) protection of
+root zone management from political or other improper interference; (2) integrity,
+stability, continuity, security and robustness of the administration of the root zone; (3)
+widespread trust by Internet users in the administration of this function; (4) support for a
+public, globally unified DNS namespace; and (5) agreement regarding an accountability
+mechanism for this function.
+The current IANA contract with the US NTIA satisfies these criteria, but some believe
+there is a potential political dimension to the administration of this function. Equally,
+some in the ICANN stakeholder community also believe that such globalization is not
+needed at the present time.
+At present, the ICANN Board has voted to explore the options possible in the
+globalization of the IANA function part of ICANN. Again, these options must be
+discussed with the ICANN community.
+3.3 International Frameworks for ICANN’s Accountability
+ICANN is currently accountable through the AoC. Any globalization of ICANN would
+require the creation of a new framework for ICANN’s accountability. It is the position of
+the CCWG that here again, the ICANN stakeholder community must be consulted at all
+levels of the design of such a framework, should this be decided.
+Part IV: Conclusions
+The ICANN stakeholder community is a microcosm of the world’s diversity of
+population. It has years of experience in developing operational policy that serves the
+Internet by operating an evolving but stable set of names, addresses and protocols.
+Operation of ICANN as a bottom-up, consensus-based, multistakeholder model has
+both been a challenge and a success, judged by the fact that for the 15 years of
+ICANN’s existence, the DNS has performed as it should and its Top Level Domain
+space continues to grow. The diversity of ICANN’s stakeholder communities will often
+cause disagreements among its various components, but ICANN has provided a
+wonderful platform open to everyone for engagement and a search for the common
+good -- to find a solution to the challenges that any network growing at the pace of the
+Internet would face.
+The ICANN stakeholder community is an inherent part of all of the global Internet
+communities. The CCWG looks forward to continuing to work to make ICANN a better
+organization.
+Appendix A: Definitions of the terms used
+In this section, we provide a backgrounder on the definitions that we attribute to certain
+terms used in this contribution. The definitions of these terms are not meant to serve as
+universal definitions but rather as the meaning of those terms in the context of this
+contribution in order to avoid ambiguity.
+What is a multistakeholder model?
+The Multistakeholder Model (MsM), as opposed to the Multilateral Model (MlM), which
+we describe in more detail below, provides all interested parties a voice in critical
+decision-making processes. Within the MsM, different stakeholders may take the lead
+on particular matters based on their competency and mandate, but transparency and
+dialogue are key to the success of multistakeholder processes. Within the context of
+ICANN, the multistakeholder model refers to the bottom-up, consensus-based process
+by which stakeholders who participate in ICANN develop policies related to Internet
+naming and numbering, as well as policies to support the security, stability, and
+interoperability of the global Internet. Participants in ICANN’s multistakeholder model
+include businesses, civil society organizations, individual Internet users, technical
+experts and governments, each with their respective roles. In the MsM, any individual
+or organization may voice an opinion, and ideally, all opinions and ideas are considered
+on their own merits.
+What is a multilateral model?
+The Multilateral Model (MlM) is a decision-making process wherein nation-states or a
+closed stakeholder group negotiate policy among themselves. In an ideal process, the
+negotiating parties are expected to voice the interests of their citizens or members.
+Due to the closed nature of the process, citizens, businesses, civil society organizations
+and technical experts cannot participate directly in decision-making in a multilateral
+decision making process. Some multilateral organizations do offer consultative status
+to non-governmental stakeholders that may or may not be binding for the parties raising
+the consultation. The OECD is an example of a governmental multilateral body while
+FIFA or the FiA may be seen as private sector multilateral bodies.
+ICANN Component Organizations
+Address Supporting Organization (ASO)
+The ASO is the body that advises the ICANN Board regarding policy issues relating to
+the operation, assignment, and management of Internet addresses - otherwise known
+at Internet Protocol Addresses (IP addresses). Every computer or other device
+connected to the Internet needs an IP address.
+Country Code Names Supporting Organization (ccNSO)
+The ccNSO is the policy-development body responsible for: (i) developing and
+recommending to the Board global policies relating to country-code top-level domains;
+(ii) nurturing consensus across the ccNSO's community, including the name-related
+activities of ccTLDs; and (iii) coordinating with other ICANN Supporting Organizations,
+committees, and constituencies under ICANN.
+Generic Names Supporting Organization (GNSO)
+The GNSO is responsible for developing and recommending to the ICANN Board
+substantive policies relating to generic Top Level Domains (gTLDs); it does so through
+the Policy Development Process. Changes to gTLD policy have broad impact beyond
+the gTLD-related businesses (registries and registrars) that contract with ICANN, to
+other stakeholders and ultimately to all users of the Internet.
+GNSO stakeholders are organized into four “Stakeholder Groups”: registries, registrars,
+commercial stakeholders and noncommercial stakeholders. The Intellectual Property,
+Internet Service Provider and Commercial and Business User constituencies are in the
+Commercial Stakeholder Group, while the non-profit and non-commercial user
+constituencies are in the Non-Commercial Stakeholder Group. The GNSO Council,
+consisting of representatives of each Stakeholder Group, manages the PDP process
+and approves policy recommendations from GNSO Working Groups, which develop the
+recommendations.
+One of the unique aspects of the GNSO is that the PDP is bottom-up, consensusbased,
+and stakeholder-driven, and depends on extensive stakeholder involvement in
+multistakeholder Working Groups. Working Groups are the heart of the GNSO and the
+PDP. Working Groups are formed via Charters, which define the specific issues that
+each group will address. While Working Groups typically have representatives from
+each Stakeholder Group and liaisons from other ICANN bodies (e.g., ALAC and the
+ccNSO), anyone can participate. Working Groups operate by consensus and develop
+detailed policy recommendations through meetings and the development of a
+substantial report. Preliminary reports are subject to public comment, which are taken
+into account when preparing the final report. The recommendations in the Working
+Group reports, once approved by the GNSO Council, are sent to the Board for adoption
+as ICANN gTLD policy.
+At-Large Advisory Committee (ALAC)
+"At-Large" is the name for the community of individual Internet users who participate in
+the policy development work of ICANN. The 15 member At-Large Advisory Committee
+(ALAC) is responsible for considering and providing advice on the activities of ICANN
+as they relate to the interests of individual Internet users (the “At-Large” community).
+ICANN, as a private sector non-profit corporation with technical management
+responsibilities for the Internet’s domain name and address system, relies on the ALAC
+and the broader At-Large community to involve and represent in ICANN a broad set of
+individual Internet user interests.
+Governmental Advisory Committee (GAC)
+The GAC provides advice on the activities of ICANN as they relate to concerns of
+governments, particularly matters where there may be interaction between ICANN's
+policies and various laws and international agreements or where ICANN’s policies may
+affect public policy issues. According to ICANN’s Bylaws, “GAC advice on public policy
+matters shall be duly taken into account, both in the formulation and adoption of
+policies. If the Board determines to take an action that is not consistent with the GAC
+advice, it shall so inform the Committee and state the reasons why it decided not to
+follow that advice”.
+Security and Stability Advisory Committee (SSAC)
+The SSAC advises the ICANN community and Board on matters relating to the security
+and integrity of the Internet's naming and address allocation systems, which
+encompasses operational matters (e.g., matters pertaining to the correct and reliable
+operation of the root name system), administrative matters (e.g., matters pertaining to
+address allocation and Internet number assignment), and registration matters (e.g.,
+matters pertaining to registry and registrar services such as WHOIS). SSAC engages in
+ongoing threat assessment and risk analysis of the Internet naming and address
+allocation services to assess where the principal threats to stability and security lie, and
+advises the ICANN community accordingly.
+Root Server System Advisory Committee (RSSAC)
+The RSSAC is the body that advises the ICANN community and Board on matters
+relating to the operation, administration, security, and integrity of the Internet's Root
+Server System.
+Internet Engineering Task Force (IETF)
+The IETF’s mission is to make the Internet work better by producing high quality,
+relevant technical documents that influence the way people design, use and manage
+the Internet. Anyone may participate in the IETF process, making the organization truly
+multistakeholder, but individuals are expected to represent only themselves, not their
+companies, governments, or other organizations. Thus, individuals are expected to
+bring their best ideas for the Internet rather than represent any one constituency.
+Work within the IETF is organized in working groups. Working group chairs are
+responsible for managing the process within the group. The process of drafting an IETF
+standard typically begins at the working group level. Anyone can submit an idea for a
+standard for the working group to consider. People in the working group comment on
+whether to take up the work or not, and if it is agreed by consensus to take up the item,
+the document becomes a working group item. The working group then jointly develops
+the content of the standard itself through iteration. Once the document is largely
+agreed, it goes to working group last call: at this point, everyone in the working group
+reads the document and provides final feedback. If achieved, the standard goes to the
+IETF as a whole for discussion and consensus before a standard becomes final.
+While the IETF holds three meetings a year, much of the work associated with
+developing a standard takes place over working group email lists, and working group
+chairs must consult the list before determining that consensus exists. The culture of the
+IETF places a premium on individuals representing themselves, not their organizations’
+interests. Calls for comment are iterative and ongoing in the early stages of document
+development, increasing the likelihood that major issues are considered and resolved
+before last call and generally streamlining the process.
+The standards developed at IETF are needed to make the Internet interoperable, and
+they affect all Internet users. Because of these effects, standards development
+processes must remain open to all interested parties, and decision-making should be
+transparent. Accordingly, participants in IETF processes strive to maintain a level of
+awareness of the potential social and economic impact of their efforts which
+distinguishes the entire process from any other technical body.

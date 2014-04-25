@@ -1,0 +1,514 @@
+Edtech remarks for a roadmap on future teaching: Internet
+governance and paths to innovative pedagogical practices
+for learning and teaching
+Area: COMBINED INTERNET GOVERNANCE PRINCIPLES AND
+ROADMAP
+Entitled by: Renata Aquino Ribeiro
+Region: So Paulo, Brazil
+Organization: Federal University of Cear - UFC
+Sector: Academia
+Keywords: Technology, Education, Curriculum, Internet, Governance
+Doc Attached: Click here to see the doc 1
+Doc Attached: Click here to see the doc 2
+Doc Attached: Click here to see the doc 3
+Doc Attached: Click here to see the doc 4
+Doc Attached: Click here to see the doc 5
+Abstract
+Standards and practices in education and technology on the web are still themes not very
+often discussed among brazilian educators and it hinders even more their participation in
+crucial debates on internet governance. The area of education and technology shelters
+educators and policy makers, grouped in a number of associations but none has yet
+contributed with remarks for a roadmap on future teaching, concerned with the evolution
+of the internet governance ecosystem. The focus of this writing is to identify elements
+which indicate an innovative use of technologies in education integrated with the
+curriculum, based on the practices reported and points out ways in which educators can
+be involved in internet governance issues. The methodology of selection of data and
+analysis of results used a software of qualitative research named CHIC and analysis of
+content of documental data. The results of this research have brought the mapping of
+tendencies for innovative practices in education.
+Document
+1 Introduction
+The education and technology area in Brazil consists of teachers, researchers,
+educational institutions administrators and policy makers concerned about the evolution of
+teaching and learning in the age of the internet. A number of institutions addresses this
+topic, directly or relating it to other issues or periodical events such as congresses or
+meetings. However, there isn't an unified voice of those professionals regarding the
+roadmap for further evolution of the internet governance ecosystem. Let alone the
+acknowledgment and assurance of the Internet Governance principles. The purpose of
+this content is to re-examine Brazilian publications about education and technology and
+indicate some paths for innovative teaching and learning. This research originated in
+Catholic University of São Paulo Post-Graduate Program in Education: Curriculum, in the
+context of thesis within the field of Web Curriculum, a new concept about teaching with
+the internet and a biannual seminar which has already gathered over 800 publications on
+the subject.
+The execution of the Seminars Web Curriculum in Catholic University of São Paulo Brazil
+(PUC-SP) was accompanied by many discussions about pedagogical practices with
+technologies integrated with the curriculum. The educators which have accompanied the
+issues related to technology have recognized the need for more availability of information.
+Texts and interviews such as in podcasts (audio conversations) done for the Blog Web
+Curriculum, and the proceedings with the scientific articles which were presented in the
+events, help bring back some of this universe.
+The methodology for selection of data and analysis of the results used interviews and
+analysis of the content going beyond documentary data (blog and articles associated with
+I and II Web Curriculum). It is possible to see also a panoramic view of the incorporation
+of technologies in the pedagogical practices, with a view which examines more the Web
+2.0. In order to make it possible to draw this research trajectory, it was done a process of
+identification of documented practices in articles, analyzed in national databases which
+had records of other events about the theme of the technology use in education, what
+resulted in the development of a matrix of categories, which ended up serving as a
+support to identifying the use of technology in education, in a perspective of innovation in
+the curriculum, integrating Web 2.0, systemized scientifical knowledge and the
+experiencies which students bring from their life and context.
+As a result of previous interviews with specialists and readings of scientific literature
+(SAVIANI, 1992; FREIRE, 1996; LITWIN, 1997; ALMEIDA, 2000; PRADO, 2003;
+ALMEIDA, VALENTE, 2007; ALMEIDA, SILVA, 2011), this investigation came to some
+concepts of Innovative Trends, Innovation and Innovative Practices in Education. In order
+to perform the analysis and interpretation of the data, the option taken was to use the
+software CHIC (Cohesive Implied Hierarchical Classification) with the goal to build
+categories which could verify the existence of innovative practices in the proceedings of I
+and II Seminars Web Curriculum and also in the blog Web Curriculum.
+2 The software CHIC – Cohesive
+implied hierarchical classification
+The software CHIC – Cohesive Implied Hierarchical Classification was developed by
+Régis Grass, professor at the Polytechnical School at Nantes University and brought to
+Brazil by professor Saddo Almouloud, from the Departament of Mathematics of the Center
+of Mathematical, Physical and Technological Sciences at Catholic University of São
+Paulo. This software, according to Moraes and Valente (2008), extracts from a set of data,
+rules of association between variables, crossing subjects and variables to provide an
+index of quality of association and represents an structure of the variables obttained by
+means of these rules offering as a result a directory-strucure shaped in the for a tree of
+similarities, a tree of cohesiveness and a graphical representation of implications.
+In order to execute the analysis and interpretation of the data for this work, the option to
+use the software CHIC had in mind the goal of building categories which could evidentiate
+the existence of innovative practices in the proceedings of the I and II Seminars Web
+Curriculum and also in the Blog Web Curriculum. It is important to remind that there is no
+software that can act as the solution to every need of the data analysis but CHIC
+presented itself as a reasonably viable choice.
+With the goal to obtain results coherent with the field studied, an option was made to
+divide the research in four phases: the first occurred between May and September of
+2008, moment in which there was the planning and execution of the I Seminar Web
+Curriculum. The second phase started in July 2008 finishing at May 2010. The strategy
+used in this phase was the analysis of content which ended up being need for a deeper
+comprehension of the observations in the blog Web Curriculum. The third phase started in
+July 2010 and ended right after the II Seminar Web Curriculum, initiating then the fourth
+and last phase, when was done a content analysis of the blog soon after the execution of
+the second seminar, once that the blog Web Curriculum remained active.
+Given the trajectory presented, the study of what was to be analyzed in this work was
+limited to four objects which are: the proceedings of the two versions of the seminars Web
+Curriculum and the two periods of posts on the blog after the I Web Curriculum and after
+the II Web Curriculum. The data obtained in the preliminary phase served as a theoretical
+support for the concepts of innovation, innovative practices etc.
+The procedure of analysis with CHIC has developed through some main processes. The
+first was the mapping of the items to be analyzed in the specific case of this research, a
+spreadsheet was used to register all the texts with their keywords to be analyzed (articles
+from both seminars) and presented by their authors (such keywords referred to web 2.0
+tools, softwares, applications and also concepts).
+After this initial mapping in a spreadsheet, the archive in comma separated values was
+transported into the CHIC program and then there was the generation of trees of
+similarities, which show the convergences and divergences between the texts and the
+practices analyzed. To every greater group of branches in the tree of similiarities the
+name class was given and the smaller groups represented in the tree-shaped graphic, the
+name subclass was given.
+The analysis of classes in the similarities tree generated by CHIC resulted in the
+indication of convergence between practices of integration of technologies in the
+curriculum, all within the scope of the concept Web Curriculum. The analysis evidentiates,
+also, the trends for innovative practices which could be found in all the material presented
+in the seminars Web Curriculum and also in the event blog.
+The categories are of great value in the data analysis, once that, the information basis
+used is well varied, which makes it harder and maybe even near impossible to obtain
+results. It is important to remember also that the categories are objective and are related
+with each other. According to Prado (2003), the category summarizes a whole of ideas
+expressed in the texts analyzed and which where identified from the interpretative
+analysis of the records.
+3 Procedures of analysis with CHIC
+To perform the data analysis, at first there was the attribution of codes to all the elements
+of content identified as significative given the theoretical basis and goals of the current
+research. To every element of content an identification code was attributed and the list of
+elements formed the first column of the spreadsheet which generated the tree of
+similarities at CHIC.
+The procedure was done in the same manner with the oral presentations, posters and
+case studies located in the proceedings of the I and II Seminars Web Curriculum. The
+article which were presented as oral presentation were given a code with the preffix
+“comum” (as inspired by the word communication) and to those that were presented as
+poster was given a code with the preffix “poster”. The final of the code was a simple
+numbering pattern inherited from the article analyzed, therefore the name of an article
+was replaced, for example, by “comum_011” in the spreadsheet for analysis. The heading
+of the spreadsheet which generated the tree of similarities of CHIC was filled with the
+keywords found in the content.
+The spreadsheet was then built and divided in sections, including the content of the
+proceedings of 2008, according to the timeline of events presented.
+<See attached picture 1-chic-analysis-procedure>
+The keywords were chosen based on the use of web tools in the classroom, since the
+investigation of practices guided the discussion of the concepts which generated the
+trends for an innovative education. There was the execution of a process of finding
+synonims to avoid repetition of keywords. Terms such as "videoconferencia" and
+"flashmeeting", being the last the name of type of videoconferencing tool, were grouped in
+only one column named videoconference (abbreviation videoconf.) in such a way that
+there was a reduction of keywords and enable visibility of the similarities between
+determinate practices.
+A process of filtering the keywords was also performed to remove words which weren't
+directly connected to practices of the use of the web in education.
+The next step was executing the time division with the goal to try to create a timeline
+aiming to identify the practices of the use of the web in education through time,
+considering the two periods of the seminar.
+The tree of similarities produced by CHIC is the result of convergences and divergences
+of the words encoded initially for the construction of the spreadsheet, complemented by
+the software through means of data processing and accompanying the execution of the
+analysis which were made by the researchers.
+The similarity coefficient can be obtained through a specific screen of the software CHIC
+and it is the numerical representation of the relationship attributed between two or more
+variables, which in this case are the keywords. The stronger relationships can be
+visualized in the graphical form of the tree of similarities also through a red emphasis in
+the line of the graph. The general view of those analysis indicates the panorama of the
+practices of integrating technologies into the curriculum and the innovative trends found.
+4 Analysis of the proceedings of the I
+Seminar Web Curriculum – CHIC
+In the creation by CHIC of the tree of similarities of the 2008 proceedings of the I Seminar
+Web Curriculum, one could notice several knots and forkings. The closest a knot was to
+another, it resulted in closeness of a set of terms, indicating greater similarity. However,
+one could consider in the analysis also knots without the red line for emphasys of
+relevance, considering the meaning of the relationship for the context at hand, in
+accordance with the interpretation of the researchers.
+<See picture 2-web-curriculum-2008-event-publications-page>
+One of the strongest relationships in the tree of similarities was between the articles
+identified with the keywords “audio-podcast” and “concept-mapping”.
+Another important relationship which appears in the tree of similarities in the proceedings
+of 2008 is the one which relates virtual learning environments such as Moodle with web
+ICT tools such as videoconference. This class was named as “new characteristics of
+virtual learning environments”. The keywords “vc-fm” and “moodle” relate each other with
+“chat” and “forum” showing practices in learning environments.
+It is interesting to notice that the coexistence of tools as virtual learning environment
+(VLE) such as Moodle and other more technically complex such as the videoconference
+shows an important path of enhancing the possibilities of a VLE.
+The third relationship very strong in the tree of similarities has brought other four
+technologies which were indicated in the works of the I Seminar Web Curriculum, “blog”,
+“wiki”, “video” and “photos”. This class can be named as “multimedia publishing online”.
+The relationship is notably strong between the doubles of elements or subclasses “blog”,
+“wiki”, “video” and “photos”, indicating that the multimedia content (video and photos) is
+inserted in determinate moments of online publishing (blog and wiki), in the pedagogical
+practices with technology.
+Another important relationship is evidently meaningful for the investigation in focus. The
+class relates “research” and “internet” with greater similarity, with the red line for
+emphasys, and relates the pair with “laptops”. The name of this class was “research with
+educational laptops”.
+The class “research with educational laptops” brings together articles from researchers
+which have brought experiences of the use of the web in the classroom with educational
+laptops. The pedagogical work with portable computers was done with the use of
+strategies such as internet research and the creation of blogs aiming the production of
+knowledge and collaboration.
+The general analysis of the works of the I Seminar Web Curriculum shows some
+interesting characteristics in regards to the researchers' practice for the integration of
+technologies in the curriculum in the year of 2008 such as: documentation of practices in
+audio; new characteristics of virtual learning environments; multimedia online publishing
+and research with educational laptops.
+These characteristics of the use of technologies in education have been brought from the
+works of 2008 and are the beginning of a full picture about the trends in innovation in
+integrating technologies in the curriculum. We will see, on the forthcoming analysis, the
+next parts of this picture which will complete the panorama of trends in innovation.
+5 Analysis of the proceedings of the II
+Seminar Web Curriculum – CHIC
+<See picture 3-web-curriculum-2010-biannual-event-page>
+The tree of similarities of the proceedings of the II Seminar Web Curriculum brings some
+of the themes similar to those of the I Seminar Web Curriculum. There can also be
+perceived selected themes in terms of similarity such as in “youtube” and “social-media”.
+The proximity between “youtube” and “social-media” brings an aspect very meaningful
+when analyzing the use of social media in education. The pedagogical practices with
+social media have intensified and the teachers researchers have related it to the
+publication of online content, in this case, video.
+The class “interconnection between social media and online content” brings the
+relationship established in articles between the use of social media and the publication of
+multimedia content, specially video in Youtube. The investigation of social media is based
+on content produced and selected by students and teachers, as online videos, and the
+pedagogical work is built starting with this content.
+Another class which also is evident in the analysis by CHIC in the proceedings of the II
+Seminar is the one that relates “GoogleDrive” and “moodle”. The class indicated was
+named “Virtual learning environment and Web 2.0 tools”. Moodle, a virtual learning
+environment which is one of the most used, is even more complemented by external tools
+characteristic of the Web 2.0, such as GoogleDrive.
+Virtual learning environments are being considered with new possibilities by the
+researchers in reference to the association of Web 2.0 interfaces and the articles which
+contain these keywords confirm the concreteness of a trend which begun to happen in the
+I Seminar and in the II Seminar already indicate the occurrence of these changes. The
+type of learning virtual environment more present in the articles in the platform Moodle.
+The tree of similarities resulting from the analysis of the scientifical production of the
+proceedings of the II Seminar Web Curriculum indicated a class which related concepts
+that point out to one of the contemporary concerns of the researchers. The terms “mobiledevices”
+and “hypermedia-hypertext” have brought articles which show the possibilities for
+education of mobile computational devices such as educational laptops and tablets,
+having in mind the use of the web through links or hypermedia.
+The traditional analysis of more than one broad class converges with the findings
+described before. The additional class includes the subclasses “youtube” and “socialmedia”
+complemented in the tree of similarities by “twitter”, “blog” and “fotos”.
+The class brings back interesting aspects of the analysis such as “interconnection
+between social media and online content” and “virtual learning environments and Web 2.0
+tools”. These aspects are presented in the studies which show the need of the expanded
+classroom,the one in which learning happens beyond the physical space, and even so, of
+the learning environment designated by the institution, integrating the social media and
+other tools of the web.
+The publications of the proceedings of the II Seminar Web Curriculum have shown even
+more paths for the integration of technology in the curriculum which complement those
+shown in the edition of the seminar of two years before. The classes found in the analysis
+reflect some of the categories of the use of the web in education such as: interconnection
+between social media and online content; virtual learning environments and Web 2.0
+tools; Mobile devices and the use of the web and the use of the web for media production.
+6 Analysis of the blog Web
+Curriculum with the use of CHIC
+<See PDF 4-blog-webcurriculum>
+The first time period of the blog covers the text published since its origin in May 2008,
+passing through the time of the first seminar in June 2008, until before the second
+seminar, in June 2010.
+The tree of similarities of the blog until the period before the II Seminar Web Curriculum
+showed most of the terms which also could be seen in the tree which brings the analysis
+of the proceedings of the I Seminar Web Curriculum. However, in this tree of similarities
+there is an order of alignments different than the connections between the branches and
+we have also pointed out some of these classes which bring terms with a greater
+relationship.
+The terms in the tree of similarities of the blog differentiate by referring texts which also
+bring themes of the events online or lectures organized by the research group which
+happened in between both seminars. In the first class analyzed there are already terms
+related to these online events such as “site-portal”, “chat” and “twitter”. This class was
+named “online publication in twitter and sites”.
+The relationship “online publication in twitter and sites” brings similarities between terms
+which indicate a progressive change in the online publication of discussions about the
+integration of technologies in the curriculum, having as scenario the events online
+themselves involving the research group responsible for Web Curriculum.
+The class “online publication in sites and twitter” shows, therefore, that the meetings
+between researchers can be complemented and made more dynamic with the materials
+and online comment exchange in spaces such as educational sites with links in the blog
+Web Currículo and in the Twitter which accompanies it. This type of publication intensified
+from 2008 to 2010 to the point of meaning a whole new group of headlining program
+which happened in the online events.
+Another class which also related online events which investigated themes of the Seminars
+Web Curriculum, such as “social-media” and “augmented-reality”. This class was named
+“investigation of themes such as social media and augmented reality”. The class unites
+the terms "augmented-reality" and "social-media", since these were part of the online
+events with researchers which participated in the Seminar Web Curriculum.
+Another class evidentiated in the tree of similarities which analyzed the posts of the first
+period of the blog Web Curriculum pointed out onlline events. The class which related the
+terms “second-life” and “streaming” was named “live participation on distance learning
+online events about education and technology”.
+This class originated from the similarity of texts of the blog Web Curriculum which bring
+back debates occurred online with the participation of internet users from several parts of
+Brazil and of the world. Watching and participating in the video debates or in virtual worlds
+aren't activities restricted to the online events with researchers, but also they have been
+found in the everyday of teachers' practices which also do research. This can be inferred
+from the next class which is evident in the tree of similarities of CHIC, which relates the
+terms “media” and “laptops”. This class was named “activities with media in educational
+laptops”.
+The relationship between "media" and "laptops" brings texts about the events of the
+Seminar Web Curriculum and also about productions of researchers of the group at PUCSP.
+The studies of researchers are documented in the blog Web Curriculum, for the
+identification of new themes of investigation and research trends.
+The analysis of the first period of texts in the blog Web Curriculum shows a face of the
+investigation about the integration of technology in the curriculum which still is only at the
+beginning in the scientific writings by the researchers, one which unites the
+experimentation and the scientifical observation. The everyday practices, in scientific
+events and in the classroom, have privileged the experimentation and enlarged the
+frontiers in the current use of technologies. The classes analyzed have shown aspects
+such as: online publication in sites and twitter, investigação of themes such as social
+media and augmented reality, participation in live distance learning events on online
+debates about education and technology, activities with the integration of media in
+educational laptops.
+In general, the analysis of the first periodo of the blog Web Curriculum has brought
+aspects important in the integration of technology in the curriculum, since it has shown the
+collaboration that the web can bring into the debate. Being it through the video broadcast,
+social media or publication in blogs, the web may add and enhance the discussions of
+researchers and promote the construction of knowledge.
+In the second period of the analysis of the blog Web Curriculum, begins with the II
+Seminar, one can notice even more the varied quantity of terms which bring pedagogical
+practices with the use of technologies, including characteristics of the Web 2.0.
+The first class analyzed relates the terms “blog” with the double “video” and “mobiledevices”
+and also the term “twitter”. In this class can be found the relationship between
+several texts of the blog which bring the event videos. It is interesting to notice that the
+site that hosts and produces the videos acquires a new context when related to the
+practices such as mobile computation and the use of social media such as twitter.
+Therefore, we have called this class “mobile devices and multimedia production”.
+The relationship between multimedia productions and the blog goes beyond merely
+hosting the content. When inviting to see the video through social media, it is implied the
+invite to follow or receive more news about the blog Web Curriculum through email,
+having access to more productions of the online profile of Web Curriculum.
+A class which relates the terms “podcast” and “social-media” to the term “distancelearning”
+is evident in the blog analysis. It is about the texts which mention audio
+productions in the area of education and technology which are constant in the virtual
+learning environments of distance learning and are also disseminated through social
+media.
+The texts related in this analysis bring podcast, proposal of learning through virtual
+environments and articles of researchers in reviews about the theme distance learning
+and teachers' professional training. Therefore, the online audio production is linked to
+practices of teaching and learning and contextualized in the investigation of the
+technologies integrated with the curriculum.
+The analysis of an additional class helps to map and review the categories found. The
+class which unites “site”, “GoogleDrive” and “laptops” brings the extra pontuaction about
+the texts of the second period of analysis of the blog.
+The classes indicated in this analysis brings elements related to online publication, the
+authorship of multimedia content and the practice of online education. They are:
+multimedia production and mobile devices and podcasts and learning.
+The analysis of the second period of the blog Web Curriculum has brought important
+indications about the integration of technologies in the curriculum with the use of the web.
+The multimedia records and the learning environments have been some of the focuses of
+the actions of teachers researchers connected to the theme of investigation. As a trend for
+the education and technology, these actions of the use of the web must be intensified and
+collaborate for learning in several different spaces.
+7 Final remarks
+The analysis of the works and the online texts which accompany the I and II Seminar Web
+Curriculum PUC-SP, in the years of 2008 and 2011, had as a goal to identify
+characteristics of innovative practices in what refers to the integration of technologies in
+the curriculum. In the process of analysis of the publications of the Seminars Web
+Curriculum there was the construction of categories to help in the identification of trends
+for innovative practices. The study of the blog Web Curriculum has brought publications
+related to the themes referred between the works of the integrants of the research group
+in technologies in education, enabling to identify elements of the innovative use of
+technologies in education.
+The qualitative methodology of data selection and analysis of the results done with the
+software CHIC was complemented by the analysis of content to the data, leading to
+examine several evidences, beyond the paths found in the categories indicated. The
+results of this investigation were the identification of characteristics of innovative practices
+in what is referred the integration of the technologies into the curriculum, a panorama of
+the publications of the I and II Seminars Web Curriculum and the indication of categories
+to help on the mapping of trends for innovative practices.
+This is one of many experiences to integrate technologies in the curriculum and be
+conscious about internet governance principle in the space of schools and other
+educational institutions. Currently, Web Curriculum continues to produce biannual events,
+such as the 2012 and the 2014 (in preparation) and is the focus of publications by the
+researcher editor of the blog Renata Aquino Ribeiro, who participated on the Internet
+Forum of Brazil in Belém and events in CGI Brazil. The effort now is to continue the
+research in the area and the participation of the research group.
+<See picture 5-web-curriculum-2012-event-page>
+One of the future steps that this research has inspired, is the idea that the unfinished is
+also a part of the search for the best practice. There is never an end to the search to do
+more, want more in the everyday of the educator who seeks to integrate technologies in
+the curriculum. It is the movement of searching, unrestful and unsettling, which makes the
+analysis of the strategies for the use of education to perfect itself always.
+REFERENCES
+1.
+Almeida, M. E. B. e Silva, M. G. M.(2011). Currículo, tecnologia e cultura digital:
+espaços e tempos de web currículo. Revista E-Curriculum PUC-SP. Número 7.
+Disponível em: http://bit.ly/16Sn9Gs Acesso em: 10/08/13.
+2.
+Abar, C. A. A. P. (2008). Think.com: um ambiente para integrar as tecnologias ao
+currículo. Anais do I Seminário Web Currículo, PUC-SP.
+3.
+Almeida, M. E. B. Entrevista professora Beth Almeida (18/07/2008). Portal do
+Professor. Disponível em: http://bit.ly/16SnnNN Acesso em: 26/07/13.
+4.
+Almeida, M. E. B. (2000). Informática e Formação de Professores. Vol. 1.
+SEED/MEC.
+5.
+Almeida, M. E. B. (2010). Integração de currículo e tecnologias: a emergência de
+web currículo. Anais do XV ENDIPE, 2010. UFMG. Belo Horizonte.
+6.
+Almeida, M. E. B. (2000). O computador na escola: contextualizando a formação de
+professores: praticar a teoria, refletir a prática. São Paulo, SP: Tese (Doutorado em
+Educação: Currículo) -- Pontifícia Universidade Católica de São Paulo.
+7.
+Almeida, M. E. B.; Ribeiro, R. A. (2009). Web 2.0 na educação em blogs, wikis e
+autoria colaborativa: análise da produção científica no Brasil. Anais da VI
+Conferência Internacional de TIC na Educação - Challenges - Universidade do
+Minho. Braga, Portugal. Disponível em: http://bit.ly/15IxdAT Acesso em: 01/08/13.
+8.
+Almeida, M. E. B. (2008). Tecnologias na Educação: dos caminhos trilhados aos
+atuais desafios. Bolema: Boletim de Educação Matemática, Rio Claro, SP, Brasil.
+Ano 21, no. 29, 2008, pp. 99 a 129. Disponível em: http://bit.ly/15Hfvjr Acesso em:
+01/08/13.
+9.
+Almeida, M. E. B. (2010). Web currículo, caminhos e narrativas. Anais do II
+Seminário Web Currículo. PUC-SP. São Paulo.
+10.
+Almeida, M. E. B.; Valente, J.(2007). A. Formação de Educadores a Distância e
+Integração de Mídias. Ed. Avercamp, SP.
+11.
+Almeida, M. E. B. (2008). Mapeando percepções de professores com o Chic para
+análise da prática pedagógica e formação docente. In: OKADA, A. (org.).
+Cartografia cognitiva. Cuiabá: KCM.
+12.
+Associação Brasileira de Educação a Distância.(2011). Disponível em:
+www.abed.org.br Acesso em 28 de outubro de 2011
+13.
+Bagatini, F. (2008). A língua inglesa para além dos muros da escola: invadindo o
+mundo digital. Anais do I Seminário Web Currículo, 2008, PUC-SP.
+14.
+Basso, M. A. J.; Silva, M. G. M. (2010). De navegadores a autores: uma análise do
+Web Currículo como contraponto às pedagogias de lógica disciplinar. Anais do II
+Seminário Web Currículo, PUC-SP, São Paulo.
+15.
+Bergmann, C. (2007). Web 2.0 significa usar a inteligência coletiva . Disponível em:
+http://bit.ly/14JGZAM Acesso em: 01/08/13.
+16.
+Blog Web Currículo. Disponível em http://webcurriculo.wordpress.com. Acesso em:
+01/08/13.
+17.
+Borges, M. A. F. (2010). Repensar a escola a partir do processo de implantação do
+laptop na educação básica. Anais do II Seminário Web Currículo, PUC-SP, São
+Paulo, 2010.
+18.
+Castro, A. F.; Sá, H. R. Por uma educação próxima, apesar de ser à distância:
+sobre o desenho didático de uma disciplina em um curso de formação de
+professores. Anais do II Seminário Web Currículo, PUC-SP, São Paulo.
+19.
+Cerny, R. Z.; Muller, R. Q. (2008). Formação de professores de Letras-Libras:
+construindo o currículo. Anais do I Seminário Web Currículo, 2008, PUC-SP.
+20.
+Costa, C. J. S. A.; Pinto, A. C. (2008). Currículo e Tecnologias: Uma experiência de
+formação continuada com a metodologia de aprendizagem de casos e mapas
+conceituais. Anais do I Seminário Web Currículo, PUC-SP.
+21.
+Couto, H. H. (2010). Entre os muros @juventudes. br: o que levam os jovens
+professores das suas práticas cotidianas para os currículos e para as salas de
+aula. Anais do II Seminário Web Currículo. PUC-SP, São Paulo.
+22.
+Dieu, B. (2008). Ferramentas sociais, redes e interação: um círculo virtuoso. Anais
+do I Seminário Web Currículo, 2008, PUC-SP.
+23.
+Educarede. http://www.educared.org/global/educared?CE=br Acesso em 28/07/13.
+24.
+Freire, P. (1996). Pedagogia da autonomia. São Paulo: Paz e Terra.
+25.
+Kenski, V. M. (2010). Novos tempos de gestão de processos em EAD Anais do II
+Seminário Web Currículo. online.
+26.
+Leite, M. T. M. CARLINI, A. L. (2008). Oficina Moodle on-line para docentes da
+Unifesp: uma demanda da realidade. Anais do I Seminário Web Currículo, PUC-SP.
+27.
+Litwin, E.(1997). Tecnologia Educacional. Ed. Artmed, São Paulo.
+28.
+Muñoz, C. (2010). Informática aplicada projetos. Anais do II Seminário Web
+Currículo. PUC-SP, São Paulo.
+29.
+Okada, S. (2008). A intermediação pedagógica múltipla em comunidades abertas
+no projeto Openlearn. Anais do I Seminário Web Currículo.
+30.
+Prado, M. E. B. B. (2003). Educação a distância e formação do professor:
+redimensionando concepções de aprendizagem. Tese de Doutorado em Educação:
+Currículo, Pontifícia Universidade Católica de São Paulo – PUC/SP.
+31.
+Prado, M. E. B. B.; França, G.; Almeida, M. E..B.; Borges, M. A. F. (2010).
+Repensar a escola a partir do processo de implantação do laptop na educação
+básica. Anais do II Seminário Web Currículo, PUC-SP, São Paulo.
+32.
+Saldanha, R. P. T. (2009). Indicadores de um currículo flexível no uso de
+computadores portáteis. Dissertação de Mestrado em Educação: Currículo,
+Pontifícia Universidade Católica de São Paulo.
+33.
+Santos, M. B. F.; Borges, M. K. (2008). Alterações no cotidiano escolar decorrentes
+da implantação de laptops educacionais. Anais do I Seminário Web Currículo,
+2008, PUC-SP.
+34.
+Saviani, D. (1992). Escola e Democracia. São Paulo: Editora Autores Associados.
+Disponível em: http://bit.ly/16We9lz Acesso: 10/08/13.
+35.
+SBIE: Informações disponíveis em: http://www.sbie.org.br/ Acesso em 02/08/13.
+36.
+Trein, D. Schlemmer, E. (2008). Projetos de aprendizagem no contexto da Web
+2.0: possibilidades para a prática pedagógica. Anais do I Seminário Web Currículo,
+PUC-SP.
+37.
+Velloso, M. J.; Marinho, S. P. (2010). O letramento digital como condição para a
+inserção das interfaces da web 2.0 no currículo. Anais do II Seminário Web
+Currículo.
+38.
+Viana, C. E. Gonçalves, M. T. (2010). Rede social Minha Terra: web 2.0 +
+educação para sustentabilidade. Anais do II Seminário Web Currículo.
+39.
+Weckelmann, V. F. (2010). Projeto Iniciativa escolas, professores e computadores
+portáteis: emergindo transformações na prática docente. Anais do II Seminário
+Web Currículo, PUC-SP, São Paulo.

@@ -1,0 +1,120 @@
+Internet Ecosystem: Naming and addressing, shared global
+services and operations, and open standards development.
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Raquel Gatto
+Region: Global
+Organization: Internet Society (ISOC)
+Sector: Technical community
+Keywords: Internet Governance; Internet Ecosystem; Collaboration;
+Openness; Multistakeholder
+Doc Attached: Click here to see the doc 1
+Doc Attached: Click here to see the doc 2
+Doc Attached: Click here to see the doc 3
+Abstract
+This paper offers a brief introduction to some of the Internet organizations and processes
+that shape naming and addressing, shared global services and operations, and open
+standards development in the Internet ecosystem. It looks at many of the key
+organizations and processes that shape Internet policy, with a focus on how any
+interested stakeholder can get involved in their work. It is not exhaustive; nor does it cover
+all aspects in detail. It is recommended that readers use this document as a starting point
+in their exploration of the Internet ecosystem, its players and policy processes. Extensive
+hyperlinked references are provided throughout to assist anyone seeking deeper
+understanding or involvement.Please look at the Full Paper here:
+http://www.internetsociety.org/sites/default/files/bp_Internet%20Ecosystem_020514_en.pdf
+Document
+(FULL VERSION OF THIS PAPER IS ATTACHED)
+Introduction
+This paper offers a brief introduction to some of the Internet organizations and processes
+that shape naming and addressing, shared global services and operations, and open
+standards development in the Internet ecosystem. It builds on the Internet Society’s wellreceived
+graphic: The Internet Ecosystem:
+http://www.internetsociety.org/sites/default/files/bp_Internet%20Ecosystem_020514_en.pdf
+This paper looks at many of the key organizations and processes that shape Internet
+policy, with a focus on how any interested stakeholder can get involved in their work. It is
+not exhaustive; nor does it cover all aspects in detail. It is recommended that readers use
+this document as a starting point in their exploration of the Internet ecosystem, its players
+and policy processes. Extensive hyperlinked references are provided throughout to assist
+anyone seeking deeper understanding or involvement.
+As a discussion paper, “Exploring the Internet Ecosystem” will remain a work in progress.
+Readers who wish to suggest improvements are invited to send suggestions to the
+Internet Society at isoc@isoc.org.
+The importance of Participation
+A diverse set of players has shaped the Internet and continues to contribute to its future
+success. Yet the Internet is not a static thing. Since it was established as a research
+network more than 40 years ago, it has evolved from a small government-run network of
+researchers to a network of networks that is the cornerstone for the global economy and
+an indispensable tool for individuals worldwide.
+These phenomenal changes pose significant challenges for policy processes and actors
+in the Internet policy field. The organizations and processes that shape Internet policy
+have proven to be resilient and adaptable in large part because they have assumed that
+change is a constant and because they recognize that the best solutions to new issues
+that arise stem from willing collaboration between informed stakeholders.
+The Internet Society encourages all stakeholders to become involved in the policy and
+standardization processes that support the ongoing evolution of the Internet and the
+equally evolving management of Internet resources.
+Within the Internet ecosystem, various organizations have responsibilities for the
+protocols and standards that enable basic end-to-end communications (such as the
+Internet Protocol); the resources that direct these communications (such as IP addresses
+and the Domain Name System); the provision of reliable connectivity that ensures the
+communications reach their intended destinations, thus linking end-users (such as global
+telecommunication, satellite and cable system operators, Internet Exchange Points, etc.);
+and the policies, frameworks and educational activities necessary to ensure the Internet’s
+openness, continuity and flexibility.
+These technologies, resources and services are all highly interdependent and require a
+significant amount of coordination. The organizations responsible for standardization,
+coordination, administration and day-to-day management in the Internet sphere include
+the IETF, ICANN, the IANA function, the RIRs, and many others that will be touched upon
+in this paper. Each organization has a specific role and provides fundamental value to the
+overall functioning of the Internet.
+These organizations have a proven, long-standing relationship with one another in
+coordinating the technical infrastructure of the Internet and have contributed to its
+incredible growth and stability. They make use of well-established mechanisms, including
+open, public meetings, mailing lists and bottom-up policy development processes that
+enable direct participation by any interested party. This way of working ensures that
+policies are defined by those who require them for their operations. It also gives the
+system the flexibility to respond and adapt to the Internet’s rapidly evolving technology
+and to the changing needs of the Internet community. It has resulted in the creation of a
+significant body of knowledge and experience in the successful administration and
+management of the technologies, resources and services that make the Internet the
+success it is today.
+The development, governance and coordination of the Internet result from discussions,
+debates and policy development processes in many specialized forums. Active
+participation by end users, governments, business, civil society and technical experts
+(whether as individuals or organizational representatives) is essential to make the
+policies, approve the procedures and write the standards, etc., that make the Internet the
+efficient and effective system it is today.
+The Internet Society is pleased to offer this guide to the Internet stakeholders, their policy
+processes and participation mechanisms related to naming and addressing, shared global
+services and operations and open standards development within the Internet Ecosystem.
+It is hoped that this paper helps encourage and facilitate participation in these important
+areas of Internet policy development.
+The Internet Ecosystem
+Figure 1. Internet Ecosystem (attached)
+Internet ecosystem is the term used to describe the organizations and communities that
+have organically evolved to guide the operation and development of the technologies and
+infrastructure that comprise the global Internet. These organizations share common
+values and a shared commitment to the open development of the Internet.
+The term Internet ecosystem implies a Darwinian evolution focusing on the rapid and
+continued development and adoption of Internet technologies and which is characterized
+by the involvement of a broad range of actors; open, transparent, and collaborative
+processes; and the use of products and infrastructure with dispersed ownership and
+control.
+Organizations that comprise the Internet Ecosystem include:
+Technical standards bodies such as the Internet Engineering Task Force
+(IETF), the World Wide Web Consortium (W3C), and the Institute of
+Electrical and Electronic Engineers (IEEE)
+Organizations that manage resources for global naming and addressing
+capabilities such as the Internet Corporation for Assigned Names and
+Numbers (ICANN), including its operation of the Internet Assigned
+Numbers Authority (IANA) function, Regional Internet Registries (RIR),
+and Doman Name Registries and Registrars
+Companies that provide network infrastructure services such as Domain
+Name Service (DNS) providers, network operators, cloud and content
+delivery network providers, and Internet Exchange Points (IXPs)
+Individuals and Organizations that use the Internet to communicate with
+each other and offer services and applications, or develop content, and
+Organizations that provide education and build capacity for developing
+and using Internet technologies, such as multilateral organizations,
+educational institutions, and governmental agencies.
+This paper looks at each component of the Internet ecosystem in turn.

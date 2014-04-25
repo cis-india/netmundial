@@ -1,0 +1,27 @@
+Document
+
+The Council of Europe's 10 Internet Governance Principles were prepared and adopted by its 47 member states in 2010-2011. These principles are based on Europe's core values of human rights, rule of law and democracy. They provide the social, economic and human context for the Organisation's standard-setting, monitoring and cooperation activities in the field of Internet governance. Above all, they are baseline for the 47 member states national, European and international public policy regarding the Internet. 
+
+ 
+
+Several of the CoE principles can be found in the principles of several other organisations and bodies (such as the APC, IGF Dynamic Coalition on Internet rights and principles, GNI, OECD and ISOC), including multi-stakeholder governance, global nature of the Internet, its open architecture and network neutrality. Certain of them have been developed further by the CoE, in particular member states commitment to "doing no harm" to the Internet's universality, integrity and openness of the Internet (see https://wcd.coe.int/ViewDoc.jsp?id=1835707) and on network neutrality (see  https://wcd.coe.int/ViewDoc.jsp?id=1678287).
+
+ 
+
+Everyone has the right to freedom of expression and access to information regardless of frontiers (Article 10 of the European Convention on Human Rights), and it is on this basis that the CoE is responding to many of the challenges about how the Internet is governed and by whom:
+
+ 
+
+- governance "of" the Internet i.e. its architecture and the cooperation between state and non-state actors to protect and preserve the (one) Internet as we know it.
+
+ 
+
+- governance "on" the Internet i.e. the legtimacy of state and non-state actors to shaping and deciding on public policy affecting the content and application layers of the Internet (e.g. CoE's human rights guidelines on social networks and on search engines).
+
+ 
+
+The CoE's work reconciles the roles, responsibilities, sovereignty and legitimacy of various Internet actors with regard to their commitment and action to protecting everyone's human rights. It addresses the positive and negative commitments of actors to protect the Internet while, at the same time, while erring on the side of freedom and liberty that is the Internet's very nature. Progress can also been seen in certain judgments of the European Court of Human Rights including on freedom of expression, mass online surveillance, and on the right to privacy (see: http://www.echr.coe.int/Documents/FS_New_technologies_ENG.pdf).
+
+ 
+
+A mapping of the CoE's work on Internet governance can be found in its 2012-2015 strategy (see https://wcd.coe.int/ViewDoc.jsp?id=1919461) but more consolidation and address of certain issues, such as transparency and accountability as well as more positive obligations to help people access and participate in society, is needed in order to address these issues and arguable deficits. There is convergence between what the CoE's core values and Brazil's Marco Civil da Internet and it would be timely and appropriate to share, to exchange and even lead on aspects of NETmundial where necessary.

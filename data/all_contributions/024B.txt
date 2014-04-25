@@ -1,0 +1,77 @@
+Document
+
+The undersigned civil society organisations and individuals are pleased to contribute the following submission to the discussion of Internet governance principles at the April 2014 Brazil NETmundial meeting.
+
+ 
+
+We are pleased to note the NETmundial organisers’ clear focus on human rights, particularly as this submission specifically addresses the imperative of adopting a human rights based approach to Internet governance, both in terms of 1) providing a framing for Internet governance policy discussions, deliberations and decision-making generally, and 2) providing principles-based underpinnings to the governance processes and participation mechanisms themselves.
+
+ 
+
+The fundamental importance of human rights to Internet governance is broadly understood and accepted but does necessitate further elaboration and greater commitment from all stakeholders – it is all too easy to state that policies and mechanisms are human rights respecting, but lip-service is not enough. Human rights must be core to Internet governance and we must be explicit in terms of what that actually means.
+
+ 
+
+This submission links to two sets of existing and recognized principles that directly address human rights and the Internet:
+
+ 
+
+    The Internet Rights and Principles Coalition Charter of human rights and principles for the Internet (IRP Charter)
+    And, the Association for Progressive Communications (APC) Internet Rights Charter
+
+ 
+
+The Internet is an enabler and catalyst of human rights. As is stated in APC’s Charter the “ability to share information and communicate freely using the internet is vital to the realisation of human rights as enshrined in the Universal Declaration of Human Rights (1948), the International Covenant on Economic, Social and Cultural Rights (1976), the International Covenant on Civil and Political Rights (1976) and the Convention of the Elimination of All Forms of Discrimination against Women (CEDAW, 1980).”
+
+ 
+
+The Internet can only be a catalyst of human rights if the principles that frame and underpin the governance of the Internet are based on human rights. The importance of human rights based Internet governance is clearly stated in the IRP Charter of Human Rights and Principles for the Internet: “The Internet and the communications system must be governed in such a way as to ensure that it upholds and expands human rights to the fullest extent possible.”
+
+ 
+
+Both the IRP Charter and the APC Charter look specifically at the Universal Declaration of Human Rights (UDHR) and elaborate on how its articles relate to the Internet and its use and governance. For example, both Charters look at Article 12 of the UDHR on the right to privacy and elaborate on what that means for the Internet, including the importance of national legal frameworks that are in line with human rights, the right to communicate anonymously and to use encryption technologies, and the right to communicate free from the threat of arbitrary surveillance and interception.
+
+ 
+
+We believe that any discussion of Internet principles or policies must be guided by, consistent with and respectful of human rights and the APC and IRP Charters provide a clear and unequivocal assertion of that imperative.
+
+ 
+
+The importance of human rights or a human rights framing to Internet governance is supported by a diversity of Internet (governance and policy) principles from a diversity of stakeholder groupings, including, among others, the following:
+
+ 
+
+    2011 Council of Europe Declaration by the Committee of Ministers on Internet governance principles: Principle 1 – Human rights, democracy and the rule of law
+    2009 CGI.br Principles for the governance and use of the Internet: Principle 1 – Freedom, privacy and human rights
+    2011 G8 Deauville Declaration – Renewed Commitment for Freedom and Democracy: Paras 5, II.5, II.9 and II.13
+
+ 
+
+Internet governance is also dependent upon the realisation and safeguarding of human rights: the freedoms of expression and association are essential to participatory and inclusive governance processes – without the realisation of these rights it is quite possible that such governance processes would not exist. While the Internet is a catalyst or enabler of rights, it is also dependent upon a rights-based governance model for it to thrive and for its users to be empowered.
+
+ 
+
+Internet governance comprises a range of process and participation mechanisms that aspire to be characterized by openness, transparency, inclusivity and accountability, among others. These characteristics correlate broadly to existing human rights, and in particular those enumerated in Articles 18, 19, 20 and 21 of the UDHR (and 18, 19, 22 and 25 of the ICCPR). These characteristics are central to rights-based governance – among others, they support individuals and communities voicing their opinions and concerns, encourage participation by all interested stakeholders on an equal footing, allow for transparent and open decision-making processes, and ensure stakeholders are accountable to their communities and for the decisions they take.
+
+ 
+
+These governance characteristics are further elaborated on in
+
+ 
+
+    APC’s Charter Theme 6 on the “Governance of the Internet,” which calls for the full involvement of all stakeholders in Internet governance, transparency and accessibility, a decentralized, collaborative and interoperable Internet, open architecture and open standards, among others; and,
+    IRPC’s Charter Principle 19 on the “Right to Appropriate Social and International Order for the Internet,” which calls for governance that upholds and expands human rights, multilingualism and pluralism on the Internet, and the right of everyone to participate in the governance of the Internet, among others.
+
+ 
+
+They are also highlighted in the CGI.br’s second principle entitled “Democratic and collaborative governance.” These same principles also characterize the multi-stakeholder model, as in the Council of Europe’s second principle entitled “multi-stakeholder governance” and para 20 of the G8 Deauville Declaration (documents mentioned above).
+
+ 
+
+We believe that these key governance characteristics – openness, transparency, inclusivity, accountability, and equitable multistakeholder participation among others – should form the basis of a set of process and participation principles for Internet governance that should be an output of the NETmundial meeting. They would then frame and provide a common understanding of the ways in which Internet governance discussions, deliberations and decision-making would occur. (A separate submission to the NETmundial meeting on the evolution of the Internet governance ecosystem addresses these characteristics in more detail.)
+
+ 
+
+We strongly believe that the NETmundial meeting should reaffirm the importance of human rights to both 1) Internet governance more broadly (and any associated principles or roadmap for the evolution of the Internet governance ecosystem) and 2) the processes and participation mechanisms that underpin Internet governance.
+
+We trust that this contribution and the linked sets of principles will form a central element in the discussions on Internet governance principles.

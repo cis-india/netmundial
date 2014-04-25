@@ -1,0 +1,309 @@
+Roadmap for globalizing IANA: Four principles and a
+proposal for reform
+Area: ROADMAP FOR THE FURTHER EVOLUTION OF THE INTERNET
+GOVERNANCE ECOSYSTEM
+Entitled by: Milton L Mueller
+Region: North America
+Organization: Noncommercial Stakeholders Group, ICANN
+Sector: Civil Society
+Keywords: IANA, reform, globalization, principles, DNS
+Doc Attached: Click here to see the doc 1
+Doc Attached: Click here to see the doc 2
+Doc Attached: Click here to see the doc 3
+Abstract
+This paper sets out a blueprint and supporting analysis for globalizing the IANA functions.
+It proposes four basic principles that should guide the reform of the IANA functions: 1.
+Keep the IANA function clerical - separate it from policy; 2. Don?t internationalize political
+oversight: end it; 3. Align incentives to ensure the accuracy and security of root zone
+maintenance; 4. De-link globalization of the IANA function from broader ICANN policy
+process reforms. The paper then sets forth a blueprint for change. In summary, it
+proposes to: 1) Structurally separate the IANA functions from ICANN?s policy process; 2)
+Integrate the DNS-related IANA functions with the Root Zone Maintainer functions
+performed by Verisign, and put them into a new, independent ?DNS Authority? (DNSA);
+3) Create a nonprofit controlled by a consortium of TLD registries and root server
+operators to run the DNSA; 4) Complete the transition by September 2015, when the
+IANA contract expires.
+Document
+Introduction
+Non-governmental administration of the domain name system (DNS) has been a policy
+goal of the Internet Corporation for Assigned Names and Numbers (ICANN) regime from
+its inception. The 1998 Department of Commerce National Telecommunications and
+Information Administration (NTIA) White Paper setting the policy framework for ICANN
+openly recognized that “an increasing percentage of Internet users reside outside of the
+U.S., and those stakeholders want to participate in Internet coordination.” The U.S.
+proposed to globalize the governance of Internet identifiers by delegating authority to a
+private sector non-profit, which would govern by means of private contracts. The contracts
+would reflect policies made by a multi-stakeholder process - not by national governments
+or intergovernmental treaties (NTIA, 1998).
+The U.S. failed to complete the transition. For 16 years, ICANN remained a US
+government contractor rather than an independent, multi-stakeholder governance
+institution. But it is incongruous to allow one national government to have exclusive
+authority over aspects of Internet governance that are critical to all states and all peoples.
+In October 2013, the Directors of all the major Internet organizations agreed. ICANN, the
+Internet Engineering Task Force, the Internet Architecture Board, the World Wide Web
+Consortium, the Internet Society, and all five of the regional Internet address registries
+issued a statement calling for “the globalization of ICANN and IANA functions, towards an
+environment in which all stakeholders, including all governments, participate on an equal
+footing.”
+Agreement on principles and methods for globalizing the IANA function could be a
+tangible achievement of the Brazil Meeting. A specific blueprint and timetable for this
+reform should be part of the roadmap produced by the Brazil meeting. This paper sets out
+a blueprint and supporting analysis. In essence, it proposes to:
+?Structurally separate the IANA functions from ICANN’s policy process
+?Integrate the DNS-related IANA functions with the Root Zone Maintainer functions
+performed by Verisign, and put them into a new, independent “DNS Authority” (DNSA)
+?Create a nonprofit controlled by a consortium of TLD registries and root server operators
+to run the DNSA.
+?Complete the transition by September 2015, when the IANA contract expires
+Structure of the present system
+Root zone management involves four roles that are performed by three different entities
+through two separate legal agreements. These roles are diagrammed in Figure 1 and
+described below.
+1.The first role is global policy maker for the DNS. This role is occupied by ICANN and its
+so-called bottom-up policy development process. Formally recognized by the U.S. in 1999
+as the “NewCo” called for in the 1998 White Paper, ICANN makes policies that affect the
+registries’ and registrars’ contracts in the generic top-level domains, and determine what
+new top level domains go into the root zone file.
+2.The second role is that of the Internet Assigned Numbers Authority (IANA) Functions
+Operator. IANA is responsible for managing the content of the root zone based on the
+policies adopted by ICANN. It transmits requested changes in TLD data to the Root Zone
+Maintainer (Verisign) and the Administrator (NTIA). The IANA function is defined by a U.S.
+Commerce Department contract which has been awarded to ICANN.
+Figure 1: Internet Root Zone governance structure
+3.The third role is the political oversight function, referred to as the “Administrator” in the
+IANA functions contract. The Administrator approves any changes, additions or deletions
+from the root zone file, ostensibly to ensure that are authorized by policy. This role is
+currently held by the NTIA.
+4.The fourth role is the Root Zone Maintainer. This is performed by Verisign under a
+Cooperative Agreement with NTIA. Verisign is a commercial corporation that operates
+.com, .net and several other top level domains. Amendment 11 of its agreement requires
+Verisign to implement only those changes in the root zone file that NTIA approves. While
+IANA is supposed to determine the content of the root zone file, VeriSign (or any
+successor entity designated by the Commerce Department) actually edits the root zone
+data, cryptographically signs it (DNSSEC) and distributes the resulting content to the root
+server operators.
+Why the U.S. role is a problem
+The IANA functions contract does far more than empower the US Commerce Department
+to authorize changes to the root zone. It regulates very detailed aspects of ICANN’s
+behavior and requires ICANN to be incorporated in, maintain a physical address in, and
+perform the IANA functions in the U.S. This makes IANA subject to U.S. law and provides
+America with greater political influence over ICANN. Because the contract must be
+renewed every three years, the U.S. can modify the contract to shape ICANN’s behavior,
+or threaten to award it to someone else. This tie to one government undermines the global
+and multi-stakeholder nature of Internet governance.
+While it is common to assert that the U.S. has never abused its authority and has always
+taken the role of a neutral steward, this is not quite true. During the controversy over the
+.xxx domain, the Bush administration caved in to domestic political pressure and
+threatened to block entry of the domain into the root if ICANN approved it (Declaration of
+the Independent Review Panel, 2010). It took five years, an independent review challenge
+and the threat of litigation from a businessman willing to spend millions to get the .xxx
+domain into the root. Even if this had never happened, the U.S. role has a major, ongoing
+impact on the autonomy and integrity of the ICANN policy development process
+(McGillivray, 2014). The need to regularly renew the contract, the fact that the Assistant
+Secretary of Commerce that runs NTIA is a political appointee and that NTIA is funded by
+the U.S. Congress, which can threaten to cut its budget or pass legislation affecting it, all
+make the claim of neutral stewardship disingenuous. Furthermore, bilateral agreements
+between ICANN and NTIA, such as the Affirmation of Commitments, clearly reflect the
+policy priorities of the U.S. government on controversial issues such as Whois/privacy or
+encryption standards, to cite two examples. While some may prefer U.S. oversight to
+oversight by any other government or group of governments, those are not the only
+choices we have.
+Four principles to guide IANA contract reform
+In this section, we make the case for four basic principles that should guide the reform of
+the IANA functions:
+1.Keep the IANA function clerical; separate it from policy
+2.Don’t internationalize political oversight: end it
+3.Align incentives to ensure the accuracy and security of root zone maintenance
+4.De-link globalization of the IANA function from broader ICANN policy process reforms
+Each of these principles is explained below.
+Principle #1: Completely separate root zone file modification from policy-making.
+Many observers of the IANA controversy believe that root zone management is an
+appropriate site for public oversight and policy intervention. This is a mistake. The IANA
+function is a technical-clerical task. Its purpose is to ensure that all top level domain
+names are globally unique; that all technical data in the root zone file correctly maps each
+domain to the right nameserver IP addresses; and that requests for changes, additions or
+deletions in the root are accurately and securely executed. These implementation
+decisions are completely different from policy development. Policy determines which top
+level domain names are acceptable, how many there should be, how they are run, etc.
+Policy development should take place within ICANN’s open process, where all
+stakeholders can be represented in a balanced manner and there is a well-defined
+process for reaching collective consensus. Final implementation of root zone changes
+authorized by policy should not be a way for governments (or anyone else) to alter,
+override or block policy decisions made by the multi-stakeholder process. Nor should
+control of the root zone be used as leverage for non-DNS related foreign policy or
+economic objectives. This implies that the IANA functions should be organizationally
+separated from ICANN.
+Principle #2: Don’t internationalize political oversight: end it
+Some observers believe that the U.S. should simply share its unique role as root zone
+Administrator with other states. They envision a multilateral IANA contract, or a new role
+for ICANN’s Governmental Advisory Committee (GAC) as the Administrator, which would
+see the U.S. share oversight authority over IANA equally with all sovereigns. This
+approach, however, is inconsistent with Principle #1. Giving additional governments
+authority over root zone changes reinforces the link between the IANA function and policy
+making. Multilateral oversight could not avoid making intergovernmental politics a key
+factor influencing the IANA functions. Governments that opposed the policies emerging
+from ICANN might strive for an after-the-fact veto during the approval process. The
+multilateral option would also make all the world’s governments decision-makers
+regarding which organization would be awarded the IANA functions contract. This would
+encourage geopolitical struggles over the control of ICANN, and it is hard to see how that
+would make a positive contribution to global Internet governance.
+Principle #3: Align incentives to ensure the accuracy and security of root zone
+maintenance.
+There should be strong safeguards for maintaining the accuracy and security of root zone
+changes. But a centralized, manual review of updates by a government agency - or
+dozens of them - is a primitive way to accomplish that goal. A better method would be to
+put IANA functions in the hands of actors with a strong self-interest in ensuring timely
+service, security and accuracy. The root zone consists of data about TLD registries and
+root servers. A registry’s customers and reputation suffers if updates are slow or the data
+is inaccurate. Thus, registries have strong incentives to ensure that the data about them
+are accurate and that changes are securely implemented. Our proposal, therefore, would
+take the DNS-related IANA functions out of ICANN, integrate them with the Root Zone
+Maintainer functions currently performed by Verisign, and put them into a new,
+independent organization we call the “DNS Authority” (DNSA). The DNSA would be a
+private nonprofit controlled by a consortium of TLD registries and root server operators,
+similar to SWIFT in banking and finance. In this way, root zone management would be
+globalized by delegating its operational aspects to all TLD registries, including ccTLDs.
+Principle #4: De-link IANA globalization from broader ICANN reforms
+The most troublesome issue concerning IANA globalization is its relationship to
+accountability. Many people consider the tether to the U.S. government an important form
+of accountability for ICANN. And it is true, as IGP and others have pointed out, that
+ICANN’s accountability mechanisms are deficient and badly in need of comprehensive
+reform (Mueller, 2009; Weber and Gunnarson, 2010; IGP 2013). Thus, many people
+conclude that US control of the IANA contract cannot be ended before ICANN's
+accountability problems are solved. While these concerns are legitimate, they do not
+provide a good reason to maintain exclusive U.S. control of the IANA contract.
+First, the IANA contract does not actually make ICANN accountable to its global
+community; it only makes it accountable to Washington. That inherently conflates the
+global public interest with U.S. national interest. If ending US oversight is contingent upon
+ICANN reforms, then by definition the USG will be able to decide unilaterally whether the
+reforms provide an acceptable basis for letting go. That would give the US government
+privileged influence over the nature of ICANN well into the future.
+Second, globalizing IANA as proposed here actually improves the accountability situation.
+The DNSA structure would introduce an important new safeguard into the way the domain
+name system is governed. Moving the DNS-related IANA functions out of ICANN and into
+the hands of a neutral consortium of registries dramatically limits ICANN’s ability to “go
+rogue.”
+Moreover, accountability in the execution of the IANA functions, and accountability in
+ICANN’s policy making process, are two separate and distinct problems. It is easier to
+solve them separately than to solve them together. Globalizing ICANN will be a
+complicated undertaking that could involve reincorporation of ICANN in a new jurisdiction,
+or the negotiation of a new international treaty instrument (See Corell, 2006; Lenard and
+White, 2009; Weber and Gunnarson, 2012; Kurbalija, 2013; Cerf 2014). There are diverse
+views regarding what shape the reforms should take. If we link globalizing the IANA
+function - a relatively simple, widely agreed step - to a complex, lengthy and contentious
+set of organizational and legal changes related to policy making, it could easily prevent
+any change at all. We therefore favor putting those processes on separate reform tracks.
+The proposal
+The current IANA contract expires September 30, 2015. This date should be taken as the
+deadline for globalizing the IANA functions. The Department of Commerce has the
+authority to relinquish its control by simply walking away from the IANA functions contract
+when it expires in September 2015 and announcing as a matter of policy that the
+transition referenced in the 1998 White Paper to NewCo is finished.
+We propose to combine the IANA Functions and the Root Zone Maintainer roles in a new
+nonprofit corporation, the DNS Authority (DNSA). The DNSA would be exclusively
+concerned with the IANA functions related to the DNS root zone and associated
+databases. The IANA functions related to protocol parameters would be moved to the
+IETF, and the IP address-related functions would be retained by ICANN until such time as
+new global policies regarding their disposition could be developed.
+Figure 2: Proposed Internet Root Zone governance structure
+The DNSA would be run by a nonprofit consortium of all the firms operating root servers
+and domain name registries (i.e., all companies with top level domains in the root and root
+servers), just as some of the early ccTLDs were jointly owned by that country’s registrars.
+The owners would include generic TLD registries such as Afilias and Verisign, as well as
+country code TLD registries such as DENIC (Germany) and CNNIC (China). This would
+make governance of the DNS-related IANA functions highly diverse and globalized. A one
+registry, one vote structure might best ensure the neutrality of DNSA governance, but
+other structures (e.g., basing voting shares and financial support on the size of the
+registry) are worth considering as well. ICANN currently spends about US$ 7 million
+annually on the IANA functions; Verisign’s expenditures on the Root Zone Maintainer
+functions are not known but are likely to also be in the low millions. We propose an initial
+grant from ICANN of about $12 million to support the initial formation and early operation
+of the DNSA; after that the consortium would have to work out a fee structure for its
+members to support operations.
+The DNSA would require a binding contract with ICANN regarding the conditions under
+which it would agree to implement changes in the root zone or other associated
+databases to reflect policies emerging from ICANN’s policy development processes. The
+contract should ensure that the DNSA has no policy authority but merely implements valid
+requests for additions or deletions emerging from ICANN’s policy process. DNSA would
+promise to abide by ICANN policy directives on the condition that ICANN’s policy
+decisions related to the root not be used to impose requirements on registries, via registry
+agreements, to regulate content or otherwise locally lawful behavior of registrants. The
+existence of this contract would provide the opportunity for developing an additional
+accountability check on ICANN. For example, if the contract was not in perpetuity but was
+renewable every five years, diverse entities might compete to replace the existing ICANN
+as the policy development authority. As for the DNSA, as a private association of
+incumbent registries, any attempt by it to manipulate root zone management to thwart
+competition or discriminate against eligible members would be easily challenged by
+competition law authorities in Europe, the U.S., or elsewhere.
+The initial step for executing this proposal should be a Memorandum of Understanding
+(MoU) between multiple principals (governments, businesses, civil society organizations)
+and the agents (ICANN, and eventually, DNSA). Widely used by governments and nongovernments
+to coordinate action in a variety of areas (Aust 1986, 2014), a MoU would be
+a non legally binding, amendable political commitment consistent with the principles and
+organizational approach outlined above. An MoU or portions thereof could eventually be
+the basis for development of a treaty if desired by governments. In sum, the MoU should:
+1. Outline root zone management procedures whereby:
+a. the IANA Functions and Root Zone Maintainer roles as currently defined are situated
+within the DNSA;
+b. New TLD entries in the root zone, re-delegating control of an entry, or
+decommissioning an entry are validated as authorized by the ICANN board, then
+implemented, signed and distributed to the root servers in ways that can be audited;
+c. TLD registry and root server operators are able to audit changes to their own TLD
+entries in the root zone prior to distribution to the root server operators.
+d. Appropriate sections of extant registry agreements containing the specific rights and
+obligations of ICANN and TLD operators are applied to DNSA’s root zone management
+procedures.
+2. Task a Working Group jointly led by ICANN’s Registry Stakeholders Group and its
+Country Code Names Supporting Organization (ccNSO) to develop consensus on DNSA
+governance (articles of incorporation, bylaws, and operational rules). The WG should be
+open to stake- holders from business, civil society, individuals from governments and the
+technical community.
+3. Contain an express provision stating that upon a) signing of the MoU by, at a minimum,
+the United States government, ICANN, 10 gTLD registries, 10 accredited registrars, 10
+ccTLD operators, 10 member organizations of the GNSO Noncommercial Stakeholders
+Group, 10 member organizations of the Commercial Stakeholders Group, and 10 national
+governments and b) operational establishment of the DNSA, the IANA Functions Contract
+and Cooperative Agreement are terminated by the United States government.
+Conclusion
+The proposal above would succeed in globalizing the IANA functions, strengthening
+operational efficiency and improving the accountability of both root zone management and
+ICANN itself.
+References
+Aust, A. (2014). Modern Treaty Law and Practice. Cambridge University Press.
+Aust, A. (1986). The Theory and Practice of Informal International Instruments.
+International & Comparative Law Quarterly, 35(04), 787–812.
+Corell, Hans. (2006). Educational Material to Assist ICANN in deciding what status the
+Corporation Should Aim for as a Private International Entity in its Host Country.
+http://archive.icann.org/en/psc/corell-24aug06.html
+Declaration of the Independent Review Panel (2010). International Centre for Dispute
+Resolution, ICDR Case No. 50 117 T 00224 08. In the Matter of an Independent Review
+Process: ICM Registry, LLC, Claimant, v. Internet Corporation for Assigned Names and
+Numbers (“ICANN”), Respondent. Judge Stephen M. Schwebel, Presiding, Mr. Jan
+Paulsson, Judge Dickran Tevrizian (February 19, 2010).
+http://www.icann.org/en/news/irp/icm-v-icann/news/irp/-panel-declaration-19feb10-en.pdf
+Internet Governance Project. (2013). ICANN's Accountability Meltdown: A 4-part series
+(August - September) http://www.internetgovernance.org/2013/08/31/icannsaccountability-
+meltdown-a-four-part-series/
+http://www.internetgovernance.org/2013/09/05/meltdown-ii-the-unilateral-right-to-amend/
+http://www.internetgovernance.org/2013/09/14/meltdown-iii-how-top-down-implementationreplaced-
+bottom-up-policymaking/
+http://www.internetgovernance.org/2013/09/18/meltdown-iv-how-icann-resistsaccountability/
+Kurbalija, Jovan. (2013). International Inviolability of the Root Zone? Diplo Blog
+(December 9) http://www.diplomacy.edu/blog/international-inviolability-root-zone
+Lenard, Thomas and White, Lawrence. (2009). ICANN at a Crossroads: A Proposal for
+Better Governance and Performance. Washington, DC: Technology Policy Institute
+(March). http://www.techpolicyinstitute.org/files/icann%20at%20a%20crossroads1.pdf
+McGillivray, Kevin. (2014). Give it away now? Renewal of the IANA functions contract and
+its role in Internet governance. International Journal of Law and Information Technology,
+(2014), pp. 1–24.
+Mueller, M. (2009). ICANN, Inc.: Accountability and Participation in the Governance of
+Critical Internet Resources. Korean Journal of Policy Studies 24: 2, pp. 91-116.
+U.S. NTIA. (1998). Management of Internet Names and Addresses, Statement of Policy.
+Docket Number: 980212036-8146-02 (June 5, 1998).
+http://www.icann.org/en/about/agreements/white-paper
+U.S. General Accounting Office, Office of the General Counsel. (2000). Department of
+Commerce Relationship with the Internet Corporation for Assigned Names and Numbers.
+Report OGC-00-33R (July). http://www.gao.gov/new.items/og00033r.pdf
+Weber, Rolf H. and Gunnarson, R. Shawn. (2012). A Constitutional Solution for Internet
+Governance. Columbia Science and Technology Law Review. Available at SSRN:
+http://ssrn.com/abstract=2076780
